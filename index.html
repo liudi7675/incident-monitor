@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>重大突发事件监测简报</title>
+<style>
+:root {
+  --red: #C62828; --red-dark: #B71C1C; --orange: #E65100; --amber: #F9A825;
+  --blue: #1565C0; --purple: #6A1B9A; --bg: #F5F6F8; --panel: #FFFFFF;
+  --ink: #1F2430; --ink-2: #4A5162; --ink-3: #8A92A6; --line: #E3E6EC;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", "Segoe UI", system-ui, sans-serif;
+  background: var(--bg); color: var(--ink); font-size: 14px; line-height: 1.6;
+  display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+}
+/* ---------- 头部 ---------- */
+header {
+  background: linear-gradient(135deg, #8E1616, #C62828); color: #fff;
+  padding: 14px 22px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
+  box-shadow: 0 2px 8px rgba(0,0,0,.15); z-index: 5;
+}
+header .brand { display: flex; align-items: center; gap: 10px; }
+header .logo {
+  width: 34px; height: 34px; border-radius: 8px; background: rgba(255,255,255,.18);
+  display: flex; align-items: center; justify-content: center; font-size: 18px;
+}
+header h1 { font-size: 18px; font-weight: 700; letter-spacing: 1px; }
+header .sub { font-size: 12px; opacity: .85; margin-top: 1px; }
+header .spacer { flex: 1; }
+header .update-info { font-size: 12px; opacity: .9; text-align: right; line-height: 1.4; }
+header .stats-chips { display: flex; gap: 8px; }
+header .chip {
+  background: rgba(255,255,255,.14); border-radius: 6px; padding: 4px 10px;
+  font-size: 12px; text-align: center; line-height: 1.3;
+}
+header .chip b { display: block; font-size: 17px; font-weight: 700; }
+#refreshBtn {
+  background: rgba(255,255,255,.16); color: #fff; border: 1px solid rgba(255,255,255,.45);
+  border-radius: 6px; padding: 7px 14px; cursor: pointer; font-size: 13px; display: flex; align-items: center; gap: 6px;
+  transition: background .2s;
+}
+#refreshBtn:hover { background: rgba(255,255,255,.28); }
+#refreshBtn.busy { opacity: .6; pointer-events: none; }
+.auto-badge {
+  background: rgba(255,255,255,.12); border: 1px dashed rgba(255,255,255,.5);
+  border-radius: 6px; padding: 4px 10px; font-size: 12px; white-space: nowrap;
+}
+/* 新快讯弹窗 */
+.alert-mask {
+  position: fixed; inset: 0; background: rgba(15,18,24,.5); z-index: 100;
+  display: none; align-items: center; justify-content: center; padding: 20px;
+}
+.alert-mask.show { display: flex; }
+.alert-box {
+  background: #fff; border-radius: 12px; max-width: 460px; width: 100%;
+  box-shadow: 0 12px 40px rgba(0,0,0,.25); overflow: hidden; animation: pop .25s ease;
+}
+@keyframes pop { from { transform: scale(.92); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.alert-head {
+  background: linear-gradient(135deg, #B71C1C, #E53935); color: #fff;
+  padding: 12px 16px; font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 8px;
+}
+.alert-list { padding: 8px 14px; max-height: 300px; overflow-y: auto; }
+.alert-item {
+  display: flex; gap: 10px; padding: 9px 4px; border-bottom: 1px dashed var(--line);
+  font-size: 13px; color: var(--ink);
+}
+.alert-item:last-child { border-bottom: none; }
+.alert-item .alert-tag {
+  flex-shrink: 0; background: #FFEBEE; color: var(--red-dark); font-size: 11px;
+  border-radius: 4px; padding: 1px 7px; height: fit-content;
+}
+.alert-item .alert-meta { font-size: 11.5px; color: var(--ink-3); margin-top: 2px; }
+.alert-close {
+  display: block; width: calc(100% - 28px); margin: 0 14px 14px; padding: 9px;
+  background: var(--red); color: #fff; border: none; border-radius: 7px; font-size: 14px;
+  cursor: pointer; transition: background .15s;
+}
+.alert-close:hover { background: var(--red-dark); }
+/* ---------- 主体 ---------- */
+main { flex: 1; display: flex; min-height: 0; }
+/* 左栏：简报 */
+#feedPane {
+  width: 460px; min-width: 380px; background: var(--panel); border-right: 1px solid var(--line);
+  display: flex; flex-direction: column; min-height: 0;
+}
+#briefCard {
+  margin: 14px 14px 0; border: 1px solid var(--line); border-left: 4px solid var(--red);
+  border-radius: 8px; padding: 14px 16px; background: #FFF8F7;
+}
+#briefCard h2 { font-size: 15px; color: var(--red-dark); margin-bottom: 6px; display: flex; align-items: center; gap: 8px; }
+#briefCard h2 .tag { font-size: 11px; background: var(--red); color: #fff; border-radius: 4px; padding: 1px 7px; font-weight: 400; }
+#briefMeta { font-size: 12px; color: var(--ink-3); margin-bottom: 8px; }
+#briefBody { font-size: 13px; color: var(--ink-2); text-align: justify; }
+#briefBody b { color: var(--red-dark); }
+#briefBody ul { margin: 6px 0 0 18px; }
+#briefBody li { margin: 3px 0; }
+/* 筛选 */
+#filters { display: flex; gap: 6px; padding: 12px 14px 8px; flex-wrap: wrap; }
+#filters button {
+  border: 1px solid var(--line); background: #fff; color: var(--ink-2);
+  border-radius: 14px; padding: 4px 14px; font-size: 12.5px; cursor: pointer; transition: all .15s;
+}
+#filters button:hover { border-color: var(--red); color: var(--red); }
+#filters button.active { background: var(--red); border-color: var(--red); color: #fff; }
+#feedMeta { padding: 0 16px 6px; font-size: 12px; color: var(--ink-3); }
+/* 列表 */
+#feedList { flex: 1; overflow-y: auto; padding: 4px 14px 20px; min-height: 0; }
+.card {
+  border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; margin-bottom: 10px;
+  background: #fff; cursor: pointer; transition: box-shadow .15s, transform .15s; position: relative;
+}
+.card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.09); }
+.card.highlight { border-color: var(--red); box-shadow: 0 0 0 2px rgba(198,40,40,.18); }
+.card .row1 { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 5px; }
+.badge { font-size: 11px; border-radius: 4px; padding: 1px 7px; color: #fff; white-space: nowrap; }
+.b-level-1 { background: #B71C1C; } .b-level-2 { background: #E65100; }
+.b-level-3 { background: #D4A017; } .b-level-4 { background: #757575; }
+.b-type { background: #EDF1F7; color: var(--ink-2); }
+.b-scope-dom { background: #DCEBDD; color: #1B5E20; }
+.b-scope-intl { background: #E3EAF6; color: #0D47A1; }
+.card .date { font-size: 11.5px; color: var(--ink-3); margin-left: auto; }
+.card h3 { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+.card .place { font-size: 12px; color: var(--ink-3); margin-bottom: 6px; }
+.card .cas { display: flex; gap: 14px; font-size: 12.5px; margin-bottom: 6px; flex-wrap: wrap; }
+.card .cas span b { font-weight: 700; }
+.cas .d b { color: var(--red-dark); } .cas .i b { color: var(--orange); } .cas .m b { color: var(--purple); }
+.card .sum {
+  font-size: 12.5px; color: var(--ink-2); text-align: justify;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+}
+.card .instr {
+  margin-top: 8px; border-left: 3px solid var(--red); background: #FFF4F3;
+  padding: 7px 10px; font-size: 12.5px; color: #7B1D16; border-radius: 0 5px 5px 0;
+}
+.card .instr b { color: var(--red-dark); }
+.card .src { margin-top: 7px; font-size: 12px; }
+.card .src a { color: var(--blue); text-decoration: none; }
+.card .src a:hover { text-decoration: underline; }
+.card .src .loc-mark { color: var(--red); font-size: 12px; margin-right: 8px; }
+/* 快讯条目 */
+.card.flash h3 { font-size: 13px; }
+.card.flash .live-tag { background: #B71C1C; color: #fff; font-size: 10px; border-radius: 3px; padding: 1px 5px; margin-left: 6px; vertical-align: 2px; }
+/* ---------- 右侧：地图 ---------- */
+#mapPane { flex: 1; position: relative; min-width: 0; }
+#map { position: absolute; inset: 0; }
+#mapFallback {
+  position: absolute; inset: 0; display: none; align-items: center; justify-content: center;
+  background: var(--bg); color: var(--ink-3); font-size: 13px; text-align: center; padding: 40px;
+}
+#legend {
+  position: absolute; left: 14px; bottom: 18px; background: rgba(255,255,255,.94);
+  border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; z-index: 10;
+  font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.1);
+}
+#legend .t { font-weight: 700; margin-bottom: 6px; color: var(--ink); }
+#legend .item { display: flex; align-items: center; gap: 7px; margin: 3px 0; color: var(--ink-2); }
+#legend .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+#mapTip {
+  position: absolute; top: 14px; left: 14px; background: rgba(255,255,255,.94);
+  border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; z-index: 10;
+  font-size: 12px; color: var(--ink-2); box-shadow: 0 2px 8px rgba(0,0,0,.1);
+}
+/* 弹窗样式（注入地图 InfoWindow） */
+.iw { max-width: 280px; font-family: inherit; }
+.iw .iw-t { font-size: 13.5px; font-weight: 700; color: #1F2430; margin-bottom: 4px; }
+.iw .iw-c { font-size: 12px; color: #B71C1C; font-weight: 600; }
+.iw .iw-p { font-size: 11.5px; color: #4A5162; margin-top: 4px; }
+.iw .iw-i { font-size: 11.5px; color: #7B1D16; margin-top: 5px; border-top: 1px dashed #E3C2BE; padding-top: 4px; }
+/* toast */
+#toast {
+  position: fixed; top: 70px; left: 50%; transform: translateX(-50%) translateY(-8px);
+  background: rgba(31,36,48,.92); color: #fff; font-size: 13px; padding: 9px 18px;
+  border-radius: 6px; opacity: 0; pointer-events: none; transition: all .3s; z-index: 99;
+}
+#toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+/* 滚动条 */
+#feedList::-webkit-scrollbar { width: 6px; }
+#feedList::-webkit-scrollbar-thumb { background: #CDD3DE; border-radius: 3px; }
+@media (max-width: 980px) {
+  main { flex-direction: column; overflow-y: auto; }
+  #feedPane { width: 100%; min-width: 0; border-right: none; border-bottom: 1px solid var(--line); }
+  #feedList { overflow: visible; }
+  #mapPane { min-height: 70vh; }
+  body { overflow: auto; }
+}
+</style>
+<script type="text/javascript">
+window._TMapSecurityConfig = {
+  serviceHost: 'http://127.0.0.1:__WB_HTTP_PORT__/_TMapService/_wbt/__WB_TMAP_SECRET__',
+};
+</script>
+<script src="https://map.qq.com/api/gljs?v=1.exp"></script>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="logo">⚠</div>
+    <div>
+      <h1>重大突发事件监测简报</h1>
+      <div class="sub">火灾 · 爆炸 · 人员伤亡 · 中央领导批示动态</div>
+    </div>
+  </div>
+  <div class="spacer"></div>
+  <div class="stats-chips">
+    <div class="chip"><b id="stCount">-</b>突发事件</div>
+    <div class="chip"><b id="stDeaths">-</b>遇难(累计)</div>
+    <div class="chip"><b id="stInstruct">-</b>领导批示</div>
+    <div class="chip"><b id="stProv">-</b>涉及省份</div>
+  </div>
+  <button id="refreshBtn" title="立即抓取最新新闻快讯（需联网）">⟳ 刷新快讯</button>
+  <div class="auto-badge" id="autoStatus">每10分钟自动刷新 · 首次刷新后显示倒计时</div>
+  <div class="update-info" id="updateInfo">数据快照：2026-08-29</div>
+</header>
+
+<main>
+  <!-- 左栏：简报与列表 -->
+  <section id="feedPane">
+    <div id="briefCard">
+      <h2><span class="tag">第35期</span>重大突发事件综合简报</h2>
+      <div id="briefMeta"></div>
+      <div id="briefBody"></div>
+    </div>
+    <div id="filters">
+      <button data-f="all" class="active">全部</button>
+      <button data-f="dom">国内</button>
+      <button data-f="intl">国外</button>
+      <button data-f="instr">⚠ 中央领导批示</button>
+      <button data-f="fire">火灾</button>
+      <button data-f="blast">爆炸/燃爆</button>
+      <button data-f="geo">地质灾害</button>
+    </div>
+    <div id="feedMeta"></div>
+    <div id="feedList"></div>
+  </section>
+
+  <!-- 右侧：全国地图 -->
+  <section id="mapPane">
+    <div id="map"></div>
+    <div id="mapTip">点击左侧事故卡片或地图标记，可联动定位事发地点</div>
+    <div id="legend">
+      <div class="t">事故类型图例</div>
+      <div class="item"><span class="dot" style="background:#E53935"></span>火灾</div>
+      <div class="item"><span class="dot" style="background:#FB8C00"></span>爆炸 / 燃爆</div>
+      <div class="item"><span class="dot" style="background:#00695C"></span>地质灾害（泥石流/滑坡）</div>
+      <div class="item"><span class="dot" style="background:#8D6E63"></span>坍塌 / 崩塌</div>
+      <div class="item"><span class="dot" style="background:#6A1B9A"></span>其他突发</div>
+    </div>
+    <div id="mapFallback">地图加载失败：当前环境无法访问腾讯地图服务。<br>新闻简报功能不受影响。</div>
+  </section>
+</main>
+
+<div id="toast"></div>
+
+<!-- 新快讯弹窗 -->
+<div id="newAlert" class="alert-mask">
+  <div class="alert-box">
+    <div class="alert-head">🚨 检测到新突发事件快讯</div>
+    <div id="alertList" class="alert-list"></div>
+    <button id="alertClose" class="alert-close">我知道了</button>
+  </div>
+</div>
+
+<script>
+/* =====================================================================
+   数据层 —— 手工维护的重大突发事件库（含坐标，GCJ-02）
+   新增事件：向 INCIDENTS 数组追加一条即可，简报/统计/地图自动更新。
+   重要维护提醒（吸取"西藏吉隆泥石流遗漏"教训）：
+   ① 类型须覆盖：火灾 / 爆炸 / 地质灾害（泥石流、滑坡、洪水、地震）/ 坍塌 等；
+   ② 每日搜集时关键词不能只写"火灾爆炸"，必须同时检索
+      "泥石流 | 滑坡 | 洪水 | 地震 | 山体崩塌 | 溃坝 | 人员伤亡 | 失联"；
+   ③ 同时检索"习近平 | 李强 | 中央领导 | 批示 | 指示"确认是否有最高层批示；
+   ④ 中央政治局会议、国务院调查组、挂牌督办事项优先级最高，务必收录。
+   ===================================================================== */
+const TYPE_COLOR = { fire: '#E53935', blast: '#FB8C00', geo: '#00695C', collapse: '#8D6E63', other: '#6A1B9A' };
+const TYPE_NAME  = { fire: '火灾', blast: '爆炸/燃爆', geo: '地质灾害', collapse: '坍塌/崩塌', other: '其他' };
+
+const INCIDENTS = [
+  {
+    id: 'JL-0826', date: '2026-08-26', time: '10:30', scope: 'dom',
+    type: 'geo', level: 1, levelName: '特别重大（中央政治局专题研究）',
+    title: '西藏日喀则吉隆县吉隆口岸泥石流灾害',
+    place: '西藏自治区日喀则市吉隆县吉隆口岸（因尼泊尔一侧泥石流引发）', prov: '西藏', city: '日喀则',
+    deaths: 7, injured: null, missing: 554,
+    summary: '8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日1时，已致7人遇难、554人失联（含外籍人员260人），救出群众2人。已到位各级救援力量2141人，堰塞湖实时监测中，G216国道正加紧抢通，500余名受威胁群众转移至安置点。',
+    instr: '习近平作出重要指示：当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡；要加强监测预警，注重科学施救，防止发生次生灾害。李强批示：抓紧核清失联受灾人数，组织力量全力抢险救援，及时有序转移受险群众，严防次生灾害，外交部加强与有关国家沟通协调。8月28日中共中央政治局召开会议专题研究部署抢险救援工作，习近平主持会议，全体起立向遇难人员默哀；张国清率队赶赴现场。',
+    source: '中国政府网 / 新华社 / 新华网',
+    url: 'https://www.gov.cn/yaowen/liebiao/202608/content_7079160.htm',
+    lat: 28.852, lng: 85.299,
+  },
+  {
+    id: 'QHD-0820', date: '2026-08-20', time: '03:40', scope: 'dom',
+    type: 'fire', level: 3, levelName: '较大',
+    title: '河北秦皇岛海港区一底商发生火灾',
+    place: '河北省秦皇岛市海港区', prov: '河北', city: '秦皇岛',
+    deaths: 8, injured: 3, missing: 0,
+    summary: '8月20日3时40分许，秦皇岛市海港区一底商发生火灾，消防、应急、卫健、公安等部门第一时间赶赴现场开展应急救援，4时30分明火被扑灭。事故造成8人死亡、3人送医救治，伤者生命体征平稳，事故原因调查及善后工作正在进行。',
+    instr: '', source: '新华社 / 海港区人民政府通报',
+    url: 'https://www.toutiao.com/article/7675922226939429391/',
+    lat: 39.935, lng: 119.600,
+  },
+  {
+    id: 'LY-0821', date: '2026-08-21', time: '15:38', scope: 'dom',
+    type: 'blast', level: 4, levelName: '一般（2人失联）',
+    title: '山东临沂一平房院落发生爆炸',
+    place: '山东省临沂市沂河新区王桥社区', prov: '山东', city: '临沂',
+    deaths: 1, injured: null, missing: 2,
+    summary: '8月21日15时38分，临沂沂河新区王桥社区一处独立平房院落发生爆炸，公安、消防、应急、住建等部门成立联合工作组赶赴现场。目前已致1人死亡、2人失联，受伤人员送医救治无生命危险。经初步排查，疑似租户非法储存捕鱼爆炸物引发爆炸。',
+    instr: '', source: '临沂市联合工作组 / 一周应急要闻',
+    url: 'https://so.html5.qq.com/page/real/search_news?docid=70000021_3426a8d3e3c91852',
+    lat: 35.104, lng: 118.357,
+  },
+  {
+    id: 'SJZ-0819', date: '2026-08-19', scope: 'dom',
+    type: 'blast', level: 3, levelName: '较大',
+    title: '河北石家庄一居民楼疑似燃气泄漏引发燃爆坍塌',
+    place: '河北省石家庄市新华区', prov: '河北', city: '石家庄',
+    deaths: 3, injured: 1, missing: 0,
+    summary: '8月19日，石家庄市新华区一栋居民楼疑似燃气泄漏引发燃爆，导致部分坍塌，造成3人死亡、1人受伤。事故原因正在进一步调查中。',
+    instr: '', source: '天津应急《一周事故及安全警示》（2026年第31期）',
+    url: 'https://www.toutiao.com/article/7677490985311404550/',
+    lat: 38.049, lng: 114.463,
+  },
+  {
+    id: 'CN-0818', date: '2026-08-18', scope: 'dom',
+    type: 'collapse', level: 3, levelName: '较大',
+    title: '四川长宁升学宴女儿墙倒塌',
+    place: '四川省宜宾市长宁县', prov: '四川', city: '宜宾',
+    deaths: 5, injured: 17, missing: 0,
+    summary: '8月18日，四川省长宁县一村民在自家院坝举办子女升学宴时，房顶女儿墙发生倒塌，造成5人死亡、17人受伤。',
+    instr: '', source: '天津应急《一周事故及安全警示》（2026年第31期）',
+    url: 'https://www.toutiao.com/article/7677490985311404550/',
+    lat: 28.424, lng: 104.925,
+  },
+  {
+    id: 'CS-0801', date: '2026-08-01', time: '03:54', scope: 'dom',
+    type: 'fire', level: 3, levelName: '较大',
+    title: '湖南长沙岳麓区一高层住宅火灾',
+    place: '湖南省长沙市岳麓区保利麓谷林语小区', prov: '湖南', city: '长沙',
+    deaths: 4, injured: 2, missing: 0,
+    summary: '8月1日3时54分，长沙市岳麓区一高层住宅发生火灾，现场救出6名伤员送医救治。截至8月2日16时，4名伤员因伤势过重不幸离世，2名伤者仍在救治中。事故原因调查和善后工作正在开展。',
+    instr: '', source: '长沙市官方通报 / 蚌埠市龙子湖区预警汇编',
+    url: 'https://www.bblzh.gov.cn/zfxxgk/public/23581/53330317.html',
+    lat: 28.213, lng: 112.914,
+  },
+  {
+    id: 'LS-0802', date: '2026-08-02', time: '12:00', scope: 'dom',
+    type: 'fire', level: 4, levelName: '一般',
+    title: '广西灵山一食品公司在建楼火灾',
+    place: '广西钦州市灵山县十里工业园区', prov: '广西', city: '钦州',
+    deaths: 2, injured: 2, missing: 0,
+    summary: '8月2日12时许，灵山县十里工业园区园丰食品有限公司一在建楼发生火灾，造成2人死亡、2人受伤，明火已被扑灭，火灾原因调查及人员信息核查正在开展。',
+    instr: '', source: '灵山县官方通报',
+    url: 'https://www.bblzh.gov.cn/zfxxgk/public/23581/53330317.html',
+    lat: 22.418, lng: 109.292,
+  },
+  {
+    id: 'JJ-0709', date: '2026-07-09', time: '12:04', scope: 'dom',
+    type: 'fire', level: 2, levelName: '重大（挂牌督办）',
+    title: '福建晋江陈埭镇辉腾鞋业厂房重大火灾',
+    place: '福建省泉州市晋江市陈埭镇江头村', prov: '福建', city: '泉州',
+    deaths: 28, injured: 2, missing: 0,
+    summary: '7月9日12时04分，晋江市陈埭镇福建辉腾鞋业有限公司5层厂房发生火灾，现场共239人。消防调集500余人全力扑救，疏散救出213人，2人送医不治，26名失联人员经搜救确认遇难，共28人死亡。事发建筑逃生通道安装栅栏、堆放大量易燃鞋材，暴露突出隐患。',
+    instr: '事故发生后，习近平总书记作出重要指示：全力做好人员搜救、善后安抚等工作，尽快查明事故原因并严肃追责；各地区各有关部门要深刻汲取教训，更好统筹发展和安全，时刻绷紧安全生产这根弦。李强、蔡奇、张国清等中央领导相继作出批示。国务院安委会挂牌督办，国家消防救援局牵头现场督办组已赴闽。',
+    source: '中国政府网 / 新华社 / 焦点访谈',
+    url: 'https://www.gov.cn/yaowen/liebiao/202607/content_7075080.htm',
+    lat: 24.791, lng: 118.577,
+  },
+  {
+    id: 'PS-0717', date: '2026-07-17', scope: 'dom',
+    type: 'collapse', level: 1, levelName: '特别重大（调查评估中）',
+    title: '重庆彭水汉葭街道“7·17”特别重大山体崩塌灾害',
+    place: '重庆市彭水县汉葭街道', prov: '重庆', city: '重庆',
+    deaths: null, injured: null, missing: null,
+    summary: '国务院已成立重庆彭水汉葭街道“7·17”特别重大山体崩塌灾害调查评估组，相关调查评估工作正在进行中。',
+    instr: '国务院成立特别重大山体崩塌灾害调查评估组，依法依规开展调查评估。',
+    source: '应急管理部要闻',
+    url: 'https://www.mem.gov.cn/',
+    lat: 29.294, lng: 108.166,
+  },
+  {
+    id: 'LYY-0504', date: '2026-05-04', time: '16:40', scope: 'dom',
+    type: 'blast', level: 1, levelName: '特别重大（国务院调查组）',
+    title: '湖南浏阳华盛烟花厂“5·4”特别重大爆炸事故',
+    place: '湖南省长沙市浏阳市（华盛烟花制造燃放有限公司）', prov: '湖南', city: '长沙',
+    deaths: 26, injured: 61, missing: 0,
+    summary: '5月4日16时40分许，浏阳市华盛烟花制造燃放有限公司车间发生爆炸，造成26人遇难、61人受伤。现场设20个救援阵地、480余名救援队员开展拉网式搜救，涉事企业负责人被依法控制。国务院已成立“5·4”特别重大爆炸事故调查组，湖南烟花爆竹企业全面停产整顿。',
+    instr: '习近平作出重要指示：要抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作；要尽快查明事故原因，严肃追责。各地区和有关部门要深刻汲取教训，盯紧压实安全生产责任，抓好重点行业领域风险隐患排查整治，加强公共安全管理，确保人民群众生命财产安全。李强批示：抓紧核清人数、全力救治伤员、科学组织搜救，严防次生灾害；尽快查明事故原因，依法依规严肃处理。应急管理部已派工作组赶赴现场。',
+    source: '中国政府网 / 新华社',
+    url: 'https://www.gov.cn/yaowen/liebiao/202605/content_7067797.htm',
+    lat: 28.157, lng: 113.640,
+  },
+  {
+    id: 'SX-0522', date: '2026-05-22', scope: 'dom',
+    type: 'blast', level: 1, levelName: '特别重大（国务院调查组）',
+    title: '山西通洲集团留神峪煤矿“5·22”特别重大瓦斯爆炸事故',
+    place: '山西省长治市沁源县（留神峪煤矿）', prov: '山西', city: '长治',
+    deaths: 82, injured: 128, missing: 2,
+    summary: '5月22日，山西通洲集团留神峪煤矿发生瓦斯爆炸事故，已致82人遇难、2人失联、128人受伤住院。6支国家矿山应急救援队伍紧急驰援。初步调查显示涉事煤矿企业存在重大违法行为；该矿属高瓦斯矿井，曾因安全违规被处罚。',
+    instr: '习近平总书记作出重要指示：全力救治伤员，科学组织搜救，妥善做好善后处置工作；查明事故原因，依法严肃追责。国务院成立事故调查组，将较真碰硬开展调查；国家卫健委组织多学科专家赴现场开展医疗救治。',
+    source: '新华社 / 央视网',
+    url: 'https://news.cctv.com/2026/05/24/ARTI0xbLzSYdqpCZunJiYA0A260524.shtml',
+    lat: 36.500, lng: 112.345,
+  },
+  /* ---------------------- 国外 ---------------------- */
+  {
+    id: 'INTL-BER', date: '2026-08-29', time: '03:45', scope: 'intl',
+    type: 'fire', level: 4, levelName: '国外·突发',
+    title: '德国柏林一难民安置中心发生火灾',
+    place: '德国柏林施潘道区', prov: null, city: null,
+    deaths: 0, injured: 4, missing: 0,
+    summary: '当地时间29日凌晨3时45分许，柏林施潘道区一处难民安置中心一栋6层建筑第4层起火，浓烟蔓延至5、6层，数百人被紧急疏散，4人因吸入烟雾受伤（3人送医）。消防部门出动74人26车扑救，起火原因正在调查。',
+    instr: '', source: '央视新闻',
+    url: 'https://news.cctv.com/2026/08/29/ARTIgQS0oLSLYc3opGPG3Igl260829.shtml',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-PAK', date: '2026-08-26', time: '06:40', scope: 'intl',
+    type: 'fire', level: 2, levelName: '国外·重大',
+    title: '巴基斯坦伊斯兰堡一医院新生儿病房火灾',
+    place: '巴基斯坦伊斯兰堡（巴基斯坦医学科学院）', prov: null, city: null,
+    deaths: 15, injured: 0, missing: 0,
+    summary: '当地时间8月26日6时40分许，巴基斯坦首都伊斯兰堡一医院三层新生儿病房起火并引发剧烈爆炸，造成15名婴儿死亡（育婴室16名婴儿仅1名获救）。初步调查显示电火花引燃婴儿保温箱供氧接口所致。总理夏巴兹指示立即调查，联邦卫生秘书被停职。',
+    instr: '', source: '巴基斯坦官方通报 / 央视新闻',
+    url: 'https://baike.baidu.com/item/8%C2%B726%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85/68711727',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-RUS', date: '2026-08-25', scope: 'intl',
+    type: 'fire', level: 3, levelName: '国外·较大（涉我公民）',
+    title: '俄远东阿穆尔天然气化工综合体火灾（涉中国公民伤亡）',
+    place: '俄罗斯阿穆尔州（在建全球最大聚乙烯/聚丙烯厂之一）', prov: null, city: null,
+    deaths: 7, injured: 152, missing: 9,
+    summary: '当地时间8月25日，俄罗斯远东阿穆尔州阿穆尔天然气化工综合体项目发生火灾，造成7人死亡（含6名中国公民）、152人受伤、9名中国籍承包商员工失联。俄紧急情况部派伊尔-76专机转运伤员，火灾源头已被扑灭。中国驻哈巴罗夫斯克总领馆工作组已赴现场，敦促俄方全力救治中方伤员并做好善后。',
+    instr: '中国外交部及驻哈巴罗夫斯克总领馆启动领事保护应急机制，公布领保电话，敦促俄方全力救治中方伤员。',
+    source: '中国新闻网',
+    url: 'https://www.toutiao.com/article/7678301816802640419/',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-USA', date: '2026-08-18', scope: 'intl',
+    type: 'blast', level: 4, levelName: '国外·突发',
+    title: '美国俄亥俄州托莱多工业回收厂爆炸火灾',
+    place: '美国俄亥俄州托莱多市（Brent Industries）', prov: null, city: null,
+    deaths: 2, injured: null, missing: 0,
+    summary: '当地时间8月18日凌晨，托莱多市一工业回收设施发生爆炸并引发大火，造成2名工人死亡、多人受伤，厂房严重损毁。现场先后多次爆炸，涉事企业生产涉及矿物油精等易燃溶剂。美国OSHA已介入调查。',
+    instr: '', source: 'EHS资讯',
+    url: 'https://www.ehs.cn/article-25300-1.html',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-IND', date: '2026-08-17', scope: 'intl',
+    type: 'fire', level: 3, levelName: '国外·较大',
+    title: '印度西孟加拉邦一酒店火灾',
+    place: '印度西孟加拉邦比尔布姆县塔拉皮特', prov: null, city: null,
+    deaths: 9, injured: 7, missing: 0,
+    summary: '当地时间8月17日凌晨，印度西孟加拉邦一家酒店发生火灾，造成9人死亡、34人获救（7人住院治疗）。酒店负责人已被警方逮捕，当地正排查住宿场所消防安全隐患。初步调查显示或与空调故障引发爆炸有关。',
+    instr: '', source: '百度百科事故词条 / 印度警方',
+    url: 'https://baike.baidu.com/starmap/view?lemmaId=68005750',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-ZIM', date: '2026-08-11', scope: 'intl',
+    type: 'other', level: 1, levelName: '国外·特别重大',
+    title: '津巴布韦卡里巴湖超载渡轮倾覆',
+    place: '津巴布韦卡里巴湖', prov: null, city: null,
+    deaths: 68, injured: null, missing: null,
+    summary: '当地时间8月11日，津巴布韦卡里巴湖一艘超载渡轮遭遇强风后倾覆，造成68人死亡。',
+    instr: '', source: '北京东城消防《国外事故警示》',
+    url: 'https://www.toutiao.com/article/7677829204834812431/',
+    lat: null, lng: null,
+  },
+  {
+    id: 'INTL-NLD', date: '2026-08-13', scope: 'intl',
+    type: 'blast', level: 4, levelName: '国外·突发',
+    title: '荷兰鹿特丹港储油罐区爆炸',
+    place: '荷兰鹿特丹港', prov: null, city: null,
+    deaths: 1, injured: 6, missing: 0,
+    summary: '当地时间8月13日，荷兰鹿特丹港一储油罐区发生爆炸，造成1人死亡、6人受伤。',
+    instr: '', source: '北京东城消防《国外事故警示》',
+    url: 'https://www.toutiao.com/article/7677829204834812431/',
+    lat: null, lng: null,
+  },
+];
+
+/* =====================================================================
+   业务逻辑
+   ===================================================================== */
+const $ = (s) => document.querySelector(s);
+const feedList = $('#feedList');
+let currentFilter = 'all';
+let liveFlashes = []; // 在线抓取的快讯
+
+const fmt = (n) => (n === null || n === undefined) ? '—' : n;
+
+function casText(it) {
+  let parts = [];
+  if (it.deaths !== null) parts.push(`<span class="d"><b>${it.deaths}</b> 人遇难</span>`);
+  if (it.injured) parts.push(`<span class="i"><b>${it.injured}</b> 人受伤</span>`);
+  if (it.missing) parts.push(`<span class="m"><b>${it.missing}</b> 人失联</span>`);
+  return parts.length ? parts.join('') : '<span style="color:var(--ink-3)">伤亡情况核查中</span>';
+}
+
+function renderStats() {
+  const all = [...INCIDENTS, ...liveFlashes];
+  const deaths = all.reduce((s, i) => s + (i.deaths || 0), 0);
+  const instrCount = all.filter(i => i.instr).length;
+  const provs = new Set(INCIDENTS.filter(i => i.prov).map(i => i.prov));
+  $('#stCount').textContent = all.length;
+  $('#stDeaths').textContent = deaths;
+  $('#stInstruct').textContent = instrCount;
+  $('#stProv').textContent = provs.size;
+}
+
+function renderBrief() {
+  const dom = INCIDENTS.filter(i => i.scope === 'dom');
+  const intl = INCIDENTS.filter(i => i.scope === 'intl');
+  const all = [...INCIDENTS, ...liveFlashes];
+  const deaths = all.reduce((s, i) => s + (i.deaths || 0), 0);
+  const injured = all.reduce((s, i) => s + (i.injured || 0), 0);
+  const missing = all.reduce((s, i) => s + (i.missing || 0), 0);
+  const instrCount = all.filter(i => i.instr).length;
+  const top = [...INCIDENTS].filter(i => i.deaths && i.deaths >= 5).sort((a, b) => b.deaths - a.deaths).slice(0, 5);
+  const topGroup = INCIDENTS.filter(i => /调查组|挂牌|督办|政治局/.test(i.instr || '')).length;
+
+  $('#briefMeta').textContent = `监测周期：2026年5月—8月29日 · 生成时间：${new Date().toLocaleString('zh-CN', { hour12: false })} · 伤亡为不完全统计`;
+
+  $('#briefBody').innerHTML = `
+    本期共收录国内外重大突发事件 <b>${all.length}</b> 起（国内 <b>${dom.length}</b> 起、国外 <b>${intl.length}</b> 起），
+    累计造成 <b>${deaths}</b> 人遇难、<b>${injured}</b> 人受伤、<b>${missing}</b> 人失联（不完全统计）。
+    其中习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
+    <ul>
+      ${top.map(i => `<li><b>${i.date}</b> ${i.title}（${i.deaths}人遇难${i.missing ? '、' + i.missing + '人失联' : ''}${i.instr ? '，中央领导已批示' : ''}）</li>`).join('')}
+    </ul>
+    <div style="margin-top:6px">国务院安委办已于8月18日通报近期道路交通典型事故并部署加强道路交通安全工作，要求认真贯彻落实习近平总书记关于安全生产的重要指示批示精神，坚决扭转事故多发态势。</div>
+  `;
+}
+
+function passesFilter(it, f) {
+  if (f === 'all') return true;
+  if (f === 'dom') return it.scope === 'dom';
+  if (f === 'intl') return it.scope === 'intl';
+  if (f === 'instr') return !!it.instr;
+  if (f === 'fire') return it.type === 'fire';
+  if (f === 'blast') return it.type === 'blast';
+  if (f === 'geo') return it.type === 'geo' || it.type === 'collapse';
+  return true;
+}
+
+function renderList() {
+  const items = [...INCIDENTS, ...liveFlashes].filter(i => passesFilter(i, currentFilter));
+  feedList.innerHTML = items.map(it => {
+    if (it.flash) {
+      return `<div class="card flash" data-id="${it.id}">
+        <div class="row1">
+          <span class="badge b-type">${TYPE_NAME[it.type] || '快讯'}</span>
+          <span class="badge b-scope-intl">在线快讯</span>
+          <span class="date">${it.date}</span>
+        </div>
+        <h3>${it.title}<span class="live-tag">LIVE</span></h3>
+        <div class="src"><a href="${it.url}" target="_blank" rel="noopener">查看来源 ↗</a></div>
+      </div>`;
+    }
+    const scopeBadge = it.scope === 'dom'
+      ? '<span class="badge b-scope-dom">国内</span>'
+      : '<span class="badge b-scope-intl">国外</span>';
+    const locHint = it.scope === 'dom' && it.lat
+      ? '<span class="loc-mark">📍 已标记地图</span>' : '';
+    return `<div class="card" data-id="${it.id}">
+      <div class="row1">
+        <span class="badge b-level-${it.level}">${it.levelName}</span>
+        <span class="badge b-type">${TYPE_NAME[it.type]}</span>
+        ${scopeBadge}
+        ${it.instr ? '<span class="badge b-level-1">⚠ 领导批示</span>' : ''}
+        <span class="date">${it.date}${it.time ? ' ' + it.time : ''}</span>
+      </div>
+      <h3>${it.title}</h3>
+      <div class="place">📍 ${it.place}</div>
+      <div class="cas">${casText(it)}</div>
+      <div class="sum">${it.summary}</div>
+      ${it.instr ? `<div class="instr"><b>批示/指示要点：</b>${it.instr}</div>` : ''}
+      <div class="src">${locHint}来源：${it.url ? `<a href="${it.url}" target="_blank" rel="noopener">${it.source} ↗</a>` : it.source}</div>
+    </div>`;
+  }).join('') || '<div style="padding:30px;text-align:center;color:var(--ink-3)">暂无符合筛选条件的事件</div>';
+
+  $('#feedMeta').textContent = `共 ${items.length} 条记录`;
+
+  feedList.querySelectorAll('.card').forEach(c => {
+    c.addEventListener('click', (e) => {
+      if (e.target.tagName === 'A') return;
+      focusIncident(c.dataset.id);
+    });
+  });
+}
+
+/* ---------------- 地图 ---------------- */
+let map = null, markers = null, infoWindow = null;
+const markerStyles = {};
+
+function markerIcon(type) {
+  const color = TYPE_COLOR[type] || TYPE_COLOR.other;
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="26" height="34" viewBox="0 0 26 34">
+    <path d="M13 1C6.4 1 1 6.4 1 13c0 8.5 12 20 12 20s12-11.5 12-20c0-6.6-5.4-12-12-12z" fill="${color}" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="13" cy="13" r="4.5" fill="#fff"/>
+  </svg>`;
+  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+}
+
+function initMap() {
+  if (typeof TMap === 'undefined') {
+    $('#mapFallback').style.display = 'flex';
+    return;
+  }
+  try {
+    map = new TMap.Map('map', { zoom: 4, center: new TMap.LatLng(35.8, 106) });
+
+    Object.keys(TYPE_COLOR).forEach(t => {
+      markerStyles[t] = new TMap.MarkerStyle({
+        width: 26, height: 34,
+        anchor: { x: 13, y: 32 },
+        icon: markerIcon(t),
+      });
+    });
+
+    const domItems = INCIDENTS.filter(i => i.scope === 'dom' && i.lat !== null);
+    markers = new TMap.MultiMarker({
+      map,
+      styles: markerStyles,
+      geometries: domItems.map(i => ({
+        id: i.id,
+        styleId: i.type,
+        position: new TMap.LatLng(i.lat, i.lng),
+        properties: { incident: i },
+      })),
+    });
+
+    infoWindow = new TMap.InfoWindow({ map, position: map.getCenter() });
+    infoWindow.close();
+
+    markers.on('click', (evt) => {
+      const it = evt.geometry.properties.incident;
+      openInfo(it);
+      highlightCard(it.id, true);
+    });
+  } catch (e) {
+    $('#mapFallback').style.display = 'flex';
+  }
+}
+
+function openInfo(it) {
+  if (!map || !infoWindow) return;
+  const iw = `<div class="iw">
+    <div class="iw-t">${it.title}</div>
+    <div class="iw-c">${it.deaths !== null ? it.deaths + ' 人遇难' : '伤亡核查中'}${it.injured ? ' · ' + it.injured + ' 人受伤' : ''}${it.missing ? ' · ' + it.missing + ' 人失联' : ''}</div>
+    <div class="iw-p">${it.date}${it.time ? ' ' + it.time : ''} · ${it.place}</div>
+    ${it.instr ? `<div class="iw-i">⚠ 中央领导已作出批示/指示</div>` : ''}
+  </div>`;
+  infoWindow.setPosition(new TMap.LatLng(it.lat, it.lng));
+  infoWindow.setContent(iw);
+  infoWindow.open();
+}
+
+function focusIncident(id) {
+  document.querySelectorAll('.card').forEach(c => c.classList.remove('highlight'));
+  if (!map) return;
+  const it = INCIDENTS.find(i => i.id === id);
+  if (!it || it.lat === null) return;
+  highlightCard(id, false);
+  map.setZoom(9);
+  map.setCenter(new TMap.LatLng(it.lat, it.lng));
+  openInfo(it);
+}
+
+function highlightCard(id, scroll) {
+  const card = document.querySelector(`.card[data-id="${id}"]`);
+  if (!card) return;
+  document.querySelectorAll('.card').forEach(c => c.classList.remove('highlight'));
+  card.classList.add('highlight');
+  if (scroll) card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+/* ---------------- 在线快讯刷新（尽力而为） ---------------- */
+const FEED_SOURCES = [
+  { name: '国内要闻', url: 'https://news.google.com/rss/search?q=%E7%81%AB%E7%81%BE+OR+%E7%88%86%E7%82%B8+OR+%E4%BA%8B%E6%95%85+%E9%81%87%E9%9A%BE+when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
+  { name: '地质气象灾害', url: 'https://news.google.com/rss/search?q=%E6%B3%A5%E7%9F%B3%E6%B5%81+OR+%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1+OR+%E6%B4%AA%E6%B0%B4+OR+%E5%9C%B0%E9%9C%87+%E9%81%87%E9%9A%BE+when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
+  { name: '国际事故', url: 'https://news.google.com/rss/search?q=explosion+OR+fire+OR+mudslide+OR+landslide+killed+when:7d&hl=en-US&gl=US&ceid=US:en' },
+];
+const KEY_RE = /(火灾|爆炸|燃爆|坍塌|泥石流|滑坡|山体滑塌|洪水|溃坝|地震|倾覆|侧翻|遇难|致死|身亡|死亡|失联|killed|dead|explosion|fire|mudslide|landslide|flood|earthquake)/i;
+
+async function fetchLive() {
+  const btn = $('#refreshBtn');
+  btn.classList.add('busy');
+  btn.textContent = '⏳ 正在抓取…';
+  let got = 0;
+  try {
+    const results = await Promise.all(FEED_SOURCES.map(async (src) => {
+      try {
+        const r = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(src.url)}`, { signal: AbortSignal.timeout(12000) });
+        const j = await r.json();
+        return (j.items || []).map(item => ({ ...item, src: src.name }));
+      } catch { return []; }
+    }));
+    const seen = new Set(liveFlashes.map(i => i.title)); // 已有的（含云端）标题不再重复加入
+    const newItems = results.flat()
+      .filter(item => KEY_RE.test(item.title || ''))
+      .filter(item => { if (seen.has(item.title)) return false; seen.add(item.title); return true; })
+      .slice(0, 15)
+      .map((item, idx) => ({
+        id: 'LIVE-' + Date.now() + '-' + idx,
+        flash: true,
+        date: (item.pubDate || '').slice(0, 10) || new Date().toISOString().slice(0, 10),
+        scope: item.src === '国际事故' ? 'intl' : 'dom',
+        type: /泥石流|滑坡|洪水|地震|mudslide|landslide|flood|earthquake/i.test(item.title) ? 'geo'
+            : (/爆炸|燃爆|explosion/i.test(item.title) ? 'blast'
+            : (/火|fire/i.test(item.title) ? 'fire' : 'other')),
+        title: item.title,
+        url: item.link || '#',
+        deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
+      }));
+    got = newItems.length;
+    if (newItems.length) {
+      liveFlashes = [...newItems, ...liveFlashes].slice(0, 40);
+      liveFlashes.sort((a, b) => b.date.localeCompare(a.date));
+      renderList(); renderStats();
+      checkNewEvents(newItems);
+    }
+    toast(got > 0 ? `已更新 ${got} 条最新快讯` : '暂未抓取到符合条件的最新快讯，仍显示本地快照');
+  } catch {
+    toast('网络受限，仍显示本地快照数据');
+  }
+  lastFetchAt = Date.now();
+  updateAutoStatus();
+  $('#updateInfo').innerHTML = `数据快照：2026-08-29<br>快讯更新：${got ? new Date().toLocaleString('zh-CN', { hour12: false }) : '未更新'}`;
+  btn.classList.remove('busy');
+  btn.textContent = '⟳ 刷新快讯';
+}
+
+/* ---------------- 新事件检测：弹窗 + 浏览器通知 ---------------- */
+let knownIds = new Set(INCIDENTS.map(i => i.id));
+let lastFetchAt = 0;
+const AUTO_INTERVAL = 10 * 60 * 1000; // 每10分钟自动刷新
+
+function checkNewEvents(items) {
+  const fresh = items.filter(i => !knownIds.has(i.id));
+  fresh.forEach(i => knownIds.add(i.id));
+  if (!fresh.length) return;
+  showNewAlert(fresh);
+  browserNotify(fresh);
+}
+
+function showNewAlert(fresh) {
+  const list = fresh.slice(0, 6).map(i => `
+    <div class="alert-item">
+      <span class="alert-tag">${TYPE_NAME[i.type] || '快讯'}</span>
+      <div><b>${i.title}</b><div class="alert-meta">${i.date} · ${i.scope === 'dom' ? '国内' : '国外'}</div></div>
+    </div>`).join('');
+  $('#alertList').innerHTML = list + (fresh.length > 6 ? `<div style="text-align:center;color:var(--ink-3);font-size:12px;padding:6px">… 共 ${fresh.length} 条</div>` : '');
+  $('#newAlert').classList.add('show');
+}
+
+function browserNotify(fresh) {
+  if (!('Notification' in window) || Notification.permission !== 'granted') return;
+  try {
+    new Notification('🚨 重大突发事件新快讯', {
+      body: fresh.slice(0, 3).map(i => i.title).join('\n'),
+      tag: 'wb-emergency',
+    });
+  } catch (e) { /* 忽略通知失败 */ }
+}
+
+function requestNotifPermission() {
+  if ('Notification' in window && Notification.permission === 'default') {
+    Notification.requestPermission();
+  }
+}
+
+/* ---------------- 云端数据加载（GitHub Actions 自动生成的 data/flashes.json） ---------------- */
+async function loadRemoteFlashes() {
+  try {
+    const r = await fetch('data/flashes.json', { signal: AbortSignal.timeout(8000) });
+    if (!r.ok) return;
+    const j = await r.json();
+    const items = (j.items || []).map(item => ({
+      id: item.id || ('FL-' + item.title),
+      flash: true,
+      date: item.date || (item.dateISO || '').slice(0, 10) || new Date().toISOString().slice(0, 10),
+      scope: item.scope === 'intl' ? 'intl' : 'dom',
+      type: item.type || 'other',
+      title: item.title,
+      url: item.url || '#',
+      deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
+    }));
+    if (!items.length) return;
+    const seen = new Set(liveFlashes.map(i => i.title));
+    const fresh = items.filter(i => !seen.has(i.title));
+    liveFlashes = [...fresh, ...liveFlashes].slice(0, 40);
+    liveFlashes.sort((a, b) => b.date.localeCompare(a.date));
+    renderList(); renderStats();
+    checkNewEvents(fresh);
+    if (j.updated) {
+      $('#updateInfo').innerHTML = `数据快照：2026-08-29<br>云端数据：${j.updated.replace('T', ' ').slice(0, 16)} UTC`;
+    }
+  } catch { /* 无 data.json（纯静态打开）时静默 */ }
+}
+
+/* ---------------- 自动刷新调度 ---------------- */
+function startAutoRefresh() {
+  setInterval(fetchLive, AUTO_INTERVAL);
+  lastFetchAt = Date.now();
+  updateAutoStatus();
+  setInterval(updateAutoStatus, 1000);
+}
+
+function updateAutoStatus() {
+  const el = $('#autoStatus');
+  if (!lastFetchAt) return;
+  const remain = AUTO_INTERVAL - (Date.now() - lastFetchAt);
+  if (remain <= 0) { el.textContent = '自动刷新中…'; return; }
+  const mm = String(Math.floor(remain / 60000)).padStart(2, '0');
+  const ss = String(Math.floor((remain % 60000) / 1000)).padStart(2, '0');
+  el.textContent = `每10分钟自动刷新 · 下次刷新倒计时 ${mm}:${ss}`;
+}
+
+let toastTimer = null;
+function toast(msg) {
+  const t = $('#toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove('show'), 2800);
+}
+
+/* ---------------- 事件绑定 ---------------- */
+document.querySelectorAll('#filters button').forEach(b => {
+  b.addEventListener('click', () => {
+    document.querySelectorAll('#filters button').forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    currentFilter = b.dataset.f;
+    renderList();
+  });
+});
+$('#refreshBtn').addEventListener('click', () => { requestNotifPermission(); fetchLive(); });
+$('#alertClose').addEventListener('click', () => $('#newAlert').classList.remove('show'));
+
+/* ---------------- 启动 ---------------- */
+renderStats();
+renderBrief();
+renderList();
+initMap();
+loadRemoteFlashes(); // 加载云端自动更新快讯（GitHub Pages 部署时生效）
+startAutoRefresh();
+</script>
+</body>
+</html>
