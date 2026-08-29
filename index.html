@@ -64,6 +64,12 @@ header .chip b { display: block; font-size: 17px; font-weight: 700; }
   background: linear-gradient(135deg, #B71C1C, #E53935); color: #fff;
   padding: 12px 16px; font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 8px;
 }
+.alert-head .alert-x {
+  margin-left: auto; cursor: pointer; font-size: 16px; line-height: 1;
+  width: 24px; height: 24px; display: flex; align-items: center; justify-content: center;
+  border-radius: 50%; background: rgba(255,255,255,.18); transition: background .15s;
+}
+.alert-head .alert-x:hover { background: rgba(255,255,255,.32); }
 .alert-list { padding: 8px 14px; max-height: 300px; overflow-y: auto; }
 .alert-item {
   display: flex; gap: 10px; padding: 9px 4px; border-bottom: 1px dashed var(--line);
@@ -260,9 +266,11 @@ window._TMapSecurityConfig = {
 <!-- 新快讯弹窗 -->
 <div id="newAlert" class="alert-mask">
   <div class="alert-box">
-    <div class="alert-head">🚨 检测到新突发事件快讯</div>
+    <div class="alert-head">🚨 检测到新突发事件快讯
+      <span class="alert-x" id="alertX" title="关闭">✕</span>
+    </div>
     <div id="alertList" class="alert-list"></div>
-    <button id="alertClose" class="alert-close">我知道了</button>
+    <button id="alertClose" class="alert-close" type="button" onclick="closeAlert()">我知道了</button>
   </div>
 </div>
 
@@ -836,6 +844,11 @@ function toast(msg) {
 }
 
 /* ---------------- 事件绑定 ---------------- */
+/* 弹窗关闭：多途径兜底（内联 onclick + 监听 × / 遮罩 / Esc） */
+function closeAlert() {
+  const el = document.getElementById('newAlert');
+  if (el) el.classList.remove('show');
+}
 document.querySelectorAll('#filters button').forEach(b => {
   b.addEventListener('click', () => {
     document.querySelectorAll('#filters button').forEach(x => x.classList.remove('active'));
@@ -845,7 +858,13 @@ document.querySelectorAll('#filters button').forEach(b => {
   });
 });
 $('#refreshBtn').addEventListener('click', () => { requestNotifPermission(); fetchLive(); });
-$('#alertClose').addEventListener('click', () => $('#newAlert').classList.remove('show'));
+const alertCloseBtn = document.getElementById('alertClose');
+if (alertCloseBtn) alertCloseBtn.addEventListener('click', closeAlert);
+const alertXBtn = document.getElementById('alertX');
+if (alertXBtn) alertXBtn.addEventListener('click', closeAlert);
+const alertMask = document.getElementById('newAlert');
+if (alertMask) alertMask.addEventListener('click', (e) => { if (e.target === alertMask) closeAlert(); });
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAlert(); });
 
 /* ---------------- 启动 ---------------- */
 renderStats();
