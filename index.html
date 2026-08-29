@@ -58,6 +58,7 @@ header .chip b { display: block; font-size: 17px; font-weight: 700; }
 .alert-box {
   background: #fff; border-radius: 12px; max-width: 460px; width: 100%;
   box-shadow: 0 12px 40px rgba(0,0,0,.25); overflow: hidden; animation: pop .25s ease;
+  position: relative;
 }
 @keyframes pop { from { transform: scale(.92); opacity: 0; } to { transform: scale(1); opacity: 1; } }
 .alert-head {
@@ -70,7 +71,7 @@ header .chip b { display: block; font-size: 17px; font-weight: 700; }
   border-radius: 50%; background: rgba(255,255,255,.18); transition: background .15s;
 }
 .alert-head .alert-x:hover { background: rgba(255,255,255,.32); }
-.alert-list { padding: 8px 14px; max-height: 300px; overflow-y: auto; }
+.alert-list { padding: 8px 14px; max-height: 260px; overflow-y: auto; position: relative; z-index: 0; }
 .alert-item {
   display: flex; gap: 10px; padding: 9px 4px; border-bottom: 1px dashed var(--line);
   font-size: 13px; color: var(--ink);
@@ -85,6 +86,7 @@ header .chip b { display: block; font-size: 17px; font-weight: 700; }
   display: block; width: calc(100% - 28px); margin: 0 14px 14px; padding: 9px;
   background: var(--red); color: #fff; border: none; border-radius: 7px; font-size: 14px;
   cursor: pointer; transition: background .15s;
+  position: relative; z-index: 2; pointer-events: auto;
 }
 .alert-close:hover { background: var(--red-dark); }
 /* ---------- 主体 ---------- */
