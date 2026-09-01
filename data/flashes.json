@@ -1,16 +1,7 @@
 {
-  "updated": "2026-09-01T23:35:12.959Z",
+  "updated": "2026-09-01T23:43:25.467Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-774fd0ff331d",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 23:54:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "新闻8点见丨西藏吉隆泥石流灾害已造成3人遇难，265人失联 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yTDVZNkd2OWZndnNiMkJ3dTFXZllnNVdzZkk1aTkyMWdlRzlvWFMzNi03VGhyTTJpUW5HTTdSNnRsNDl5UGNleWo3TFM1TC1lcTBHNVhmdnNrMHltNVlfWUNFWU4?oc=5"
-    },
     {
       "id": "FL-a6ff5c6347c6",
       "date": "2026-09-01",
@@ -48,12 +39,12 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OOTdWWGMwVmNYTjNMRlRwRWdNUVdMWFJlM3hENzhCWXVPc1hJekZRQ1NEYzhqdXpjbU5wT3drWEVZdnUybHNObWYzZjdhZw?oc=5"
     },
     {
-      "id": "FL-6758cddbe24e",
+      "id": "FL-893539d6a863",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:19:44 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1010人死亡 4599人失联 - 新华网",
+      "title": "尼泊尔泥石流已致1010人死亡 4599人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U1NFb2dSRkVrZnIzd0tueDBGWF9GZnVBTklOZjlVelRybmViZnM2SFhyU1hnQ0lwQnJuM0tqRWFHMnlGTzFRVTFIS0lWaXNQX1VnN3h1N1Zsa0xDcXd6QzBQUHhhMnZIajFVWWk3S3hlXzVDS0RTeVoxTWxLOE0?oc=5"
     },
     {
@@ -102,21 +93,21 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuSlhyXzBveEVwVUIwU29aVVNsLWtCWExsS0l2X3lxVVdSSzFnczhYLUFXMkhWWndnaGhWSndmSDIwX0QxU0pNcXNsc1FfZ3ZHUzhSVEhDTFc4cHUwUkFxbFdpY1RETUI1a2Z6RUZFV3M?oc=5"
     },
     {
-      "id": "FL-da3fad97231b",
+      "id": "FL-706515db632a",
       "date": "2026-08-27",
       "dateISO": "Thu, 27 Aug 2026 05:09:02 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆泥石流灾害搜救出2人，遇难3人、失联558人 - 新华网",
+      "title": "西藏吉隆泥石流灾害搜救出2人，遇难3人、失联558人 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUnBwNHlRU1lwaFJQaDNRbEg4d05KWjVPVHFOenQ4ZEZvdFRYVW95QlY0VW9RTTNvRHkyM3pFSVVRRWJ5UFdnazNKNDVOd1liamNja014dWFVYlppRkZYUUpCdjNSTGc4YzNaQklJdDdRU1A3aTRqMFd0MjcxWkU?oc=5"
     },
     {
-      "id": "FL-624ad5e52f24",
+      "id": "FL-934c2394815e",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 15:56:00 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆泥石流灾害已致16人遇难546人失联，尚未再发现幸存者，原因查明：冰川在约5200米处断裂，冲刷山体形成巨型泥石流 - nbd.com.cn",
+      "title": "西藏吉隆泥石流灾害已致16人遇难546人失联，尚未再发现幸存者，原因查明：冰川在约5200米处断裂，冲刷山体形成巨型泥石流 - 每日经济新闻",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yblFnTjBGTGdiWFl0SXZVZldQeHJsZnRCMWp4Y2w0SC1DX0lOSDVtQnBZODZwQkM4RExSRWt2bTZRSmRtelFNR3VmZERBVHZGajFFdXhyTkhma1VQaHNkaGJJZ0lFUQ?oc=5"
     },
     {
@@ -154,6 +145,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致794人遇难 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aVlNtLVIxMm1pZ1ZnaFNwS0ViYVN6LTI1SllJY2p0U1dZdFlzdGozdmd0RG1GUTU3aWppWWxmOXFyb0dJRzc1bDBxZkRoYzVRNUwwYlFwRFMyWDhFRVNKY0R5RUk?oc=5"
+    },
+    {
+      "id": "FL-66d08d2967d5",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 10:01:08 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆县泥石流灾害已致16人遇难546人失联 抢险救援加速推进 - news.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XaGcza2tQRmozVFE1MkcwTHc1MHp6YjRxUXdHYW9lVDFsSk9EcjZ3N1dQbGhqcXdkY3p4ZjdGcFd6VFFROGpHX1M4XzZlam9YRmFkOWVaR1JuSXR5dk9HeXNZc25tQkpmTV9HS3h6Y0kyQlRJcmd5ZHVqWFRJZ2s?oc=5"
     },
     {
       "id": "FL-42050c369128",
@@ -264,12 +264,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MDhJMkJ6TTBxeDdRdWY0c21pMFd3bmU0NThyNjJ1YUQzclZlYzIxa3Vva0pQakJoemFUcjNrcEw1NHJ6WkpROHBWUGlxa1RteU95NzR6SkI1dE5PRkFOeTlnUUpsdkU?oc=5"
     },
     {
-      "id": "FL-b5f6e61b25b9",
+      "id": "FL-94aeaf86caa2",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 01:28:42 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "新华社消息丨吉隆泥石流灾害已致16人遇难 排查出261名失联外籍人员 - 新华网",
+      "title": "新华社消息丨吉隆泥石流灾害已致16人遇难 排查出261名失联外籍人员 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82WENXcEJIQjAwNk5tNUZSWnVKSDRJMFA1a2VnUWlxMHhHaHByM3ktVFM1SFpIX1JDUnR2b25ISGtMZlpCdUVrNmJISnE1UTlVQkRiM2hvNlZPVGtNemo0d053OHZkcmVZWTA4MW9fMDdwdXJZZlE?oc=5"
     },
     {
@@ -309,12 +309,12 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Lb0hQV3BHZG5MSXhJbHltQnpWYnpSUU9iX0ZFdVVjYnJ3X1lsV3pNTTBnR1JvQmpVWmp4ckk0dGtSSkhJN2lpTWZSeWp6SEFHUHpNb2loYVFDM3M1M1hWM1JUNEtaT2RFRzBScTRRSnE2VG0ybkdVMA?oc=5"
     },
     {
-      "id": "FL-1f7077542f4f",
+      "id": "FL-4dead7de4998",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 00:18:50 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "吉隆泥石流已致16人遇难546人失联 - 新华网",
+      "title": "吉隆泥石流已致16人遇难546人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeVE5TDRETm1YSG5ra3hHblUwNVJHT2l0UWpZREtkT1E1NDhleTZFZTQ1WV9nNHpIQ3V0QkxMSnpEMUphMk5nSnNrMFkzS1Z6dnRQMldaajhraDQ5cTNCV3VpMlVwRFdQcHJxRC13Tlk5TkJ6Z2JxS1p6bVZsNWRRM0EyOA?oc=5"
     },
     {
@@ -372,12 +372,12 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51YlZaU2t4dlBNNlJNOGVkX0diSUZ6b3BvXzNzZjROSkJIYWt0RzI0VzdRLThxZzBQSzdJUTN6b3k4VzJrd1JnYnNscTRsVWk2M0ZWeFlyMWtQQlB0OFg5YkozQlh3M29sYXpCbmR3MV9fVmx0Vno4?oc=5"
     },
     {
-      "id": "FL-f7114b7746fb",
+      "id": "FL-14fe7fc19d62",
       "date": "2026-08-29",
       "dateISO": "Sat, 29 Aug 2026 05:17:13 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - 新华网",
+      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BZF9zcHh6U3Awb3J5WDdHMVp6YXRqQkkxcXlfbWlQdGtoM3lGcUdNLUlhSE5VNUo0dTJVVVh4UjYwQ0RKQ0VqdnB0VEo4bFNVOEMxTXBUUlFaYTVwdjlicnFFN2dNVERMdm1jdEZSc1NOUmlSRVVz?oc=5"
     },
     {
