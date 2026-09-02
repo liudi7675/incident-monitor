@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-02T13:38:30.563Z",
+  "updated": "2026-09-02T13:50:25.581Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-412ee6c7a72e",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 13:49:47 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致21人遇难541人失联，发现遗物847件 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDBHeERPVHhfeE1DSG5CR1M3OTFfX0dNUEdHM3JlZVF2cVAzUDM4VTg3N0JyaUFfd1JIOFpka0NQWFE5S3FOTno5Y0tRR1JIeWdjWGJNN3NJNWhuSXlnbmFXVlhpVklwTmFvb2l0VElCMnNZdFF2Q2RYNmp3LVlvRTl3N0czSmZ5M1FJdw?oc=5"
+    },
     {
       "id": "FL-5a92ad2adb86",
       "date": "2026-09-02",
@@ -39,15 +48,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3Uwa2stNXRReUNLaTlsQU9INDNJX1ZFMG54Tk5obTlkenU1Rjhxd2RYN3NLcE4wV1BfYjRjeHVGeTBUR1AyWU1fdFFxSGVvZzBLY2cxR0RfY1FnMzNVZkVocWFJdWVqOWNONDhGOXlPaHItRUlPZkVFTU14SW12M3h5WEtKZFRq?oc=5"
     },
     {
-      "id": "FL-e5f8de9cdf16",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 12:22:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏泥石流｜中方更新死伤人数：灾害已致21人遇难 541人失联 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPNDlSWWZNQkp2SEhfYTJxWmI0YTFqYlQwSm83ZXE5MWg2Q09zeWtpY2tCQWZzSUpCSmJVZW5BaUV1VjBRRUczajR2VHFNS0NRT2RZcl95cWVZcl8tWTJDZkZ6YWdqdkFRRjZqYlBwdmNhMTl6clV0NllDeE1uMlh0NnJaRTJEcmlwZkphN3FaSE5CemUtdjh2N01FdjVHSHU4MkhjdFpfNlZBbXllbHhLbWtLRnRMMmtjRDdhd1pPRldMMXhWNW5ES1Y0R1I5M3pJRS03bHdaZ05Jd0dJcXZuY2xMWnluYTE1b1lJa3hhMDYyVlQ4TWdRSlFYMVpYWnJKMzc1RFAtUFlwRnJmNFZGRVRQdEhwY0JJOFVGVXVsR0VTMWNvUFhkZmxRUkhGdVJBRV9fakpXVm56UkE2eTh4X0c2NlF4TWVOXzk5czJXUDhuTHp6MHJBamUzR09kb1MzYWNvTkt4QmtfSTdkTWhYVnNMaDRmMXlZbjEzYmU4QjNlTl9HVGRkZ19jWUYxSHhHZTRZRkpsZVg?oc=5"
-    },
-    {
       "id": "FL-a54b1769859a",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 12:20:16 GMT",
@@ -75,15 +75,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15VEtWRm1HT2UtekdUQV84NXNsVVZSMThzNy1XNTZ2ZGM4Ui0wRDFlbFVZT2liTVpsWmZ4U3VGUjhpODY2R1NodEpITWgtRG9hXzR6Qno4M0lxVE1TanByaVB5Rm9UTTFER3c?oc=5"
     },
     {
-      "id": "FL-c01763a83437",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 08:45:29 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "尼泊尔洪灾遇难人数攀升至近1200人，中方灾情信息更新明显滞后 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPaWRMR0Z0ZmJIU0EzdWlxdFVoVGVNMThSOE5mTVBueE9GdWNkMXotWXNPQktUMzM0cTJZMS15MG5rZkdaNnJsN0VNU1gxTnpjX3hlX3N6V1dIMmJ1TURuSi1uRG5RTGhJa2ZLZ0lPWlg0blZNdWxNdVhkNUZFTk81VXFwTkV1QjFabDB2UHlUNTNWQ0RqVS1XYXp5SzZGR0lyRUJvX1hDMHhsRFNVLWxNVTlFS1dLemdfMTNkSXNEenBKQTlaeHFwd3V6TEFEZXp1ZUNhd3Jzdk5MYjlGM21vaTNHaTctN3J3MG5XMV9mRGh3bEFQSkxiRW15cDNsSFBWaUhnZGNGc2pER0FsWnRrcEdmYktqSWgtN2lNOU50MXc1MFZGUW9QWWRpVkZLYkh6Umo1Z3lBRE80eUNOYXVHQmhaVGxRdEhTamZGY190SHZLSy1WeTlBczJlMkxPMGJhRll1R204a1gwS2RXbDNydXRZb2JBT043NzRIbUFQaFdXUWRTcjBsVmtyTmxWdXpHNDJ4WGtpVThPbS1RbzZQaG9sM2dqQWlX?oc=5"
-    },
-    {
       "id": "FL-f307b128a26b",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:27:00 GMT",
@@ -93,12 +84,12 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3dzMxSTJwaWNlWklfUFNxLUdBYmVCa0VoSTRsWkJyZGlOZFRSU1FGSDdXTG1mZU9ZSEZHdjRuQWQySEx0Qjk4OFNfOTFsMXVFd1dZbUR1dUJZb01OX0JVUFZJWHN4Z284MFNGaDlPVUo0Zw?oc=5"
     },
     {
-      "id": "FL-65bdbc509809",
+      "id": "FL-c4e0a98fcd33",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 06:01:08 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1118人死亡4858人失联_7x24快讯_新浪财经 - finance.sina.com.cn",
+      "title": "尼泊尔泥石流已致1118人死亡4858人失联_7x24快讯_新浪财经 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BX21MT3JhZ3NLZG9qZ1VnZmYzRllXQUJvdjFYUkxzNnNlTmpjeGR6NGxsUC1TcXNZTkx1Z0x0bFNZbm9FUXNRcDY4cw?oc=5"
     },
     {
@@ -264,6 +255,15 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWTTVVb1o4RVBDYUJfVm9nakIxQmhCXzRCVWNQeF8wWjEtM2h5a3B0dHdFVlBnRC1PZHR4Mi1aOXBEa3F3M3FiWFQzMDZRQQ?oc=5"
     },
     {
+      "id": "FL-22412a67f586",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 05:23:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致734人遇难2498人失联，亲历灾害的警察：地理环境恶劣，搜救难度很大，到处都是深厚的淤泥，根本无处可走|川观新闻 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MMk1FZEpWTFctazhiazZnbi1sR0tJNDlLSnFjcnlpU2VBMFNCREZLbnFqekR3SnFkRGlzV055Z0lfMWZzYXIzOXJ0VTZnQQ?oc=5"
+    },
+    {
       "id": "FL-2e13b83c23b2",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 04:12:00 GMT",
@@ -298,6 +298,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流已致734人遇难，2498人失联 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lZ0tiVjd2dHp1anlSWUNXdU1Jb1hLdDlaM3NIakloU3pjU3JnX2puQ1QycGtiWjF6T3plX1JXeEhiczdNbzRTZ010MExwemE0SXNnS2lLbUFpYUthRFpKbw?oc=5"
+    },
+    {
+      "id": "FL-9f802a473491",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 04:10:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致16人遇难 546人失联 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3NHN5SXhicTktSDlRUjVGREt5aHZJYTVrM0tNWmpzc2xLQnpndlVjQm1iTlg5OVhFX3Q2dDVKTmlnQVhNWFRCLUxaRVRVZw?oc=5"
     },
     {
       "id": "FL-b95bacb2ad54",
@@ -523,15 +532,6 @@
       "type": "geo",
       "title": "西藏吉隆泥石流已致7人遇难554人失联 首批队伍到达救援核心位置 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1acXE4ZkN5WHRoNnZNeUZOVXhWS2l1aDctVUdNRFNfTkpDTUlQdHBPZW9aUGdROHFqV3RxZ2Rtbjc2YVhuempNUmtZMWxxM3c?oc=5"
-    },
-    {
-      "id": "FL-d7dd14c88d90",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 09:44:24 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "新华社消息丨西藏吉隆泥石流灾害已致5人遇难 558人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RYjcwdjJXV2hEUEJ1UjNUWDJzVVZFV0E4Wk8xTG1tVTdjVXRCckU4YzZ2SDI1cHlFRnRQUmtwUEhreVhvVmp1Rkk5aFRCcGhSYkVDT1RabEUzWDJvb3RxUm1PN2NXcUJrVlVodURJWXM1V3pPNU1J?oc=5"
     },
     {
       "id": "FL-9a519ac510b9",
