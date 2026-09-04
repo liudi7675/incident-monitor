@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:39:48.505Z",
+  "updated": "2026-09-04T17:48:35.754Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -102,6 +102,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SWFSOXJGQy04N3FfSExtM1BGZ2FDaE1pc1NGRlFWQl84bHhkSEh5VGFRYUJJUHJyRFBzdm5VTE51WW9JSXdwN00tdGRjUzJwbHJQY2pGSUljbXRjM3ZNbzd3b0Q?oc=5"
     },
     {
+      "id": "FL-e8a0dea1e27f",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 05:51:55 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1118人死亡，4858人失联 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3enNGVzJ0cnQtdWdKQTF1X1FZaG1SRnhlV2pkQkwxZ2FMWW50SXZOeU5yOWFVdTczWFJicl9vWEZEMzdsTkN3ZnoyYUw?oc=5"
+    },
+    {
       "id": "FL-6758cddbe24e",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:19:44 GMT",
@@ -145,15 +154,6 @@
       "type": "geo",
       "title": "西藏吉隆泥石流灾害救出2人，3人遇难、558人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00R1VneXQ5U1NwdWpoUllyMUJONmE2ZlQtUDAyYUV1dzdWd3p4STlXOG1JNXUtMnJNM05FT2t4RjN6UUt2a1gyXzNLNTF1M0pseUV3RXV5VEViQTBPMlVESUE5ZlViS241Y1F2Q3lmeUpWbnV4bDJ3?oc=5"
-    },
-    {
-      "id": "FL-fdb33830dc1c",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 21:22:33 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1259人 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2tMRVJDY2pDakJqb2VRay1aaTJreUNoNFBzS0c5U0xoNzFzS1psc2dKR2VYWDRrd1ZMb3oyZzcyTklJU09Ed19KaFYwTm9ZOWpONEdKNU5hdl9FR1JBSEl1MmpmUkRmZjc3ZHMwVGNlbFV0RVFhRHI1cnJkeDlsQmRCelFGelljYlhaRzE4NVZsUUpqUElzcGdVWThaZ2pCbGxYU2NKdHAtV0pTQXZiMGRVNGpYR2wwU3c?oc=5"
     },
     {
       "id": "FL-19de16a9582c",
@@ -228,6 +228,15 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5"
     },
     {
+      "id": "FL-d0266c79b208",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 04:11:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vQ0VmallSTVJKek53dEpzTTZsYUpoR3RGR0NGQmhTVUpkc3ZOOW1QMy1VTi1Cck1pMnVTRUhEeVdhTzBNekU5YWt3dlBudnZqVlBka3QtOHNkRVZDbjlZWkJB?oc=5"
+    },
+    {
       "id": "FL-b5f6e61b25b9",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 01:28:42 GMT",
@@ -273,12 +282,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5"
     },
     {
-      "id": "FL-caeef228fb95",
+      "id": "FL-55373ce82376",
       "date": "2026-09-04",
       "dateISO": "Fri, 04 Sep 2026 16:39:04 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1259人 - 新浪网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1259人 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hY2l4ZzhjSTd0aTFFZXpwNTFiVjdwd3dFNUpMdzRxN25RUnF2V3RlV3Y0RnlDYjIzMWFTRFJScHlsemFQcFJaLVo2WFV6MzFRLV9RWVZpWExXZHJPaEZRSHVKdHM3a01UMV96V3oxeDU1Zm1fdkRFRQ?oc=5"
     },
     {
@@ -408,12 +417,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVhodVdhOHRvVmgxTlhub0V3bll4YlU3YnoyOWZfMmNfdmdYY01pdFhXYU9oaWtLX0R5aTFrSnBkVkx6eGRjY05yM1BWdTlMODc2bG1jektaODdRRl9FZDUxTk8zOTdvV0w5Y25MWkpiOEQ4dmdPUXJSbzlSNEttdEowXzRNUDlH?oc=5"
     },
     {
-      "id": "FL-819d710743c1",
+      "id": "FL-d3dfd4d7c42d",
       "date": "2026-09-04",
       "dateISO": "Fri, 04 Sep 2026 12:42:21 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流遇难人数升至1295人 失联4898人 - 新浪网",
+      "title": "尼泊尔泥石流遇难人数升至1295人 失联4898人 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1UWRmSU05U0pZdmt4VGxpbEppejRKS0ZXZ0QxTDU0Nm8zbjRsbFpPdXdnWF9kSmxWb3lRcXRONVZGLXc2ZklhWE9DNjRNS00?oc=5"
     },
     {
@@ -444,15 +453,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41VFRudnJnSjcxOVl3Y1hhc010OEYyS20yYndTZUdzMEJIeGZDbEVzWVpfQ1NaaTlVZWxiYVpnYlAwM3VzUDNBVUdYS2dtRjVwdzlFbWlvV3VVSmVGWFB2MVZQbkd1QXdBYV9j?oc=5"
     },
     {
-      "id": "FL-c61bdce795e3",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 12:03:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏吉隆泥石流灾害已致31人遇难531人失联 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oOUlNWUtSNGU3cGF1MFpMRkwxMllEdXZJaUF3dUtCdDM4VHZXMTBYM0xGQ2dwS1otNWZZSV9SeUZmZ1IwSDVFZ2ozRW4zZw?oc=5"
-    },
-    {
       "id": "FL-3c58bea16a4a",
       "date": "2026-09-04",
       "dateISO": "Fri, 04 Sep 2026 12:02:30 GMT",
@@ -460,15 +460,6 @@
       "type": "geo",
       "title": "西藏吉隆泥石流灾害已致31人遇难531人失联 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xQW1LVXBQcEwtMWo4dnRDU2h4bHdVN3dZT2FiN280YTQ3WVAxU3l2SzhMM1p2dkY4eUdva0VETjdwWWtJVnJGWWhwOWQtM3laSjZTNk5VMkVHdFBXT3c?oc=5"
-    },
-    {
-      "id": "FL-697741077b68",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 12:02:06 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏吉隆泥石流灾害已致31人遇难、531人失联，发现遗物987件 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyY1BIdXZxNWRrY25rNnlIWDE2MElYaW5fTk84dEVKREYzVGlxZ2dOUEFUc1RxVXhNYXphclZrSHRla3hIdzMwenp2RmZIMVo2NHc?oc=5"
     },
     {
       "id": "FL-99319838c59a",
@@ -541,6 +532,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流已致1259人死亡，5083人失联 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQURhRk13LXdRd290eEFFWER1ZFhhV2xYVTZfMURIREJvY1ZmNXYtQ2FnNVRQWkFhWW82Ul81X3ZDeXNmemdJQWlaREdPZw?oc=5"
+    },
+    {
+      "id": "FL-caeef228fb95",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 00:20:30 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1259人 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtTlRtSWEyTFF0ZXQwUlE1ejhQMlg2d0pxYk8xaGRQSW11Y1NmQng3anVCRFlMM19NYkg2dUVSa3hFMEtFZXd6QmxhcXJtNnJFMFZoTllnc0tTMG5wZ3RFZnhuODNaemVMdVpJSXA2SzlGU0dXWWppU2QxbXgxWDg?oc=5"
     }
   ]
 }
