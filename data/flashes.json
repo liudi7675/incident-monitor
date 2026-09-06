@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:06:31.871Z",
+  "updated": "2026-09-06T14:20:22.315Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -84,15 +84,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWlRY2FEV0RkdTV4akZNVjBJTmpGQmJHdjhsWk1pWkNTM181bnZocHNXZHZueWx5V1lDWmdOTm9lWnlmN0ZQV3Uxb2k2OWo5UnpSOTdtNG0yTk1CSFd3cVZUcEk0cEEzb1ZjTENtel90N29OSVY1cWxnZHZEcnhJY0U5NjdxTXVFSEVvdQ?oc=5"
     },
     {
-      "id": "FL-8bab256299b2",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 12:36:49 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "扬芬村地质灾害找到1名失联人员，已无生命体征，江西遂川地质灾害遇难人数增至4人 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWkpuVS1YbDVuUXFWbFZtaGgxX1RDZmk5VG5jZTRNUU5oZEpBQjQ5RlFQdUtvVE4tWUx3Zml4UG13MmVaWmRWamdENEpKUm5nMVJxN05JMVd5VVBMcW1yNkx0bHprNnlBMWtic2FqY2xBQWs0N0lmWDgwbU1Hb084T0ktV2toWU10a2xTcQ?oc=5"
-    },
-    {
       "id": "FL-59b69a5c43ff",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 12:24:13 GMT",
@@ -100,6 +91,15 @@
       "type": "geo",
       "title": "凌晨4时，江西吉安突发泥石流，遇难人数增至4人 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZndFWTQ2dGtMMDI2UnR0UlJVbi1BWjQ5QW5OTTQ0OVZqam8zYnF3ZUE1WkIxZGVnQ2N0aUtrYlhheUlPNUNUTW05V3FEckRqUktRVy1ET3BsOUpOQXhpd3hqVFVMNEx4VHFSMlRjTE93TmprQVFFOUtXVDRVMWhGZ2QtdHRKb1d4?oc=5"
+    },
+    {
+      "id": "FL-e04827412338",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 12:04:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔境内冰岩崩引发跨境泥石流 西藏吉隆43人遇难519人失联 - Shangbao Indonesia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHcyTk5fVjFOdXlqMjVOWm5lZWtoaG85UVhhOGgtOVhDWmlaNFNOMzJVanFka1ltRjR0SE82OWVCSi1CVDZ2ckRzN2IwNlNWTkEyOUlLYjhUcXVQdV9UU053Nm03NU01MDRzR0FBVjhhY3UwVnVhQ3dfMVhsbWhuZHRiejhudw?oc=5"
     },
     {
       "id": "FL-a358e1b6e615",
@@ -318,15 +318,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdGZhYmNIUlJLVTk3cl9JaEpQS3huVkRodGJQd093OWlSM09HdHZ6dl9iTG4zUk9SQWg5ZmU4c3l3YnBWZWxCYVhnLVF0U1hCU0VWUWI1aU5FTlZ6VThIMWdCLWt4Mnli?oc=5"
     },
     {
-      "id": "FL-467f65b92d3a",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 05:09:46 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川泥石流已致3遇难9失联 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SUUl1MzFCR05fTHJhNWtqUzdfVXYxb2I1RDJTd0xPc04wU0kyVUx2UGxzaTFYdS1NcTRLMG1jN3lCMXROYzNBcHZacWRLeVREMkVhNVV3eE1kcUFHbkE?oc=5"
-    },
-    {
       "id": "FL-df0602c714ee",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 05:09:00 GMT",
@@ -532,6 +523,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流遇难人数升至1293人 失联4898人 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0R1E3NjcxQVo2WVN2akNWSWY1azRDYnBFSlpZM1dTMHdPQUdldWx4Rjg0OFVZTi11dl83QW5XOGJDdUxWalJ5a1U5S1kyMjlMcEd4MWVCSVRIWkFFWTQ4UUdPaklWeDZDc3Q2MWxJRVBWTFZMcnJIa3ktaGI?oc=5"
+    },
+    {
+      "id": "FL-4568359ca963",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 09:13:11 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流遇难人数升至1293人，失联4898人 - 青岛日报",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05Qm9Sd1czLU5kenlBSWpKajVBZUg1Rm1xNlBhbExRT29jUHdlYUx5SF9oMVMyYzdHX25uZlViRXFyRzBoWnhBX2pyUnFscDBUTTBDZ0RPREc?oc=5"
     },
     {
       "id": "FL-46ff72208c31",
