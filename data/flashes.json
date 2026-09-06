@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:44:26.530Z",
+  "updated": "2026-09-06T15:53:24.151Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -10,6 +10,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流已致1204人死亡 4216人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FcU1SM1B6RmpmcTlSOGh3enVaRTlBU1gxcGNPTUZwbHdpTzEwbGp2ajV5X2E2RzU4Q0NuU3N6T3F5WWRBTE4tTElJeFIyRGVGMWJTejJERXVzTXdlY3ZOV2VFRDI?oc=5"
+    },
+    {
+      "id": "FL-addbafd6b26f",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 16:21:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1252人死亡 4875人失联 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yclBOeGphOVhmbm1nQTlyVHhKaGxIcFpmb3Zyd1ZyVm5Oai1RTExQdy05YmtjVGI1OUE0N0xzOE1OSExadU1OXzBzQm8yVmNuV0xrZkJkd3R6SkxpMXJvX0twM0YwUG8yYjNYa2xOYWNVTTk1OVVj?oc=5"
     },
     {
       "id": "FL-bb8259db121d",
@@ -109,15 +118,6 @@
       "type": "geo",
       "title": "尼泊尔境内冰岩崩引发跨境泥石流 西藏吉隆43人遇难519人失联 - Shangbao Indonesia",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHcyTk5fVjFOdXlqMjVOWm5lZWtoaG85UVhhOGgtOVhDWmlaNFNOMzJVanFka1ltRjR0SE82OWVCSi1CVDZ2ckRzN2IwNlNWTkEyOUlLYjhUcXVQdV9UU053Nm03NU01MDRzR0FBVjhhY3UwVnVhQ3dfMVhsbWhuZHRiejhudw?oc=5"
-    },
-    {
-      "id": "FL-fc7d2b3c5388",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 12:02:00 GMT",
-      "scope": "dom",
-      "type": "fire",
-      "title": "刚果（金）婚礼火灾事故遇难人数更正为12人 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEMkgtNDhCRTdpYVktQ1lmd0FmSDlGbWNxNmtobUpQMVc3VERoa2pMdXliVWxFaVNmcEZwbkpsWUV6MjFrLVlFeUJGT0NaejFiU2RlSnJ4VUUxT05rVXMzT0FPQVZMYThpQmZoYXJXVEROQQ?oc=5"
     },
     {
       "id": "FL-a358e1b6e615",
@@ -246,12 +246,12 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tdXdmQXpPdkFLS2JSeGtVSmxzRHpjREVqcDFMRnJlM3hoVVhIWVIwZ1dHWGFNWTFSQzlzd0Z5VG9HVDllSFoxVUk1RFczLVdveXNnTG5RQ01OemR0eVR3dzA4X2hVWXdwYWx4UUJJR0Q5Zw?oc=5"
     },
     {
-      "id": "FL-c9aeaa9e7d41",
+      "id": "FL-1084c4cd0bc4",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 09:26:00 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "视频丨西藏吉隆“8·26”泥石流灾害造成43人遇难 519人失联 - view.inews.qq.com",
+      "title": "视频丨西藏吉隆“8·26”泥石流灾害造成43人遇难 519人失联 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xbHJqUmEtNWlnNkwxTlNWaThVQnVfOTlpM3A3RU5aazNvNm5OMkpTUmFmX2VMUDFmRjV3aDZweUo5ZUlnSl9SdXRCaXFCeklxaGFhYnVfcw?oc=5"
     },
     {
@@ -363,12 +363,12 @@
       "url": "https://news.google.com/rss/articles/CBMi_AtBVV95cUxPTW1DRkxWSU5qNW03Q0FpRHZjRmo4QjVETmZtdzhEWWNyRjhPRjRjVU4zNk9VVlk5RUU0SXFyakx6OU4zZG1TUmVMZnhoc3FHeHZlTXFMdmlZWThhZTRzWEswOThNRUliMTdOc2J2UllrdmNlc0dDemJBNEV4bkpqOVJpamtIbHp0cGp6UTVMNGh1ZzFPS2Q3Y0RkUnJQRERMOXY1aW8wLS1zRE9pTXBKY2xlM3V6T1ZheThkQ00wZDJXYkNhZ21Iakxzd1ppd2RqUXV5aVNYMjRlSmotSkozS2YwVFg3YUpkcmVMWk9DRzdxNXdHaDQxVkVhUms1eXlGTzFNbW9tdjVZbnFZYVRWRkNaSGNocmNXbVpya21ZLUNGSHAwQmpkaWpmelNCWXU4b3ZXcHp6SmR2WF9kQmVpbUowcVVKSERXbG5icWFkVXNjaEF2cUV3bzl1aVVKQ19xSlIyZFVKa1FpVHBrODRURjJUUFN4Zk9MZG1EdHRYRGNrLXhtbTVOMTdRWEZRcFRydjMzNkh3VXZDYU1sZ0dnb3BYallFRVUtbmdqU0VNUXM3RVVCckszekFrRERrRzZIeDJIbU5FSFkyZVN5TGs3c2dwbjNmanFCX3ctaE8tTDY5Z2hkelBXU21Bd21zUUdBUUxpR2ZEc19mcW1jMU9pbnY4TVZHcWJFMFhPNlZJVmZLclVqT0l0cm5ScHNBUmlMSFNzRkhwWXI5WkJYYVVaX0tKMGFZb2VjRmRqTVJVOTBjUWlva3N5T2NLb0FGcXptb0JUTmNzU0tfeUZNdVk1U25paTN2Tm81WXZXNjlBUWhoTXJhYTQ0X3NUQXNCNEd4aVAtNTRybk8xbDVLVnNEMGtKa3ROUWFyTm5nN2ItTGUtRnNIUld1ZVVCZlRES0hfVHB3TXNZNnl3M3JrTTZQd1JWS1pvMXFxdloyb1pCRjRKMUNLOENJcUlBcVk4MUxBbzRwNDVubWpwbzRvVEFqVGlqbmV4aUxGX0gycW92TFM1dFdSaUdBWlVYS3JibHpSbVdtRDFvNVdKeXl2bFFub0x3WlltT2tSck9OWE5tVTBSTV9ZVWQzRzNfbldRbG9rQkdWeFJtRzNDa0Z0UE1JYU1OanFRYTVIWHNfTXBhMk1PaTRUOVhqX1BxWlZWZ29HT1h4ekdQSDdTdzhLOTc0WVBzdzhGRkU2U0pxTmU4ZFlHdTNHaWZzMmVOamc3X3VESkN6djY5MUNTNVQ1TTFuWU04WE5FNXNWSy1yOFR3eXZDOGFrSDFNZHpsNWh3V2FueFB4VDN4MFNBY2VjVVFQWDFrRjFqbXl5M3JGWDZvQWdybXFvVDZOaGtnOFFha3FNWU5FQ0o4b1ZKR2gzUzBwOHNackRPMVpXYS14WkVlX3dudDZxLThKaUZTRUdfQnZ2REc5bHBpZERIeXE3YTJ4YXp3M2tuX0ppVEY3UEZTOFRjRC10anQwZkxmeGwwZWhudlpUOUUzcldzb3VCdk9fMHhFczVxdUpKOENnWG50bXl6UW5OQjJLRnJzUWZaSzMyMmI2c3J4QnpBNkZjRkdCSW1Wbmo4ZEMyYzBsZFpTZXJJQkw2RTdUcm5DVEhxZkFIODhJZGw5QVhQYUtDQ1FlYm5PX1VRWWhmbmI1WUh1NktmOXVTb2tDLXVmbnFzbjdmLUNsdnUtbzgwd3BOYkNVS0RnX2hsVUx5ZklheVk4cVRldk5DTFZmZjZYdUNDZzVhcW5vaEM2aC1sZkp0cDJ0a0lYa3U0Qy1KUWVOZUUtbmExZzgyYk5URVg1b0J0Ykc5Q1lidGxJUU9DQi01TFMzazVzUGRtdWVLTzBIcEJKSk9sUUtZM2pPMGtUbVo4X2ZHM29tTGZkS0ZsTURCZXFUV1RFVFlFc1dqcDhVWGxZT1pQU1IxSi1mYUExOERSSnFSeXJtRTRldWZHdjZJWHJQM0FpaU16MmU4NzdrT1FmaU0yWGpvV2FzOVg2TjlLWktxUmsxdXBpNWp0ZzV4ekhDbWk0aXNlWHNsZjQxTQ?oc=5"
     },
     {
-      "id": "FL-01cfbacdd196",
+      "id": "FL-06950e07bf6c",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 02:05:00 GMT",
       "scope": "dom",
-      "type": "geo",
-      "title": "滚动丨江西遂川泥石流已致2人遇难 10人失联 - 新蓝网",
+      "type": "other",
+      "title": "滚动丨江西遂川地质灾害遇难人数增至4人 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tR0Fpc1ZnN1ItN2RWMUkyd3JUZHFKUW91cjRtOHRnblp1Y3BqWjZKZ3VyWWc4aGRDSjFITGhsMTFDZzQ0dDVyZGl6QVFmV28?oc=5"
     },
     {
@@ -379,15 +379,6 @@
       "type": "geo",
       "title": "江西遂川泥石流已致2人遇难，10人失联 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ZkZHc1A2ZzVkekliR05DNEpMcTk1TzJCc0dtRm0wZ2RqUE1zUV9zc0NrQ3hlT243WkxtMlExTE5lbS1MY0pydG1JT0NFOG8zaUlhMUIyZFlhaUNMaTZpNA?oc=5"
-    },
-    {
-      "id": "FL-a4f7b27745d5",
-      "date": "2026-09-05",
-      "dateISO": "Sat, 05 Sep 2026 12:53:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔泥石流遇难人数升至1344人 失联4898人 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Pb1BWblhSNDZ6QUxEVlNRd2UyNnNjV3hqUGlORXlhOU4xOUFtUDF6WWQxRXZZQS1jdUlRRzhEZVYyQmVGSzBIYUxsNVUwQQ?oc=5"
     },
     {
       "id": "FL-92db90f91f87",
@@ -453,6 +444,15 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNUEl2NFB1WDJSay1rN05CUWFxWXJ0dkhuelpsRGQycE8yV2RsMmhqWVBlejlxT1B5Wk41ck5rbEh6Vkp3UXBkZDhPb2tfZw?oc=5"
     },
     {
+      "id": "FL-ab25243b36d9",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 22:30:21 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致31人遇难531 人失联 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHlRQlNScVlTUmpsY3V5N0ZoMlh5bHFGTXBmUTlNTUFGejFZeVliSXdMTjk0NlQ4N1ZDOWNCc195RHlLa1QtZ1FuTGNhUVNIc0RkaG9FSHZiYlBmcW91X2dPTGVwX2FPand2WWxjSnM2MGpER0RTSER3emR1dFhKeVJR?oc=5"
+    },
+    {
       "id": "FL-68d7b3cc88a1",
       "date": "2026-09-04",
       "dateISO": "Fri, 04 Sep 2026 17:14:00 GMT",
@@ -460,6 +460,15 @@
       "type": "geo",
       "title": "吉隆泥石流灾害已造成31人遇难，531人失联 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jX0tyUWNMZTdYWnZiSmdYeU9aYkl6dXNBb0l5eWJoenM0YTEtQUZoN2ZoVTRNdWlWX0xhSE1mS3JLYlNMMUNUanhMUWdKZw?oc=5"
+    },
+    {
+      "id": "FL-a78616c7523e",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 15:23:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致31人遇难、531人失联 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11MmFUbVVCRFhZcHlnTzRvV2Vta3g5R1BVZkhpZVhUbFdGd29BN1VCLTdEX1ZNUGctTHhKcnVqX0stb0dsZzdZUVZDTUZkQQ?oc=5"
     },
     {
       "id": "FL-f6e10a039c28",
@@ -496,15 +505,6 @@
       "type": "geo",
       "title": "西藏吉隆泥石流灾害已致31人遇难531人失联 - 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ucm9KTmJyUTVHYjdYeHpGQjZYUFFTWVJ3amVVRlJSWXgySG1sSXBjeGhkZGkxTk1CWlhkYkc0VUVBaTM3b1ZhakRONEI4T2VXbC16cGdFNTFhQ0dhQ3locjA4dXMyZXFBa2xjQmF6aXRyek1oWVlJOGxSQQ?oc=5"
-    },
-    {
-      "id": "FL-875f39fb94cc",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 11:49:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔泥石流遇难人数升至1293人，失联4898人 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aSF9FakZSeHNXa0hPWUtsRTJXc253NUpPLUg1RkxSTUpfMm5VMnpnczdYeW43MmNfUXM5U2tQSGNnRUpRdmtLd0NoUHc5dw?oc=5"
     },
     {
       "id": "FL-9585965dc004",
