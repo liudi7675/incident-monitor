@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T22:20:21.848Z",
+  "updated": "2026-09-11T22:35:59.497Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -48,6 +48,15 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qZG8zN2RWbWVYVEpkMWs5LXJpRGdaLTR6ZXBPTVRhZFMtdXBaVUd3MWNqSnRrQzl1SmV5eDNOT3p1WUgtdUkzOEVoV1pNcjZ0SlhUbTN4THBDOVlTNF84QjFlLUpTZ3h4TjhHSkRyTFZoV0JhaWFV?oc=5"
     },
     {
+      "id": "FL-dac74bb15ac0",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害累计已致21人遇难541人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGlJWFRGeWRJazM0RHMzdHdnbVRqT3F4VzdkZzlkalhTckpzVEZKLXA0YzlZc3V3V3RpdUpseXV3eml3VEN6Z0pKNFdUTWJ2ZW95ZHVkbU1hOERmOTBOWE42RFZiTWNIc3YwMWdEVm85VmdteldyckF5TFVnM3lDT2VTbw?oc=5"
+    },
+    {
       "id": "FL-b1c5a25b1ae0",
       "date": "2026-09-08",
       "dateISO": "Tue, 08 Sep 2026 16:24:00 GMT",
@@ -75,13 +84,13 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ndDBvNTd3N0EwUGl0UlhYdmJZY2RwYVd2ZVQzRVRfRC1YaHg4SXBwOGxzVFpRRUNuRUdsZ2lKLVVxS1hEQkZpZ2Nvdm00UQ?oc=5"
     },
     {
-      "id": "FL-55fef3b44188",
+      "id": "FL-05ff1ece0ac4",
       "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 13:04:57 GMT",
+      "dateISO": "Tue, 08 Sep 2026 12:01:10 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川泥石流已致12人遇难 - 新浪军事",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdjRtdFhDZ21fNGlVTnc3aDhqT3FYanNpTHJzQlhuU2prUlpnd2VyX1RaTkc0RVRkdnBpM25JcDhaY1JxY0hienZNYTVVdF81S2cwUUV6XzZOTkxPbXRxRG9aaG9XUXQyTng1X0Nqb1BpODg?oc=5"
+      "title": "江西遂川泥石流已致12人遇难 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JWEtpVUV2Q01NUUxwT29SY1hOczNrcGM2SnNFbFkwWVpadEVzN0FWWVp2UTg2dXVILVRUcm0yZjJqSTRleWdNSVpHSTk2a2haZkg0eWtHR2FEeC1pOWtGSEZ6OUt1X3pLNkpUVzFnRUU?oc=5"
     },
     {
       "id": "FL-baa7c80f8d70",
@@ -91,15 +100,6 @@
       "type": "geo",
       "title": "江西遂川泥石流失联人员搜寻向纵深推进 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BaHNIelpCOHUxem5LVEU5ZklUSjN2MEtFUi01TjFlTmZRNndDSmkxTEs3OXpYSHZLRm01a244dm1DeWNJendmTzM2LVhWa0dhb3RqNzlyRzQwRUt3ek9OOExwS3FROEY2TXNicWtYc2RWdw?oc=5"
-    },
-    {
-      "id": "FL-7c770687cdf1",
-      "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 09:52:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川泥石流已致5人遇难，仍有7人失联 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zZWY5U1ZPOC1ybW1MVzMxeGhYUUJpZ0dkMW9fS2dBaU95bHRxd1d3VTZ4ci1mcEFRcjlZSHpDSHJZZjJwQkowN3FyNUVSdw?oc=5"
     },
     {
       "id": "FL-2483f25309cc",
@@ -165,12 +165,12 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XQ3hHREdfLUtrWDItcERIUmhYc3lySy1TN0wySlZMRHF5Nmo3U2dGei16SXJKenFtRjRxT18wTHEwalFRbkxkdDZQZzJacWpaNkE0Qlk1SF9KTnB0b1d4Qm95X3JqeE5oMTRiYUhscHo4dw?oc=5"
     },
     {
-      "id": "FL-414030544530",
+      "id": "FL-982036cb7234",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 12:34:20 GMT",
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾已致25人遇难 - finance.sina.cn",
+      "title": "青岛货轮火灾已致25人遇难 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelZ3UHlQLTVxNHc4ZzV0bWYwSGF5NFpNMEJvZ2FURGpsTTd6ZWx1MnhHX1lNenAtcjJRTXMwWTRwcFJMUndndFN6UjNEeHRHWEdrUGRUUFZOTnFfN2lWdm5CWnpzR29QY3hDRnc2VmxUSm9wZHZuOVI2TUJmWjR6dTdzSmo0OVpfSjR2THNGUnIySlR1ejVkTw?oc=5"
     },
     {
@@ -255,12 +255,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GcVpoR3Fob3o4Z250OXZhUXk5bmstc3dXLXNndVZiS3NWYU5XWHI0TWtxOFdYX3Fmd2YxRnl1Wm9YVjRBbmFlRDMxTVBaRWpuSkliTjJiTkU?oc=5"
     },
     {
-      "id": "FL-02297d459e7c",
+      "id": "FL-e500116c54b9",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 03:15:00 GMT",
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - finance.sina.cn",
+      "title": "青岛货轮火灾致25人遇难 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOTh2cVV1VGE1cnF6MDNPZUNGcjVXbDJzV2d0QWNPS3RNOThLa3NfLVFIM2ozVmM2dFhiU19hVXVwNVo1TkRCTEVjUndQOFZLeTFVeXB4WGxmdlRDUWVQdkdJRFljNTVFaHZOSXJ2Q3pMM2F6aUdxNzFjT3p6dm9NVWdiX0I4VFV0blozSkZlTE93ZHBudHUwQQ?oc=5"
     },
     {
@@ -282,13 +282,13 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PZExhXzlHVXlCUnhXZFlUN0hhU3JSMFFfSE1JTTFUX0MxZkJncHpPUTFqdmRqYnh1M3NkMzVlQlhXdWRObTBBRjFhdkYyM0U5XzNGOHRXTUs3NHNyQWhGbk1sRmFqRlc5c29JUzJkR2E2ZUJadDNqMA?oc=5"
     },
     {
-      "id": "FL-d3b93b59848a",
+      "id": "FL-98b3d57d51a6",
       "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 01:33:00 GMT",
+      "dateISO": "Thu, 10 Sep 2026 02:02:54 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川高坪镇泥石流灾害共造成13人遇难 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16dUxkZGhCQVpJbzRzdU9IMWNuZl91V0RST0hZbFZELWtUSHR0SHBNX0RWeDNMbE5wNldIYlh4R1JZOS1vV0xuZVVpNTVpY0lTSTRQUzRHUjBxVWtLdTJWZHAzZHc?oc=5"
+      "title": "最后一名失联人员被找到，江西遂川泥石流共造成13人遇难 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbV9nUmw1QjNfd19tTDJWelM1NEdLWlJrWnJNVS02ZEVuak9uNDYxTlJkWTJEMFpXN0ZlanJoZWdfZXhtYUhqWGllOU42cGY2X1RvNFJ2ZllyMTFVbVUxWElLLVRVcDd6ZHlxY3huWkZFTjh0OTNaSXRQRDl3NXZIMTRhZ0N5d09XZlU3NEdNT1JuTnlpRkFRTw?oc=5"
     },
     {
       "id": "FL-b3e0598eea52",
@@ -298,6 +298,15 @@
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 中国江苏网",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa1BMd2ZqRjNXZjNCbDgxRU9zRHdDWGU4Wkk3ckJYbG1Rc2h4UkRFdW8xR21BeVFpNlhpc2Z6WVNqUzdBaUl2Njl5ZmlEa2hIcHNDTXNodFNVcEFUTERDTHV4b2tMLURoNGNDT09TR3JaWUlYMk5STGxaZnFua1V4WnZtUWVZdw?oc=5"
+    },
+    {
+      "id": "FL-19de16a9582c",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 14:49:00 GMT",
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1259人死亡 5083人失联 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoU1ZRQkN3YjZqQkZJYlBNSW9VRUxLNExKSXBWVnhQLTIwU2g1Zno5LUVNd3lnQUw4ZjNLcjBYX0dMMlJBNzFRTEVvUkU0QjJoVE5oSzcyeElSTjZrdHNITGJmODM?oc=5"
     },
     {
       "id": "FL-1f7077542f4f",
@@ -444,15 +453,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4WTQ3aEl5b1M1V0RsUjFfeXgwdm9Kak5CQlpBSjR0MWM2d1g2aGxHYjJmcWNBbjgzcGlWV3RvLWd2RmViMFRsZVRlRXQtaWh4aHBCSFFrN2VzT01EMDk3b2VBdjVpekdFZGtTNGlFYThIRGdlREFF?oc=5"
     },
     {
-      "id": "FL-310c1137edae",
-      "date": "2026-09-07",
-      "dateISO": "Mon, 07 Sep 2026 14:50:00 GMT",
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致5人遇难 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGb0M0TmxfY01XUVpEeUlSYzlOZS0zWU5ORUk4bGhnTFJFNm1PanRPNGpDZDNfck5mMmhzN1BGZktTdjJURDNxNjVrdy1ETmx5T2pTQUhBVk1HNjl6ZE1Gc0lrc2hXYkpUNjU3bEFNSzJGeUtIZHg4?oc=5"
-    },
-    {
       "id": "FL-6851483c4821",
       "date": "2026-09-07",
       "dateISO": "Mon, 07 Sep 2026 11:59:00 GMT",
@@ -507,22 +507,22 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObG5sN25UMFh4eDJHazBlQUdMcXZ5NGdudVVzZWVENm9DNm1POC1vdXlmc0xrQ0p3TGhxbmQ4aHNSSTNpNVlka1ZTcmJNQVdHSXNxajIxVUxmUk9nNmNadGd1dkdjU3NWQVRobXFRdms1Mm5haXZwMV8ySnBQWUNnSG02cUxaclU?oc=5"
     },
     {
-      "id": "FL-8e36ba61141f",
+      "id": "FL-3f1a783485e8",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 10:08:46 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "最后一名失联人员被找到，江西遂川高坪镇泥石流灾害共造成13人遇难 - finance.sina.cn",
+      "title": "最后一名失联人员被找到，江西遂川高坪镇泥石流灾害共造成13人遇难 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdjZlSkZscnhkNGFjNXFJa2tUTzBVX0EtQjEwYjkwckV3bUZvWHU4SC1XeGtrTndla2RpZXYxWHd0LVFpOC1lYjZTVnZhek8yUzNEbVRZNkVoTjJEcGhnNllsSG5rX0MwM2k2aXI5dkRTbHNDajZidTN1elVHVldJaFZmYmptakxBWUZPMGh1UlNSOFBvbUE1YldJRlp6eTZQYzhZVGJxRTM5XzlGbHpPZ3hlbE45RE9ZYUlxWGZHdjdVT3hSdmRrUl9BYy1QU21GN3l0Mmp6SQ?oc=5"
     },
     {
-      "id": "FL-984442e003fd",
+      "id": "FL-3920bb05c0fa",
       "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 06:21:15 GMT",
+      "dateISO": "Fri, 11 Sep 2026 07:15:36 GMT",
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流遇难人数升至1295人，失联4898人 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yTWdlS0NjXy1ZRi1xWXg5UEpMZDY3dmIwT01TVVpuSHZEbm5DTGItcS1LdUlUR2VyTXIyM3llWlZPRktRa3RoZkJFMlg3Ym9GSTNOdHFJSnY?oc=5"
+      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxUEFhM1VEYUJmV3FvSjBqWmRfem92ZGk1UzFwWHdsRmpMMC1hWDZqbEpZbHFMbHhzS05yeGRhYnFDeFhXRXd6LWRTNXYtSk9lRDZ6N0Z0dDY?oc=5"
     },
     {
       "id": "FL-e4d9e35bd2b9",
