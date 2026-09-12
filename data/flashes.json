@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:37:26.573Z",
+  "updated": "2026-09-12T08:47:51.745Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-f24cf16cd7da",
@@ -711,6 +699,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
       "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-d35bf2692c0a",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 06:12:00 GMT",
+      "ts": 1789107120000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "刚刚，唐山地震 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UkJPX1lSeTVGRVk2ek4tRUhmS192S2VzamFtTF8wN2NqRWVtM1o3Q3FaeTRsOUVrYW15SllTdWNkeEpuRG5ZMkg3cENjTUtvOENzMFFRa0RfNTc2YmNqY2hJT242Sm8zZ3JWc3pvVUxmQWM1Y1I3dQ?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.cn"
     },
     {
       "id": "FL-49dcf83adb13",
