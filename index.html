@@ -77,6 +77,12 @@ header .chip b { display: block; font-size: 17px; font-weight: 700; }
   font-size: 13px; color: var(--ink);
 }
 .alert-item:last-child { border-bottom: none; }
+.alert-item.clickable { cursor: pointer; transition: background .15s; border-radius: 6px; }
+.alert-item.clickable:hover { background: #FFF6F5; }
+.alert-item.clickable:hover b { color: var(--red-dark); }
+.alert-item .jump-hint { color: var(--red); font-weight: 600; }
+.alert-item.clickable .jump-hint { visibility: hidden; }
+.alert-item.clickable:hover .jump-hint { visibility: visible; }
 .alert-item .alert-tag {
   flex-shrink: 0; background: #FFEBEE; color: var(--red-dark); font-size: 11px;
   border-radius: 4px; padding: 1px 7px; height: fit-content;
@@ -189,12 +195,38 @@ main { flex: 1; display: flex; min-height: 0; }
 /* 滚动条 */
 #feedList::-webkit-scrollbar { width: 6px; }
 #feedList::-webkit-scrollbar-thumb { background: #CDD3DE; border-radius: 3px; }
+/* ---------- 响应式：全分辨率适配 ---------- */
+/* 中屏笔记本（981–1200px）：左栏收窄，保证地图有足够宽度 */
+@media (max-width: 1200px) {
+  #feedPane { width: 380px; min-width: 330px; }
+  #briefBody { font-size: 12.5px; }
+}
+/* 平板 / 小屏笔记本（≤980px）：上下堆叠，简报在上、地图在下 */
 @media (max-width: 980px) {
-  main { flex-direction: column; overflow-y: auto; }
-  #feedPane { width: 100%; min-width: 0; border-right: none; border-bottom: 1px solid var(--line); }
-  #feedList { overflow: visible; }
-  #mapPane { min-height: 70vh; }
-  body { overflow: auto; }
+  body { height: auto; min-height: 100vh; overflow-y: auto; }
+  main { flex-direction: column; overflow: visible; }
+  #feedPane {
+    width: 100%; min-width: 0; flex: none; max-height: none;
+    border-right: none; border-bottom: 1px solid var(--line);
+  }
+  #feedList { overflow: visible; flex: none; }
+  #mapPane { flex: none; height: 55vh; min-height: 320px; }
+  #briefCard { margin: 10px 10px 0; padding: 12px 14px; }
+}
+/* 手机（≤600px）：进一步压缩头部与地图高度 */
+@media (max-width: 600px) {
+  header { padding: 10px 12px; gap: 10px; }
+  header .logo { width: 28px; height: 28px; font-size: 15px; }
+  header h1 { font-size: 15px !important; }
+  header .sub, header .update-info { display: none; }
+  #mapPane { height: 48vh; min-height: 260px; }
+  #legend { left: 8px; bottom: 10px; padding: 7px 10px; font-size: 11px; }
+  #mapTip { top: 8px; left: 8px; font-size: 11px; padding: 6px 9px; }
+  #briefCard { margin: 8px 8px 0; }
+  #filters { padding: 8px 10px 6px; }
+  #feedList { padding: 4px 8px 16px; }
+  .card { padding: 10px 11px; }
+  .card h3 { font-size: 13px; }
 }
 </style>
 <script type="text/javascript">
@@ -705,6 +737,10 @@ const FEED_SOURCES = [
   { name: '国际事故', url: 'https://news.google.com/rss/search?q=' + encodeURIComponent('(explosion OR fire OR flood OR earthquake OR landslide OR typhoon OR hurricane OR tornado OR derailment OR "plane crash" OR "mine accident") (killed OR dead OR deaths OR missing OR injured OR evacuated)') + '&hl=en-US&gl=US&ceid=US:en' },
 ];
 const KEY_RE = /(暴雨|强降雨|洪涝|洪水|山洪|台风|飓风|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|泥石流|滑坡|山体滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地面下陷|地震|海啸|雷击|火灾|燃爆|爆炸|踩踏|坠落|坠崖|坠河|坠机|空难|发射失利|翻船|沉船|脱轨|矿难|透水|危化品|食物中毒|中毒|泄漏|泄露|疫情|溃坝|倾覆|侧翻|遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|疏散|撤离|转移|安置|停运|停课|停工|损毁|应急响应|特大自然灾害|重大事故|批示|重要指示|救灾|抢险|工作组|调查组|指导组|killed|dead|deaths|missing|injured|evacuated|explosion|blast|fire|flood|earthquake|quake|landslide|mudslide|typhoon|hurricane|tornado|tsunami|derail|crash|deadly|fatal)/i;
+/* 例行天气预报词与气象类收录门槛（与 scripts/fetch-news.mjs 保持一致） */
+const WX_ROUTINE_RE = /(天气网|气象台发布|蓝色预警|黄色预警|橙色预警|红色预警|发布预警|预警发布|天气预报|未来三天|未来几日|未来十天|或将|预计.{0,6}(有|出现)|持续.{0,4}(高温|降雨|晴热)|天气趋势|降温|升温|气温|最高气温|最低气温)/i;
+const WX_SEVERE_RE = /(遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|疏散|撤离|转移|安置|停运|停课|停工|损毁|倒塌|冲毁|淹没|内涝|Ⅰ级响应|Ⅱ级响应|Ⅲ级响应|Ⅳ级响应|应急响应|特大自然灾害|重大(灾害|事故|损失)|习近平|李强|国务院|国家防总|批示|重要指示|救灾|抢险|工作组|救援|killed|dead|deaths|missing|injured|evacuated|rescue|emergency)/i;
+const WX_TYPE_RE = /台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|高温预警|typhoon|hurricane|tornado|flood|blizzard|drought/i;
 
 async function fetchLive() {
   const btn = $('#refreshBtn');
@@ -722,6 +758,13 @@ async function fetchLive() {
     const seen = new Set(liveFlashes.map(i => i.title)); // 已有的（含云端）标题不再重复加入
     const newItems = results.flat()
       .filter(item => KEY_RE.test(item.title || ''))
+      .filter(item => { // 例行天气预报排除 + 气象类须带伤亡/响应词
+        const t = item.title || '';
+        const severe = WX_SEVERE_RE.test(t);
+        if (!severe && WX_ROUTINE_RE.test(t)) return false;
+        if (WX_TYPE_RE.test(t) && !severe) return false;
+        return true;
+      })
       .filter(item => { if (seen.has(item.title)) return false; seen.add(item.title); return true; })
       .slice(0, 15)
       .map((item, idx) => ({
@@ -770,12 +813,36 @@ function checkNewEvents(items) {
 
 function showNewAlert(fresh) {
   const list = fresh.slice(0, 6).map(i => `
-    <div class="alert-item">
+    <div class="alert-item clickable" data-jump="${i.id}" title="点击查看下方简报详情">
       <span class="alert-tag">${TYPE_NAME[i.type] || '快讯'}</span>
-      <div><b>${i.title}</b><div class="alert-meta">${i.date} · ${i.scope === 'dom' ? '国内' : '国外'}</div></div>
+      <div><b>${i.title}</b><div class="alert-meta">${i.date} · ${i.scope === 'dom' ? '国内' : '国外'} · <span class="jump-hint">点击查看 ›</span></div></div>
     </div>`).join('');
   $('#alertList').innerHTML = list + (fresh.length > 6 ? `<div style="text-align:center;color:var(--ink-3);font-size:12px;padding:6px">… 共 ${fresh.length} 条</div>` : '');
+  // 点击条目 → 关闭弹窗并跳转到列表中对应简讯
+  document.querySelectorAll('#alertList .alert-item.clickable').forEach(el => {
+    el.addEventListener('click', () => jumpToItem(el.dataset.jump));
+  });
   $('#newAlert').classList.add('show');
+}
+
+/* 弹窗条目跳转：关闭弹窗 → 必要时重置筛选 → 滚动定位并高亮对应卡片 */
+function jumpToItem(id) {
+  closeAlert();
+  let card = document.querySelector(`#feedList .card[data-id="${id}"]`);
+  if (!card) {
+    // 目标可能被当前筛选隐藏，重置为「全部」后重渲染
+    currentFilter = 'all';
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('active', x.dataset.f === 'all'));
+    renderList();
+    card = document.querySelector(`#feedList .card[data-id="${id}"]`);
+  }
+  if (card) {
+    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    card.classList.remove('highlight');
+    void card.offsetWidth; // 强制 reflow 以重启动画
+    card.classList.add('highlight');
+    setTimeout(() => card.classList.remove('highlight'), 3200);
+  }
 }
 
 function browserNotify(fresh) {

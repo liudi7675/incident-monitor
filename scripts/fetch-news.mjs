@@ -73,6 +73,12 @@ const KEY_RE = /(暴雨|强降雨|洪涝|洪水|山洪|台风|飓风|龙卷风|�
 /* 排除明显无关词（避免把正常新闻当事故） */
 const SKIP_RE = /(游戏|电影|电视剧|股价|足球|篮球|世界杯|演唱会|剧集|综艺|转会|联名|评测|优惠|降价|发布|销量|财报|电影票房|收视)/i;
 
+/* 例行天气预报/预警词：命中则视为非突发事件排除 */
+const ROUTINE_RE = /(天气网|气象台发布|蓝色预警|黄色预警|橙色预警|红色预警|发布预警|预警发布|天气预报|天气预报|未来三天|未来几日|未来十天|或将|预计.{0,6}(有|出现)|持续.{0,4}(高温|降雨|晴热)|天气趋势|降温|升温|气温|最高气温|最低气温)/i;
+
+/* 气象类（weather）收录门槛：必须同时命中伤亡/应急响应/影响程度词，例行预报不收录 */
+const WEATHER_SEVERE_RE = /(遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|疏散|撤离|转移|安置|停运|停课|停工|损毁|倒塌|冲毁|淹没|内涝|Ⅰ级响应|Ⅱ级响应|Ⅲ级响应|Ⅳ级响应|应急响应|特大自然灾害|重大(灾害|事故|损失)|习近平|李强|国务院|国家防总|批示|重要指示|救灾|抢险|工作组|救援|killed|dead|deaths|missing|injured|evacuated|rescue|emergency)/i;
+
 const MAX_ITEMS = 60; // 最多保留 60 条
 
 function hash(text) {
@@ -109,6 +115,10 @@ async function fetchRss(src) {
       .trim();
     if (!KEY_RE.test(clean)) continue;
     if (SKIP_RE.test(clean)) continue;
+    const severe = WEATHER_SEVERE_RE.test(clean); // 伤亡/应急响应等严重性词
+    if (!severe && ROUTINE_RE.test(clean)) continue; // 例行预报（且无伤亡信息）不收录
+    // 气象类门槛：必须伴随伤亡/应急响应等严重性词（用户要求），否则跳过
+    if (pickType(clean) === 'weather' && !severe) continue;
     items.push({ title: clean, link, pubDate, src: src.name });
   }
   return items;
