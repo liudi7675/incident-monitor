@@ -242,6 +242,7 @@ window._TMapSecurityConfig = {
       <button data-f="fire">火灾</button>
       <button data-f="blast">爆炸/燃爆</button>
       <button data-f="geo">地质灾害</button>
+      <button data-f="weather">气象灾害</button>
     </div>
     <div id="feedMeta"></div>
     <div id="feedList"></div>
@@ -256,6 +257,7 @@ window._TMapSecurityConfig = {
       <div class="item"><span class="dot" style="background:#E53935"></span>火灾</div>
       <div class="item"><span class="dot" style="background:#FB8C00"></span>爆炸 / 燃爆</div>
       <div class="item"><span class="dot" style="background:#00695C"></span>地质灾害（泥石流/滑坡）</div>
+      <div class="item"><span class="dot" style="background:#1565C0"></span>气象灾害（台风/暴雨）</div>
       <div class="item"><span class="dot" style="background:#8D6E63"></span>坍塌 / 崩塌</div>
       <div class="item"><span class="dot" style="background:#6A1B9A"></span>其他突发</div>
     </div>
@@ -287,8 +289,8 @@ window._TMapSecurityConfig = {
    ③ 同时检索"习近平 | 李强 | 中央领导 | 批示 | 指示"确认是否有最高层批示；
    ④ 中央政治局会议、国务院调查组、挂牌督办事项优先级最高，务必收录。
    ===================================================================== */
-const TYPE_COLOR = { fire: '#E53935', blast: '#FB8C00', geo: '#00695C', collapse: '#8D6E63', other: '#6A1B9A' };
-const TYPE_NAME  = { fire: '火灾', blast: '爆炸/燃爆', geo: '地质灾害', collapse: '坍塌/崩塌', other: '其他' };
+const TYPE_COLOR = { fire: '#E53935', blast: '#FB8C00', geo: '#00695C', weather: '#1565C0', collapse: '#8D6E63', other: '#6A1B9A' };
+const TYPE_NAME  = { fire: '火灾', blast: '爆炸/燃爆', geo: '地质灾害', weather: '气象灾害', collapse: '坍塌/崩塌', other: '其他' };
 
 const INCIDENTS = [
   {
@@ -559,6 +561,7 @@ function passesFilter(it, f) {
   if (f === 'fire') return it.type === 'fire';
   if (f === 'blast') return it.type === 'blast';
   if (f === 'geo') return it.type === 'geo' || it.type === 'collapse';
+  if (f === 'weather') return it.type === 'weather';
   return true;
 }
 
@@ -696,11 +699,12 @@ function highlightCard(id, scroll) {
 
 /* ---------------- 在线快讯刷新（尽力而为） ---------------- */
 const FEED_SOURCES = [
-  { name: '国内要闻', url: 'https://news.google.com/rss/search?q=%E7%81%AB%E7%81%BE+OR+%E7%88%86%E7%82%B8+OR+%E4%BA%8B%E6%95%85+%E9%81%87%E9%9A%BE+when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
-  { name: '地质气象灾害', url: 'https://news.google.com/rss/search?q=%E6%B3%A5%E7%9F%B3%E6%B5%81+OR+%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1+OR+%E6%B4%AA%E6%B0%B4+OR+%E5%9C%B0%E9%9C%87+%E9%81%87%E9%9A%BE+when:7d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
-  { name: '国际事故', url: 'https://news.google.com/rss/search?q=explosion+OR+fire+OR+mudslide+OR+landslide+killed+when:7d&hl=en-US&gl=US&ceid=US:en' },
+  { name: '国内灾害事故', url: 'https://news.google.com/rss/search?q=' + encodeURIComponent('暴雨 OR 洪涝 OR 洪水 OR 台风 OR 龙卷风 OR 冰雹 OR 泥石流 OR 山体滑坡 OR 崩塌 OR 塌方 OR 地震 OR 火灾 OR 爆炸 OR 燃爆 OR 踩踏 OR 坠机 OR 沉船 OR 脱轨 OR 矿难 OR 危化品 OR 食物中毒 OR 遇难 OR 失联 OR 被困 OR 伤亡') + '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
+  { name: '应急与批示', url: 'https://news.google.com/rss/search?q=' + encodeURIComponent('(习近平 OR 李强 OR 国务院) (批示 OR 重要指示 OR 救灾 OR 抢险 OR 工作组) OR "Ⅰ级响应" OR "Ⅱ级响应" OR "启动应急响应" OR 国家防总') + '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
+  { name: '官方通报', url: 'https://news.google.com/rss/search?q=' + encodeURIComponent('(site:gov.cn OR site:news.cn OR site:mem.gov.cn OR site:cma.gov.cn OR site:cea.gov.cn) (灾害 OR 事故 OR 预警 OR 应急响应 OR 救援 OR 伤亡)') + '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans' },
+  { name: '国际事故', url: 'https://news.google.com/rss/search?q=' + encodeURIComponent('(explosion OR fire OR flood OR earthquake OR landslide OR typhoon OR hurricane OR tornado OR derailment OR "plane crash" OR "mine accident") (killed OR dead OR deaths OR missing OR injured OR evacuated)') + '&hl=en-US&gl=US&ceid=US:en' },
 ];
-const KEY_RE = /(火灾|爆炸|燃爆|坍塌|泥石流|滑坡|山体滑塌|洪水|溃坝|地震|倾覆|侧翻|遇难|致死|身亡|死亡|失联|killed|dead|explosion|fire|mudslide|landslide|flood|earthquake)/i;
+const KEY_RE = /(暴雨|强降雨|洪涝|洪水|山洪|台风|飓风|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|泥石流|滑坡|山体滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地面下陷|地震|海啸|雷击|火灾|燃爆|爆炸|踩踏|坠落|坠崖|坠河|坠机|空难|发射失利|翻船|沉船|脱轨|矿难|透水|危化品|食物中毒|中毒|泄漏|泄露|疫情|溃坝|倾覆|侧翻|遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|疏散|撤离|转移|安置|停运|停课|停工|损毁|应急响应|特大自然灾害|重大事故|批示|重要指示|救灾|抢险|工作组|调查组|指导组|killed|dead|deaths|missing|injured|evacuated|explosion|blast|fire|flood|earthquake|quake|landslide|mudslide|typhoon|hurricane|tornado|tsunami|derail|crash|deadly|fatal)/i;
 
 async function fetchLive() {
   const btn = $('#refreshBtn');
@@ -725,9 +729,10 @@ async function fetchLive() {
         flash: true,
         date: (item.pubDate || '').slice(0, 10) || new Date().toISOString().slice(0, 10),
         scope: item.src === '国际事故' ? 'intl' : 'dom',
-        type: /泥石流|滑坡|洪水|地震|mudslide|landslide|flood|earthquake/i.test(item.title) ? 'geo'
-            : (/爆炸|燃爆|explosion/i.test(item.title) ? 'blast'
-            : (/火|fire/i.test(item.title) ? 'fire' : 'other')),
+        type: /泥石流|滑坡|地震|海啸|溃坝|地面塌陷|地面下陷|mudslide|landslide|earthquake|tsunami|quake/i.test(item.title) ? 'geo'
+            : (/台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|typhoon|hurricane|tornado|flood|blizzard|drought/i.test(item.title) ? 'weather'
+            : (/爆炸|燃爆|explosion|blast/i.test(item.title) ? 'blast'
+            : (/火|fire/i.test(item.title) ? 'fire' : 'other'))),
         title: item.title,
         url: item.link || '#',
         deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
