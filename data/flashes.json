@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:36:28.015Z",
+  "updated": "2026-09-12T09:45:21.551Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -118,9 +130,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-20364ec3db27",
@@ -406,9 +418,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIRnZfUlA5VmJfRTZXRXN2bFJ6QTJ6WkFfRTVmLXNQamZiMFllWVktM2JzS3hEeUo1YmtJUGhwWHJHd2hHMnItSFpwbzhvb2hhTUo4WDVzTG03MGtucDlzV2JMdWRWcllq?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-e8879f20235a",
@@ -638,18 +650,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45b2U3aEduT0tZM2lKUWh6Rl9Ga3R6bzVJYTU0dElqYkdnSElnTW1qU3pPX0JIcFVMM2ppcUF0TEVsaHdTYXZXS1FESldxVE5DM3dEcUd5YkNqbFo4V2lCWg?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-211f50eac2a6",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 07:30:11 GMT",
-      "ts": 1789111811000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1385人 - 广州日报新花城",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUlI4RE1LLTVyRVk3empZV1ctR0R5eGIxdDdWQzdrSjBCbzJOcF9VOC1BSlZxTFB4Mkx5Q1FUSU9YY3E0QkR2cEl2VkFnZkJqQUVEcDduTWQ5bTBPaXpMclg1ZHl2ZUFZRXFFaUY3a0RsY1FYWE9GQ2RMUFI0VVpVNGFtUGRXeWxfWHc?oc=5",
-      "site": "广州日报新花城",
-      "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
       "id": "FL-8617c5212b23",
