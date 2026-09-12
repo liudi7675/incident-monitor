@@ -29,6 +29,11 @@ jobs:
       - name: Fetch latest news
         run: node scripts/fetch-news.mjs
 
+      - name: Notify WeCom for severe domestic flashes
+        env:
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+        run: node scripts/wecom-flash.mjs
+
       - name: Commit & push if changed
         run: |
           if git diff --quiet; then
@@ -36,7 +41,7 @@ jobs:
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/flashes.json
+            git add data/
             git commit -m "chore(data): update incident flashes $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
