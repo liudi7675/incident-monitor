@@ -9,28 +9,33 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Probe article page
+      - name: Probe v3
         run: |
           cat > /tmp/t.mjs << 'EOF'
           const fs = await import('node:fs');
           const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
-          const it = (j.items || []).find(i => i.url && i.url.includes('news.google.com'));
-          const url = it.url;
-          console.log('URL:', url.slice(0, 90));
-          const res = await fetch(url, {
-            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36' },
-            signal: AbortSignal.timeout(20000),
-            redirect: 'follow',
-          });
-          console.log('HTTP', res.status, 'final:', res.url.slice(0, 90));
-          const html = await res.text();
-          console.log('HTML LEN', html.length);
-          console.log('has data-n-au:', html.includes('data-n-au'));
-          console.log('has c-wiz:', html.includes('c-wiz'));
-          const au = html.match(/data-n-au="([^"]+)"/);
-          console.log('data-n-au:', au ? au[1].slice(0, 100) : 'NONE');
-          // 所有非google域名的外链样例
-          const links = [...html.matchAll(/https?:\/\/(?!www\.google|news\.google|accounts|policies|support)[a-z0-9.-]+[^\s"'<>]*/gi)].map(m => m[0]).slice(0, 5);
-          console.log('sample links:', JSON.stringify(links, null, 0).slice(0, 500));
+          const items = (j.items || []).filter(i => i.url && i.url.includes('news.google.com')).slice(0, 3);
+          const enc = encodeURIComponent;
+          for (const it of items) {
+            const gnId = it.url.split('/articles/')[1].split('?')[0];
+            // gnews-decoder 格式: ["Fbv4je", req, gn_art_id, "null:0"]
+            const internalReq = '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US",null,1,null,null,null,null,null,0,1],"US","US",1,[2,3,4,8],1,0,655000,"US",null,1,1,0,0,0,0,0,0,0,0,0,1]]';
+            const freq = 'f.req=' + enc(JSON.stringify([[['Fbv4je', internalReq, gnId, 'null:0']]]));
+            const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
+              body: freq, signal: AbortSignal.timeout(15000),
+            });
+            const text = await res.text();
+            let out = 'HTTP ' + res.status;
+            if (res.status === 200) {
+              const arr = JSON.parse(text.slice(text.indexOf('[')));
+              const inner = JSON.parse(arr[0][2]);
+              out += ' URL: ' + String(inner[1]).slice(0, 100);
+            } else {
+              out += ' body: ' + text.slice(0, 80).replace(/\n/g, ' ');
+            }
+            console.log(it.title.slice(0, 22), '=>', out);
+          }
           EOF
           node /tmp/t.mjs
