@@ -81,6 +81,17 @@ const WEATHER_SEVERE_RE = /(遇难|失联|失踪|伤亡|受伤|重伤|被困|牺
 
 const MAX_ITEMS = 60; // 最多保留 60 条
 
+/* 日期门槛：只收录该日期（含）之后的快讯，以前的全部丢弃（用户要求 2026-06-01 起） */
+const MIN_DATE_MS = Date.UTC(2026, 5, 1);
+
+/* 同一事件的消息整合：标题命中同一事件正则的多条快讯合并为一条
+ * （保留最新一条的标题/链接/时间，related 记录整合条数，前端展示"已整合 N 条相关消息"）
+ * 新的持续事件只需在这里加一行正则即可。 */
+const EVENT_GROUPS = [
+  { name: '西藏吉隆"8·26"泥石流灾害', re: /吉隆/ },
+  { name: '青岛"9·10"北海造船厂货轮火灾', re: /青岛.{0,15}(货轮|造船)|北海造船/ },
+];
+
 function hash(text) {
   return createHash('sha1').update(text).digest('hex').slice(0, 12);
 }
@@ -137,23 +148,39 @@ async function main() {
     await new Promise(r => setTimeout(r, 1200)); // 组间限速，防 Google News 限流
   }
 
-  // 按标题去重（保留最早出现）
+  // 按标题去重（保留最早出现）+ 日期门槛（2026-06-01 之前丢弃）
   const seen = new Set();
-  const items = [];
+  const dated = [];
   for (const it of results) {
     if (seen.has(it.title)) continue;
     seen.add(it.title);
-    items.push({
+    const t = Date.parse(it.pubDate);
+    if (!isNaN(t) && t < MIN_DATE_MS) continue; // 老新闻不收录
+    dated.push({
       id: 'FL-' + hash(it.title),
-      date: (() => { const t = Date.parse(it.pubDate); return isNaN(t) ? '' : new Date(t).toISOString().slice(0, 10); })(),
+      date: isNaN(t) ? '' : new Date(t).toISOString().slice(0, 10),
       dateISO: it.pubDate,
+      ts: isNaN(t) ? 0 : t,
       scope: it.src === 'intl' ? 'intl' : 'dom',
       type: pickType(it.title),
       title: it.title,
       url: it.link || '#',
     });
-    if (items.length >= MAX_ITEMS) break;
   }
+
+  // 同一事件整合：命中同一事件正则的多条合并为一条（保留最新，related 计数）
+  const used = new Set();
+  const items = [];
+  for (const g of EVENT_GROUPS) {
+    const matched = dated.filter(it => g.re.test(it.title));
+    matched.forEach(it => used.add(it));
+    if (!matched.length) continue;
+    const newest = matched.reduce((a, b) => (b.ts > a.ts ? b : a));
+    items.push({ ...newest, id: 'FL-EV-' + hash(g.name), related: matched.length });
+  }
+  items.push(...dated.filter(it => !used.has(it)));
+
+  if (items.length > MAX_ITEMS) items.length = MAX_ITEMS;
 
   // 按发布时间倒序（粗略按 ISO 字符串倒序）
   items.sort((a, b) => (b.dateISO || '').localeCompare(a.dateISO || ''));
