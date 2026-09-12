@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:37:33.875Z",
+  "updated": "2026-09-12T13:45:45.718Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -280,6 +280,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a9a5679a9606",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 13:23:00 GMT",
+      "ts": 1789219380000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西遂川一男子被泥石流冲出数十米、失联两天后与女儿团聚 - 凤凰网江西",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YR21oU0NMZ3dSWmpQLVBYSUtTdHZzRHJVVHl0TGRoalhuRU9EajV4YVRFb0xiTDNaeDV6d19XMWdxaGlHTVdzN2hB?oc=5",
+      "site": "凤凰网江西",
+      "siteUrl": "https://jx.ifeng.com"
+    },
+    {
       "id": "FL-703cc8fdadb3",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 13:01:22 GMT",
@@ -362,18 +374,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUEh4bXUyVVhNVE5IY1A3d0xCZGUtcG5tY3JRQm9ZRDVrVkFPX19Yd1IzYjdCNGFPckotZXNaZXJrZm5salhqR09odFlMTlhnNk5WV1V1NV9DdmZHc2hXXw?oc=5",
       "site": "财新",
       "siteUrl": "https://photos.caixin.com",
-      "related": 27
+      "related": 25
     },
     {
-      "id": "FL-584bc9d450b9",
+      "id": "FL-2f27bd1f3cf2",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 05:12:00 GMT",
       "ts": 1789189920000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - 新浪网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zTEZ0X2NnZDdwLTZzWHV5LUNJR09qckF6MjBKT2xNTWxmYjZVQ0dMOVZ3Z3lJUXhId1ZtT2gyV3dubnFzRjRhNVVUWEdpUUtLWTI1dWNnVDJENnlKWXU5WEo4R2JSRENfLUYwcXk4SHFIZ1NsbUE?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -413,15 +425,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-2b10791ae258",
+      "id": "FL-8bbc108b8c12",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:02:00 GMT",
       "ts": 1789178520000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列炸黎巴嫩，炸到美国人说地震了 - 上观新闻",
+      "title": "以色列炸黎巴嫩，炸到美国人说地震了 - jfdaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRHdITmdJLUZOZW9tRmV6ZEF3alBSVTJWdkFsSWNnMGltdmxhSHZLdFdqZGp6TzE3bnlWMUhranV1dGp1TXNNTHh1TlBLLWQ0Z1hiUG05cVNkdmJsa3c?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com.cn",
       "siteUrl": "https://www.jfdaily.com.cn"
     },
     {
@@ -437,15 +449,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-2f6ec70dee5d",
+      "id": "FL-67959e9fd3e4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:30:00 GMT",
       "ts": 1789176600000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - 新浪网",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WdjM5blNmdkthZkExd1Zyc0M0VUFMMzBpWVlLb3U5ZnF5VWdRYm5jNGUzZFphc3FjTnFpajFIMTZXVEM3dGFOVXZXdzY2TkFmNVpPaF9uNWJJNjV0Ry05R0VQakZWZW40WkItcnlPZVVRWUhra0pJeg?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -461,15 +473,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-6fdf3f379c9d",
+      "id": "FL-e126938f8d4f",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:21:00 GMT",
       "ts": 1789176060000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - 新浪网",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNkZRUHVCVnVsQUFNaXVFMHdMdGlVMi1pbFY4OW5yeEEyaUlySUJRazNWRlA2VHkzSzRYS2MzU0ExTGtXT2FJeHUxR0hLNlJwaXhISTBiaWgteDZBT09kRU5aWXhOeHRCQy1ZNENDSU4wX3QwdUE?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -521,15 +533,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-43cdb35f2c91",
+      "id": "FL-f49296c4ab56",
       "date": "2026-08-31",
       "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
       "ts": 1788137252000,
       "scope": "intl",
       "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - cn.chinadiplomacy.org.cn",
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "cn.chinadiplomacy.org.cn",
+      "site": "习近平外交思想和新时代中国外交",
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
@@ -569,30 +581,6 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-4f77d5627e46",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国地质学家 ：喜马拉雅山地海啸原因在于基岩不稳定而并非冰川 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNraUhPdk9iUmJzMDJZY1AxUGFfWFRLM2tkakdLNDFpLXQ3V1U5b0RPOF9RRWM4UWdEbHJmMm16aF9LdF9oeTF1M1pEbF9IX2ZVdF93U0NrZjFlU0dGdlh6bUlsekZQQTNWdV9SSlVoaUF5a29CT3k1WDhpcmY5bFNod0JXZ0xKNHZZeF9mb0owVDlfbGxsMmpRUkQyNDh2N2d3MzlDdEtWUzNUNnhGVFMzYllYaEwzUDRveF8tcDh6aEM4aGpsUWRDT081ZGc3MmxkOVcyN3pveGdEVkdoX2FPQ0pHUnozOG8yNHZkR1E0ekZrakgzT2YwMjBZWTBucUpYa0VCc0N6YV9xNGVsQThtdFBlREliekwzdTRPZnpYS00wVlo3NE1Lc1VrZzVuUFkycl9wazlGLXFwN0hjNzBzc3ZOUTh0UW1xd1I4NnVNXzJNcU5lR1hnWmMzeUhlc2U0bENfR3RNSkEzZTQwdm5JcjA?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-4ee97473f1c9",
-      "date": "2026-08-14",
-      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "ts": 1786690800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-01338425c7d7",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:25:00 GMT",
@@ -617,15 +605,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-11672a3a9fa2",
+      "id": "FL-1b7740a3b157",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 22:48:57 GMT",
       "ts": 1789166937000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼爪哇海附近发生6.2级左右地震 - 央广网",
+      "title": "印尼爪哇海附近发生6.2级左右地震 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwdUM0V2NnRlNHQVFwLWN2MTRZZlFHNy1vbmUwcUpSS0w3aXBEUHJUSXd6b0VzT3dER0VQWHBZaHU4ZU5BZm9XQkdsSlFwbHZCTWwxRy0xbTRSTzRfaENSUG9yQXFZS0RX?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -665,15 +653,15 @@
       "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
-      "id": "FL-8617c5212b23",
+      "id": "FL-c9bdcc221269",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:24:00 GMT",
       "ts": 1789111440000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - 中工网",
+      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - workercn.cn",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVZ2Mwc3FuWkhKUWVSRURseTJJY2JZTnhJSUloZ2VLWF9aVTQ2RkdHUmhpT1lMZTVOUFJCUWluZFFIcUdzYm94TmlvQklDYXdfbDVITGxDb3JIc08ydERn?oc=5",
-      "site": "中工网",
+      "site": "workercn.cn",
       "siteUrl": "https://www.workercn.cn"
     },
     {
@@ -711,6 +699,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83UkJPX1lSeTVGRVk2ek4tRUhmS192S2VzamFtTF8wN2NqRWVtM1o3Q3FaeTRsOUVrYW15SllTdWNkeEpuRG5ZMkg3cENjTUtvOENzMFFRa0RfNTc2YmNqY2hJT242Sm8zZ3JWc3pvVUxmQWM1Y1I3dQ?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.cn"
+    },
+    {
+      "id": "FL-84ec9d5c296f",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 04:45:00 GMT",
+      "ts": 1789101900000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "以色列炸地下堡垒引发4.1级地震 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQnBoVFJudzdVaWxTSWFMZ1BVTzVJbHVWektEU2R0eVVkUWhTd2gzWE5GZ0dGWDBCWlE0c2tpRl93SGNFcGJYLTZBY3VsT0dUV1U5S1Frd3dnQm5jVFJMREF6M1piby1oQkpFdjZrRFI?oc=5",
+      "site": "新浪新闻_手机新浪网",
+      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-49dcf83adb13",
