@@ -9,33 +9,27 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Probe v3
+      - name: Probe v4
         run: |
           cat > /tmp/t.mjs << 'EOF'
           const fs = await import('node:fs');
           const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
-          const items = (j.items || []).filter(i => i.url && i.url.includes('news.google.com')).slice(0, 3);
+          const it = (j.items || []).find(i => i.url && i.url.includes('news.google.com'));
+          const gnId = it.url.split('/articles/')[1].split('?')[0];
           const enc = encodeURIComponent;
-          for (const it of items) {
-            const gnId = it.url.split('/articles/')[1].split('?')[0];
-            // gnews-decoder 格式: ["Fbv4je", req, gn_art_id, "null:0"]
-            const internalReq = '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US",null,1,null,null,null,null,null,0,1],"US","US",1,[2,3,4,8],1,0,655000,"US",null,1,1,0,0,0,0,0,0,0,0,0,1]]';
-            const freq = 'f.req=' + enc(JSON.stringify([[['Fbv4je', internalReq, gnId, 'null:0']]]));
-            const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
-              method: 'POST',
-              headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
-              body: freq, signal: AbortSignal.timeout(15000),
-            });
-            const text = await res.text();
-            let out = 'HTTP ' + res.status;
-            if (res.status === 200) {
-              const arr = JSON.parse(text.slice(text.indexOf('[')));
-              const inner = JSON.parse(arr[0][2]);
-              out += ' URL: ' + String(inner[1]).slice(0, 100);
-            } else {
-              out += ' body: ' + text.slice(0, 80).replace(/\n/g, ' ');
-            }
-            console.log(it.title.slice(0, 22), '=>', out);
-          }
+          const internalReq = '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US",null,1,null,null,null,null,null,0,1],"US","US",1,[2,3,4,8],1,0,655000,"US",null,1,1,0,0,0,0,0,0,0,0,0,1]]';
+          const freq = 'f.req=' + enc(JSON.stringify([[['Fbv4je', internalReq, gnId, 'null:0']]]));
+          const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
+            body: freq, signal: AbortSignal.timeout(15000),
+          });
+          const text = await res.text();
+          console.log('HTTP', res.status, 'LEN', text.length);
+          console.log('RAW:', JSON.stringify(text.slice(0, 1200)));
+          try {
+            const arr = JSON.parse(text.slice(text.indexOf('[')));
+            console.log('ARR0:', JSON.stringify(arr[0]).slice(0, 400));
+          } catch (e) { console.log('parse err', e.message); }
           EOF
           node /tmp/t.mjs
