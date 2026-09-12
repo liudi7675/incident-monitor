@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T12:57:45.935Z",
+  "updated": "2026-09-12T13:10:46.255Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -279,6 +279,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-703cc8fdadb3",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 13:01:22 GMT",
+      "ts": 1789218082000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "说唱巅峰这波人脉地震：TopBarry 把黄霄云摇来唱《3000》… - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVTEwOVdKQ3NUeDI2M2wzZ1M5a3N6OTNCdDlYX05ydEZHX29aQWZCcHZnajJBVmt4ZXo0Z0o5NTJGbkVOcm53WV9JT0N2V2dXajQwUzU0dTVhTXpfT1lTZ0NaMXBKMzl2UlUyWnhsRXM?oc=5",
+      "site": "新浪网",
+      "siteUrl": "http://k.sina.com.cn"
+    },
+    {
       "id": "FL-46db11f224f0",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 11:56:10 GMT",
@@ -345,11 +357,11 @@
       "ts": 1789190820000,
       "scope": "intl",
       "type": "fire",
-      "title": "一周天下｜青岛造船厂一货轮起火致25人死、尼泊尔泥石流灾害已致1382 人遇难 - 财新",
+      "title": "一周天下｜青岛造船厂一货轮起火致25人死、尼泊尔泥石流灾害已致1382 人遇难 - photos.caixin.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUEh4bXUyVVhNVE5IY1A3d0xCZGUtcG5tY3JRQm9ZRDVrVkFPX19Yd1IzYjdCNGFPckotZXNaZXJrZm5salhqR09odFlMTlhnNk5WV1V1NV9DdmZHc2hXXw?oc=5",
-      "site": "财新",
+      "site": "photos.caixin.com",
       "siteUrl": "https://photos.caixin.com",
-      "related": 25
+      "related": 23
     },
     {
       "id": "FL-584bc9d450b9",
@@ -520,15 +532,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-43cdb35f2c91",
+      "id": "FL-f49296c4ab56",
       "date": "2026-08-31",
       "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
       "ts": 1788137252000,
       "scope": "intl",
       "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - cn.chinadiplomacy.org.cn",
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "cn.chinadiplomacy.org.cn",
+      "site": "习近平外交思想和新时代中国外交",
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
@@ -566,18 +578,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
-    },
-    {
-      "id": "FL-cb69fa5035eb",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 23:54:00 GMT",
-      "ts": 1789170840000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "德国政坛地震，普京表态 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rajdaa21lbWxyVXNtOTFYbmFqdkg3eHhYYWk5UWZ6S05XVGh5SF9mc05QVjIzVGFqOFhjTGR4RkhESF9ZMVB1ZUJudFAxWkNHeW1IaGlQNk1mSkdrWENRSE1nMFhKNlhYU2g4Mg?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-01338425c7d7",
@@ -626,7 +626,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanoyejhzbTJ4SFVoS01SdExGT2FlR0ZFV0tES25RLVdLMnN6UktGVzJVVDROak1WNjNGa0xkd0ZkclBSSktTc3hRMHJVeWVCbDhoZ19wQTNIU24xbWRfVW1FOWV3NnF1Q0poX24waWlVVEg2eVU1NnJPdkw5S1ZaMFpsMEdmNnJvaE1UZm1XYWdoRGZUNjVSZA?oc=5",
       "site": "新浪网",
       "siteUrl": "https://finance.sina.cn",
-      "related": 47
+      "related": 51
     },
     {
       "id": "FL-1b217b50e4cd",
