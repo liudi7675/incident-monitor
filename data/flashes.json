@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-12T02:56:59.397Z",
+  "updated": "2026-09-12T03:09:55.234Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-8fb251d8d7a2",
+      "id": "FL-a58bb9dcdb3c",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 13:18:25 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "日本名古屋暴雨 亚运会运动员和记者被疏散 - news.cn",
+      "type": "weather",
+      "title": "日本名古屋暴雨 亚运会运动员和记者被疏散 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1lxTXVYRXVkWEdsWl9uYWt4bGJRX094NEtXdmo3VEpVeXRKQ1ZQWnNaZHVMYlZIRWNDTmhaZTY0YTctelpxQ3FWRklaVU1vWXJRY2RxNFc3QWVTLXY4UmN2MFlIdUQyT2pXUF9ZRVFVQkdEOHVubU56RU1xNTJFVQ?oc=5"
     },
     {
@@ -16,7 +16,7 @@
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 10:05:12 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "暴雨蓝色预警：四川盆地贵州云南等局部地区有大暴雨 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmTGhUZkcwWkpZQW5BelM5ZFpkMzQtdHJ4MWhaNXdHTHFUcGZWRUducHl4bkxBb2ptWkFyZUtUUTlNR0h1eVlkMkpOTEN2Rk1xSmU2bFIwdUlBWFNf?oc=5"
     },
@@ -25,7 +25,7 @@
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 10:05:06 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "山洪灾害气象预警：四川贵州云南等部分地区可能发生山洪灾害 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QQ0U5OFFRN0RVYXZSWmc4VkxOVjRVOVpHNXozY1h0QWx4bFBERGtSWExrZ0t3cW42TXdOZFhPNFlKdFFIV1VZRzQyXzhBV0RUaFhxN0E3YjdKYU0y?oc=5"
     },
@@ -34,7 +34,7 @@
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 07:40:51 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "甘肃今夜到明天仍有较强降雨 甘南陇南等地部分地区有大雨 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHUmJBNlJZN0Q4Mm13N2ZlWTJNNHJpdC10azh2elg4NXRqbklFczVRTmxtS0NjNmx1NFlXcjFoa1UxdGNpYy1OLXFIbnFHWFNZdG1MLUNRTDE0UlRq?oc=5"
     },
@@ -43,26 +43,17 @@
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 03:08:38 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "陕西未来三天降雨仍频繁局地有暴雨 西安最高气温或跌破20℃ - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtTnJ3T3RHM01RMnlTbkNiV0dldTR3TjhvMzJaTXJqU3VwZFVvamhtaFZpeTUxNkktMG15WmFnZzV1WFFyQ2xhaXNKVGduTjNpUnpYQ21jaFJyc25z?oc=5"
     },
     {
-      "id": "FL-b95682b5e00c",
-      "date": "2026-08-25",
-      "dateISO": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "台风新动态！苏州最新天气 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWxqTFpnWS03THhZZW45U3RIVzRWbU1wb1dVSGpHSncxN21BRU85eGxORmpHNUhvSWMyZDVvTmRWM3JNV05XMzBFNEYxS0dTbDVoSzFXemliblRJRkUwSl9BWE1MUEVoNmNHNERFc1hHeG5PLVBuREZxRkNWb2I0QUE5TEhoZVg4WkdKQg?oc=5"
-    },
-    {
-      "id": "FL-dcb09b813030",
+      "id": "FL-026d122dfc5b",
       "date": "2026-08-27",
       "dateISO": "Thu, 27 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "台风“沙德尔”强风雨将逐渐展开 西北至华北多雷阵雨 - news.cn",
+      "type": "weather",
+      "title": "台风“沙德尔”强风雨将逐渐展开 西北至华北多雷阵雨 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45YTJEWjUxeFhraDh3RVA2M3RIeGE2MEFCeWxDZFZlRm9GMGtHTk05MjNxQTJONmxtSWE5UjJvM01DVnJycUZPbWpFdU9aaHNHNzdiSlZ6X3FVZ0c1MFpfdlJ4bk9PeE5YVzVFdEgyMFN6RkM5NVQw?oc=5"
     },
     {
@@ -70,7 +61,7 @@
       "date": "2026-08-27",
       "dateISO": "Thu, 27 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "西藏尼泊尔山洪暴发是甚么导致的？ - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIb3JHbFB1akVhWV9sT1lQOVZ2NGdnOTFVeWxzamVtajg0SmthbThpV0FZM2NINVh4aW5veURIYW1xOEpmVXFXZTdIdkhYaEkyWGxpeUx3Rjc0ZjJzbWdPRDFIV0pFUdIBa0FVX3lxTFBpVXByNjc5M1lHbHFuMV9VNzhuZEdTRG1wMEpwSnY5bkZ6X1ctUzlYZjRaWE5EOWxyQ3RBaVV0LVJPd0drdkdDeHBjT1RtWkwxb1NZZ3k0MzdJXy1ZV2dPVDB5OU80d0xyMnVJ?oc=5"
     },
@@ -79,17 +70,17 @@
       "date": "2026-08-27",
       "dateISO": "Thu, 27 Aug 2026 03:09:39 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "台风“沙德尔”预计28日在浙闽沿海登陆 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWdzN2hrQ09qTmZmcVNaSW94cDFrdDlkZVBfRV8wSDBQRTIzT25WZ2pDYTlsVnZKNTlzdlRfS2thSmthS2xMXzNqMWtQMjJuY2RMTThrZUZnQS1ITzlObGEzZVlMNjU5bUZRQmFfTm8xcEhhZVlBS3NGUXJMbXkxMjlYV0E2Q016b0gtTWVfWWpiV3NjNnFCajBn?oc=5"
     },
     {
-      "id": "FL-547bae5dc221",
+      "id": "FL-ecc0378e9666",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 23:55:53 GMT",
       "scope": "dom",
-      "type": "geo",
-      "title": "全球河流每年向大海输送26万吨微塑料，暴雨洪水是关键推手 - 科学网—新闻",
+      "type": "weather",
+      "title": "全球河流每年向大海输送26万吨微塑料，暴雨洪水是关键推手 - news.sciencenet.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sSzBKbGd0Q2lINzZ6NlMxekhoMGtiZXZpdkoyTzkwbkduNGhZOUFhTUxoTW9zMFFtRFg5TERRX0NkVlNxS3FzblRsUDlWejVHNnl1dzI3dENMZUw1cHVzcURYOXY?oc=5"
     },
     {
@@ -97,7 +88,7 @@
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 22:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "广州部分地区出现雷雨雷电强对流天气 一道闪电击中“广州塔” - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Dc05kaFNBNHhhdnh2c29XTGRTZmpVejlHUmpRdlVDOUhfTjhmRDJGb1M5eFNBeEFKSlR0ZWtWM2hmd0pZWllCYXExN2FGMlV0NjMzWWhhU3JRbF9LemoyWE1lenU?oc=5"
     },
@@ -106,7 +97,7 @@
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 10:05:06 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "山洪灾害气象预警：西藏青海等部分地区可能发生山洪灾害 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQnNzZkVWMmI4V2VhQTlKaDFiVTJQaS1yRWM2UXp3bndzSlVnellxc3dSakJ5QTFrMk9EczdUNWFXOWFUdXlzU0VtS0NBNjN1dmVaQ3Jnamx5X3B2?oc=5"
     },
@@ -115,34 +106,34 @@
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 09:06:28 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "海南警惕！多雨！多强降雨！ - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56UlNvbWpWWU4zaVBUSy1lWVJhZmd6bmVraUkyTUFFdFVuaUVuTlk3M01JbEtxTUlsVTZmLXRCV1duODJnVFVkM1hrQ2VzOE9CMzdBcGluLWNXR0ktTkxrWV82Vmo?oc=5"
-    },
-    {
-      "id": "FL-3d7bd8ed289a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 08:13:45 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "不到24小时两场龙卷风袭击巴西帕拉纳州，一片桉树林几乎被夷平 - br-cn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRkRKUXJvMmotaW0wcUFNd1BBRktKWmdpcjRGRHY2VHRUN3lWZ09DYnFXa1Rsb3U2V09NRGVtYk80cWpSdWRNYjdYZUNENVdfTnNZbG1KNkZUSHotOUNTMEVpcTdsbW02Y0NxWDRaVWtpUW9reWtWRDFvSHJiSG1ZZ0M1RHFZeHdrdVBWcDBn?oc=5"
     },
     {
       "id": "FL-fdb04018126d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 03:03:07 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "未来三天海南多降雨天气 海南岛东部和中部局地有暴雨 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EbUEtNWlJOENDRDBIc2dMSktCckktRXU5V3F2U3ZWYU1SMnBDXzV1Vm5haDAtMU01SVNNMzNHUy1nSW9nOFVobTdjQkh2MjM0ZkNBQTBUMHhfU19z?oc=5"
+    },
+    {
+      "id": "FL-fc22780a7f32",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 03:01:00 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "未来三天南海热带扰动将影响海南 中部东部等地有暴雨或大暴雨 - 天气网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQmwzNVg3NDlvU21pY2FLOExMNFhOdmJqTE9adk53MzVhTTBuZGhNNXdIeDBlX01rSWxTMmJjNk5yQW56VkJ3c195bHJIWlFfUGhEZ21VMlRvb0lF?oc=5"
     },
     {
       "id": "FL-91220cbc47ce",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 02:49:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "日本中部暴雨致1死40多人伤 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JekNTa1BxbjFTTGh2bFRSVE5mTnZfNWFSM3h4d1Y5RjFva0tDbWJ2MVNFLXY0aWJ2REk2dXEwVEMwMlJaUDRXQXByWXhQaEFKc3B4Z3J5VzBaMVZjcE42VmJzbTB0UEFYRm82RnltTHYxZw?oc=5"
     },
@@ -151,7 +142,7 @@
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 02:47:03 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "未来10天四川等地降雨将较常年偏多 热带系统来扰海南有大到暴雨 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95c3dwN0NGd0tQOHg3a1ZZRVpjcDY4MlZkVE8tM0RuWEVyVmJGb2ZoSl9RZXlORU9CNUJHSUJ4S1p0eEhjcnkyNGtXaUladkUzZ0tsMU9LaXZ5UEpu?oc=5"
     },
@@ -160,43 +151,70 @@
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 02:38:10 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "云南今明天降雨连连 局部有大雨或暴雨需防范次生灾害 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85bjdNX3dvZkd5aGRrODNfS0txYW5hTHR2Ul9TNkFNaXRpNnhZS1BSQXJsUTh0Qi0yNUViTE9lTDJqemQ1Zzc0aEU4MW94c2c4MnU0bGgycURfSjlW?oc=5"
-    },
-    {
-      "id": "FL-53a26464b1c5",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 01:25:57 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "降噪防尘抗台风 广州白云展览中心超大基坑气膜投用 - 新华网广东",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXJDcWZSSmFVNnY0ZjlOWGpKQ1hjenhpdzlBcG9EQWJFTS10bXNZazRQQWRKYlZEZ2hKdHVKcjhuWVExemF6RFRVWF8tM2ZFYVJ2MTVodXlDSnAxb24taUNkWlhNQUhrUDBFSUoydy03eUJvY21lMUgxNy1pdGU5R3hn?oc=5"
     },
     {
       "id": "FL-cfdea5d74b6b",
       "date": "2026-08-29",
       "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "工人记录逃离尼泊尔致命山洪的时刻 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBT2wySTVCWkU1dnVLZEktck5Wbmo3aVNCY2gwYzZjLWQ1ZUJiTnUtN05MNC11UmV0cVZ6dGdIeVNxY3lLazhlQkgtWFh1NG10LTllN28zODZJdzVNXzBXbU9xa2xGQdIBa0FVX3lxTE1vMnRQd0JWRUEtQmZGcTRDU3hiemg0M2UwaWM4dnNqRWYyLXdpM1FIOUNXUFBRNkRtMDB0WFJaRXJiWXJEbktsQUNxNEowN3k4WEF0X3dURmRCRkFOT0doMVJQMk5WZTBCMzdZ?oc=5"
+    },
+    {
+      "id": "FL-4310f26d9217",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 02:59:01 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "南海热带低压生成 海南、广东等地有大到暴雨 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pY1dLdWlsaW1pZW90ak1lRTlvZUptYjZFSGs4UTFRX0tGZ2NHcFQ0bW15UXpjVXFBUnZsWkQweXBLNENXenBIVVJKSzhZQi1uZHhVZ0puMkpsVVRteFg5QXVYZXhGN01zNXFad3A2Qy0?oc=5"
+    },
+    {
+      "id": "FL-ee21e019eded",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 02:57:19 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "开学典礼突降暴雨，大学校长就讲了三句话 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iX3dPT0NwU1I3NFNJX2U1RXBZZjJ0bFNZSXJjZDNsRzZoWk9jNTVqRTJkejR4Y2pqVW10NkR2QWd4V0tGOW5KX1RRUUtFQkNzek9saWd2aWZWWjQzWlE?oc=5"
     },
     {
       "id": "FL-c002845d2b4a",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:54:36 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "geo",
       "title": "爪哇海发生强震 大马无海啸威胁 - mediaselangor.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51Q09vNE52Z3hzYnVqVElhSUNJaFFQN2Z5X3NkYk83S0tDeVJxMEJlREp6WGN1VWZPOE1VWjJaLU5yLVhRTTRUNDJqS19iZkUtRzV2M3dB?oc=5"
+    },
+    {
+      "id": "FL-90b2d2c0add4",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 02:50:00 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "超强厄尔尼诺或将来袭，120支招四类极端天气急救 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xbWZGVEF6VjRoZ3hOTUYyTzhYNXI1UHlORmJUY2w0T1NjdHlDQms2WF9xaWtWdWgwVHcyZzVuV2xLT3BWTmF5eUZaamFqYjFHeGpXd3ZhQnN2elNBcGZN?oc=5"
+    },
+    {
+      "id": "FL-bab9b725aa7a",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 02:46:00 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "宁波大学开学典礼突降暴雨，校长只说了三句话 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jYnpSRkstbDFVeVNkeFF0eXJjeExlWFhHckJzSTdLVDY4eWFQcS1nMDZTbkg3RXFPQlp4UDB1QmFjT04zVVBtb0xSVllLWW84cG1ZdzlkZ1M1UDREcDBYbS1xR3Nack9wLTh6YWZ2TFdSWmFlUTBsTg?oc=5"
     },
     {
       "id": "FL-fedc93d116a6",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:35:17 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "视频丨宁波大学开学典礼突遇暴雨，院士校长只讲3句话收获好评 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPa3dLMEx2c3hSLU8zeXRPMng2T3EzenB1dUt1VnU3emhPREI0WkVWLU9IRUJaWE1jb2V0allMUTFIZ3V5MzdFellSeHRsSWZBRTNOajVuakxfbFBoWmh4MHRpTWIwU0hzMXpQTVRMVEVadw?oc=5"
     },
@@ -205,7 +223,7 @@
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:32:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "宁波大学开学典礼突降暴雨，校长只说了三句话，用时40秒 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kUFBhLWNSZmdCRUNaODZ1V01IYVJ5N3B4N21UWlNkYmZKUnNkdXFDWGp1aGxWcUNQMjY5SDVFSkRCWUR4bFhjd2FPSjBEcWJiUFNVVzBSeVFVMHZfUE15aWNmUk1ud2xsM1ZhVnhHa2JqSVRYSW1sbA?oc=5"
     },
@@ -214,71 +232,71 @@
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:26:42 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "南海热带低压持续影响海南 未来三天局地或现特大暴雨 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BT3dkbE5EQnRrUTlrbEZJVzJTWXgwRWtiUUFhdHE3OWFIN1ZUdlo1YzBZNWllN0JhY0tIWlo2N2NKTDYwSjc2N0pSU2ZKTGRKR2JDRWNQZzFPb1Zk?oc=5"
-    },
-    {
-      "id": "FL-46265c76459e",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 02:11:44 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "冲上热搜！开学典礼突降暴雨，宁波大学校长放下3300字致辞稿，只说三句话，全程40秒，提前结束典礼 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR0RyQVUyNHZwcmtxWjlBdTByeThwUUJCM2tLUHVLajlyb1lhLXYtMVdRYm96eDlkbDBmSlNralpUSW9jSzF2ZmZPUmtMYWJsaWl5TnhNbGNzZUhuRUJFWVFTWkZBdm9oLVlIbGJMN1Rzbk80QjN4Zjg3T0h3NzhYaXdKdURnSF90ZF9DRA?oc=5"
     },
     {
       "id": "FL-b6e556ccdedd",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:58:53 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "南海热带低压加强为台风概率不大 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlYXEtUVlyVHpXU3I1NUxiUU1zMFlDWXFWQU9QNWszUkg1alBRYVh6ZlYxcV9lVkR0RHpQRzRoWXBVZWlyUm04RnJTbFVrbUZoWnoxM01DS2t6aExfZEE?oc=5"
+    },
+    {
+      "id": "FL-d34541c14a71",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 01:47:12 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "炎陵县“沙德尔”台风灾后恢复重建工作调度会召开 - 湖南红网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16a0xsbTIzQ1ZTR2g2YjhXVi1jSlIwM2RJWGJOOXUyQXZuN1EtdUh6UGUtbzUxdXFwbVpYOHZyd1NZV0U4YlhQZjBoQXpCdUo3Y1JEekpFa0s3akpnMWJfbmtn?oc=5"
     },
     {
       "id": "FL-bcb788936280",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:46:19 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "抓紧晾晒，今年首个秋台风或来袭，广东有大雨局部暴雨|广东省|南海|阵雨|最高气温|天气预告_新浪新闻 - t.cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmtJeUF5SlpSVDVaLTVoTU04a1FuUlQ2eVhIM1VpRmRKYkJxNHpfeFBMUUdJbEhDaWlBX3hXMnh1TzNiV2dmR2w5ZENpZ1RWWUkybnVLS1pGWDhkZ242Ym5LWjdHTDc1RUY0NHBRbkdZOTN6UFkxdTEtV0pSbGsyVGJYZEpIbmVKa1RpTjM0S3p6OEx1S2wzQWRIY1NRLWp6OUcyUjhBLXZpakRsbXkxLTdVS1piWGRMYVRUWHpYdnNaQkgxY2t2SFl4R0N4Vk9rZDQ2Uk1lRQ?oc=5"
-    },
-    {
-      "id": "FL-382007b003f3",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 01:44:26 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "南方“炎值”加码、局地大暴雨 北方秋高气爽昼夜温差大 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VM1lFWXpvMU1zYUxkSlhWTUZGc0gtWnRfQm12eUxsM3BrZlh0R1FHSFAzVmxmT1RNVzRPWGtBSU83LWczSExYa3ItZWs1YzBGWnN3WG9ncFVsM3Y5TTBqeFV0Y3RSSy1hczhIbF9WdjdWMVFCTWhkYQ?oc=5"
     },
     {
       "id": "FL-e5800641632d",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:30:45 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "中央气象台：农业干旱综合监测（09/12） - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGJaa0p0VlkwYVRFNHBtbkVoSndUdlBPOWZRcWUwTGpKcE4zenVWOGxBTTlBZ3JILWZrVlJqOVg1YUhOUXAwa1d2X2UyaHFQTmJBVFRQM1ZvTy1GQ25tYU55bGtPcDF0SG9LUmxLcEVOOEtGdDdDU1pjU3MwTTI2Mmp6ZjlTN19USEFiNw?oc=5"
     },
     {
-      "id": "FL-50872ddfa7ff",
+      "id": "FL-6a9171bb44ef",
       "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 01:21:11 GMT",
+      "dateISO": "Sat, 12 Sep 2026 01:23:00 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DVGFDUEdpOGp2VDh2QUVZRHE4ZEIxdmsyaUxOTnZJb0hZXzB3Q1ZnWnJTcDdoZ3BDYVBnQ2FxUXBzdlgzM2xhUjB4eko5RVJ3dHc?oc=5"
+      "type": "weather",
+      "title": "中央气象台：海南岛等地有大到暴雨 西南地区等地多阴雨 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sZTlWejNWdkN5Q3N0TEMzUm5POG4wT0tGY0FnUFhhQ2VxN3FGdXA0aFhzc1FOV1ZTQjZoXzdSbVYxWmFmY3ZYOGJVVEVZTEVLcXdZQ0xITEtyWUFiamJyX2lyYVZXVVlrWkNfZ1otVzFqYXNWLXFXSw?oc=5"
     },
     {
-      "id": "FL-6139608f6879",
+      "id": "FL-269cadab45bc",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 01:21:59 GMT",
+      "scope": "dom",
+      "type": "weather",
+      "title": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3ZPU0dCUWpyczZzYmp5Rml5WjQ4NTl4NmwxUTJxMXd3UFI2R18wRXhQYndBX2g2TmlOX1RmdERzbFdtZnhWUEl4TEdyVGlnamdRQk5IcDB6RmhmeDdya25LcXdFT3NSZmNrZ1Bra1JMcHJ1QWZIVVJocmNHWmlIOHRPTQ?oc=5"
+    },
+    {
+      "id": "FL-166298beb8ec",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 00:40:26 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "厄尔尼诺将如何影响非洲 降水与干旱风险并存 - news.china.com",
+      "type": "weather",
+      "title": "厄尔尼诺将如何影响非洲 降水与干旱风险并存 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaThzRW5kcHR0Q0gtT09fTUFIS0RLcU9WcFZ3NHNnd0pBaHdBRDRjUDhueDFUS2JKYXBBcWUtb0RwVHZaVndjazlhQm8tMk5NQm1kRnQ2djBodDFOaWVWQWtQeTlqa2p2Rmo0RUpLYTU?oc=5"
     },
     {
@@ -286,26 +304,26 @@
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 10:05:06 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "台风蓝色预警：“科罗旺”向东南方向移动 强度变化不大 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NVlZBaTNRWGdYN1dXeDJMWEdJQTRUUkVVM0RYcHd0MEVGOS1MMUR1c1J3bkpMeTAxUWZ1b0xuSWxtdjZrdVRGeVRldEZnWnB3Smo3ZWdHbEpKdEhj?oc=5"
     },
     {
-      "id": "FL-4d453d199a5b",
+      "id": "FL-c7ff66c7bdf7",
       "date": "2026-08-24",
       "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "台风“紫檀”“原地打转”四天背后的原因究竟是啥？ - news.cn",
+      "type": "weather",
+      "title": "台风“紫檀”“原地打转”四天背后的原因究竟是啥？ - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjV211YU52YlRUcFZVNGJiUVBIYTI0UE4xZGlLY2ZfUmoxTnRhdEQwOTVZWHlNOW9pc0ZfVUc3RG43YmlqMV9KQU85MHo2WUJhVVEtMGJITWdNUHhVbUJ3RkJhU0RQVUZSRGRCTWhZdk54dnctbXF3?oc=5"
     },
     {
-      "id": "FL-7223a316ce15",
+      "id": "FL-05a8ce0fee01",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "台风“沙德尔”登陆浙江玉环 强降雨时间长影响将波及9省区 - news.cn",
+      "type": "weather",
+      "title": "台风“沙德尔”登陆浙江玉环 强降雨时间长影响将波及9省区 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUJveUtLSzV2Y0VMWGc0bU5ndGF6QUxmWEYxY2w4NnZqZDRLbEZTYld4VmNIREdnVlFSSFlRd1hrdUoxV1NMWFl0em4ySnk2N01KRy1EOXhnZElVOXlRd3dYSm9pa3RzUEJIQ3VfWUNPd2hVT0NPVmItWGlsSnFVX0FHSQ?oc=5"
     },
     {
@@ -313,7 +331,7 @@
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "追溯西藏尼泊尔致命山洪如何发生 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WTDlWRkNha1A4R3RXMzhrXzFrNXVDNmRqbDNfZ2ZWMU4zZi1KQ1R1NWRtUWtGSHNHUGNqc3RlWGZJczlMYllrbnNLblZQYmVFQ0VJSEt5YmJuYVJGSzJsYTlmQ2xOUdIBa0FVX3lxTE5NX0s1UjIzeEs1NGMzMmpoaWlXVzJIei1xN3NaOFVxeTV6cm9ZbXlZRE5LdUwwdTYyMmpFaDRLSnZGMHR0Q0FyeGtNb21QdVBOTUIyVjRYeGt1bm1sd3U2eDVsNTh2R3JrVVhJ?oc=5"
     },
@@ -322,7 +340,7 @@
       "date": "2026-08-21",
       "dateISO": "Fri, 21 Aug 2026 07:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "最强可达超强台风级！“沙德尔”会登陆我国吗？最新研判→ - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VVUN6Ujk0ZExOOXdDSVRybUU3X0ZSYlR2VUM4Z2NOSURlM0RwUU9YeHFBTGJldzVDS0dNWjlhN0N4YzJZcXRrWFRCbXdkYkdybUJTRmFwblpWTE5LSzFwUGpmaWhLOFFFaXlWTFVVZWU?oc=5"
     },
@@ -331,7 +349,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:48:12 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "台风“杜鹃”或将生成！福建局部大雨暴雨！ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZWp3bERqNzUtLVBLa21TZFh5YnpYUGhNelE1ZHkxNDNkRFlwM0h3aEcyS2FjUWp0RzRlMXpWcGJ2cjBnQmZRZzhEVmF2amtuQWpaSkR3dEFmRWl4ODItVXE4TVJVUmhBRDJMNl9fb1BrNHd5OTZfc3lWTGRjU2d5Y2ZBaGF2SUlsX2ZUZ2RnNzNGaGZ1LXMtY3pYc1ZmYTVKSTJoNl9kUUFsOVpHdnpzQXFDTjROQk1Nc1lxMjFOTG9zV0YyUlRNbHpFUUJyZFgwSWE1bXJTVDY?oc=5"
     },
@@ -340,7 +358,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:44:52 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "早安杨浦 | 双休日阳光回归升温！今年首个秋台风要来了？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBcmJZcXZUYWlYLU9OZWJCRGxyVF9IbElMM3hGeVdwNDdrQzc1bmVPYmN6TFlwN1hCMFpKNVRfVnJVNXpkWF94ZlUwVmR3QzFVc095dHBCeHdtcTRkOFJfbmJXenNhY0w1S3hEcG5FUnFEWUVmM3QyUQ?oc=5"
     },
@@ -349,7 +367,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:26:15 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "广东，将有大雨局部暴雨！新台风或将生成 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV0ZtSzc5U1FRWjhUZmZDSVdPRnRzT1RFX1ZQU0hzWFJYM3Q3WVM1d2t0NjlKZTR6b0ZqMXA1d0ZmMTBIajV4T2w0WTQwOXVTd2tza2JjYVJHS3RyS3VqN0ppTjk3OE1DdkgyUkNFVTcxVWE0ZkdVOHBUUGRzYmhnNG5nUTY0N1BsOEJxYVUtZUxtcVg5MkxBUkxIeXIxU2NCZzYwVjBnTDZzMWF5S2xrcWlGWlVLdTktNWQtNDE2WUtVcENmRjhjNE5hYmY4eWN5YzJsR0x1SQ?oc=5"
     },
@@ -358,7 +376,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 22:00:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "铜梁区石鱼镇开展山洪灾害防御演练 - 华龙网",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBua1FNRUZYR3MwbWprWWRNdnlzWEVlSEd3QnZ4RlQ4azNDQ0MwaWdSQmppWEowOEpaUjBTTE5Oa1I3ZjEzeXZxVW1BdFFweG1qMFRsWU5nTk1vc1hkVHZQb0x0RmZOYUJ2aERN?oc=5"
     },
@@ -367,7 +385,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:40:05 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "累计赔付3.35亿元，江西扎实推进台风、强降雨等自然灾害理赔 - 凤凰网江西",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE50Nnh3S3FSVGhVYnNlNHhpQWFwNnlxRDdwTkpiVm45UlEwZW5tbGNHanoxajJMa1FLVlhmVk9FOUFLbFhpU0pnUzV3?oc=5"
     },
@@ -376,7 +394,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 17:16:28 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "【安全提醒】暴雨天气这些安全要点请注意 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFFVMm9KR3hmZG1RTGJNSWRwRWFyR1ZFWmtXQ0NIWEdjV0tvZzAyRDRLTldaeWp0dXJiRTktZmEyMDlQQTROY2lvajJrRFJ0Ykh6OEdvVW5CeDFTVklrendWcXc3dTg1WDUwWVl2dmx5QzExalVTeld4WjNnRUh4S25ZQ3RwT05nRWFUYQ?oc=5"
     },
@@ -385,7 +403,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 16:05:53 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "今年首个“秋台风”或来袭，深圳周末天气将“变脸” - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUnVzNjBnTDVpemdXOTYxbmh0ZXE3QWoxV3d3c29IbzZ5R1c4ZGhFWnljYWU3cGs0dDkxNElxYUh1N1NjaHdiNUdrVThzVzltRlhqNXFlbExnVnVMay1idjhFb0ZvYXR5dFhhRkd2UW5uZFZWY0tCbm5uYUhGVFFEdmdfYVdEWU91bnBNWm9XdkZmY2lCdXRkVg?oc=5"
     },
@@ -394,17 +412,17 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 15:33:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "宁波大学开学典礼突降暴雨，校长发言就讲了三句话 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZENGandEbzI4NXJaa3lrTmphU3hNNHVzS3ZlUk5DX19DdjJPT01UV2Y4NDdPMGlmYVBMR2RMT2pCS2pIVXZ1eWtmdTF1QjUtYlZUbUZZbFdNOU9FUHc?oc=5"
     },
     {
-      "id": "FL-eba1e4ce688b",
+      "id": "FL-b2d995522a9a",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 14:49:00 GMT",
       "scope": "dom",
-      "type": "other",
-      "title": "宁波大学开学典礼突降暴雨校长发言就讲了三句话-新闻中心 - 中国宁波网",
+      "type": "weather",
+      "title": "宁波大学开学典礼突降暴雨校长发言就讲了三句话-新闻中心 - news.cnnb.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90OHRVNmc2eEl4Z3FUeGg2SGpsT1FtZ2VKWjl5aElSWXUtZUFMMjBKTTM2V0xSYVhxYWVqTmJmcVo5QmxVVUlfRDZ1MFJCU1BsaDhkYzlNRlRrbTdiQmpHcjhXeU1CQzF6?oc=5"
     },
     {
@@ -412,7 +430,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 12:34:23 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "周末阳光回归，下周多弱冷空气活动！台风“杜鹃”正在酝酿中，或成为我国今年首个秋台风 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUtHXy1qSGtmN2hMX2V6Zk9XcW4zaUtjQlkxdWkyUkJjeGRmS0FwMV9pbmU2VElQc3F2QnNqMERNWW93RkdiVnBMaTYtejNEOXB3bG9MNko2amFxWnBUWHl3bDJzcS01RFZkSVRTZzZuVDZ6MktUbnRFNzJtb2RvT0lPQnJNd1dHcGdEZw?oc=5"
     },
@@ -421,7 +439,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 10:43:07 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "山洪灾害气象预警：海南、西藏、新疆等部分地区可能发生山洪灾害 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GYVlfMllfM091X1FCMHlRbXFQeU5GRVliX3Bwc3NueHh5UFR4b0ZQU3JXZm9WVDlEb2JxVHNWWUM0Y0xNaHo1b1B3cG4tR2lNVGFJdGpSMk4yQmtpZTB1M2hVcVlMZWowQXc4SWZ3aGxVU3c4S1Fn?oc=5"
     },
@@ -430,7 +448,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 10:28:44 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "今年首个“秋台风”或来袭 华南多地将遭持续降雨 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYcURFRWFsTGd5VjVYTlBiZXlHb1ZNNnRHcHhWRGJpcUdvZWhobXFMUWEwN0VLNFJqcE5MZDNyd0NLTlg1Tm5hb0hmcWdoN0hMaW5Td3ZtTFVqNEhWaDNDU1drNHNpZzZFY1FnR1ZVQ3dJNDJ6bm5uRg?oc=5"
     },
@@ -439,7 +457,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 10:23:55 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "台风“杜鹃”酝酿中，或成为我国今年首个秋台风 海南、广东、广西将遭遇持续性降雨 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0o2d2Q0aHFFdGVGOTM5MDlyWWdLZWNuNnY3ekJLaVQ3VDdGY2tDclZvNjBKdUlLc0gwaVFwTVNXSUprUXFWRDA4ekl3WGxmeUxHUWljTkp3UWtONnpqWjZndzR5SjM4VWJpZGswX2pmbjBoTVhXM2JzUm8zdVF3aU5SU2F6TjhseDBIaEdWNm9rRGpZRzg4UnJoRW54blVaRzg2V3ZDaXJmOU9RQU90OGgwbGs2THVXVzNKdUlQSU85cXJKNU1kSWU1R2UtOXE5clpXUk93?oc=5"
     },
@@ -448,25 +466,16 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 10:16:29 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "周末天气 | 这里暴雨大暴雨上线，北方昼夜温差在15℃以上，一日如过两季 - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtYlU0R292SFM4Y1BqU3dVSWhtS0szLUdKbWxfX2NKaTNJeExCeEdMQ3A1aTkzQ3NPbVZHOUdpaE5oUWhtYkVyZ1NETmFhWVRFd0l4UnZoaTRSQTBn?oc=5"
-    },
-    {
-      "id": "FL-d86e59723f38",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 08:48:45 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：全球天气公报（2026年09月10日） - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5odjd3OFBjVW9pU3VfbFBCMFhWQ2Y0N2k4bi1IanlWU1ZhNVdSSzNrZE84WUN3bjFUcjMtNkFaTEh3c1ZwZ3B3ZFlVT0VobHZYYjdjM25vM004ZGpNT0JjdGZjUVFueDhxZjNUZ3VHNXlsdHpxMENINA?oc=5"
     },
     {
       "id": "FL-720649743613",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:51:39 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "热带系统来扰海南多地有大到暴雨 中东部炎热范围再度扩大 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUDZVclpvVDFPZE9jbm9BaW16bHBFYzVKMVlwNkpBM0EyZG1tdHBSMTlLT3FYZHRMMkJqX3R2MTNQQTdqYzRGMDNNRFZENGpwcXJZb21IR0szSWNUQXZad0ppcHdqaEZpeTRtUzJuT2p1UjRPTUJzRg?oc=5"
     },
@@ -475,7 +484,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:30:31 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "科学圆桌会|专家支招极端天气下的急救 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUjZlNW5KUzItY3B3MUZuSWphT1AtenhTYnExd2x6Sl9pRmZ5U2I4TGtDcmNsZ0JFUFB3UGV5dUh6OUhid1YwVmFVRVAzbV9TMUljUWRNdTBvLThZMURveEJmbkJzUFRndk02b0J0VHpzdUdVampNRUd1UnRhTm9EUUNndFFsNkZw?oc=5"
     },
@@ -484,7 +493,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 05:22:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "暖侬心｜“孩子留下，我们帮你看” ，台风天超市老板一家接力照顾陌生骑手的宝宝 - thepaper.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CdjJBMXpKTVh4NEphcUNLckJvWjdhQzI4TFBGdmR6YmJmZ24tQ2xONmtrdW1zSTZrdXZRcFBkQ21LQzM1Sm5IdmtsS3h3QQ?oc=5"
     },
@@ -493,7 +502,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 03:37:46 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "海南警惕频繁强降雨！ - 天气网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KM2ZGamQxeEdudG1zcXJCY21zVV9Cb3cxa2ZSZXhKQ3hWRl9VbkhpLVEtejNSSWl1b2pEY2MyNVFuaGNNeFUxOHdvTHZQTEhiNWdLbDlpU2NYaDJJRk8yUlRxYkw?oc=5"
     },
@@ -502,25 +511,16 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 02:45:25 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "迎战台风“沙德尔” 井冈山众志成城抗灾重建 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MMTVaRE9hUTZfZ3NObmtGbW5NU2xOVlY0cDFQR3FuRkdxRnh1ZTAwdXBTMk0wNk1NWlZ4dWMxLVFEd0p4SWQ1aVBaOGREVW55M0R5QzJVVmU0N28zenlNcnZUTFN0OGRV?oc=5"
-    },
-    {
-      "id": "FL-fc22780a7f32",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 02:10:22 GMT",
-      "scope": "dom",
-      "type": "other",
-      "title": "未来三天南海热带扰动将影响海南 中部东部等地有暴雨或大暴雨 - 天气网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQmwzNVg3NDlvU21pY2FLOExMNFhOdmJqTE9adk53MzVhTTBuZGhNNXdIeDBlX01rSWxTMmJjNk5yQW56VkJ3c195bHJIWlFfUGhEZ21VMlRvb0lF?oc=5"
     },
     {
       "id": "FL-49af35106c9c",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 01:26:37 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "科学应对极端天气 提升防灾避险素养 - 苏州新闻",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzR1hyVXpWN3ZkUjYtREhkSzlxaWFKNXpRZGl1c1RQR28wNFJNalozdGtpUGx3SnRKclg1X1lkcDRIRG0wUFdmZmdkQlhiS08xanNJSVdpU3BtR2x5RF9FdHRn?oc=5"
     },
@@ -529,7 +529,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 01:25:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "中央气象台：西南地区多阴雨 海南岛等地有大到暴雨 - 中国网新闻中心",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03UV9pWnFmM3RKMWZaTUhNUVRtZWIyc1R4R1dEZHZiU19scDFaNTNPYWRweUlrOHBLaE82TTJEX29LeUZRWkhra053UF9PREVuS2JRY1lQaGhuWUVRaktBOU5aaEJUM00yeFFV?oc=5"
     },
@@ -538,7 +538,7 @@
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 00:42:00 GMT",
       "scope": "dom",
-      "type": "other",
+      "type": "weather",
       "title": "新台风正在酝酿！中山周末天气有变 | 早安，中山 - 21财经",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUVwUkN0c0t2eG5vWVpvdjhqY1lVd3YzOGYtQ1duZnNJZWlKMzlBX2o1RFFWUUZLdHVnM1dQMzZrWmJtLWI1bDZmam01aFU2elJqenZWWGRBTEZPaVE1TzJ6bkxfYXVxcjhoNkQwUENuQ09uSWJLa0F2Mm5sM2FGUnNlX3JQZkQwM2FhYQ?oc=5"
     }
