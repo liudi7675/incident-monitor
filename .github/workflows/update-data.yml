@@ -29,10 +29,12 @@ jobs:
       - name: Fetch latest news
         run: node scripts/fetch-news.mjs
 
-      - name: Notify WeCom for severe domestic flashes
-        env:
-          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
-        run: node scripts/wecom-flash.mjs
+      # 企业微信快讯推送已停用（2026-09-12 用户要求：只推重大事件，
+      # 由每2小时巡检自动化推送，关键词快讯会误伤评论类文章故不再启用）
+      # - name: Notify WeCom for severe domestic flashes
+      #   env:
+      #     WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+      #   run: node scripts/wecom-flash.mjs
 
       - name: Commit & push if changed
         run: |
