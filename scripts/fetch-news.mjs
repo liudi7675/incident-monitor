@@ -99,7 +99,7 @@ function hash(text) {
 function pickType(title) {
   if (/爆炸|燃爆|explosion|blast/i.test(title)) return 'blast';
   if (/火|fire|blaze/i.test(title)) return 'fire';
-  if (/泥石流|滑坡|mudslide|landslide|地震|earthquake|海啸|tsunami|溃坝|地面塌陷|地面下陷|地面沉陷|quake/i.test(title)) return 'geo';
+  if (/泥石流|土石流|滑坡|mudslide|landslide|地震|earthquake|海啸|tsunami|溃坝|地面塌陷|地面下陷|地面沉陷|quake/i.test(title)) return 'geo';
   if (/台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|高温预警|typhoon|hurricane|tornado|flood|blizzard|drought/i.test(title)) return 'weather';
   if (/坍塌|崩塌|collapse|矿难|透水|mine/i.test(title)) return 'collapse';
   return 'other';
