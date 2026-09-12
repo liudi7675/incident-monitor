@@ -5,31 +5,24 @@ jobs:
   t:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Probe v4
+      - name: Probe Bing RSS
         run: |
           cat > /tmp/t.mjs << 'EOF'
-          const fs = await import('node:fs');
-          const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
-          const it = (j.items || []).find(i => i.url && i.url.includes('news.google.com'));
-          const gnId = it.url.split('/articles/')[1].split('?')[0];
-          const enc = encodeURIComponent;
-          const internalReq = '["garturlreq",[["X","X",["X","X"],null,null,1,1,"US",null,1,null,null,null,null,null,0,1],"US","US",1,[2,3,4,8],1,0,655000,"US",null,1,1,0,0,0,0,0,0,0,0,0,1]]';
-          const freq = 'f.req=' + enc(JSON.stringify([[['Fbv4je', internalReq, gnId, 'null:0']]]));
-          const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
-            body: freq, signal: AbortSignal.timeout(15000),
+          const q = encodeURIComponent('(遇难 OR 失联 OR 火灾 OR 爆炸 OR 泥石流) (site:gov.cn OR site:news.cn OR site:mem.gov.cn OR site:cctv.com OR site:people.com.cn)');
+          const res = await fetch('https://www.bing.com/news/search?q=' + q + '&format=rss&setmkt=zh-CN', {
+            signal: AbortSignal.timeout(20000),
           });
-          const text = await res.text();
-          console.log('HTTP', res.status, 'LEN', text.length);
-          console.log('RAW:', JSON.stringify(text.slice(0, 1200)));
-          try {
-            const arr = JSON.parse(text.slice(text.indexOf('[')));
-            console.log('ARR0:', JSON.stringify(arr[0]).slice(0, 400));
-          } catch (e) { console.log('parse err', e.message); }
+          const xml = await res.text();
+          console.log('HTTP', res.status, 'LEN', xml.length);
+          const items = [...xml.matchAll(/<item>[\s\S]*?<\/item>/g)].slice(0, 4);
+          for (const it of items) {
+            const link = (it[0].match(/<link>([\s\S]*?)<\/link>/) || [])[1] || '';
+            const title = (it[0].match(/<title>([\s\S]*?)<\/title>/) || [])[1] || '';
+            console.log('T:', title.slice(0, 40));
+            console.log('L:', link.slice(0, 120));
+          }
           EOF
           node /tmp/t.mjs
