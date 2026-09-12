@@ -255,7 +255,7 @@ window._TMapSecurityConfig = {
   </div>
   <button id="refreshBtn" title="立即抓取最新新闻快讯（需联网）">⟳ 刷新快讯</button>
   <div class="auto-badge" id="autoStatus">每10分钟自动刷新 · 首次刷新后显示倒计时</div>
-  <div class="update-info" id="updateInfo">数据快照：2026-08-29</div>
+  <div class="update-info" id="updateInfo"></div>
 </header>
 
 <main>
@@ -333,6 +333,10 @@ function inWindow(d, days) {
   if (!days) return true;
   const t = Date.parse(d);
   return !isNaN(t) && (Date.now() - t) <= days * 86400000;
+}
+
+function localDateStr(d) {
+  return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
 }
 
 const INCIDENTS = [
@@ -573,31 +577,32 @@ function casText(it) {
   return parts.length ? parts.join('') : '<span style="color:var(--ink-3)">伤亡情况核查中</span>';
 }
 
-function renderStats() {
-  const all = [...INCIDENTS, ...liveFlashes];
-  const deaths = all.reduce((s, i) => s + (i.deaths || 0), 0);
-  const instrCount = all.filter(i => i.instr).length;
-  const provs = new Set(INCIDENTS.filter(i => i.prov).map(i => i.prov));
-  $('#stCount').textContent = all.length;
-  $('#stDeaths').textContent = deaths;
-  $('#stInstruct').textContent = instrCount;
-  $('#stProv').textContent = provs.size;
+/* ---------------- 每日 9 时更新的统计快照 ----------------
+   头部统计（突发事件/累计遇难/领导批示/涉及省份）与综合简报：
+   每天 9 时后首次访问时生成当日快照并冻结，一天内不再随 10 分钟快讯波动 */
+const STATS_HOUR = 9;
+let statsSnapshot = null;
+
+function statsDayKey() {
+  const now = new Date();
+  const d = new Date(now);
+  if (now.getHours() < STATS_HOUR) d.setDate(d.getDate() - 1); // 9 点前显示上一天的数据
+  return localDateStr(d);
 }
 
-function renderBrief() {
+function computeStatsSnapshot(day) {
+  const all = [...INCIDENTS, ...liveFlashes];
   const dom = INCIDENTS.filter(i => i.scope === 'dom');
   const intl = INCIDENTS.filter(i => i.scope === 'intl');
-  const all = [...INCIDENTS, ...liveFlashes];
   const deaths = all.reduce((s, i) => s + (i.deaths || 0), 0);
   const injured = all.reduce((s, i) => s + (i.injured || 0), 0);
   const missing = all.reduce((s, i) => s + (i.missing || 0), 0);
   const instrCount = all.filter(i => i.instr).length;
+  const provs = new Set(INCIDENTS.filter(i => i.prov).map(i => i.prov));
   const top = [...INCIDENTS].filter(i => i.deaths && i.deaths >= 5).sort((a, b) => b.deaths - a.deaths).slice(0, 5);
   const topGroup = INCIDENTS.filter(i => /调查组|挂牌|督办|政治局/.test(i.instr || '')).length;
 
-  $('#briefMeta').textContent = `监测周期：2026年5月—8月29日 · 生成时间：${new Date().toLocaleString('zh-CN', { hour12: false })} · 伤亡为不完全统计`;
-
-  $('#briefBody').innerHTML = `
+  const briefHTML = `
     本期共收录国内外重大突发事件 <b>${all.length}</b> 起（国内 <b>${dom.length}</b> 起、国外 <b>${intl.length}</b> 起），
     累计造成 <b>${deaths}</b> 人遇难、<b>${injured}</b> 人受伤、<b>${missing}</b> 人失联（不完全统计）。
     其中习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
@@ -606,6 +611,25 @@ function renderBrief() {
     </ul>
     <div style="margin-top:6px">国务院安委办已于8月18日通报近期道路交通典型事故并部署加强道路交通安全工作，要求认真贯彻落实习近平总书记关于安全生产的重要指示批示精神，坚决扭转事故多发态势。</div>
   `;
+
+  return {
+    day,
+    stats: { count: all.length, deaths, instr: instrCount, prov: provs.size },
+    briefHTML,
+    meta: `监测周期：2026年5月—${localDateStr(new Date())} · 统计更新：每日9时（本期数据日 ${day}）· 伤亡为不完全统计`,
+  };
+}
+
+function refreshDailyStats(force) {
+  const day = statsDayKey();
+  if (!force && statsSnapshot && statsSnapshot.day === day) return; // 当日已冻结
+  statsSnapshot = computeStatsSnapshot(day);
+  $('#stCount').textContent = statsSnapshot.stats.count;
+  $('#stDeaths').textContent = statsSnapshot.stats.deaths;
+  $('#stInstruct').textContent = statsSnapshot.stats.instr;
+  $('#stProv').textContent = statsSnapshot.stats.prov;
+  $('#briefMeta').textContent = statsSnapshot.meta;
+  $('#briefBody').innerHTML = statsSnapshot.briefHTML;
 }
 
 function passesFilter(it, f) {
@@ -676,11 +700,28 @@ const markerStyles = {};
 
 function markerIcon(type) {
   const color = TYPE_COLOR[type] || TYPE_COLOR.other;
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="26" height="34" viewBox="0 0 26 34">
-    <path d="M13 1C6.4 1 1 6.4 1 13c0 8.5 12 20 12 20s12-11.5 12-20c0-6.6-5.4-12-12-12z" fill="${color}" stroke="#fff" stroke-width="1.5"/>
-    <circle cx="13" cy="13" r="4.5" fill="#fff"/>
-  </svg>`;
-  return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`;
+  /* 腾讯地图 MarkerStyle 不支持 SVG data URI 图标（会静默回退为默认红色大头针，
+     导致所有标记颜色与左下角图例不一致），改用 Canvas 生成 PNG 图标 */
+  const S = 2; // 2 倍尺寸抗锯齿
+  const c = document.createElement('canvas');
+  c.width = 26 * S; c.height = 34 * S;
+  const ctx = c.getContext('2d');
+  ctx.scale(S, S);
+  // 水滴头部（圆）
+  ctx.beginPath();
+  ctx.arc(13, 13, 12, 0, Math.PI * 2);
+  ctx.fillStyle = color; ctx.fill();
+  ctx.lineWidth = 1.5; ctx.strokeStyle = '#fff'; ctx.stroke();
+  // 尾巴（三角）
+  ctx.beginPath();
+  ctx.moveTo(5.5, 21); ctx.lineTo(20.5, 21); ctx.lineTo(13, 33.5); ctx.closePath();
+  ctx.fillStyle = color; ctx.fill();
+  ctx.strokeStyle = '#fff'; ctx.stroke();
+  // 中心白点
+  ctx.beginPath();
+  ctx.arc(13, 13, 4.5, 0, Math.PI * 2);
+  ctx.fillStyle = '#fff'; ctx.fill();
+  return c.toDataURL('image/png');
 }
 
 function initMap() {
@@ -816,7 +857,7 @@ async function fetchLive() {
     if (newItems.length) {
       liveFlashes = [...newItems, ...liveFlashes].slice(0, 40);
       liveFlashes.sort((a, b) => b.date.localeCompare(a.date));
-      renderList(); renderStats();
+      renderList(); refreshDailyStats(); // 统计/简报为每日9时快照，此处仅刷新列表
       checkNewEvents(newItems);
     }
     toast(got > 0 ? `已更新 ${got} 条最新快讯` : '暂未抓取到符合条件的最新快讯，仍显示本地快照');
@@ -825,7 +866,7 @@ async function fetchLive() {
   }
   lastFetchAt = Date.now();
   updateAutoStatus();
-  $('#updateInfo').innerHTML = `数据快照：2026-08-29<br>快讯更新：${got ? new Date().toLocaleString('zh-CN', { hour12: false }) : '未更新'}`;
+  $('#updateInfo').innerHTML = `数据快照：${localDateStr(new Date())}<br>快讯更新：${got ? new Date().toLocaleString('zh-CN', { hour12: false }) : '未更新'}`;
   btn.classList.remove('busy');
   btn.textContent = '⟳ 刷新快讯';
 }
@@ -843,13 +884,19 @@ function checkNewEvents(items) {
   browserNotify(fresh);
 }
 
-function showNewAlert(fresh) {
-  const list = fresh.slice(0, 6).map(i => `
+function showNewAlert(freshAll) {
+  /* 弹窗消息：按日期降序排列，只展示最近 5 天的内容 */
+  const cutoff = localDateStr(new Date(Date.now() - 5 * 86400000));
+  const fresh = freshAll
+    .filter(i => i.date && i.date >= cutoff)
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  if (!fresh.length) return;
+  const list = fresh.slice(0, 8).map(i => `
     <div class="alert-item clickable" data-jump="${i.id}" title="点击查看下方简报详情">
       <span class="alert-tag">${TYPE_NAME[i.type] || '快讯'}</span>
       <div><b>${i.title}</b><div class="alert-meta">${i.date} · ${i.scope === 'dom' ? '国内' : '国外'} · <span class="jump-hint">点击查看 ›</span></div></div>
     </div>`).join('');
-  $('#alertList').innerHTML = list + (fresh.length > 6 ? `<div style="text-align:center;color:var(--ink-3);font-size:12px;padding:6px">… 共 ${fresh.length} 条</div>` : '');
+  $('#alertList').innerHTML = list + (fresh.length > 8 ? `<div style="text-align:center;color:var(--ink-3);font-size:12px;padding:6px">… 共 ${fresh.length} 条（仅展示最近5天）</div>` : '');
   // 点击条目 → 关闭弹窗并跳转到列表中对应简讯
   document.querySelectorAll('#alertList .alert-item.clickable').forEach(el => {
     el.addEventListener('click', () => jumpToItem(el.dataset.jump));
@@ -915,10 +962,10 @@ async function loadRemoteFlashes() {
     const fresh = items.filter(i => !seen.has(i.title));
     liveFlashes = [...fresh, ...liveFlashes].slice(0, 40);
     liveFlashes.sort((a, b) => b.date.localeCompare(a.date));
-    renderList(); renderStats();
+    renderList(); refreshDailyStats(true); // 云端快讯首次到达后立即生成/校准当日统计快照
     checkNewEvents(fresh);
     if (j.updated) {
-      $('#updateInfo').innerHTML = `数据快照：2026-08-29<br>云端数据：${j.updated.replace('T', ' ').slice(0, 16)} UTC`;
+      $('#updateInfo').innerHTML = `数据快照：${localDateStr(new Date())}<br>云端数据：${j.updated.replace('T', ' ').slice(0, 16)} UTC`;
     }
   } catch { /* 无 data.json（纯静态打开）时静默 */ }
 }
@@ -974,12 +1021,12 @@ if (alertMask) alertMask.addEventListener('click', (e) => { if (e.target === ale
 document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeAlert(); });
 
 /* ---------------- 启动 ---------------- */
-renderStats();
-renderBrief();
+refreshDailyStats(); // 当日统计/简报快照（每日9时后首次访问生成，一天内冻结）
 renderList();
 initMap();
-loadRemoteFlashes(); // 加载云端自动更新快讯（GitHub Pages 部署时生效）
+loadRemoteFlashes(); // 加载云端快讯；到达后 refreshDailyStats(true) 校准当日快照
 startAutoRefresh();
+$('#updateInfo').innerHTML = `数据快照：${localDateStr(new Date())}`;
 </script>
 </body>
 </html>
