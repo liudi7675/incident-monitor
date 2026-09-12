@@ -1,0 +1,39 @@
+name: test-decode
+on:
+  workflow_dispatch:
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Decode test
+        run: |
+          node -e "
+          (async () => {
+            const fs = require('fs');
+            const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
+            const items = (j.items || []).filter(i => i.url && i.url.includes('news.google.com')).slice(0, 5);
+            for (const it of items) {
+              const gnId = it.url.split('/articles/')[1].split('?')[0];
+              const req = JSON.stringify([['garturlreq', JSON.stringify([
+                ['zh-CN','CN',['FINANCE_TOP_INDICES','WEB_TEST_1_0_0'],null,null,1,1,'CN',null,180,null,null,null,null,0,null,null,[1608992183,723341000]],
+                'zh-CN','CN',1,[2,3,4,8],1,0,655000,'CN',null,1,1,0,0,0,0,0,0,0,0,0,1,
+              ]), gnId]]);
+              try {
+                const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
+                  body: 'f.req=' + encodeURIComponent(JSON.stringify([['Fbv4je', req]])),
+                  signal: AbortSignal.timeout(15000),
+                });
+                const text = await res.text();
+                const m = text.match(/(https?:\\\\?\/\\\\?\/[^\"\\\\\s]+)/);
+                const real = m ? m[1].replace(/\\\\u003d/g,'=').replace(/\\\\u0026/g,'&').replace(/\\\\\//g,'/') : 'DECODE-FAIL';
+                console.log(it.title.slice(0,30), '→', real.slice(0,110));
+              } catch (e) { console.log(it.title.slice(0,30), '→ ERROR', e.message.slice(0,60)); }
+            }
+          })();
+          "
