@@ -9,27 +9,28 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Dump raw batchexecute response
+      - name: Probe article page
         run: |
           cat > /tmp/t.mjs << 'EOF'
           const fs = await import('node:fs');
           const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
           const it = (j.items || []).find(i => i.url && i.url.includes('news.google.com'));
-          const gnId = it.url.split('/articles/')[1].split('?')[0];
-          console.log('gnId head:', gnId.slice(0, 20), 'len:', gnId.length);
-          const req = JSON.stringify([['garturlreq', JSON.stringify([
-            ['zh-CN','CN',['FINANCE_TOP_INDICES','WEB_TEST_1_0_0'],null,null,1,1,'CN',null,180,null,null,null,null,0,null,null,[1608992183,723341000]],
-            'zh-CN','CN',1,[2,3,4,8],1,0,655000,'CN',null,1,1,0,0,0,0,0,0,0,0,0,1,
-          ]), gnId]]);
-          const res = await fetch('https://news.google.com/_/DotsSplashUi/data/batchexecute', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8' },
-            body: 'f.req=' + encodeURIComponent(JSON.stringify([['Fbv4je', req]])),
-            signal: AbortSignal.timeout(15000),
+          const url = it.url;
+          console.log('URL:', url.slice(0, 90));
+          const res = await fetch(url, {
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36' },
+            signal: AbortSignal.timeout(20000),
+            redirect: 'follow',
           });
-          console.log('HTTP', res.status);
-          const text = await res.text();
-          console.log('RESP LEN', text.length);
-          console.log('RESP HEAD:', text.slice(0, 600));
+          console.log('HTTP', res.status, 'final:', res.url.slice(0, 90));
+          const html = await res.text();
+          console.log('HTML LEN', html.length);
+          console.log('has data-n-au:', html.includes('data-n-au'));
+          console.log('has c-wiz:', html.includes('c-wiz'));
+          const au = html.match(/data-n-au="([^"]+)"/);
+          console.log('data-n-au:', au ? au[1].slice(0, 100) : 'NONE');
+          // 所有非google域名的外链样例
+          const links = [...html.matchAll(/https?:\/\/(?!www\.google|news\.google|accounts|policies|support)[a-z0-9.-]+[^\s"'<>]*/gi)].map(m => m[0]).slice(0, 5);
+          console.log('sample links:', JSON.stringify(links, null, 0).slice(0, 500));
           EOF
           node /tmp/t.mjs
