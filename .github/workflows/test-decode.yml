@@ -8,21 +8,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Probe Bing RSS
+      - name: Probe escaped urls in article page
         run: |
           cat > /tmp/t.mjs << 'EOF'
-          const q = encodeURIComponent('(遇难 OR 失联 OR 火灾 OR 爆炸 OR 泥石流) (site:gov.cn OR site:news.cn OR site:mem.gov.cn OR site:cctv.com OR site:people.com.cn)');
-          const res = await fetch('https://www.bing.com/news/search?q=' + q + '&format=rss&setmkt=zh-CN', {
-            signal: AbortSignal.timeout(20000),
-          });
-          const xml = await res.text();
-          console.log('HTTP', res.status, 'LEN', xml.length);
-          const items = [...xml.matchAll(/<item>[\s\S]*?<\/item>/g)].slice(0, 4);
+          const fs = await import('node:fs');
+          const j = JSON.parse(fs.readFileSync('data/flashes.json', 'utf8'));
+          const items = (j.items || []).filter(i => i.url && i.url.includes('news.google.com')).slice(0, 3);
           for (const it of items) {
-            const link = (it[0].match(/<link>([\s\S]*?)<\/link>/) || [])[1] || '';
-            const title = (it[0].match(/<title>([\s\S]*?)<\/title>/) || [])[1] || '';
-            console.log('T:', title.slice(0, 40));
-            console.log('L:', link.slice(0, 120));
+            const res = await fetch(it.url, {
+              headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36' },
+              signal: AbortSignal.timeout(20000), redirect: 'follow',
+            });
+            const html = await res.text();
+            const hits = [...html.matchAll(/https?:\\\/\\\/(?!www\.google|lh3|fonts|ssl|accounts|policies|support|play|news\.google|books|maps|translate|pay|schema|developer|cloud|gstatic|bing|w3|apache|github|js\.stripe)[a-zA-Z0-9.\\\/%?&=_-]+/g)].map(m => m[0]).slice(0, 3);
+            console.log('T:', it.title.slice(0, 26), '| pageLen:', html.length, '| hits:', hits.length);
+            for (const h of hits) console.log('   H:', h.replace(/\\\//g, '/').slice(0, 110));
           }
           EOF
           node /tmp/t.mjs
