@@ -262,7 +262,7 @@ window._TMapSecurityConfig = {
   <!-- 左栏：简报与列表 -->
   <section id="feedPane">
     <div id="briefCard">
-      <h2><span class="tag">第35期</span>重大突发事件综合简报</h2>
+      <h2><span class="tag" id="issueTag">第1期</span>重大突发事件综合简报</h2>
       <div id="briefMeta"></div>
       <div id="briefBody"></div>
     </div>
@@ -590,6 +590,14 @@ function statsDayKey() {
   return localDateStr(d);
 }
 
+/* 期号：从 2026-09-12 起算，当日为第1期，之后每日递增 */
+const ISSUE_START = '2026-09-12';
+function issueNo(day) {
+  const d1 = new Date(ISSUE_START + 'T00:00:00');
+  const d2 = new Date(day + 'T00:00:00');
+  return Math.max(1, Math.floor((d2 - d1) / 86400000) + 1);
+}
+
 function computeStatsSnapshot(day) {
   const all = [...INCIDENTS, ...liveFlashes];
   const dom = INCIDENTS.filter(i => i.scope === 'dom');
@@ -599,24 +607,29 @@ function computeStatsSnapshot(day) {
   const missing = all.reduce((s, i) => s + (i.missing || 0), 0);
   const instrCount = all.filter(i => i.instr).length;
   const provs = new Set(INCIDENTS.filter(i => i.prov).map(i => i.prov));
-  const top = [...INCIDENTS].filter(i => i.deaths && i.deaths >= 5).sort((a, b) => b.deaths - a.deaths).slice(0, 5);
+  /* 全部造成人员死亡或失联的事件（按日期倒序完整列出，不截断） */
+  const fatal = [...INCIDENTS]
+    .filter(i => (i.deaths && i.deaths > 0) || (i.missing && i.missing > 0))
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   const topGroup = INCIDENTS.filter(i => /调查组|挂牌|督办|政治局/.test(i.instr || '')).length;
 
   const briefHTML = `
     本期共收录国内外重大突发事件 <b>${all.length}</b> 起（国内 <b>${dom.length}</b> 起、国外 <b>${intl.length}</b> 起），
     累计造成 <b>${deaths}</b> 人遇难、<b>${injured}</b> 人受伤、<b>${missing}</b> 人失联（不完全统计）。
-    其中习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
+    其中造成人员死亡/失联的事件共 <b>${fatal.length}</b> 起，全部列举如下（按日期倒序）：
     <ul>
-      ${top.map(i => `<li><b>${i.date}</b> ${i.title}（${i.deaths}人遇难${i.missing ? '、' + i.missing + '人失联' : ''}${i.instr ? '，中央领导已批示' : ''}）</li>`).join('')}
+      ${fatal.map(i => `<li><b>${i.date}</b> ${i.title}（${i.deaths ? i.deaths + '人遇难' : ''}${i.deaths && i.missing ? '、' : ''}${i.missing ? i.missing + '人失联' : ''}${i.instr ? '，中央领导已批示' : ''}）</li>`).join('')}
     </ul>
+    其中习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
     <div style="margin-top:6px">国务院安委办已于8月18日通报近期道路交通典型事故并部署加强道路交通安全工作，要求认真贯彻落实习近平总书记关于安全生产的重要指示批示精神，坚决扭转事故多发态势。</div>
   `;
 
   return {
     day,
+    issue: issueNo(day),
     stats: { count: all.length, deaths, instr: instrCount, prov: provs.size },
     briefHTML,
-    meta: `监测周期：2026年5月—${localDateStr(new Date())} · 统计更新：每日9时（本期数据日 ${day}）· 伤亡为不完全统计`,
+    meta: `监测周期：2026年5月—${localDateStr(new Date())} · 期号自${ISSUE_START}起算 · 统计更新：每日9时（本期数据日 ${day}）· 伤亡为不完全统计`,
   };
 }
 
@@ -624,6 +637,7 @@ function refreshDailyStats(force) {
   const day = statsDayKey();
   if (!force && statsSnapshot && statsSnapshot.day === day) return; // 当日已冻结
   statsSnapshot = computeStatsSnapshot(day);
+  $('#issueTag').textContent = `第${statsSnapshot.issue}期`;
   $('#stCount').textContent = statsSnapshot.stats.count;
   $('#stDeaths').textContent = statsSnapshot.stats.deaths;
   $('#stInstruct').textContent = statsSnapshot.stats.instr;
