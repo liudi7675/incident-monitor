@@ -142,7 +142,11 @@ async function fetchRss(src) {
     if (!severe && ROUTINE_RE.test(clean)) continue; // 例行预报（且无伤亡信息）不收录
     // 气象类门槛：必须伴随伤亡/应急响应等严重性词（用户要求），否则跳过
     if (pickType(clean) === 'weather' && !severe) continue;
-    items.push({ title: clean, link, pubDate, src: src.name });
+    // 提取来源官方媒体（谷歌新闻 RSS 自带 <source url="https://www.cctv.com">央视网</source>）
+    const siteM = b.match(/<source url="([^"]+)">([^<]+)<\/source>/);
+    const site = siteM ? siteM[2].trim() : '';
+    const siteUrl = siteM ? siteM[1].trim() : '';
+    items.push({ title: clean, link, pubDate, src: src.name, site, siteUrl });
   }
   return items;
 }
@@ -177,6 +181,8 @@ async function main() {
       type: pickType(it.title),
       title: it.title,
       url: it.link || '#',
+      site: it.site || '',
+      siteUrl: it.siteUrl || '',
     });
   }
 
