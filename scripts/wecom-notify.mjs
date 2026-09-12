@@ -52,7 +52,7 @@ const payload = mention
         content: [
           `## 🚨 ${title}`,
           detail,
-          url ? `[查看完整简报（点击直达）](${url})` : '',
+          url ? `[详细链接](${url})` : '',
         ].filter(Boolean).join('\n'),
       },
     };
