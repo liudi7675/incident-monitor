@@ -168,15 +168,21 @@ main { flex: 1; display: flex; min-height: 0; }
 }
 #legend {
   position: absolute; left: 14px; bottom: 18px; background: rgba(255,255,255,.94);
-  border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; z-index: 10;
+  border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; z-index: 9999;
   font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.1);
 }
 #legend .t { font-weight: 700; margin-bottom: 6px; color: var(--ink); }
 #legend .item { display: flex; align-items: center; gap: 7px; margin: 3px 0; color: var(--ink-2); }
 #legend .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+#legend .view-btns { display: flex; gap: 6px; margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); }
+#legend .view-btns button {
+  flex: 1; border: 1px solid var(--line); background: #fff; color: var(--ink-2);
+  border-radius: 5px; padding: 3px 0; font-size: 11.5px; cursor: pointer; transition: all .15s;
+}
+#legend .view-btns button:hover { border-color: var(--red); color: var(--red); }
 #mapTip {
   position: absolute; top: 14px; left: 14px; background: rgba(255,255,255,.94);
-  border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; z-index: 10;
+  border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; z-index: 9999;
   font-size: 12px; color: var(--ink-2); box-shadow: 0 2px 8px rgba(0,0,0,.1);
 }
 /* 弹窗样式（注入地图 InfoWindow） */
@@ -292,6 +298,10 @@ window._TMapSecurityConfig = {
       <div class="item"><span class="dot" style="background:#1565C0"></span>气象灾害（台风/暴雨）</div>
       <div class="item"><span class="dot" style="background:#8D6E63"></span>坍塌 / 崩塌</div>
       <div class="item"><span class="dot" style="background:#6A1B9A"></span>其他突发</div>
+      <div class="view-btns">
+        <button id="viewCN" type="button" title="回到全国视野">全国</button>
+        <button id="viewWorld" type="button" title="拉远查看境外事件">全球</button>
+      </div>
     </div>
     <div id="mapFallback">地图加载失败：当前环境无法访问腾讯地图服务。<br>新闻简报功能不受影响。</div>
   </section>
@@ -488,7 +498,7 @@ const INCIDENTS = [
     summary: '当地时间29日凌晨3时45分许，柏林施潘道区一处难民安置中心一栋6层建筑第4层起火，浓烟蔓延至5、6层，数百人被紧急疏散，4人因吸入烟雾受伤（3人送医）。消防部门出动74人26车扑救，起火原因正在调查。',
     instr: '', source: '央视新闻',
     url: 'https://news.cctv.com/2026/08/29/ARTIgQS0oLSLYc3opGPG3Igl260829.shtml',
-    lat: null, lng: null,
+    lat: 52.535, lng: 13.203, // 德国柏林施潘道区
   },
   {
     id: 'INTL-PAK', date: '2026-08-26', time: '06:40', scope: 'intl',
@@ -499,7 +509,7 @@ const INCIDENTS = [
     summary: '当地时间8月26日6时40分许，巴基斯坦首都伊斯兰堡一医院三层新生儿病房起火并引发剧烈爆炸，造成15名婴儿死亡（育婴室16名婴儿仅1名获救）。初步调查显示电火花引燃婴儿保温箱供氧接口所致。总理夏巴兹指示立即调查，联邦卫生秘书被停职。',
     instr: '', source: '巴基斯坦官方通报 / 央视新闻',
     url: 'https://baike.baidu.com/item/8%C2%B726%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%8C%BB%E9%99%A2%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85/68711727',
-    lat: null, lng: null,
+    lat: 33.694, lng: 73.064, // 巴基斯坦伊斯兰堡
   },
   {
     id: 'INTL-RUS', date: '2026-08-25', scope: 'intl',
@@ -511,7 +521,7 @@ const INCIDENTS = [
     instr: '中国外交部及驻哈巴罗夫斯克总领馆启动领事保护应急机制，公布领保电话，敦促俄方全力救治中方伤员。',
     source: '中国新闻网',
     url: 'https://www.toutiao.com/article/7678301816802640419/',
-    lat: null, lng: null,
+    lat: 51.030, lng: 127.600, // 俄远东阿穆尔州（斯沃博德内附近）
   },
   {
     id: 'INTL-USA', date: '2026-08-18', scope: 'intl',
@@ -522,7 +532,7 @@ const INCIDENTS = [
     summary: '当地时间8月18日凌晨，托莱多市一工业回收设施发生爆炸并引发大火，造成2名工人死亡、多人受伤，厂房严重损毁。现场先后多次爆炸，涉事企业生产涉及矿物油精等易燃溶剂。美国OSHA已介入调查。',
     instr: '', source: 'EHS资讯',
     url: 'https://www.ehs.cn/article-25300-1.html',
-    lat: null, lng: null,
+    lat: 41.653, lng: -83.539, // 美国俄亥俄州托莱多
   },
   {
     id: 'INTL-IND', date: '2026-08-17', scope: 'intl',
@@ -533,7 +543,7 @@ const INCIDENTS = [
     summary: '当地时间8月17日凌晨，印度西孟加拉邦一家酒店发生火灾，造成9人死亡、34人获救（7人住院治疗）。酒店负责人已被警方逮捕，当地正排查住宿场所消防安全隐患。初步调查显示或与空调故障引发爆炸有关。',
     instr: '', source: '百度百科事故词条 / 印度警方',
     url: 'https://baike.baidu.com/starmap/view?lemmaId=68005750',
-    lat: null, lng: null,
+    lat: 24.152, lng: 87.783, // 印度西孟加拉邦塔拉皮特
   },
   {
     id: 'INTL-ZIM', date: '2026-08-11', scope: 'intl',
@@ -544,7 +554,7 @@ const INCIDENTS = [
     summary: '当地时间8月11日，津巴布韦卡里巴湖一艘超载渡轮遭遇强风后倾覆，造成68人死亡。',
     instr: '', source: '北京东城消防《国外事故警示》',
     url: 'https://www.toutiao.com/article/7677829204834812431/',
-    lat: null, lng: null,
+    lat: -16.522, lng: 28.762, // 津巴布韦卡里巴湖
   },
   {
     id: 'INTL-NLD', date: '2026-08-13', scope: 'intl',
@@ -555,7 +565,7 @@ const INCIDENTS = [
     summary: '当地时间8月13日，荷兰鹿特丹港一储油罐区发生爆炸，造成1人死亡、6人受伤。',
     instr: '', source: '北京东城消防《国外事故警示》',
     url: 'https://www.toutiao.com/article/7677829204834812431/',
-    lat: null, lng: null,
+    lat: 51.949, lng: 4.143, // 荷兰鹿特丹港
   },
 ];
 
@@ -616,11 +626,9 @@ function computeStatsSnapshot(day) {
   const briefHTML = `
     本期共收录国内外重大突发事件 <b>${all.length}</b> 起（国内 <b>${dom.length}</b> 起、国外 <b>${intl.length}</b> 起），
     累计造成 <b>${deaths}</b> 人遇难、<b>${injured}</b> 人受伤、<b>${missing}</b> 人失联（不完全统计）。
-    其中造成人员死亡/失联的事件共 <b>${fatal.length}</b> 起，全部列举如下（按日期倒序）：
-    <ul>
-      ${fatal.map(i => `<li><b>${i.date}</b> ${i.title}（${i.deaths ? i.deaths + '人遇难' : ''}${i.deaths && i.missing ? '、' : ''}${i.missing ? i.missing + '人失联' : ''}${i.instr ? '，中央领导已批示' : ''}）</li>`).join('')}
-    </ul>
-    其中习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
+    其中造成人员死亡/失联的事件 <b>${fatal.length}</b> 起；习近平等中央领导同志作出重要指示/批示事项 <b>${instrCount}</b> 起；
+    国务院成立调查组/挂牌督办/政治局专题研究 <b>${topGroup}</b> 起。
+    事件明细请查看下方列表与右侧地图标注。
     <div style="margin-top:6px">国务院安委办已于8月18日通报近期道路交通典型事故并部署加强道路交通安全工作，要求认真贯彻落实习近平总书记关于安全生产的重要指示批示精神，坚决扭转事故多发态势。</div>
   `;
 
@@ -713,29 +721,10 @@ let map = null, markers = null, infoWindow = null;
 const markerStyles = {};
 
 function markerIcon(type) {
-  const color = TYPE_COLOR[type] || TYPE_COLOR.other;
-  /* 腾讯地图 MarkerStyle 不支持 SVG data URI 图标（会静默回退为默认红色大头针，
-     导致所有标记颜色与左下角图例不一致），改用 Canvas 生成 PNG 图标 */
-  const S = 2; // 2 倍尺寸抗锯齿
-  const c = document.createElement('canvas');
-  c.width = 26 * S; c.height = 34 * S;
-  const ctx = c.getContext('2d');
-  ctx.scale(S, S);
-  // 水滴头部（圆）
-  ctx.beginPath();
-  ctx.arc(13, 13, 12, 0, Math.PI * 2);
-  ctx.fillStyle = color; ctx.fill();
-  ctx.lineWidth = 1.5; ctx.strokeStyle = '#fff'; ctx.stroke();
-  // 尾巴（三角）
-  ctx.beginPath();
-  ctx.moveTo(5.5, 21); ctx.lineTo(20.5, 21); ctx.lineTo(13, 33.5); ctx.closePath();
-  ctx.fillStyle = color; ctx.fill();
-  ctx.strokeStyle = '#fff'; ctx.stroke();
-  // 中心白点
-  ctx.beginPath();
-  ctx.arc(13, 13, 4.5, 0, Math.PI * 2);
-  ctx.fillStyle = '#fff'; ctx.fill();
-  return c.toDataURL('image/png');
+  /* 腾讯地图 MarkerStyle 对 data URI 图标（SVG/PNG 均如此）会静默回退为默认红色大头针，
+     导致所有标记颜色与图例不一致。必须使用真实图片文件：仓库 markers/ 目录
+     （GitHub Pages 部署后相对路径可直接访问，本地打开也可用） */
+  return 'markers/' + (TYPE_COLOR[type] ? type : 'other') + '.png';
 }
 
 function initMap() {
@@ -754,17 +743,24 @@ function initMap() {
       });
     });
 
-    const domItems = INCIDENTS.filter(i => i.scope === 'dom' && i.lat !== null);
+    // 境内外事件一并标注（境外事件坐标已入库，与左下角图例同色系）
+    const markItems = INCIDENTS.filter(i => i.lat !== null);
     markers = new TMap.MultiMarker({
       map,
       styles: markerStyles,
-      geometries: domItems.map(i => ({
+      geometries: markItems.map(i => ({
         id: i.id,
         styleId: i.type,
         position: new TMap.LatLng(i.lat, i.lng),
         properties: { incident: i },
       })),
     });
+
+    // 视野切换：全国 / 全球（境外事件较远，切到全球视野查看）
+    const btnCN = document.getElementById('viewCN');
+    const btnWorld = document.getElementById('viewWorld');
+    if (btnCN) btnCN.onclick = () => { map.setZoom(4); map.setCenter(new TMap.LatLng(35.8, 106)); };
+    if (btnWorld) btnWorld.onclick = () => { map.setZoom(3); map.setCenter(new TMap.LatLng(30, 55)); };
 
     infoWindow = new TMap.InfoWindow({ map, position: map.getCenter() });
     infoWindow.close();
@@ -824,6 +820,17 @@ const WX_ROUTINE_RE = /(天气网|气象台发布|蓝色预警|黄色预警|橙�
 const WX_SEVERE_RE = /(遇难|失联|失踪|伤亡|受伤|重伤|被困|牺牲|殉职|死亡|疏散|撤离|转移|安置|停运|停课|停工|损毁|倒塌|冲毁|淹没|内涝|Ⅰ级响应|Ⅱ级响应|Ⅲ级响应|Ⅳ级响应|应急响应|特大自然灾害|重大(灾害|事故|损失)|习近平|李强|国务院|国家防总|批示|重要指示|救灾|抢险|工作组|救援|killed|dead|deaths|missing|injured|evacuated|rescue|emergency)/i;
 const WX_TYPE_RE = /台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|高温预警|typhoon|hurricane|tornado|flood|blizzard|drought/i;
 
+/* 境外地名识别：国内频道来源的快讯标题若命中境外国家/城市，归为国外事件
+ * （修正"国内标签里出现尼泊尔/印尼事件"的误分类）。吉隆/西藏事件系境外灾害波及我边境，保持国内 */
+const FOREIGN_RE = /(尼泊尔|不丹|孟加拉|斯里兰卡|马尔代夫|巴基斯坦|印度尼西亚|印尼|印度|日本|韩国|朝鲜|蒙古|越南|老挝|柬埔寨|泰国|缅甸|马来西亚|新加坡|菲律宾|文莱|东帝汶|哈萨克斯坦|乌兹别克斯坦|吉尔吉斯|塔吉克斯坦|土库曼斯坦|阿富汗|伊朗|伊拉克|叙利亚|黎巴嫩|约旦|以色列|巴勒斯坦|沙特|阿联酋|卡塔尔|科威特|巴林|阿曼|也门|土耳其|塞浦路斯|格鲁吉亚|亚美尼亚|阿塞拜疆|俄罗斯|俄远东|乌克兰|白俄罗斯|摩尔多瓦|波兰|立陶宛|拉脱维亚|爱沙尼亚|芬兰|瑞典|挪威|丹麦|冰岛|英国|爱尔兰|法国|德国|荷兰|比利时|卢森堡|瑞士|奥地利|捷克|斯洛伐克|匈牙利|罗马尼亚|保加利亚|塞尔维亚|克罗地亚|斯洛文尼亚|黑山|阿尔巴尼亚|希腊|意大利|西班牙|葡萄牙|马耳他|美国|加拿大|墨西哥|危地马拉|洪都拉斯|尼加拉瓜|哥斯达黎加|巴拿马|古巴|牙买加|海地|哥伦比亚|委内瑞拉|厄瓜多尔|秘鲁|玻利维亚|巴西|智利|阿根廷|乌拉圭|巴拉圭|澳大利亚|新西兰|巴布亚新几内亚|斐济|埃及|利比亚|突尼斯|阿尔及利亚|摩洛哥|苏丹|埃塞俄比亚|索马里|肯尼亚|坦桑尼亚|乌干达|卢旺达|刚果|加蓬|喀麦隆|乍得|尼日尔|尼日利亚|加纳|几内亚|塞内加尔|马里|南非|纳米比亚|博茨瓦纳|津巴布韦|赞比亚|马拉维|莫桑比克|马达加斯加|安哥拉|地中海|红海|波斯湾|黑海|波罗的海|太平洋|大西洋|印度洋|阿拉斯加|夏威夷|鹿特丹|阿姆斯特丹|柏林|慕尼黑|法兰克福|巴黎|伦敦|曼彻斯特|纽约|洛杉矶|旧金山|芝加哥|休斯敦|多伦多|温哥华|圣保罗|里约|布宜诺斯艾利斯|利马|悉尼|墨尔本|奥克兰|东京|大阪|名古屋|首尔|釜山|曼谷|河内|金边|万象|仰光|雅加达|马尼拉|吉隆坡|新德里|孟买|加尔各答|加德满都|达卡|科伦坡|喀布尔|德黑兰|巴格达|大马士革|贝鲁特|利雅得|迪拜|多哈|伊斯坦布尔|开罗|内罗毕|亚的斯亚贝巴|拉各斯|约翰内斯堡|开普敦|哈瓦那|莫斯科|圣彼得堡|基辅|明斯克|华沙|布拉格|维也纳|罗马|米兰|马德里|巴塞罗那|里斯本|雅典|赫尔辛基|斯德哥尔摩|奥斯陆|哥本哈根)/;
+const CHINA_BORDER_EV_RE = /(吉隆|西藏|日喀则|樟木|普兰|亚东|霍尔果斯|瑞丽|磨憨|凭祥|东兴|丹东|集安|绥芬河|黑河|满洲里|二连浩特)/; // 边境口岸事件（境外灾害波及我国）仍算国内
+
+function scopeOf(title, srcName) {
+  if (srcName === '国际事故') return 'intl';
+  if (FOREIGN_RE.test(title) && !CHINA_BORDER_EV_RE.test(title)) return 'intl';
+  return 'dom';
+}
+
 async function fetchLive() {
   const btn = $('#refreshBtn');
   btn.classList.add('busy');
@@ -855,7 +862,7 @@ async function fetchLive() {
           id: 'LIVE-' + Date.now() + '-' + idx,
           flash: true,
           date: isNaN(pd) ? new Date().toISOString().slice(0, 10) : new Date(pd).toISOString().slice(0, 10),
-          scope: item.src === '国际事故' ? 'intl' : 'dom',
+          scope: scopeOf(item.title || '', item.src),
           type: /泥石流|滑坡|地震|海啸|溃坝|地面塌陷|地面下陷|mudslide|landslide|earthquake|tsunami|quake/i.test(item.title) ? 'geo'
               : (/台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|typhoon|hurricane|tornado|flood|blizzard|drought/i.test(item.title) ? 'weather'
               : (/爆炸|燃爆|explosion|blast/i.test(item.title) ? 'blast'
