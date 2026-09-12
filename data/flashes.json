@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:53:31.411Z",
+  "updated": "2026-09-12T10:07:02.840Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-f24cf16cd7da",
@@ -87,15 +75,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a2237798f821",
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-70df99d44104",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
       "ts": 1787209200000,
       "scope": "intl",
       "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
+      "site": "news.un.org",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -303,15 +303,15 @@
       "siteUrl": "http://k.sina.com.cn"
     },
     {
-      "id": "FL-7c29bd8c428e",
+      "id": "FL-2f27bd1f3cf2",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 05:12:00 GMT",
       "ts": 1789189920000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - finance.sina.com.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zTEZ0X2NnZDdwLTZzWHV5LUNJR09qckF6MjBKT2xNTWxmYjZVQ0dMOVZ3Z3lJUXhId1ZtT2gyV3dubnFzRjRhNVVUWEdpUUtLWTI1dWNnVDJENnlKWXU5WEo4R2JSRENfLUYwcXk4SHFIZ1NsbUE?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -423,15 +423,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-e8879f20235a",
+      "id": "FL-67959e9fd3e4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:30:00 GMT",
       "ts": 1789176600000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - finance.sina.com.cn",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WdjM5blNmdkthZkExd1Zyc0M0VUFMMzBpWVlLb3U5ZnF5VWdRYm5jNGUzZFphc3FjTnFpajFIMTZXVEM3dGFOVXZXdzY2TkFmNVpPaF9uNWJJNjV0Ry05R0VQakZWZW40WkItcnlPZVVRWUhra0pJeg?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -447,15 +447,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-95bbbe9af8b1",
+      "id": "FL-e126938f8d4f",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:21:00 GMT",
       "ts": 1789176060000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - finance.sina.com.cn",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNkZRUHVCVnVsQUFNaXVFMHdMdGlVMi1pbFY4OW5yeEEyaUlySUJRazNWRlA2VHkzSzRYS2MzU0ExTGtXT2FJeHUxR0hLNlJwaXhISTBiaWgteDZBT09kRU5aWXhOeHRCQy1ZNENDSU4wX3QwdUE?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -567,15 +567,15 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-4990b44ab451",
+      "id": "FL-cb69fa5035eb",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:54:00 GMT",
       "ts": 1789170840000,
       "scope": "intl",
       "type": "geo",
-      "title": "德国政坛地震，普京表态 - news.qq.com",
+      "title": "德国政坛地震，普京表态 - QQ News",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Rajdaa21lbWxyVXNtOTFYbmFqdkg3eHhYYWk5UWZ6S05XVGh5SF9mc05QVjIzVGFqOFhjTGR4RkhESF9ZMVB1ZUJudFAxWkNHeW1IaGlQNk1mSkdrWENRSE1nMFhKNlhYU2g4Mg?oc=5",
-      "site": "news.qq.com",
+      "site": "QQ News",
       "siteUrl": "https://news.qq.com"
     },
     {
@@ -625,7 +625,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanoyejhzbTJ4SFVoS01SdExGT2FlR0ZFV0tES25RLVdLMnN6UktGVzJVVDROak1WNjNGa0xkd0ZkclBSSktTc3hRMHJVeWVCbDhoZ19wQTNIU24xbWRfVW1FOWV3NnF1Q0poX24waWlVVEg2eVU1NnJPdkw5S1ZaMFpsMEdmNnJvaE1UZm1XYWdoRGZUNjVSZA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn",
-      "related": 47
+      "related": 45
     },
     {
       "id": "FL-1b217b50e4cd",
