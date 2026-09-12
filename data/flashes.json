@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T10:35:51.831Z",
+  "updated": "2026-09-12T10:44:39.558Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-f24cf16cd7da",
@@ -267,15 +255,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f96bc5234624",
+      "id": "FL-877f89fd01d2",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 10:28:44 GMT",
       "ts": 1789208924000,
       "scope": "dom",
       "type": "other",
-      "title": "双预警齐发，中央气象台：今晚到明晚，黑龙江、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水 - finance.sina.cn",
+      "title": "双预警齐发，中央气象台：今晚到明晚，黑龙江、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVS1SaXltZVJfYnR5OXJYYzRYS0otREpqSVBOZzlBb2kxZE44d251eXVGY2VpM3oxdmlreElScWVlRW5iOHowSzdudDZXT0t0Qk1SVUFvSDR6S1hMRU1wejlsTWw1bW5MUHRuM2ZSVTgwYzZiTlVTRGlLREtQd0s3NEhsWE42VUhRWDk4NTlzSFRPRThRTmZtTXZmLUx5SnNNeFkwaGFtallXaUpMN3hkVGxJTlRHZzdMdU5zOGpjUS1OcjdUcG11WTFkTDMwdlJUbDhxT0dCZw?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -430,9 +418,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIRnZfUlA5VmJfRTZXRXN2bFJ6QTJ6WkFfRTVmLXNQamZiMFllWVktM2JzS3hEeUo1YmtJUGhwWHJHd2hHMnItSFpwbzhvb2hhTUo4WDVzTG03MGtucDlzV2JMdWRWcllq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-e8879f20235a",
@@ -531,6 +519,18 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
+      "id": "FL-f49296c4ab56",
+      "date": "2026-08-31",
+      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
+      "ts": 1788137252000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
+      "site": "习近平外交思想和新时代中国外交",
+      "siteUrl": "https://cn.chinadiplomacy.org.cn"
+    },
+    {
       "id": "FL-195507ece114",
       "date": "2026-08-17",
       "dateISO": "Mon, 17 Aug 2026 07:00:00 GMT",
@@ -621,9 +621,9 @@
       "ts": 1789138296000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆“8・26”泥石流灾害抢险救援保障工作 - finance.sina.cn",
+      "title": "西藏吉隆“8・26”泥石流灾害抢险救援保障工作 - 新浪网",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanoyejhzbTJ4SFVoS01SdExGT2FlR0ZFV0tES25RLVdLMnN6UktGVzJVVDROak1WNjNGa0xkd0ZkclBSSktTc3hRMHJVeWVCbDhoZ19wQTNIU24xbWRfVW1FOWV3NnF1Q0poX24waWlVVEg2eVU1NnJPdkw5S1ZaMFpsMEdmNnJvaE1UZm1XYWdoRGZUNjVSZA?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪网",
       "siteUrl": "https://finance.sina.cn",
       "related": 49
     },
