@@ -324,17 +324,40 @@ window._TMapSecurityConfig = {
 const TYPE_COLOR = { fire: '#E53935', blast: '#FB8C00', geo: '#00695C', weather: '#1565C0', collapse: '#8D6E63', other: '#6A1B9A' };
 const TYPE_NAME  = { fire: '火灾', blast: '爆炸/燃爆', geo: '地质灾害', weather: '气象灾害', collapse: '坍塌/崩塌', other: '其他' };
 
+/* 日期门槛：只收录 MIN_DATE（含）之后的事件；在线快讯只保留最近 LIVE_WINDOW_DAYS 天 */
+const MIN_DATE = '2026-06-01';
+const LIVE_WINDOW_DAYS = 10;
+function inWindow(d, days) {
+  if (!d) return false;
+  if (d < MIN_DATE) return false;
+  if (!days) return true;
+  const t = Date.parse(d);
+  return !isNaN(t) && (Date.now() - t) <= days * 86400000;
+}
+
 const INCIDENTS = [
+  {
+    id: 'QD-0910', date: '2026-09-10', time: '11:15', scope: 'dom',
+    type: 'fire', level: 1, levelName: '特别重大（习近平重要指示）',
+    title: '山东青岛北海造船厂"9·10"外籍货轮火灾事故',
+    place: '山东省青岛市西海岸新区北海造船有限公司（海西湾）', prov: '山东', city: '青岛',
+    deaths: 25, injured: 5, missing: 0,
+    summary: '9月10日11时15分许，青岛市北海造船有限公司一艘外籍货轮（"海之韵号"/Ocean Melody）靠港维修期间起火，船上共42人，12人安全撤出、5人受伤送医（生命体征平稳）。明火于当日14时30分左右扑灭；19时24分许25名失联人员全部找到，均无生命体征，共25人遇难。现场调集56辆消防车、354名救援人员；搜救工作已基本结束，火灾原因调查正在进行。',
+    instr: '习近平作出重要指示：抓紧搜救失联人员，妥善做好善后安抚等工作，尽快查明事故原因，依法严肃追究责任；各地区各有关部门要深刻汲取教训，深入排查整治各类火灾隐患，落实落细防范措施，坚决遏制重特大事故发生。李强作出批示：抓紧搜救被困人员，全力救治伤员，做好善后处置工作，严防次生灾害；国务院安委会要举一反三，压实各地各条线安全生产责任。应急管理部已派出工作组赶赴现场指导；国家消防救援局10日晚召开紧急视频调度会。',
+    source: '中国政府网 / 新华社 / 人民网 / 光明网',
+    url: 'https://www.gov.cn/yaowen/liebiao/202609/content_7080636.htm',
+    lat: 35.977, lng: 120.196,
+  },
   {
     id: 'JL-0826', date: '2026-08-26', time: '10:30', scope: 'dom',
     type: 'geo', level: 1, levelName: '特别重大（中央政治局专题研究）',
     title: '西藏日喀则吉隆县吉隆口岸泥石流灾害',
     place: '西藏自治区日喀则市吉隆县吉隆口岸（因尼泊尔一侧泥石流引发）', prov: '西藏', city: '日喀则',
-    deaths: 7, injured: null, missing: 554,
-    summary: '8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。截至29日1时，已致7人遇难、554人失联（含外籍人员260人），救出群众2人。已到位各级救援力量2141人，堰塞湖实时监测中，G216国道正加紧抢通，500余名受威胁群众转移至安置点。',
-    instr: '习近平作出重要指示：当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡；要加强监测预警，注重科学施救，防止发生次生灾害。李强批示：抓紧核清失联受灾人数，组织力量全力抢险救援，及时有序转移受险群众，严防次生灾害，外交部加强与有关国家沟通协调。8月28日中共中央政治局召开会议专题研究部署抢险救援工作，习近平主持会议，全体起立向遇难人员默哀；张国清率队赶赴现场。',
-    source: '中国政府网 / 新华社 / 新华网',
-    url: 'https://www.gov.cn/yaowen/liebiao/202608/content_7079160.htm',
+    deaths: 43, injured: null, missing: 519,
+    summary: '8月26日10时30分许，尼泊尔一侧冰岩崩引发泥石流（冰崩碎屑流，流速达每秒50米），吉隆口岸0.7平方公里核心区遭毁灭性破坏，G216受损、电力通信中断。截至9月5日18时：43人遇难、519人失联（外籍失联261人、涉23国）、救出2人；累计投入救援力量2500余人，9月2日10时G216陆路救援通道抢通，多轮拉网式搜救持续开展；9月7日起转移安置群众陆续返乡。堰塞湖及次生灾害持续监测中。',
+    instr: '习近平作出重要指示：当务之急要千方百计搜救失联人员，转移安置受威胁群众，抓紧救治伤员，最大限度减少人员伤亡；要加强监测预警，注重科学施救，防止发生次生灾害。李强批示：抓紧核清失联受灾人数，组织力量全力抢险救援，及时有序转移受险群众，严防次生灾害。8月28日中共中央政治局召开会议专题研究部署抢险救援工作，习近平主持会议，全体起立向遇难人员默哀；张国清率队赶赴现场。9月2日西藏自治区召开新闻发布会通报救援进展。',
+    source: '中国政府网 / 新华社 / 西藏自治区人民政府（最新通报：9月5日）',
+    url: 'https://www.xizang.gov.cn/zmhd/hygq/202609/t20260903_556418.html',
     lat: 28.852, lng: 85.299,
   },
   {
@@ -598,13 +621,17 @@ function passesFilter(it, f) {
 }
 
 function renderList() {
-  const items = [...INCIDENTS, ...liveFlashes].filter(i => passesFilter(i, currentFilter));
+  const items = [...INCIDENTS, ...liveFlashes]
+    .filter(i => passesFilter(i, currentFilter))
+    .sort((a, b) => (b.date || '').localeCompare(a.date || '')); // 严格按日期倒序，最新事件永远在最上方
   feedList.innerHTML = items.map(it => {
     if (it.flash) {
+      const relatedBadge = it.related > 1 ? `<span class="badge b-scope-dom">已整合 ${it.related} 条相关消息</span>` : '';
       return `<div class="card flash" data-id="${it.id}">
         <div class="row1">
           <span class="badge b-type">${TYPE_NAME[it.type] || '快讯'}</span>
           <span class="badge b-scope-intl">在线快讯</span>
+          ${relatedBadge}
           <span class="date">${it.date}</span>
         </div>
         <h3>${it.title}<span class="live-tag">LIVE</span></h3>
@@ -767,19 +794,24 @@ async function fetchLive() {
       })
       .filter(item => { if (seen.has(item.title)) return false; seen.add(item.title); return true; })
       .slice(0, 15)
-      .map((item, idx) => ({
-        id: 'LIVE-' + Date.now() + '-' + idx,
-        flash: true,
-        date: (item.pubDate || '').slice(0, 10) || new Date().toISOString().slice(0, 10),
-        scope: item.src === '国际事故' ? 'intl' : 'dom',
-        type: /泥石流|滑坡|地震|海啸|溃坝|地面塌陷|地面下陷|mudslide|landslide|earthquake|tsunami|quake/i.test(item.title) ? 'geo'
-            : (/台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|typhoon|hurricane|tornado|flood|blizzard|drought/i.test(item.title) ? 'weather'
-            : (/爆炸|燃爆|explosion|blast/i.test(item.title) ? 'blast'
-            : (/火|fire/i.test(item.title) ? 'fire' : 'other'))),
-        title: item.title,
-        url: item.link || '#',
-        deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
-      }));
+      .map((item, idx) => {
+        const pd = Date.parse(item.pubDate || ''); // 正确解析 RSS pubDate（原 slice(0,10) 对英文日期无效）
+        return {
+          id: 'LIVE-' + Date.now() + '-' + idx,
+          flash: true,
+          date: isNaN(pd) ? new Date().toISOString().slice(0, 10) : new Date(pd).toISOString().slice(0, 10),
+          scope: item.src === '国际事故' ? 'intl' : 'dom',
+          type: /泥石流|滑坡|地震|海啸|溃坝|地面塌陷|地面下陷|mudslide|landslide|earthquake|tsunami|quake/i.test(item.title) ? 'geo'
+              : (/台风|飓风|暴雨|强降雨|洪涝|洪水|山洪|龙卷风|冰雹|沙尘暴|暴雪|寒潮|冻灾|旱灾|干旱|强对流|极端天气|typhoon|hurricane|tornado|flood|blizzard|drought/i.test(item.title) ? 'weather'
+              : (/爆炸|燃爆|explosion|blast/i.test(item.title) ? 'blast'
+              : (/火|fire/i.test(item.title) ? 'fire' : 'other'))),
+          title: item.title,
+          url: item.link || '#',
+          related: 0,
+          deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
+        };
+      })
+      .filter(it => inWindow(it.date, LIVE_WINDOW_DAYS)); // 手动刷新只显示最近 10 天
     got = newItems.length;
     if (newItems.length) {
       liveFlashes = [...newItems, ...liveFlashes].slice(0, 40);
@@ -875,8 +907,9 @@ async function loadRemoteFlashes() {
       type: item.type || 'other',
       title: item.title,
       url: item.url || '#',
+      related: item.related || 0,
       deaths: null, injured: null, missing: null, instr: '', lat: null, lng: null,
-    }));
+    })).filter(i => inWindow(i.date)); // 2026-06-01 之前的旧消息一律不显示
     if (!items.length) return;
     const seen = new Set(liveFlashes.map(i => i.title));
     const fresh = items.filter(i => !seen.has(i.title));
