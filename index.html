@@ -114,7 +114,9 @@ main { flex: 1; display: flex; min-height: 0; }
 #briefBody ul { margin: 6px 0 0 18px; }
 #briefBody li { margin: 3px 0; }
 /* 筛选 */
-#filters { display: flex; gap: 6px; padding: 12px 14px 8px; flex-wrap: wrap; }
+#filters { display: flex; flex-direction: column; gap: 7px; padding: 12px 14px 8px; }
+#filters .frow { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+#filters .flabel { font-size: 12px; color: var(--ink-3); flex-shrink: 0; margin-right: 2px; }
 #filters button {
   border: 1px solid var(--line); background: #fff; color: var(--ink-2);
   border-radius: 14px; padding: 4px 14px; font-size: 12.5px; cursor: pointer; transition: all .15s;
@@ -249,7 +251,7 @@ window._TMapSecurityConfig = {
     <div class="logo">⚠</div>
     <div>
       <h1>重大突发事件监测简报</h1>
-      <div class="sub">火灾 · 爆炸 · 人员伤亡 · 中央领导批示动态</div>
+      <div class="sub">重大火灾、爆炸、安全生产事故、气象灾害等人身伤亡事件监测、中央领导批示事件监测</div>
     </div>
   </div>
   <div class="spacer"></div>
@@ -273,14 +275,22 @@ window._TMapSecurityConfig = {
       <div id="briefBody"></div>
     </div>
     <div id="filters">
-      <button data-f="all" class="active">全部</button>
-      <button data-f="dom">国内</button>
-      <button data-f="intl">国外</button>
-      <button data-f="instr">⚠ 中央领导批示</button>
-      <button data-f="fire">火灾</button>
-      <button data-f="blast">爆炸/燃爆</button>
-      <button data-f="geo">地质灾害</button>
-      <button data-f="weather">气象灾害</button>
+      <div class="frow">
+        <button data-f="instr">⚠ 中央领导批示</button>
+      </div>
+      <div class="frow">
+        <span class="flabel">地点</span>
+        <button data-f="all" class="active">全部</button>
+        <button data-f="dom">国内</button>
+        <button data-f="intl">国外</button>
+      </div>
+      <div class="frow">
+        <span class="flabel">事故类型</span>
+        <button data-f="fire">火灾</button>
+        <button data-f="blast">爆炸/燃爆</button>
+        <button data-f="geo">地质灾害</button>
+        <button data-f="weather">气象灾害</button>
+      </div>
     </div>
     <div id="feedMeta"></div>
     <div id="feedList"></div>
@@ -795,8 +805,12 @@ function initMap() {
     infoWindow.close();
 
     markers.on('click', (evt) => {
-      const it = evt.geometry.properties.incident;
-      openInfo(it);
+      /* 双通道取事件：优先 geometry.properties（官方路径），取不到时按 geometry.id 回查
+         事件库——部分版本/环境下 properties 会丢失，导致点击无反应 */
+      const g = evt.geometry || {};
+      const it = (g.properties && g.properties.incident) || INCIDENTS.find(x => x.id === g.id);
+      if (!it) return;
+      try { openInfo(it); } catch (e) { /* InfoWindow 失败不阻断卡片联动 */ }
       highlightCard(it.id, true);
     });
   } catch (e) {
@@ -829,7 +843,14 @@ function focusIncident(id) {
 }
 
 function highlightCard(id, scroll) {
-  const card = document.querySelector(`.card[data-id="${id}"]`);
+  let card = document.querySelector(`.card[data-id="${id}"]`);
+  /* 卡片不在列表中：通常是激活了筛选器把该事件筛掉了——自动重置为"全部"再高亮 */
+  if (!card && currentFilter !== 'all') {
+    currentFilter = 'all';
+    document.querySelectorAll('#filters button').forEach(x => x.classList.toggle('active', x.dataset.f === 'all'));
+    renderList();
+    card = document.querySelector(`.card[data-id="${id}"]`);
+  }
   if (!card) return;
   document.querySelectorAll('.card').forEach(c => c.classList.remove('highlight'));
   card.classList.add('highlight');
