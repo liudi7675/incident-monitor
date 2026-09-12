@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:10:46.255Z",
+  "updated": "2026-09-12T13:26:58.879Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,28 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-e0b20b7e83b1",
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:38:54 GMT",
+      "ts": 1789076334000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流已致16人遇难，546人失联 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn",
+      "related": 47
+    },
+    {
+      "id": "FL-221fab767f36",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -357,22 +370,22 @@
       "ts": 1789190820000,
       "scope": "intl",
       "type": "fire",
-      "title": "一周天下｜青岛造船厂一货轮起火致25人死、尼泊尔泥石流灾害已致1382 人遇难 - photos.caixin.com",
+      "title": "一周天下｜青岛造船厂一货轮起火致25人死、尼泊尔泥石流灾害已致1382 人遇难 - 财新",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKUEh4bXUyVVhNVE5IY1A3d0xCZGUtcG5tY3JRQm9ZRDVrVkFPX19Yd1IzYjdCNGFPckotZXNaZXJrZm5salhqR09odFlMTlhnNk5WV1V1NV9DdmZHc2hXXw?oc=5",
-      "site": "photos.caixin.com",
+      "site": "财新",
       "siteUrl": "https://photos.caixin.com",
-      "related": 23
+      "related": 26
     },
     {
-      "id": "FL-584bc9d450b9",
+      "id": "FL-2f27bd1f3cf2",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 05:12:00 GMT",
       "ts": 1789189920000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - 新浪网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，被困9天后获救男子讲述灾难经历 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zTEZ0X2NnZDdwLTZzWHV5LUNJR09qckF6MjBKT2xNTWxmYjZVQ0dMOVZ3Z3lJUXhId1ZtT2gyV3dubnFzRjRhNVVUWEdpUUtLWTI1dWNnVDJENnlKWXU5WEo4R2JSRENfLUYwcXk4SHFIZ1NsbUE?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -412,15 +425,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-2b10791ae258",
+      "id": "FL-8bbc108b8c12",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:02:00 GMT",
       "ts": 1789178520000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列炸黎巴嫩，炸到美国人说地震了 - 上观新闻",
+      "title": "以色列炸黎巴嫩，炸到美国人说地震了 - jfdaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MRHdITmdJLUZOZW9tRmV6ZEF3alBSVTJWdkFsSWNnMGltdmxhSHZLdFdqZGp6TzE3bnlWMUhranV1dGp1TXNNTHh1TlBLLWQ0Z1hiUG05cVNkdmJsa3c?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com.cn",
       "siteUrl": "https://www.jfdaily.com.cn"
     },
     {
@@ -436,15 +449,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-2f6ec70dee5d",
+      "id": "FL-67959e9fd3e4",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:30:00 GMT",
       "ts": 1789176600000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - 新浪网",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难5130人失联，中国第五批紧急援助物资运抵加德满都 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WdjM5blNmdkthZkExd1Zyc0M0VUFMMzBpWVlLb3U5ZnF5VWdRYm5jNGUzZFphc3FjTnFpajFIMTZXVEM3dGFOVXZXdzY2TkFmNVpPaF9uNWJJNjV0Ry05R0VQakZWZW40WkItcnlPZVVRWUhra0pJeg?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -460,28 +473,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-6fdf3f379c9d",
+      "id": "FL-e126938f8d4f",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:21:00 GMT",
       "ts": 1789176060000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - 新浪网",
+      "title": "截至当地时间9月11日19时，尼泊尔泥石流灾害已致1386人遇难、5130人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNkZRUHVCVnVsQUFNaXVFMHdMdGlVMi1pbFY4OW5yeEEyaUlySUJRazNWRlA2VHkzSzRYS2MzU0ExTGtXT2FJeHUxR0hLNlJwaXhISTBiaWgteDZBT09kRU5aWXhOeHRCQy1ZNENDSU4wX3QwdUE?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-01e48f2ae3b7",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 01:06:42 GMT",
-      "ts": 1789175202000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-705700278b60",
@@ -580,6 +581,18 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
+      "id": "FL-4ee97473f1c9",
+      "date": "2026-08-14",
+      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "ts": 1786690800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-01338425c7d7",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:25:00 GMT",
@@ -604,29 +617,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-11672a3a9fa2",
+      "id": "FL-1b7740a3b157",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 22:48:57 GMT",
       "ts": 1789166937000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼爪哇海附近发生6.2级左右地震 - 央广网",
+      "title": "印尼爪哇海附近发生6.2级左右地震 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwdUM0V2NnRlNHQVFwLWN2MTRZZlFHNy1vbmUwcUpSS0w3aXBEUHJUSXd6b0VzT3dER0VQWHBZaHU4ZU5BZm9XQkdsSlFwbHZCTWwxRy0xbTRSTzRfaENSUG9yQXFZS0RX?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 14:51:36 GMT",
-      "ts": 1789138296000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏吉隆“8・26”泥石流灾害抢险救援保障工作 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanoyejhzbTJ4SFVoS01SdExGT2FlR0ZFV0tES25RLVdLMnN6UktGVzJVVDROak1WNjNGa0xkd0ZkclBSSktTc3hRMHJVeWVCbDhoZ19wQTNIU24xbWRfVW1FOWV3NnF1Q0poX24waWlVVEg2eVU1NnJPdkw5S1ZaMFpsMEdmNnJvaE1UZm1XYWdoRGZUNjVSZA?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://finance.sina.cn",
-      "related": 51
     },
     {
       "id": "FL-1b217b50e4cd",
@@ -665,15 +665,15 @@
       "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
-      "id": "FL-8617c5212b23",
+      "id": "FL-c9bdcc221269",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:24:00 GMT",
       "ts": 1789111440000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - 中工网",
+      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - workercn.cn",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVZ2Mwc3FuWkhKUWVSRURseTJJY2JZTnhJSUloZ2VLWF9aVTQ2RkdHUmhpT1lMZTVOUFJCUWluZFFIcUdzYm94TmlvQklDYXdfbDVITGxDb3JIc08ydERn?oc=5",
-      "site": "中工网",
+      "site": "workercn.cn",
       "siteUrl": "https://www.workercn.cn"
     },
     {
