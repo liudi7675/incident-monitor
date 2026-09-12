@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T23:30:02.478Z",
+  "updated": "2026-09-12T23:40:07.987Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,19 +87,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 23:41:00 GMT",
-      "ts": 1788910860000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "吉隆泥石流灾害抢险救援一线日记：吉隆不会停下来 - peopleapp.com",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52WGt5ZmFteU9jRVdoNVhKWGRGMXIxbTZPcTJHUDI3RVdOVE9xei1yTW5PVDRwalI0amNWeVRlUjJXYXUwc2JNWEFrRmhUNGx4c0dZNUVoY05Hb3ZvVklqUHJjSmw1WTc4?oc=5",
-      "site": "peopleapp.com",
-      "siteUrl": "https://www.peopleapp.com",
-      "related": 46
-    },
-    {
       "id": "FL-a66e299abb48",
       "date": "2026-09-01",
       "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
@@ -136,15 +123,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-e0b20b7e83b1",
+      "id": "FL-221fab767f36",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 15:24:23 GMT",
       "ts": 1789053863000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - 联合早报",
+      "title": "西藏网警：网民恶意对比他国歪曲中国泥石流救援被罚 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41YTFMaV8talhpWGRhdjJlWng2bThUdEwyTEFvbEgySFBYNDdaQUFXcW5sN3NOT3I3WGpINmVSenFmR1JWMVpYTTZ3R2swOExDVDc0WVJGR0ttWXAwWjdaSWh3NnFBMUpLUWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -206,6 +193,19 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rX1RiTnhfNTlTbkJ6NTFXZ0V1eHZxb05OZEF6WmJUSEhvOVJsekJtTFlkdHJwb0R0OXdQWTBzU09tZFRwMW10eUpFalQxeWx4V0h0c2FqcllYSEE4aGpJZVplX0k?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
+      "ts": 1789013919000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn",
+      "related": 47
     },
     {
       "id": "FL-7e32a90d10dc",
