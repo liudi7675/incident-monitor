@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:07:49.847Z",
+  "updated": "2026-09-13T02:22:01.061Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4d895b3240f3",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 11:12:00 GMT",
-      "ts": 1789038720000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1380人 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rNmRnVWVsdjRiUUk3VE9OaVlSSXg4NlFjUmVaRmdlLVhyd0U0RWU4aS15RmdfTW8wWmNtQm9va291TTBVNkNKd3V4SGNheXRtRUxDaVlJcFl6VkZsUkhXNGwxbkQ0VDFrYUhDTGpGM0ZEZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
       "id": "FL-20065abd257a",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:10:00 GMT",
@@ -266,6 +254,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-be8d95a8f673",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 01:57:59 GMT",
+      "ts": 1789264679000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "重庆彭水发生山体崩塌，西政校友、年仅25岁网格员龚宝冬不幸牺牲，网上有人问县城网格员也是西政培养的精英吗？校长在26级新生开学典礼上公开回应 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0tIVzM3akxfanFNd0tOVWdLYUZ1WTBmZTlOMTRpeGJjRFBhZnl0bHRLd09OVnp0bzZvRU1GQmFmejYxX2YwQXptX1E2aUJ2SzVXZUdYSS10WGtqUHNMU0tKRldtd1lZelV3NUdQTGxQSWNEelc0M19jcUFWX3p2SW53T2o1bmNE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a7f487a3e2d3",
@@ -388,18 +388,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-ae7f6ab01468",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 08:39:11 GMT",
-      "ts": 1789202351000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "网传乐山锦江山太白亭山体滑坡？不实！ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGM3bmJaSTkyVEVMaTJGQkFqeDZ4eWgyczdxNkRtVlJYT1BBWjdiQ0NFOUZwdHR2UzJ3SWQ1QkRoVUhxejUxV3ZNMVRjcnpxaWNqMFgxejNYRWxIQmczX3dWVlI0aWN0eVpmbTJBbENEOG5kZzdwQXBnV0E4Z1llak9OSXVKZktMYTAwVg?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-e9ebafc482cd",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 04:46:56 GMT",
@@ -424,15 +412,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-2a6e56c5284b",
+      "id": "FL-093234d1747b",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:19:00 GMT",
       "ts": 1789179540000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 中国青年网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - news.youth.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQTN6bzdwVmtSVXY4Y29Ub0lObmhlMEdsOE9uX0Qzd1NsZGpvVnVSc2FRRmZvX3JrXy1HbGNhd2pGMENPTndEQWRHT0hNYVpodzJwM0NsaVZkdWY5Q1U5ZlVlb1E?oc=5",
-      "site": "中国青年网",
+      "site": "news.youth.cn",
       "siteUrl": "https://news.youth.cn"
     },
     {
@@ -723,6 +711,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVk5ZY2p6T253d1QxelVVaU5VdUlJa3JqbVhmTkQzRml1dkdLeERVRXFOTHhVd3p5YXdILXJmOEV6Tm1lQWI1UWlOVldwZjNEUWJQbUJiZ1JGaXFuTDRVQUhnZjNPZDRG?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-e34f6d05bc66",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 22:22:08 GMT",
+      "ts": 1788560528000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "冰崩引发泥石流，有何特殊性？ - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTFZPLXpCT0JVSzdjZzFfS093ZTVWMFF1d3dxNUFlN3huOEY1SUZWTFJwdkZOZzl0bGtqekFqUWZNZ0JHOUhJQUtJeHVCYzBuc3Z0T0J3TXJWTElZMVpWbndvRnBuNWV0TzhmYTBaRlc3UnBSRmpfMUlTVEZVSVE?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
