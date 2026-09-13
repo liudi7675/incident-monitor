@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T01:05:40.726Z",
+  "updated": "2026-09-13T01:18:48.154Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-3ca557b02856",
@@ -217,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 43
+      "related": 42
     },
     {
       "id": "FL-7e32a90d10dc",
@@ -723,6 +711,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVk5ZY2p6T253d1QxelVVaU5VdUlJa3JqbVhmTkQzRml1dkdLeERVRXFOTHhVd3p5YXdILXJmOEV6Tm1lQWI1UWlOVldwZjNEUWJQbUJiZ1JGaXFuTDRVQUhnZjNPZDRG?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-e34f6d05bc66",
+      "date": "2026-09-04",
+      "dateISO": "Fri, 04 Sep 2026 22:22:08 GMT",
+      "ts": 1788560528000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "冰崩引发泥石流，有何特殊性？ - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTFZPLXpCT0JVSzdjZzFfS093ZTVWMFF1d3dxNUFlN3huOEY1SUZWTFJwdkZOZzl0bGtqekFqUWZNZ0JHOUhJQUtJeHVCYzBuc3Z0T0J3TXJWTElZMVpWbndvRnBuNWV0TzhmYTBaRlc3UnBSRmpfMUlTVEZVSVE?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
