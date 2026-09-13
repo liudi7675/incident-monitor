@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T01:18:48.154Z",
+  "updated": "2026-09-13T01:31:30.158Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-dbaf6cd415cc",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "国防部网",
+      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-3ca557b02856",
@@ -75,15 +87,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-a8313f5d9c0f",
+      "id": "FL-63cd5a1b6cd5",
       "date": "2026-09-08",
       "dateISO": "Tue, 08 Sep 2026 23:47:52 GMT",
       "ts": 1788911272000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川高坪镇泥石流已致12人遇难 - 中国科技网",
+      "title": "江西遂川高坪镇泥石流已致12人遇难 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRjA1MkdaZ2E3TkQyaGx0QWlKOXJpX3JMcHA3R0J0UXpQQTcwRlpFNWZSamp1NHNwc1N2Wm9Lb1ltdlZ2QjNIaTcxZThFTTc3S0VhSjBkY05HOWRlOHBjdFQxQ2hTN2sydzZESWVQMGQ?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -205,7 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-7e32a90d10dc",
@@ -292,15 +304,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-0bb4cb5d3816",
+      "id": "FL-446caeec2e00",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 05:15:14 GMT",
       "ts": 1788671714000,
       "scope": "dom",
       "type": "geo",
-      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - 中国科技网",
+      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mS0ZRT2QzNVd0N29ZZ3ZIWk9xUTBZZjlscFpuZVVGMFVRQkZYQWktZXFScVpwdHRaaVZzYUFQbjNacENkZUFYLU1rYS1xM0RScHdJSjFBenZxRmd3eUdrLVJ2ZzVRbFF0NkZnTGNiVEk?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -316,15 +328,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-fab187c38975",
+      "id": "FL-45cb5acc690b",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 16:16:08 GMT",
       "ts": 1789229768000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今晚到明晚，海南岛、广东、广西、云南、四川、福建、浙江、黑龙江等地将有短时强降水 - 新浪财经",
+      "title": "中央气象台：今晚到明晚，海南岛、广东、广西、云南、四川、福建、浙江、黑龙江等地将有短时强降水 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFg5S2xaU0NpNUowVGxJWFNlRXdSR2ZXdGxEWmJjX3A0R09yNVUtUzZDMUE0VXVzT0lNZWZfNVlrd2J4MU9Mbml5ZVZabG5mNnYwSmRLdWtXdnhnWC1tWmhVT29GdjdGSVhOb3A5QjlpSUtiV29IQ3VRRkVIU3BZMEROSzVFVDEwMzU0RUNtREpKczRLWEJrcDdwN1h3eEFkU3FTd0V1a0Z5VGVRSVZhU2FGU3dfS3l1S0ZqbU13aHF3N1hLazNCQlk0NjhjZmFWbzBLaHJCOA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -352,15 +364,15 @@
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
-      "id": "FL-6d8de70026aa",
+      "id": "FL-a9a5679a9606",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 13:23:00 GMT",
       "ts": 1789219380000,
       "scope": "dom",
       "type": "geo",
-      "title": "江西遂川一男子被泥石流冲出数十米、失联两天后与女儿团聚 - jx.ifeng.com",
+      "title": "江西遂川一男子被泥石流冲出数十米、失联两天后与女儿团聚 - 凤凰网江西",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YR21oU0NMZ3dSWmpQLVBYSUtTdHZzRHJVVHl0TGRoalhuRU9EajV4YVRFb0xiTDNaeDV6d19XMWdxaGlHTVdzN2hB?oc=5",
-      "site": "jx.ifeng.com",
+      "site": "凤凰网江西",
       "siteUrl": "https://jx.ifeng.com"
     },
     {
@@ -400,15 +412,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-e9ebafc482cd",
+      "id": "FL-1acdcea6bdbd",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 04:46:56 GMT",
       "ts": 1789188416000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 新浪财经",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcUM1X3JycHNBOFoyX2JwVzZrMXVQMHdkRUZ4cG55YVJEVFhLVGdIVnpfZ20wLVdUSGk4SHlaQ05Vc2NoREVEbm10NFhvcGxPTndoU0dMQTdnWjA3WDliQUNoSDctbDdJcHFKSEFLNlRheEI4eEJrWQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -472,15 +484,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-705700278b60",
+      "id": "FL-9ea9fa63890c",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 09:42:57 GMT",
       "ts": 1788601377000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害中1名受困中国公民获救 - 中国科技网",
+      "title": "尼泊尔泥石流灾害中1名受困中国公民获救 - stdaily.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91a2hpUEUwOUx0Wmg0XzNqdDUwb0pzY3JBT1JoRmJibXZjSW9qT1pIaG9xUlVhaVlhZ2dtZGZGejNKV2dJdkd2X25uYi1Qc2QwLS1wNmJ1Qms5d2J3cVFKOHh1U2ROX2ZYd3lhZy1WaWY?oc=5",
-      "site": "中国科技网",
+      "site": "stdaily.com",
       "siteUrl": "https://www.stdaily.com"
     },
     {
@@ -711,18 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVk5ZY2p6T253d1QxelVVaU5VdUlJa3JqbVhmTkQzRml1dkdLeERVRXFOTHhVd3p5YXdILXJmOEV6Tm1lQWI1UWlOVldwZjNEUWJQbUJiZ1JGaXFuTDRVQUhnZjNPZDRG?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-e34f6d05bc66",
-      "date": "2026-09-04",
-      "dateISO": "Fri, 04 Sep 2026 22:22:08 GMT",
-      "ts": 1788560528000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "冰崩引发泥石流，有何特殊性？ - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTFZPLXpCT0JVSzdjZzFfS093ZTVWMFF1d3dxNUFlN3huOEY1SUZWTFJwdkZOZzl0bGtqekFqUWZNZ0JHOUhJQUtJeHVCYzBuc3Z0T0J3TXJWTElZMVpWbndvRnBuNWV0TzhmYTBaRlc3UnBSRmpfMUlTVEZVSVE?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn"
     }
   ]
 }
