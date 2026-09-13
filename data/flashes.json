@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:55:57.215Z",
+  "updated": "2026-09-13T03:08:01.712Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -244,27 +244,39 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-7b11d0d697f3",
+      "id": "FL-07f6910fa843",
       "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:12:00 GMT",
-      "ts": 1789265520000,
+      "dateISO": "Sun, 13 Sep 2026 02:58:01 GMT",
+      "ts": 1789268281000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IUlNIOTJEcW5CbDl4cS1FbE1YSnJxOXVzYktqQnFMbXBJbWROQ2dxZUdMaHh4MmRvbTlvUWVmT2xUcjA1OTFTLWNNNW9CMFJiTElOUnRVU0tkWHNTd1htVQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDBITDc1enpQY3NRWHpscF9YSkxkd3FIeHJjT0dWVURDbER4T0d6d1hwY0RYUlNpd2V5aW9xVzh1eTFDdjhWLTNWMm1XODlxd2tqZ0U2VllFM2FfdlY5NTNwT0todGdZdFRfbFA5MHhtaDljdlRBTzUtb01IUnh1U2RsSGdmMHdqRksxc0JjZGRaRkUyb1J1eQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-0344b1467065",
+      "id": "FL-e4f0e269703a",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 02:41:01 GMT",
+      "ts": 1789267261000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUJjbGJqU1R1Mkdpc0RFUmVnMmJBN2s3MW11TmxlZmZFREFsenFDbGprOHM5MDI2NXhDSl96MmtXcC00TE5CR0RaY24xZ0VLaTNzT0E4WUpwb0J1YVZvZGpFZ1AxbkliVHZEa0ltYW5qS0Q1el9xeFFkWURKcEpIN2tGekhMb1Rv?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-be8d95a8f673",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 01:57:59 GMT",
       "ts": 1789264679000,
       "scope": "dom",
       "type": "collapse",
-      "title": "重庆彭水发生山体崩塌，西政校友、年仅25岁网格员龚宝冬不幸牺牲，网上有人问县城网格员也是西政培养的精英吗？校长在26级新生开学典礼上公开回应 - sohu.com",
+      "title": "重庆彭水发生山体崩塌，西政校友、年仅25岁网格员龚宝冬不幸牺牲，网上有人问县城网格员也是西政培养的精英吗？校长在26级新生开学典礼上公开回应 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0tIVzM3akxfanFNd0tOVWdLYUZ1WTBmZTlOMTRpeGJjRFBhZnl0bHRLd09OVnp0bzZvRU1GQmFmejYxX2YwQXptX1E2aUJ2SzVXZUdYSS10WGtqUHNMU0tKRldtd1lZelV3NUdQTGxQSWNEelc0M19jcUFWX3p2SW53T2o1bmNE?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -280,15 +292,15 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-83b10a2eb60d",
+      "id": "FL-a7f487a3e2d3",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 00:30:32 GMT",
       "ts": 1789259432000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：天 气 公 报（2026年09月13日） - sohu.com",
+      "title": "中央气象台：天 气 公 报（2026年09月13日） - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWNOamI2X25rRjZVb0VGUmp0Si1UTE1rY3o3Rk5OY19OVndScUdtdXU4UXpEVXVLQjVnQXRpZHRkcmFmTUJaa2gxR1Axa2sxSWhBb0hDQWhKVGVHelU0OHFWR0FxOW1HaTNBZ05uU0NhcjZHUDlvcDM0LTFvY3J1WUF0SHRYN2xXWXM0MQ?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -443,9 +455,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIRnZfUlA5VmJfRTZXRXN2bFJ6QTJ6WkFfRTVmLXNQamZiMFllWVktM2JzS3hEeUo1YmtJUGhwWHJHd2hHMnItSFpwbzhvb2hhTUo4WDVzTG03MGtucDlzV2JMdWRWcllq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IVHlwaFRUODV3Zk82S2kwRVB1UFdXZWpSOUNuVHdSRFRqWkptX0Uzdko2clBvN1FXc2ZhYzF0UDV6VGFFcm5xWjJLRW1ra2RDWE0xcnlWTzVqcDdCcDZPLWxRU3kzRjFXYVdLdC1wZGNuSUtPQXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-4d62c2e7f6e4",
@@ -470,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-705700278b60",
