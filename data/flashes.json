@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T23:57:21.480Z",
+  "updated": "2026-09-13T00:15:16.158Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,16 +111,29 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-a2237798f821",
+      "id": "FL-70df99d44104",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
       "ts": 1787209200000,
       "scope": "intl",
       "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
+      "site": "news.un.org",
       "siteUrl": "https://news.un.org"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 21:38:54 GMT",
+      "ts": 1789076334000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流已致16人遇难，546人失联 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUowcWJsa1BOYmV2YkdVR1RvOGItQ1ZQMENFN18zOHlyZmpxTFZPNTVsNHhTbjgzNWswSzFXTnlLM1J2SGZpUU9fb2RNekxPSHZId1lkcW1uS0VDMDY0cjg2eGd2djdPQl9hVW5lTFVaSkpBV2Q0SFJhR3BaaDVtbzhraVhIZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn",
+      "related": 49
     },
     {
       "id": "FL-e0b20b7e83b1",
@@ -159,15 +172,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4d895b3240f3",
+      "id": "FL-fbe77ff761f4",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 11:12:00 GMT",
       "ts": 1789038720000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1380人 - 京报网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1380人 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rNmRnVWVsdjRiUUk3VE9OaVlSSXg4NlFjUmVaRmdlLVhyd0U0RWU4aS15RmdfTW8wWmNtQm9va291TTBVNkNKd3V4SGNheXRtRUxDaVlJcFl6VkZsUkhXNGwxbkQ0VDFrYUhDTGpGM0ZEZw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -193,19 +206,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rX1RiTnhfNTlTbkJ6NTFXZ0V1eHZxb05OZEF6WmJUSEhvOVJsekJtTFlkdHJwb0R0OXdQWTBzU09tZFRwMW10eUpFalQxeWx4V0h0c2FqcllYSEE4aGpJZVplX0k?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
-      "ts": 1789013919000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 47
     },
     {
       "id": "FL-7e32a90d10dc",
@@ -304,18 +304,6 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-73fcea14c8c8",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 14:49:46 GMT",
-      "ts": 1789224586000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR1g2c2M0bHFPdmVoVDdDMDVwdTl3N21vU0IyT29WYnM0Zzg5ZlRRQ2tNcDlTdXJGbHk5bkNicTJIeHktOXhCZTc1ZDRiZFNXQWdxUFdOWWV0TV9EMmx3ejYwVEUwYjZERzdkaFdxTVJ2aHVFeUVGU2JBMHFXTmZoX3JIX3B1OTJLNGVURg?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-4d438bad2603",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
@@ -328,15 +316,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-9e0910d6a5cb",
+      "id": "FL-d2848657c85d",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 13:50:49 GMT",
       "ts": 1789221049000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔21岁工人泥石流失联10多天后突然回村了 - wenxuecity.com",
+      "title": "尼泊尔21岁工人泥石流失联10多天后突然回村了 - 文学城",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNnZUX2VpWVpkV3c3QlRVZjFuRUw2YVp4QW5rTzhQV2Z0N2MwT1ZKdi1RSnU0SDBNUVBhZWpxLVJXNWNyUUp6dVNkMTZiUkFocktZSHpzVEV3TWJud1VneS0wR2hFUHAt?oc=5",
-      "site": "wenxuecity.com",
+      "site": "文学城",
       "siteUrl": "https://www.wenxuecity.com"
     },
     {
@@ -364,15 +352,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d072de016d00",
+      "id": "FL-ae7f6ab01468",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 08:39:11 GMT",
       "ts": 1789202351000,
       "scope": "dom",
       "type": "geo",
-      "title": "网传乐山锦江山太白亭山体滑坡？不实！ - sohu.com",
+      "title": "网传乐山锦江山太白亭山体滑坡？不实！ - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTGM3bmJaSTkyVEVMaTJGQkFqeDZ4eWgyczdxNkRtVlJYT1BBWjdiQ0NFOUZwdHR2UzJ3SWQ1QkRoVUhxejUxV3ZNMVRjcnpxaWNqMFgxejNYRWxIQmczX3dWVlI0aWN0eVpmbTJBbENEOG5kZzdwQXBnV0E4Z1llak9OSXVKZktMYTAwVg?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -400,15 +388,27 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-2ee327153d2d",
+      "id": "FL-e9ebafc482cd",
+      "date": "2026-09-12",
+      "dateISO": "Sat, 12 Sep 2026 04:46:56 GMT",
+      "ts": 1789188416000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcUM1X3JycHNBOFoyX2JwVzZrMXVQMHdkRUZ4cG55YVJEVFhLVGdIVnpfZ20wLVdUSGk4SHlaQ05Vc2NoREVEbm10NFhvcGxPTndoU0dMQTdnWjA3WDliQUNoSDctbDdJcHFKSEFLNlRheEI4eEJrWQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-b233e0d03488",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 03:35:15 GMT",
       "ts": 1789184115000,
       "scope": "dom",
       "type": "geo",
-      "title": "预警直达教室！甘肃全面推进校园地震预警服务客户端安装部署 - sohu.com",
+      "title": "预警直达教室！甘肃全面推进校园地震预警服务客户端安装部署 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1gzMkxXZl9XMDRISk9FQ2xHY1I5VnBVbURZM0prRUhscmdwRXhUY1lmcTc1RGQyckxxZ1lkMURTUjdBVldIajBHLXBmOXZRMXFUUmtfTlpJbWhVRHdxVllfOG9kVE9qSUI0ZTItQ0tXT2VUdWJrQlhnUlNuaGg3WmxNZ0wxeEwt?oc=5",
-      "site": "sohu.com",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -686,7 +686,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaW93UmVCeVBCWnd3QmZ5TXZMdUoyNlpQNzFwazZZYmFRSjhZTGdLSHE2Ty1CY0NPYWpBS0x1WUtNckpQaXEzWFZYd2VTV2FQd2FSejBnSDhCMG5PZHdQd0QwTldPNGlOR21mVWNDaXVjMGRFUDRaMUxNRlBuQkhFRnlLVkkxYXhGdWVZbDd4TDQ3cVRJQjJ5MA?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.cn",
-      "related": 26
+      "related": 24
     },
     {
       "id": "FL-84ec9d5c296f",
