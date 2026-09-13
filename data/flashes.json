@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T04:40:54.820Z",
+  "updated": "2026-09-13T04:47:43.542Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-dbaf6cd415cc",
+      "id": "FL-1a134a5d6448",
       "date": "2026-08-26",
       "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
       "ts": 1787727600000,
       "scope": "dom",
       "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - mod.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
+      "site": "mod.gov.cn",
       "siteUrl": "http://www.mod.gov.cn"
     },
     {
@@ -142,9 +142,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-e18a0a48aa63",
@@ -244,15 +244,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f20b2a5c68bc",
+      "id": "FL-3dc6918dd930",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 04:14:08 GMT",
       "ts": 1789272848000,
       "scope": "dom",
       "type": "weather",
-      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应 - 新浪网",
+      "title": "水利部针对海南启动洪水防御Ⅳ级应急响应 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LN3JHRjZaNXRzOVhGTUdCSmJmRy1JcWZ6OHN1d2RwMXIwNVJMXzlBXzQtY2dhaF9WaFRNdndrQ3B6Vkh3LWloVHJwbklVMVFpdUlfYkJEaGZfMy1DeExGcERlQ3J6WTJsSEw3dk9CNU5fV09KMmR1MQ?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -280,15 +280,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-7ec929f60333",
+      "id": "FL-d4df2e65311d",
       "date": "2026-09-13",
       "dateISO": "Sun, 13 Sep 2026 03:19:44 GMT",
       "ts": 1789269584000,
       "scope": "dom",
       "type": "geo",
-      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪网",
+      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnVHY1ZGdjRQLUhQM2ZPLU5icnBHYVNFaWh5RzRNVFNReFQ4U2FjN2ViZXVWVGRLV3hJSG5sQmJyMVZlcklsMFJMX0pidEcwQ05QQXIyTHd5bDVxclhVV3JvdUpPVEpxZTY5Qk1hRmpMLTlubUQ4OW5wNE15Zw?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -376,27 +376,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-3c726261be70",
+      "id": "FL-4d438bad2603",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
       "ts": 1789222920000,
       "scope": "dom",
       "type": "weather",
-      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - 新浪网",
+      "title": "应急科普｜暴雨天，转移避险重点注意这几点→ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOUk4S09makJHT3lORDJfemNNTGlqXzB5VTFMZmI3azVDa3JjSkpPVlptZ2I5NndmUHVvaFhzZnVYU3hOWXJlRzcyVGVyQXAzcjdCQmFkOGJZZXU3LUljdUM4Y3JuRl8xdGpjZEh0eGdYcFZzZ2c?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-ed75b2ced8e4",
+      "id": "FL-fab187c38975",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 14:22:00 GMT",
       "ts": 1789222920000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：今晚到明晚，海南岛、广东、广西、云南、四川、福建、浙江、黑龙江等地将有短时强降水 - 新浪网",
+      "title": "中央气象台：今晚到明晚，海南岛、广东、广西、云南、四川、福建、浙江、黑龙江等地将有短时强降水 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vS0l4cjVKc0RmaDhXR0JaX2FOcWlrOTF4dkRpYmJyd2I1aU43a3lGNHNVeEpZMk44LUc3SXY0QmZXQWlscEhCaUVxSkYtMkg5WnBwZU9nSy1EUFRRUk1ILVZtMVV5bG9sa0lzejNGaGlNdktpckE?oc=5",
-      "site": "新浪网",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -424,27 +424,27 @@
       "siteUrl": "https://jx.ifeng.com"
     },
     {
-      "id": "FL-84bc6e677b04",
+      "id": "FL-785c34cbd5cc",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:57:55 GMT",
       "ts": 1789181875000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴拿马和哥斯达黎加边境地区发生5.3级地震 - 京报网",
+      "title": "巴拿马和哥斯达黎加边境地区发生5.3级地震 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tU2xnWG9YYkp1SjNhOERBVVdYT210OTRSWTQ0QjhPb0RvREotbEx4ZmxpVG8xa0V3NkRqcXZQdWczY1pkcHFHeUxCd3BuLUMxS25vckRmbWgxVWxRYnc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-093234d1747b",
+      "id": "FL-2a6e56c5284b",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:19:00 GMT",
       "ts": 1789179540000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - news.youth.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 中国青年网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQTN6bzdwVmtSVXY4Y29Ub0lObmhlMEdsOE9uX0Qzd1NsZGpvVnVSc2FRRmZvX3JrXy1HbGNhd2pGMENPTndEQWRHT0hNYVpodzJwM0NsaVZkdWY5Q1U5ZlVlb1E?oc=5",
-      "site": "news.youth.cn",
+      "site": "中国青年网",
       "siteUrl": "https://news.youth.cn"
     },
     {
@@ -472,15 +472,15 @@
       "siteUrl": "https://news.cnjiwang.com"
     },
     {
-      "id": "FL-01e48f2ae3b7",
+      "id": "FL-8a881c03f3c5",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 01:06:42 GMT",
       "ts": 1789175202000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 京报网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -568,6 +568,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-310c1137edae",
+      "date": "2026-09-07",
+      "dateISO": "Mon, 07 Sep 2026 14:50:00 GMT",
+      "ts": 1788792600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西遂川高坪镇泥石流已致5人遇难 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGb0M0TmxfY01XUVpEeUlSYzlOZS0zWU5ORUk4bGhnTFJFNm1PanRPNGpDZDNfck5mMmhzN1BGZktTdjJURDNxNjVrdy1ETmx5T2pTQUhBVk1HNjl6ZE1Gc0lrc2hXYkpUNjU3bEFNSzJGeUtIZHg4?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -628,18 +640,6 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
-      "id": "FL-1b217b50e4cd",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 12:32:12 GMT",
-      "ts": 1789129932000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼附近海域发生6.2级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10WjRYREc5U01FaXl5bjc0bkMzTkxqbVVMdnRlR29DRDVURUdPM2tIbVB5V3lEMGdtck1ubkRNcjZpSHYwc3hGeHZuVTY3eThYWnl3TG5EekZLTVZlYkE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-43f2dbee5f2a",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:37:00 GMT",
@@ -652,15 +652,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-c9bdcc221269",
+      "id": "FL-8617c5212b23",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:24:00 GMT",
       "ts": 1789111440000,
       "scope": "dom",
       "type": "geo",
-      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - workercn.cn",
+      "title": "视频｜低风险区突发泥石流 灾害频频“越界”给我们哪些警示- 民生 - 中工网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVZ2Mwc3FuWkhKUWVSRURseTJJY2JZTnhJSUloZ2VLWF9aVTQ2RkdHUmhpT1lMZTVOUFJCUWluZFFIcUdzYm94TmlvQklDYXdfbDVITGxDb3JIc08ydERn?oc=5",
-      "site": "workercn.cn",
+      "site": "中工网",
       "siteUrl": "https://www.workercn.cn"
     },
     {
