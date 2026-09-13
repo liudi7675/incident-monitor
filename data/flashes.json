@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-13T02:37:02.234Z",
+  "updated": "2026-09-13T02:47:35.806Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-dbaf6cd415cc",
-      "date": "2026-08-26",
-      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
-      "ts": 1787727600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
-      "site": "国防部网",
-      "siteUrl": "http://www.mod.gov.cn"
-    },
     {
       "id": "FL-42ba1d0df553",
       "date": "2026-08-26",
@@ -25,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CTG9yTTh6cnplOGJ1TG5PUzFQRkwtNjZTTzFLcEMwYzRWQlhzTVF2eGMyUFRzdWlKYldDSTVRcWNVd2RnbkJWU1prR2FMUVhKeVk4X0c4MVNnbUFCTjItZ0JiN0xvd9IBa0FVX3lxTE1PT1F4VHcyMnlBRE5SdUdLeERKN21TU1VXSkdqTTNnWnE1MTkxNi1Yb1ZqbWQtX2ZVdGwtMFhCZjZsVmgwTi1LNkdwYWtOZTE3dDlIVzNiT3cxOHV2dzdnZF9hY2cwV3dsSi1j?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-dbaf6cd415cc",
+      "date": "2026-08-26",
+      "dateISO": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "ts": 1787727600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强降雨致广西多地发生洪涝灾害，解放军和武警部队官兵、民兵持续展开救援 - 国防部网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd0VzRncydXJUemRMbXhJaks0eWE0b0VoWTY4VXVJQmxSUTU2TGdpaHRqOXh4VVRyU0tlTks0MjZZeUhZR2R1SEdUdEVBZHBoRk5EVDFweDZtMURf?oc=5",
+      "site": "国防部网",
+      "siteUrl": "http://www.mod.gov.cn"
     },
     {
       "id": "FL-36b5a3811114",
@@ -51,15 +51,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-b701685ac888",
+      "id": "FL-b161f3689ead",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "intl",
       "type": "geo",
-      "title": "特写丨中尼合作在尼泊尔泥石流灾区开展救援 - 新华网",
+      "title": "特写丨中尼合作在尼泊尔泥石流灾区开展救援 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTjFVWG1VZWZ2LWlpeGctVmVDajFHVTlCdmpOTUI5bXVjNVhqTUozejl5MGtOUk5IS2NBR3R6dFREUENHRGFqb0J3cUQ2T2dIbW1sTU0wNHFjLW56Vl9MOWJkalVfc3NBcHpMTG96WGp6ZjBnYWxGaHhzRFM5NlU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -123,15 +123,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-02a4c49042bb",
+      "id": "FL-e6eef2edba42",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 14:37:00 GMT",
       "ts": 1789051020000,
       "scope": "intl",
       "type": "geo",
-      "title": "以色列猛烈轰炸，引发4.1级地震 - 财联社",
+      "title": "以色列猛烈轰炸，引发4.1级地震 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9yVzNTWFFwS3EwMUdBUy1fWFFud3dDdTlObnFrWURWTnJJUF9LMmxicGpZRHExVEFDQzNPa3cydm1lTnBQOFE?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -145,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-e18a0a48aa63",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
+      "ts": 1789043316000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-20065abd257a",
@@ -220,28 +232,40 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-95cf74f3e9e4",
+      "id": "FL-e4817d4605e3",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "intl",
       "type": "geo",
-      "title": "现场直击丨尼泊尔泥石流灾区见闻 - 新华网",
+      "title": "现场直击丨尼泊尔泥石流灾区见闻 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-606047507f57",
+      "id": "FL-e4f0e269703a",
       "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 02:26:42 GMT",
-      "ts": 1789266402000,
+      "dateISO": "Sun, 13 Sep 2026 02:40:04 GMT",
+      "ts": 1789267204000,
       "scope": "intl",
       "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 - 国际在线",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sVU5XTXp1b0JhWURqVldrX0pDT0YzZ2s3MEZXcExhSlVuZTkyeV80N0pyNjM5YWx5YkRaWklrVWNFWVN0dEoxbFhueWk2bEFJOTRZbjlXX1JGUnJNWlJUUkZ0LVVjbDc1NllHTllCeXZZM0w4ZEV0dDR3?oc=5",
-      "site": "国际在线",
-      "siteUrl": "https://news.cri.cn"
+      "title": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1JNbEdOLWZKd0twZ0lfUUM0MHRkdEhCdXJ4ZGhWak5TeUx4bHZQSUtXbUFybHEwbmJuSkRnV1pDaFRoRnhvX044WXpaM0xTZ0hFWnNUUlk5aFVrVTc3amJ2UFlCa01ZTXVvRS14d1NtTTFNeEdwTVZqQnFVUDlRSEpXaTVuSlVCdEN5cw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-495c91d84b8b",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 02:23:55 GMT",
+      "ts": 1789266235000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中国地震台网正式测定：09月13日10时12分在内蒙古阿拉善盟阿拉善左旗（北纬40.12度，东经106.53度）发生3.6级地震，震源深度8千米。 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kLUpoZ2otVHlDN0piN014TGNBNnAtbEMzLXhMWlA0RTVmRkJLbGVUaDlqbDZYSVZlWm5IbFlwS1EyUzgtd1hzUW40WTM3SHpHSVdEOEZ5d2FEcnFodnhRamk0SDNPd2ZyY2YyV2NDOA?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-7b11d0d697f3",
@@ -254,18 +278,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IUlNIOTJEcW5CbDl4cS1FbE1YSnJxOXVzYktqQnFMbXBJbWROQ2dxZUdMaHh4MmRvbTlvUWVmT2xUcjA1OTFTLWNNNW9CMFJiTElOUnRVU0tkWHNTd1htVQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-be8d95a8f673",
-      "date": "2026-09-13",
-      "dateISO": "Sun, 13 Sep 2026 01:57:59 GMT",
-      "ts": 1789264679000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "重庆彭水发生山体崩塌，西政校友、年仅25岁网格员龚宝冬不幸牺牲，网上有人问县城网格员也是西政培养的精英吗？校长在26级新生开学典礼上公开回应 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0tIVzM3akxfanFNd0tOVWdLYUZ1WTBmZTlOMTRpeGJjRFBhZnl0bHRLd09OVnp0bzZvRU1GQmFmejYxX2YwQXptX1E2aUJ2SzVXZUdYSS10WGtqUHNMU0tKRldtd1lZelV3NUdQTGxQSWNEelc0M19jcUFWX3p2SW53T2o1bmNE?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-fd4368be4dbf",
@@ -328,15 +340,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-f7114b7746fb",
+      "id": "FL-14fe7fc19d62",
       "date": "2026-08-29",
       "dateISO": "Sat, 29 Aug 2026 07:00:00 GMT",
       "ts": 1787986800000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - 新华网",
+      "title": "尼泊尔泥石流已致626人死亡 2426人失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PYjVKWUZ4T2psOVJsenNtWWs4WFNGcmZVakNzS21POTdVeGJHMWg2c1NYNDBjUjFwUFh5bHBueVFneTN5VmFCMXlIQjVjZXQ1dDh3QzF2Ry1HeFlZN2tydnNqV0tEcnhNZDA2aDRZWHkzeHFuZG54UFpXZ2V2OTA?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -496,15 +508,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-3a315dda62cd",
+      "id": "FL-aba362a8fa78",
       "date": "2026-08-31",
       "dateISO": "Mon, 31 Aug 2026 07:00:00 GMT",
       "ts": 1788159600000,
       "scope": "dom",
       "type": "geo",
-      "title": "外交部驳斥外媒关于泥石流灾害成因的不当言论 - 新华网",
+      "title": "外交部驳斥外媒关于泥石流灾害成因的不当言论 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUV3Z3MVJVUU9LcE9PczAwRHlkNV9uV2FPLWFfS01VNklkTVNxcHlIV0Z5TlMwUE4yRzRBOGxDRmV4MTZ6N1FWRVFrZmZ3emo0dnpCU1gxR3lxenNnZlFsMDRhNDlwMGZoOWE3N2RFNU5Nd0JVbnJ0ck9sQ3o1VnM?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -544,6 +556,18 @@
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
+      "id": "FL-071db470c858",
+      "date": "2026-08-17",
+      "dateISO": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "ts": 1786950000000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "菲律宾首都及十余省因强降雨停课 超500万人受灾 - news.cn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRdkdNRW40SVVjT0YzYmhnY1N6Wk9ObExwaXNqSG9MVk15SDlfNjd0cFJTb3p0S1B1MnhBbGIycjhwMmViV2tpeVZNbUl0NmtvMkxNMmo2ZlpCSjQwZHJPSTkwcTdtRzY0UVZkejJhZ2d6Z0F6QnJXUXBaT0VVb2M?oc=5",
+      "site": "news.cn",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -566,18 +590,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVUROYWpQa1YzUGZEYzZWLXRZNWF4ck5FV281OC1DOEFMWDZBV2xyQXoxUHZ4SU5HbjRXcnZFZ2VYYWtWV2dEQUUyTE1WdEJaRXFhamNubndKc0dlZjZNRGZDNEhEY0tZd0w1REx2WGVhbmhQYy1DQ2RyXzZzTlU?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn"
-    },
-    {
-      "id": "FL-4f77d5627e46",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国地质学家 ：喜马拉雅山地海啸原因在于基岩不稳定而并非冰川 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNraUhPdk9iUmJzMDJZY1AxUGFfWFRLM2tkakdLNDFpLXQ3V1U5b0RPOF9RRWM4UWdEbHJmMm16aF9LdF9oeTF1M1pEbF9IX2ZVdF93U0NrZjFlU0dGdlh6bUlsekZQQTNWdV9SSlVoaUF5a29CT3k1WDhpcmY5bFNod0JXZ0xKNHZZeF9mb0owVDlfbGxsMmpRUkQyNDh2N2d3MzlDdEtWUzNUNnhGVFMzYllYaEwzUDRveF8tcDh6aEM4aGpsUWRDT081ZGc3MmxkOVcyN3pveGdEVkdoX2FPQ0pHUnozOG8yNHZkR1E0ekZrakgzT2YwMjBZWTBucUpYa0VCc0N6YV9xNGVsQThtdFBlREliekwzdTRPZnpYS00wVlo3NE1Lc1VrZzVuUFkycl9wazlGLXFwN0hjNzBzc3ZOUTh0UW1xd1I4NnVNXzJNcU5lR1hnWmMzeUhlc2U0bENfR3RNSkEzZTQwdm5JcjA?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-01338425c7d7",
@@ -604,15 +616,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-d8440c5a7841",
+      "id": "FL-5e84fe2ab2e4",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 21:52:47 GMT",
       "ts": 1789163567000,
       "scope": "intl",
       "type": "geo",
-      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - 财联社",
+      "title": "05:51:49【印尼爪哇海附近发生6.2级左右地震】 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13YlU4SWNwbllxX0hqQmZQalhMVkxHNmtrN05wX1pkdWlsQWRaNGNmdFpUYnRlNGpkNDhfZi1yRDVURnNoUzRybQ?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -686,18 +698,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-84ec9d5c296f",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 04:45:00 GMT",
-      "ts": 1789101900000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "以色列炸地下堡垒引发4.1级地震 - 新浪新闻_手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQnBoVFJudzdVaWxTSWFMZ1BVTzVJbHVWektEU2R0eVVkUWhTd2gzWE5GZ0dGWDBCWlE0c2tpRl93SGNFcGJYLTZBY3VsT0dUV1U5S1Frd3dnQm5jVFJMREF6M1piby1oQkpFdjZrRFI?oc=5",
-      "site": "新浪新闻_手机新浪网",
-      "siteUrl": "https://news.sina.com.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
