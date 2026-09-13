@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T03:08:01.712Z",
+  "updated": "2026-09-13T03:22:31.311Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "http://www.mod.gov.cn"
     },
     {
-      "id": "FL-36b5a3811114",
+      "id": "FL-c52e6f56b224",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 11:12:19 GMT",
       "ts": 1788952339000,
       "scope": "dom",
       "type": "geo",
-      "title": "河南济源市发生3.6级地震 震源深度9千米 - 央视网",
+      "title": "河南济源市发生3.6级地震 震源深度9千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yX0Z0Xy12dHZYMGNsdkdjcnNVSmNNc1FESVRQOUJ1SkJHMktZdUJWV0RkWjdCLW5WSW4zbEVpVVdoczBGUFZKSkRSbHhoU2toVVMtU2RSU3lGUHFrQUR3dnRUWDctWjBhdGRTMDM0cDYtWU1ydjVBLQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -142,20 +142,20 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1382人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yTVR2OE40OXNCTlpXR2FyR2hncU5haXBVOThJM1VqM2xKYjRMS043Z1c4ZjFUWDA1WVM0QkZkZXFQY1BjOW9Zdjd4MEV5QnlGRVh6WGkyV2t1SHRWc2MzcEp4MXcyV0la?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kNS1nM3Z2T2poT0ZEeWdLM2JibmRJUXZPZ240SnNYc1M5czFneWlJYnk1M0hoVzgtYXlJV2M2QU4zYzdWR2xveHhDTnUzcXh0RTliMUVMU2JwaGtTR25QXzNrY2NvclFsUjRPUzNNUFF0bzBKanc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-e18a0a48aa63",
+      "id": "FL-20364ec3db27",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 12:28:36 GMT",
       "ts": 1789043316000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - 央视网",
+      "title": "云南丽江市古城区发生3.0级地震，震源深度8千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRWhKckEyZjI2SnEwbnhPQngzRjIzMHo0NTBSVjY4TFQwN1IzWE8tamtKeGNxSVUxWC1TNVpIWEp0NkhabUdYVkpYSUxvQ08yMzB3UlRfYVJpS2lLbWVMRmE3SzRkYUQzc1JGYVVzMkFjODc3Y2p0aQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -193,7 +193,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 45
+      "related": 44
     },
     {
       "id": "FL-7e32a90d10dc",
@@ -242,6 +242,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PYUIyNEpIQ1BCa3FiWHkyN21PQTdwZUVOdTI3TmtLZ1RTMnA1WDQ1TGwzdnRfcTRJQTlHV1htQWVHOUpTNmJEb2Rmb1NjRFc5Yk4tOFNadGN6Q1VBRUJTd3k5QXpOXy1zU2ZzcU10TWg4dDRYRFJlYkExXzdUVUk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-d4df2e65311d",
+      "date": "2026-09-13",
+      "dateISO": "Sun, 13 Sep 2026 03:19:44 GMT",
+      "ts": 1789269584000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "地震预警能提前多久？为什么离震中越近，可供处置的时间反而越短？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80dnVHY1ZGdjRQLUhQM2ZPLU5icnBHYVNFaWh5RzRNVFNReFQ4U2FjN2ViZXVWVGRLV3hJSG5sQmJyMVZlcklsMFJMX0pidEcwQ05QQXIyTHd5bDVxclhVV3JvdUpPVEpxZTY5Qk1hRmpMLTlubUQ4OW5wNE15Zw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-07f6910fa843",
@@ -412,18 +424,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-e9ebafc482cd",
-      "date": "2026-09-12",
-      "dateISO": "Sat, 12 Sep 2026 04:46:56 GMT",
-      "ts": 1789188416000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcUM1X3JycHNBOFoyX2JwVzZrMXVQMHdkRUZ4cG55YVJEVFhLVGdIVnpfZ20wLVdUSGk4SHlaQ05Vc2NoREVEbm10NFhvcGxPTndoU0dMQTdnWjA3WDliQUNoSDctbDdJcHFKSEFLNlRheEI4eEJrWQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-84bc6e677b04",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:57:55 GMT",
@@ -436,15 +436,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-093234d1747b",
+      "id": "FL-2a6e56c5284b",
       "date": "2026-09-12",
       "dateISO": "Sat, 12 Sep 2026 02:19:00 GMT",
       "ts": 1789179540000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - news.youth.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人 失联5130人 - 中国青年网",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQTN6bzdwVmtSVXY4Y29Ub0lObmhlMEdsOE9uX0Qzd1NsZGpvVnVSc2FRRmZvX3JrXy1HbGNhd2pGMENPTndEQWRHT0hNYVpodzJwM0NsaVZkdWY5Q1U5ZlVlb1E?oc=5",
-      "site": "news.youth.cn",
+      "site": "中国青年网",
       "siteUrl": "https://news.youth.cn"
     },
     {
@@ -482,6 +482,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZmNTZlVXbF8zYjZ1bXhFMlVzY0lscEZ5NHNxYkdoWHRXUnJqdnRCRHB1WVpFQnRDM1I2ZDJIaHV4aElpNWlEd0RyUk5QbHpVeXlSaEVXU09oX2V4d1E?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-705700278b60",
@@ -580,18 +592,6 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-4f77d5627e46",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国地质学家 ：喜马拉雅山地海啸原因在于基岩不稳定而并非冰川 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSVNraUhPdk9iUmJzMDJZY1AxUGFfWFRLM2tkakdLNDFpLXQ3V1U5b0RPOF9RRWM4UWdEbHJmMm16aF9LdF9oeTF1M1pEbF9IX2ZVdF93U0NrZjFlU0dGdlh6bUlsekZQQTNWdV9SSlVoaUF5a29CT3k1WDhpcmY5bFNod0JXZ0xKNHZZeF9mb0owVDlfbGxsMmpRUkQyNDh2N2d3MzlDdEtWUzNUNnhGVFMzYllYaEwzUDRveF8tcDh6aEM4aGpsUWRDT081ZGc3MmxkOVcyN3pveGdEVkdoX2FPQ0pHUnozOG8yNHZkR1E0ekZrakgzT2YwMjBZWTBucUpYa0VCc0N6YV9xNGVsQThtdFBlREliekwzdTRPZnpYS00wVlo3NE1Lc1VrZzVuUFkycl9wazlGLXFwN0hjNzBzc3ZOUTh0UW1xd1I4NnVNXzJNcU5lR1hnWmMzeUhlc2U0bENfR3RNSkEzZTQwdm5JcjA?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
       "id": "FL-01338425c7d7",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 23:25:00 GMT",
@@ -688,15 +688,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b2b6f1b4f078",
+      "id": "FL-26a8fe1749ca",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 06:22:45 GMT",
       "ts": 1789107765000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - 央视网",
+      "title": "河北唐山市丰南区发生2.5级地震，震源深度10千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNXU0YmZYYTk4Mlk2dTNCLWRfRW5CX21uNWFjUzYxMVU2MERVZDlIV1B3Y3d4Ml8yY2xxY1JmaXlHQ1c2MnpaQmE4Z09sY1BxRnFCX2pFekYtOG1sQ28xRFFEQ2J0VXBfbVhNU0tKWktEdEV1VUt2LQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
