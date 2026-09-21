@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:10:46.098Z",
+  "updated": "2026-09-21T23:39:18.239Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -64,15 +64,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-4f00564de371",
+      "id": "FL-f1b74b512812",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -148,18 +148,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-31b33544a6d2",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 14:05:21 GMT",
-      "ts": 1789913121000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVVJZNkxUMl9DdE9oYlphZWIwMEViOUlvbjMxdDhzZXNwSENzRTV6aFE3X1ZrWjBxZndXNng5aTl2SHhMcVZoSlJKeE5LQkdsOTRfQU5nSGhWaG8?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
-    },
-    {
       "id": "FL-4f9f1505eb12",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:33:13 GMT",
@@ -184,18 +172,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-ad823457314f",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
-      "ts": 1789895820000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDandsazh2aGlMY0Z0NnhVdm5MUFE3dElwV3Z6NEhMbHg1Tml1d2NfOTBsQkw3R29kZ2ZYWUd0WDdqTVJiM2c?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://m.cls.cn"
-    },
-    {
       "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
@@ -208,15 +184,15 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-5623f7c7d46e",
+      "id": "FL-ac37a566b0cc",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
       "ts": 1789891800000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - Jiemian.com",
+      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40VHJDVFRNeTVMNG9OVXBpM1phX1QzNUZMdHlaNVNjMWFfU3hsTDlRMWQza1dCSUtGbDlRVmk1NGIyeEtQcUlodGcyOFpoYkxvUVJGaVBwbVY?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -268,6 +244,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-b7351918debc",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:49:00 GMT",
+      "ts": 1789836540000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印度塔塔集团内部大地震！最大股东与董事会几乎反目 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuSG1rZnRoMjIxWDVmNVo0a2FxdkdPWVF4MGIycUN0el9LdW5qdnNCWWU4eFRRSkxoaXB6ZDFzS1lGSmJaQkE?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://m.cls.cn"
+    },
+    {
       "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
@@ -304,15 +292,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-f0ee7768c9f2",
+      "id": "FL-719294f352e0",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
       "ts": 1789786140000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - 中国宁波网",
+      "title": "四川盐边县突发泥石流，已致5人失联 - news.cnnb.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
-      "site": "中国宁波网",
+      "site": "news.cnnb.com.cn",
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
@@ -328,16 +316,28 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-e9cbbd881976",
+      "id": "FL-8f672a821451",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 22:57:00 GMT",
-      "ts": 1790031420000,
+      "dateISO": "Mon, 21 Sep 2026 23:17:46 GMT",
+      "ts": 1790032666000,
       "scope": "intl",
       "type": "geo",
-      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWW44NXZ4bzBkSV93a1VDN2tMUGJ6OUhXZ21rcDdlSTJNb3gxcXJrZUtFVl9HT1B2aEVabG9sejhEYUR1NjFRVEk4NEtBRFlEX1lFR29NNUhWVVFxLWdnQkp4QTJETmVlaG5jVWlNMnR6ZFJuSHNXbjlic243Rkdzc00xRElIUG95QkpDWQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmg5NEtYU2pHUTdrUEhjNDd5NmVBbnNmaTlKTE1SOGRUdGZCOFhCZU15Zm5tNVotbWg4SUk1a3h5aXFrZFNvUEdFNHY2cGptY01VeGhWT3JHTFk2a05iNmRSV29qd2NFV3BCQ1ZmeFRXZTBUR0JkMUR5TFZMUGhLcnJMQkZSUQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-c717b13a7494",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 23:12:50 GMT",
+      "ts": 1790032370000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃重创日本关东 破纪录暴雨酿两人死亡 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxeDdXUFBiV3RmOGoteTg4Smt4M3dXdENOLTJ0dHBCeXZlbzlpVHY4UG1pZHZjTnBPdFRWT1AwZjVZTEg0N2RVMGhpNks5Vk1Vb2J2eW4wQm50MFNfWlJxQmtkWk0tN0hwRGhyS2k1dmpkUDJJV0tKSHZnVzdZUQ?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-0ed7224acdce",
