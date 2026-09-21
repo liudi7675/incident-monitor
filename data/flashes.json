@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T01:20:47.945Z",
+  "updated": "2026-09-21T01:37:59.370Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -57,22 +57,22 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
-      "related": 24
+      "related": 22
     },
     {
-      "id": "FL-f1b74b512812",
+      "id": "FL-4f00564de371",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -122,18 +122,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-5af95640b2a2",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:18:32 GMT",
-      "ts": 1789946312000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，山西、河北、四川、重庆、湖北、云南、贵州、福建、广西、广东等地有短时强降水 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNklsSGhHdmxReEZhemVXUnVoZHNxajFlMjVGdGg5TGxrbWFNdHllVWVHZTVKbDNBOGVCdy13MnkzalVFY1FMeGNGc0lzX0YzOHlPNDV6S1lsNVVUMnllaWdBWVBteW82Q3dyWVVSLTZXSHQyVTdBazNiLVpCd1gzS2N2R0xqLWcyaEI5ejFUWDVoSXRKdlYzc0dLcmM1cnFwZTA0U0FKNnk5ZER6TXJjWHoxU3RET1M5S3JoaDQxTnVfSlA5akFMcUtRYW9LTWFfWURIQnY0OWo?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-4a6ac81807f4",
@@ -220,15 +208,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-97f4ac112dc7",
+      "id": "FL-fbcf98053530",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:09:39 GMT",
       "ts": 1789916979000,
       "scope": "intl",
       "type": "geo",
-      "title": "泰国多地强降雨致山体滑坡 - 联合早报",
+      "title": "泰国多地强降雨致山体滑坡 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11Y3ZqRmJRaHRsdG9jTTNna0NNQkRHWmJNRHFVZTVrNHROckdsWWxVT1A1cnZOby1PYVdKQk40c3J0aWZBSVhvVThyMHA1bzRiWmVvQTRUUUxvMDI3bmQ0eXlBLVNjZE0?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -268,15 +256,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-53fb62917ecf",
+      "id": "FL-82ee2322823d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:55:00 GMT",
       "ts": 1789912500000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 早晨报",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaochenbao.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xejFjN05NQUpIWThWejVweUVsR3JtX0tnQjlHWE5Fakt3ZnFnQU1lZUVUZGx4Z2NfcWJLU0VnVVFRaTVlNzhEU1FIU3RkYUQ5b3kzMG0yVWJjVThjcG9IOFg5aDlQVzV2?oc=5",
-      "site": "早晨报",
+      "site": "zaochenbao.com",
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
@@ -292,15 +280,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-b88e3048f617",
+      "id": "FL-b7c890035807",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
       "ts": 1789906277000,
       "scope": "dom",
       "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 四川新闻",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -568,15 +556,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-413c80397b1e",
+      "id": "FL-2933b147663e",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 10:40:04 GMT",
       "ts": 1789814404000,
       "scope": "dom",
       "type": "geo",
-      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - 新华网",
+      "title": "现场画面丨四川盐边县突发泥石流 已致5人失联 - xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lMnhGS2MxVk5ENkExcjBtZ2hoeG5hblRZVTFtWFhKTTFvd1lvWjgwcjY2bVNyS3NEVTB2T0JhVFBIVFFSU25Udmh4NzRiWGdtWE9Kb3pCMlhubEQzdG9xa25iX0xYN19IWGNCazJrMm91OS1JQ3NOX1JkRkpoZw?oc=5",
-      "site": "新华网",
+      "site": "xinhuanet.com",
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
@@ -640,27 +628,27 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-a689dfa51633",
+      "id": "FL-1a7bef6377c1",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
       "ts": 1789787122000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - 四川新闻",
+      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6dXVqWHRqQVBITThCTWFva0xxZWpFdm5JVXlrZEtRdXZOUC1aOGVadFk0d0JEUldkOWJUdmROTWdkejJ0cWphOERYRHVmUkQ0RjJJaUVhUVVqN21vQVBxXzU3NA?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-719294f352e0",
+      "id": "FL-f0ee7768c9f2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
       "ts": 1789786140000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - news.cnnb.com.cn",
+      "title": "四川盐边县突发泥石流，已致5人失联 - 中国宁波网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
-      "site": "news.cnnb.com.cn",
+      "site": "中国宁波网",
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
@@ -674,6 +662,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
       "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
+    },
+    {
+      "id": "FL-f6094f9cb429",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 01:13:04 GMT",
+      "ts": 1789953184000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "苏丹红海州5座矿井坍塌致10死21伤，多人仍被困井下 - ChemNet News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4YUFmZ0xXQTFqZmNTV2xaWU52ek1VNkZzRzdaNnZrMlJ0MW14aGQ5UkFhT2lxNWtDMThJVDc0d0w1R1hRdzQ5dHlXLV9vV05HNnJrSy1lWjJTdElLZFR3?oc=5",
+      "site": "ChemNet News",
+      "siteUrl": "https://news.chemnet.com"
     },
     {
       "id": "FL-1c478a35797a",
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-16971aea7af3",
+      "id": "FL-e0c839b1d53e",
       "date": "2026-09-18",
       "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
       "ts": 1789721189000,
       "scope": "dom",
       "type": "geo",
-      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - 四川新闻",
+      "title": "在茂县石大关山体滑坡中，他最早“吹哨”预警并协助转移群众，被应急管理部点名表扬丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
