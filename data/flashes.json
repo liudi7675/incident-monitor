@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-21T01:49:02.775Z",
+  "updated": "2026-09-21T01:58:24.493Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-3d7db262d8d9",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
-      "ts": 1789597380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
     {
       "id": "FL-c2a04813577b",
       "date": "2026-09-16",
@@ -49,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -88,16 +88,16 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-618117f0b306",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 03:37:35 GMT",
-      "ts": 1789616255000,
-      "scope": "intl",
+      "id": "FL-89d6589d1504",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFhmUjRHM2VqUGV2ZllyNlpWRWpGMzdJamFFSlgwdW52YXJlRmEyNy1xSTdTVWNBZndWbUY4SkY3Vzc2cjF2XzYxbzYxVEU4aE5VS010YnR6aDB2a1Z0WW81ZlA0RWctM1FEQWcwMWM4c3BqaXFoZDQ0M3BQX3I3ZVJPZmpweWZnYUJreHNlSjlCdGxrVDEwYWtB?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-861987facab4",
@@ -112,16 +112,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-89d6589d1504",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "dom",
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-4a6ac81807f4",
@@ -148,16 +148,16 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-4a23ad06e7a5",
+      "id": "FL-96f979608021",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 21:05:35 GMT",
-      "ts": 1789938335000,
+      "dateISO": "Sun, 20 Sep 2026 20:34:56 GMT",
+      "ts": 1789936496000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HMXNmbXZFNjBxU1Q0OUNsdktyUkNmWUFLbjFPMWtyaXgxLUhWcUgyekVqYTFCY0VRMUdCZE93WkVvWmdhM2FwN1R6cnNVV2ROTDFxS3pjVkJHdnJzYjIyblZCTWUydw?oc=5",
-      "site": "finance.eastmoney.com",
-      "siteUrl": "https://finance.eastmoney.com"
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2hiTTdVVjdndGJsQWVGVjJJdDdGUklBOV9ZZWZYT3RsSVA1RHlGZ2RTMFM4RWZSYl9mZVRzSFdtOXNITF9yLTUzbnBPaHlPSnpvZWJpRlo3aklhMExxdFZzYw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-9b22456855d2",
@@ -364,18 +364,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8b48072869bf",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:19:12 GMT",
-      "ts": 1789892352000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本奄美大岛附近海域发生5.0级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZTWg2WlZ0NXBmS0NXbmFKT0k2QmI2bDhneTE5NjFjQ1pjd09TWXpYWnhPRHhhYjVJdnFqakZDNHFQNEZ3ZFM5aTRoeHZRWHh6MUx4bXBlTTdNN3FOVjdsanhZY0dPcF8zSXpSNzBKZnJSQQ?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
       "id": "FL-a81d31e5daa5",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
@@ -386,6 +374,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-8b48072869bf",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:06:14 GMT",
+      "ts": 1789891574000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKTHo1UmlTdmJKeGxXek52anlrYVV2R3dtWXAtbjNwdjltQjY5NHRUb2duVmt2d0k1ZHBiaTRGSk1VaFhLOVJjRTVFa2hETlRfRkVxODBXUXZGX05wWHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-0d8989a9c398",
