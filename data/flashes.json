@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:39:28.335Z",
+  "updated": "2026-09-21T21:10:39.398Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://news.un.org"
     },
     {
+      "id": "FL-b2d13116c5ba",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
+      "ts": 1789542929000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
@@ -27,17 +39,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
-      "ts": 1789488932000,
-      "scope": "dom",
+      "id": "FL-d6feb3148f89",
+      "date": "2026-08-04",
+      "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "ts": 1785826800000,
+      "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr",
-      "related": 47
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-a2237798f821",
@@ -52,18 +63,6 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-f1b74b512812",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
-      "ts": 1789649759000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
       "id": "FL-263418d50a2b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:20:00 GMT",
@@ -74,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
       "site": "mfa.gov.cn",
       "siteUrl": "https://www.mfa.gov.cn"
-    },
-    {
-      "id": "FL-89d6589d1504",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-861987facab4",
@@ -100,51 +87,39 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
+      "id": "FL-89d6589d1504",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-256e1a2eb5b6",
+      "id": "FL-0e4312af82e0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
       "ts": 1789945816000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.hsw.cn",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "华商网",
+      "site": "news.hsw.cn",
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-1cffa2fd3b9b",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:08:32 GMT",
-      "ts": 1789945712000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间9月20日19时，尼泊尔泥石流已致1451人遇难，5786人失联 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREJ4U2VzR0o4dmZBNkhfUHJHNm9CV3F4anFFU2Jya28weGkzbGJZdngwNC1BQkwzbzZUVEhaTktuTTRDcFhtbENuS2o0ZV9FaGgzdW05cklmclZ2a3VXZy1EM1Q4by1UTThkQjk1WEpzeVY0eFBWbm4yWTJXak92TlRORVRHUVVjZWNFdg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-38d7b223010d",
+      "id": "FL-7c8243159552",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 19:15:00 GMT",
       "ts": 1789931700000,
       "scope": "dom",
       "type": "geo",
-      "title": "约80万立方米滑坡体倾泻而下 三道防线让群众零伤亡 - 新浪财经",
+      "title": "约80万立方米滑坡体倾泻而下 三道防线让群众零伤亡 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80M1M3WThaZ2t4RGFEZDFGNDBYZlhsVUQzQzNpTnZ6WktEekhvSTJ2UDdCUkIxZVZObTVMN3dzcV81TlAzcE9uY3hlZGwxaVlwanJUcVVWQ281THdHbEJqLVZfX1dzMW03a0tQLWJCR3NHQWVlN0lhbw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -172,15 +147,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-43b39220b57a",
+      "id": "FL-4f9f1505eb12",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:33:13 GMT",
       "ts": 1789911193000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.bjd.com.cn",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nS1gzSWdDeTJ6WWpDcmx1bVdRMTFBQzd0emdrVmlYWF92VW5rcXUweXlVVDRqSEJrVjRsR3psQm5aU2RaV0ZGRF9JcndQakttVWZLNnZUdjMyaWRyNkE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -208,15 +183,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-024e35eff45d",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "news.tongji.edu.cn",
+      "site": "同济大学新闻网",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -388,15 +363,27 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-0ed8dc47037c",
+      "id": "FL-4bbca3c6019c",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 14:36:59 GMT",
+      "ts": 1790001419000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "五大国产手机接入中国地震预警网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JTDZvOVFvajdiclZZblRHRlYyY1FGb0ZWakt5bFNSd0ZIN3lobFk4aW1HUDZQYUhLdzIxSXJYSnVlZnUwTElaMG1UZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-423515d4e4a5",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:30:00 GMT",
       "ts": 1790001000000,
       "scope": "dom",
       "type": "geo",
-      "title": "比失控更可怕！AI造成的漏洞海啸已经到来了 - 新浪财经",
+      "title": "比失控更可怕！AI造成的漏洞海啸已经到来了 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGUWRyN1pQaFlTbWhpNFNtQ0VtdkdWbUJyTjQ3c3VlMVZuWmI0b2lBUVBDRjhZRXdsNGpYWTVhWXBhZlJBdnpSWEJIck1QVHNfdXdJcmhScUlfd2ZQbldpTTlULUJsc3VnNXYwRHN3bmtDMU9ySHg0dg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -424,15 +411,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d97b4389af5f",
+      "id": "FL-32df0e00ca87",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:57:02 GMT",
       "ts": 1789995422000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产主流手机品牌全部接入中国地震预警网 - news.bjd.com.cn",
+      "title": "五大国产主流手机品牌全部接入中国地震预警网 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rR3RnQkMxNE1ORUJSYUZ4dmh6ZXkwMXk4dURmejRzcmVsZVB4Vm1WN1hvbmh3d0hmcDJ6bWxPaGN0WldnQkU0eFYyWjZKTGk5QXk1V0lOaC1IaUpjMVE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -460,15 +447,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-cf571f2a2814",
+      "id": "FL-034cadc2f49a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:34:00 GMT",
       "ts": 1789994040000,
       "scope": "dom",
       "type": "geo",
-      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网 - 新浪财经",
+      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teHUwbDhuNFQzd3dsY19yRmd1TUk2RzZHS2FMTFpuaGRZcmtHQzVtcEhQQUVzLVNhNm9wUHRUeDFOdWFxbXRQMlBUSzFjeERkR0dLdlhybXdGMGlMNEtNWnVKaTFqWXVHYjNnUTZhSFlQelpVMWc?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -604,15 +591,15 @@
       "siteUrl": "https://m.gmw.cn"
     },
     {
-      "id": "FL-6c03766f36be",
+      "id": "FL-4805593dc879",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:03:00 GMT",
       "ts": 1789966980000,
       "scope": "dom",
       "type": "collapse",
-      "title": "千亿帝国崩塌：均和集团与何旗的兴衰录 - 新浪财经",
+      "title": "千亿帝国崩塌：均和集团与何旗的兴衰录 - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYTWZHaDVOU1ZKSzFHWWRGOC1kQlBkcGRPQ1lORnJmWE01c25RQjdRQ0lRV2JIbFRReGNsVEN0R1hsa05CT1Zaa1F1TGRKWlltVlNzZEZMUm1ZQ2lCR2x0S2syNFJUdFp4dk1idjJneEQzYk5nMFFOaA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -686,6 +673,19 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb3U4Y00zb1JHQmVJbDFhN1d4VFFxTGxRVmhIMGFYdG9tVTJGdFhUblpNMEluZU9yMHdNS09QS3c4QVRzNWFLNUlCc1UwV3JjaF9hT2w4SW1LZ0J6NDgzRldtVzFJUDJVRXc?oc=5",
       "site": "紫牛新闻",
       "siteUrl": "https://www.yzwb.net"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-07",
+      "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "ts": 1788764400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新华社消息｜西藏吉隆泥石流灾害目前已确认部分遇难人员身份 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ITFhwdmF6SUdtT0pGR3VQR1N5SHFDLUlfNjRkQzd4MHBNQ3ZTNWdpdGhXcEg2QlJTWFVxMGx0bWowNHhidDlOeFNXc2tiMzFwdkE4ZlB3UjBfb1g4TFFCV0dwcGQwVndLQlFyTFpMelFnQy12RDhN?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn",
+      "related": 32
     },
     {
       "id": "FL-e8a32a183e42",
