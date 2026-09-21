@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T02:55:46.649Z",
+  "updated": "2026-09-21T03:07:42.948Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 26
+      "related": 27
     },
     {
       "id": "FL-f1b74b512812",
@@ -74,18 +74,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
       "site": "mfa.gov.cn",
       "siteUrl": "https://www.mfa.gov.cn"
-    },
-    {
-      "id": "FL-31aaf7309a8a",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
-      "site": "人民网-福建频道",
-      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -191,9 +179,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -455,7 +443,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "四川盐边县泥石流增至最少2死 当局续搜寻失联人员 - gbcode.rthk.hk",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFVwZGdLUG93VlI4MUFxbGxlSTlPNEExZUpJbXg0OGN1TUxIVnJCNWMteGxlSzMyU3YybXY2VEg1UE96aTNld0hSUTl1MXRncENNekxScnZTVEdVNEUzME1XLXFHbkNVZUI3a1FCdjlLcmVaY2ZFVVExZmZRMEVra0lMejBFZ2dVSzNuZ0kwNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWxEQzZlRFVaRVQ3Yks1bzlTa0IzN01tR3V5UW9VSnIydjJVMi0wTE9FVV8xbU50NWViNHJ1eTJrYVozNUo2VmYzQlF3VV9adWVVVVItS1ZjQ0c3YjVJZlV5WUZMeHZNNVNrckpCWkZOWExSY2E1UWFqckViMnJNMm43RG92S1JSYzZ3?oc=5",
       "site": "gbcode.rthk.hk",
       "siteUrl": "https://gbcode.rthk.hk"
     },
@@ -628,6 +616,18 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
+      "id": "FL-8192d4810c4a",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 02:56:00 GMT",
+      "ts": 1789959360000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏那曲市班戈县发生3.0级地震 震源深度10公里 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVBxSHZVTFRQaFJiVGVQN2EtRC0tVGtGeUhrYUJ6WnBNdm9zV0JjbDZOclBlaV9PZE15aTVQRzJlN1dSSlVzUWsyMTdhcUNaWUpNWjNVbFlZbWpnTjQwY2x6R3ZYNnpCZjA5QkdiX05SVEdDaHBGWldDcGhFZDdRMFFiZlkxYVNEaEJwNQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-3d424bfe72d2",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 5
     }
   ]
 }
