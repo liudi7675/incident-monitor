@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T02:43:52.503Z",
+  "updated": "2026-09-21T02:55:46.649Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,18 +39,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
@@ -86,6 +74,18 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
       "site": "mfa.gov.cn",
       "siteUrl": "https://www.mfa.gov.cn"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -412,18 +412,6 @@
       "siteUrl": "https://world.people.com.cn"
     },
     {
-      "id": "FL-2353619aec3b",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 01:05:14 GMT",
-      "ts": 1789866314000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川盐边县格萨拉乡境内发生泥石流灾害 5人失联 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FcEVzT3pHUG8yMnhGZnFrbnBndVVTMXc2bWdJWWtMX2hxX1A2aHdKNG45SXRodDcyNjc1aExoZlVtSFA5Tmt4SGF0d1QzY1YwTG9MODRyM0tFaGk4bjZrLUViU1pNYlhscEppR1hPbGw?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-14694e5635c7",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
@@ -496,15 +484,15 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
-      "id": "FL-7eef43295216",
+      "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -592,6 +580,18 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
+      "id": "FL-77f4dfa88f81",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 04:00:05 GMT",
+      "ts": 1789790405000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县突发泥石流 已致5人失联 - bjnews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5NV9YNENmcWNYOU4zVFJrUllhRHk4TzFNVGFuMi1weDBNMXZqczhaNDV4S0g3VFF2MjJpRy1mbndmazFITi1CclZ5MkJwbVRtb0Z0cGhlWXJfYnZjRnlrRk9Xal8?oc=5",
+      "site": "bjnews.com.cn",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-a689dfa51633",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
@@ -628,16 +628,16 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-ab61b2ef1d28",
+      "id": "FL-3d424bfe72d2",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:31:33 GMT",
-      "ts": 1789957893000,
+      "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
+      "ts": 1789957907000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏那曲市班戈县发生3.0级地震，震源深度10千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWl0ZDdaMnFuQzRRSFRyQnlrNFNlMjdWdTZzNEpyV2RIcHRDSm9nN1lZMDk1TXUwMnpYXzJ5UXBtakFkaG1rN0xBT3JUSktOLTRUcWl4SXJjck5UZm4xeHdqWTlIdC05RjZuUjZSdlg2QWhMNmRUZ0EtZzJXeFVkdHdLbUFFSm0y?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "中国地震台网正式测定：09月21日10时23分在西藏那曲市班戈县（北纬31.83度，东经89.18度）发生3.0级地震，震源深度10千米。 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiclEyT09SbFN0aC0tRzlxVjZncjBTaHdZSzdvOFBuR29zaVVNcnJ0Ym03YXR0Qml1UGxhZ1ZEUXZJempITFBDNzAzekphTHRXQnU4RVZYaFVJckt4dTRhUWhLOWZuYmpEdEhWQmlvQQ?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-619ce3a09443",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 6
     }
   ]
 }
