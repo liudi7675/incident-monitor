@@ -117,13 +117,29 @@ function pickType(title) {
   return 'other';
 }
 
+/* 带退避重试的抓取：503/429/网络错误时按 8s/16s 递增等待重试（共3次）
+ * 背景：2026-09-21 全部源被 Google News 503 限流（每10分钟8查询过于频繁），降频后加此保护 */
+async function fetchWithRetry(url, tries = 3) {
+  for (let i = 1; i <= tries; i++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; IncidentMonitor/1.0)' },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (res.status === 429 || res.status === 503) throw new Error(`HTTP ${res.status}（限流）`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      if (i === tries) throw e;
+      const wait = 8000 * i;
+      console.log(`[retry ${i}] ${e.message}，${wait / 1000}s 后重试`);
+      await new Promise(r => setTimeout(r, wait));
+    }
+  }
+}
+
 async function fetchRss(src) {
-  const res = await fetch(src.url, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (compatible; IncidentMonitor/1.0)' },
-    signal: AbortSignal.timeout(20000),
-  });
-  if (!res.ok) throw new Error(`${src.label} HTTP ${res.status}`);
-  const xml = await res.text();
+  const xml = await fetchWithRetry(src.url);
 
   const items = [];
   const blocks = xml.match(/<item>([\s\S]*?)<\/item>/g) || [];
@@ -161,7 +177,13 @@ async function main() {
     } catch (e) {
       console.log(`[warn] ${src.label}: ${e.message}`);
     }
-    await new Promise(r => setTimeout(r, 1200)); // 组间限速，防 Google News 限流
+    await new Promise(r => setTimeout(r, 2000)); // 组间限速，防 Google News 限流
+  }
+
+  // 全部源失败：Google 大概率正在限流，保留旧数据不清空（否则网页快讯瞬间变0条）
+  if (results.length === 0) {
+    console.log('所有源抓取失败（疑似限流），保留旧数据不写入');
+    return;
   }
 
   // 按标题去重（保留最早出现）+ 日期门槛（2026-06-01 之前丢弃）
