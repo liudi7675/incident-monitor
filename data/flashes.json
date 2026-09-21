@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:40:04.825Z",
+  "updated": "2026-09-21T20:11:23.954Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 42
+      "related": 44
     },
     {
       "id": "FL-f1b74b512812",
@@ -160,15 +160,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-11fb917c8127",
+      "id": "FL-366a7437ee91",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -196,27 +196,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-855317e465ee",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 12:11:00 GMT",
-      "ts": 1789906260000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VX1BhRFpCUnNjbnRwdmtvRzRpMlhVWjdEVDM3ZXRpQkdXYmxQSk1YeFR1UFRFVmlkaWRQX2M3bXkzbndDQ3JlSDhYMWh0UQ?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-7a2418bc035f",
+      "id": "FL-ad823457314f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
       "ts": 1789895820000,
       "scope": "intl",
       "type": "geo",
-      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - cls.cn",
+      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDandsazh2aGlMY0Z0NnhVdm5MUFE3dElwV3Z6NEhMbHg1Tml1d2NfOTBsQkw3R29kZ2ZYWUd0WDdqTVJiM2c?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -304,27 +292,27 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-de86dc0b1938",
+      "id": "FL-008835b9873c",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
       "ts": 1789820340000,
       "scope": "dom",
       "type": "geo",
-      "title": "财联社9月19日电，中国地震台网正式测定：09月19日20时19分在西藏那曲市申扎县（北纬31.99度，东经89.26度）发生4.0级地震，震源深度10千米。 - cls.cn",
+      "title": "财联社9月19日电，中国地震台网正式测定：09月19日20时19分在西藏那曲市申扎县（北纬31.99度，东经89.26度）发生4.0级地震，震源深度10千米。 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04Z1NnZXI3Q05RWXNLeUVJMU45VGJKdEtDQkdWSFJRTktmaE5IRVpzU0dYQ3VZd19faDhhOUIyVDV0NEdCRFE?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-63c1646d363d",
+      "id": "FL-2a44061ff46e",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
       "ts": 1789820340000,
       "scope": "dom",
       "type": "geo",
-      "title": "财联社9月19日电，中国地震台网自动测定：09月19日20时19分在西藏那曲市申扎县附近（北纬32.03度，东经89.29度）发生4.2级左右地震，最终结果以正式速报为准。 - cls.cn",
+      "title": "财联社9月19日电，中国地震台网自动测定：09月19日20时19分在西藏那曲市申扎县附近（北纬32.03度，东经89.29度）发生4.2级左右地震，最终结果以正式速报为准。 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTkxveGFaTU1GWHMtZ05nWmdVZVN4TktLRk9JT1NvM1FnY05PMjRyeExYd2RfRmhBLU90NTNEMS1mWG9MSmc?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -338,6 +326,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OSHBubWJENFNzcXdxTV9kM0FNd2g4NHlRendaY2NwMnFEcmwwcE1hMmN5clQ3UTVrbzcwLS1rLVhKYzZqamtaeTNqcXRKWFN6R010bGdGbDBPc2hfV3dUNVNndGR0a3ZzU0d1Rw?oc=5",
       "site": "hi.chinanews.com.cn",
       "siteUrl": "https://www.hi.chinanews.com.cn"
+    },
+    {
+      "id": "FL-cb5cd44c15c0",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 07:21:00 GMT",
+      "ts": 1789802460000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流被困11天的中国工人已回国，同去务工的邻居因上夜班躲过一劫 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuQ09VWmRzaC0wdDdsaThKbDRwcWFvMDBoYVhwMWJXVlQ5dk9mbVlQT0t6NkJkN0NYREQ0bnZXQVlfX3E5T0FKOUhnMUw4QQ?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-f0ee7768c9f2",
@@ -412,18 +412,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-070c78424150",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 13:50:00 GMT",
-      "ts": 1789998600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "五大主流手机接入中国地震预警网，没有苹果 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RdEs5TkVwM0pQcDhEWVlfWHBuQUdBNTlSUnVjbDRxdk91WFRSQzNEcjlNUXk1ZmFnVzVrMGswN3F2VGYxcDdxbVYxcXZ1UUZvaE5idU4xX2gwX2ZKdTI5eHBfNVJHb1lXUXc?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
-    },
-    {
       "id": "FL-3f158abc1f19",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:58:06 GMT",
@@ -470,6 +458,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzlSTVZvaVZoWHdtOVRHdEJwZkNuWld5a0wxbXpvZE5jMTViS09HV2FaZ0tOTTViTUNZZDl5U081eHdCeWdqelNXQzU1dGZQM2M5Y0dYSHdqY0JYcVpLRXc3dFlMV0ZfLUdFRm54N0Y2UVN6amIwc3lRNzdDOS1KTk5iNHVuZzhk?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-cf571f2a2814",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 12:34:00 GMT",
+      "ts": 1789994040000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teHUwbDhuNFQzd3dsY19yRmd1TUk2RzZHS2FMTFpuaGRZcmtHQzVtcEhQQUVzLVNhNm9wUHRUeDFOdWFxbXRQMlBUSzFjeERkR0dLdlhybXdGMGlMNEtNWnVKaTFqWXVHYjNnUTZhSFlQelpVMWc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-f79512220847",
@@ -718,11 +718,11 @@
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 8
+      "related": 7
     }
   ]
 }
