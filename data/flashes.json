@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-21T05:38:33.690Z",
+  "updated": "2026-09-21T05:50:29.101Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-6c37d6eedf5e",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
       "ts": 1789578374000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "news.un.org",
+      "site": "UN News",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -49,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 30
+      "related": 31
     },
     {
       "id": "FL-f1b74b512812",
@@ -124,18 +124,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-256e1a2eb5b6",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
-      "ts": 1789945816000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
-    },
-    {
       "id": "FL-1cffa2fd3b9b",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:08:32 GMT",
@@ -160,15 +148,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-4a23ad06e7a5",
+      "id": "FL-96f979608021",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 21:05:35 GMT",
       "ts": 1789938335000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.eastmoney.com",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HMXNmbXZFNjBxU1Q0OUNsdktyUkNmWUFLbjFPMWtyaXgxLUhWcUgyekVqYTFCY0VRMUdCZE93WkVvWmdhM2FwN1R6cnNVV2ROTDFxS3pjVkJHdnJzYjIyblZCTWUydw?oc=5",
-      "site": "finance.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -203,9 +191,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -220,15 +208,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-53fb62917ecf",
+      "id": "FL-82ee2322823d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:55:00 GMT",
       "ts": 1789912500000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 早晨报",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaochenbao.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xejFjN05NQUpIWThWejVweUVsR3JtX0tnQjlHWE5Fakt3ZnFnQU1lZUVUZGx4Z2NfcWJLU0VnVVFRaTVlNzhEU1FIU3RkYUQ5b3kzMG0yVWJjVThjcG9IOFg5aDlQVzV2?oc=5",
-      "site": "早晨报",
+      "site": "zaochenbao.com",
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
@@ -364,15 +352,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-7226dbb45053",
+      "id": "FL-d7ef30028095",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
       "ts": 1789870320000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - jiemian.com",
+      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2llRGpTa0pjWVN3eDNFREE0dGdPbDJYY0pMOWVDNXV0X3RtWmZGbEtDQjNvMXNYdEQ1OW5iYjR4VlNtRm02Z2ZKZk9iY0ZuX0dGZmlMWUc?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -436,27 +424,27 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-fb76370c2157",
+      "id": "FL-4a61f726f18b",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
       "ts": 1789834689000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - 央广网",
+      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-5ca4f01afb4e",
+      "id": "FL-3df4184d6780",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:07:00 GMT",
       "ts": 1789834020000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OemVDMFB6UktrS25iVEVBWnFaX05JTFZNZmx2bWJNYUxpdERnUWowQjlnTWxyTVNVYk5kRVBVSk9JUmFoSnYtVDI3RlM0N0NSZkg2dlV6XzBmajI2b3NEY1lNWTVoYzNxLU9V?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -568,6 +556,18 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
+      "id": "FL-eec075bb487d",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 05:43:12 GMT",
+      "ts": 1789969392000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "熊本永旺梦乐城确认2名20多岁女性死亡…日本制纸烟囱坍塌致11人受困 - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWVwaWpfU3BWbW5LOVVNMmpySUh0ZXU5RHZ5SVhCaWMzc3hZd2xjRkJlNkszZlpXQjdaNXBtS2VEVlpLRnphS05YRjRpOG5id055Mk1VeUl1M0xNSl9yZGZxWS1wLXdGQWxSUTR3QWtSZnJFb0puR0dEZU9RVkxNa1dmaVJ2ampiQjhJVG9maGtha1E5QmlzT1hUNlJBZk9U?oc=5",
+      "site": "朝鮮日報中文版",
+      "siteUrl": "https://cnnews.chosun.com"
+    },
+    {
       "id": "FL-91024c220316",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:11:46 GMT",
@@ -592,16 +592,16 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-8524f0a23ba0",
+      "id": "FL-04bb2aa5f00d",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:46:25 GMT",
-      "ts": 1789965985000,
+      "dateISO": "Mon, 21 Sep 2026 04:44:45 GMT",
+      "ts": 1789965885000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿坍塌造成至少10人死亡 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N2RsTURjT3hzNHlNU3lGanhMVFZCUU5hX2RzdHk4RXFHVVVYU0FNZjlmS0hkUElNd19WLXFVODlDUjJhbkhPUUtGMXlkRmZ5R2toOUZnWG9Bbm9xbl9JaWhHM0tGQll0MzJHdEh1dVZpdVQxa2RENQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "苏丹一座金矿坍塌造成至少10人死亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VllrSmtUQzVpeE9rMERkN2NYVjhnY3lzdW90cEZwUXNkZXFBLW5ObVBtaGI4WGZVVDBpV1FHUzdKVlBzSXdrRl9BOHlmUU5MOGhVaEVkWDFndGJCbG91cUJRS1BxRkx1?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-deea54fe84d3",
@@ -640,15 +640,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-de8a78dfa9ff",
+      "id": "FL-0b8cf3e93169",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:23:00 GMT",
       "ts": 1789957380000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏那曲市班戈县发生3.0级地震，震源深度10千米 - jiemian.com",
+      "title": "西藏那曲市班戈县发生3.0级地震，震源深度10千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbVBpdTQ4bEdyUFE0ZTdzVjNJdXFyLVF0MVV3aVhVeHJxZWU4VDJHUjF6TFJKZkN4YUcyZ3ZpQWlhamhHQlFyZlQzYlJQYnlQYXpmWm1ocTI?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
