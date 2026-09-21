@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:39:45.243Z",
+  "updated": "2026-09-21T16:11:54.504Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -33,11 +33,23 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 33
+      "related": 35
+    },
+    {
+      "id": "FL-f1b74b512812",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
+      "ts": 1789649759000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-263418d50a2b",
@@ -184,28 +196,16 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-b7c890035807",
+      "id": "FL-b88e3048f617",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
       "ts": 1789906277000,
       "scope": "dom",
       "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - sichuan.scol.com.cn",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-dcb49716ce15",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
-      "ts": 1789900405000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-ad823457314f",
@@ -328,15 +328,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-721da1a6acd4",
+      "id": "FL-246512715173",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:33:38 GMT",
       "ts": 1789821218000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - sichuan.scol.com.cn",
+      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVzJtaWNVbzBhMk1xMWNCTXJBa1kwTUZCX0NmcVY1MTZ1VVM2bWJJeU5CVnllZW02N0xaWFNlSVpZNXNaNEItT0pjYmYyZEJpSEprTFVkSEc1S2xpb3R6UmVLYw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-1a7bef6377c1",
+      "id": "FL-a689dfa51633",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 03:05:22 GMT",
       "ts": 1789787122000,
       "scope": "dom",
       "type": "geo",
-      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - sichuan.scol.com.cn",
+      "title": "攀枝花盐边县支六河村附近突发泥石流，有人员失联丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6dXVqWHRqQVBITThCTWFva0xxZWpFdm5JVXlrZEtRdXZOUC1aOGVadFk0d0JEUldkOWJUdmROTWdkejJ0cWphOERYRHVmUkQ0RjJJaUVhUVVqN21vQVBxXzU3NA?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -472,27 +472,27 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-f82acf8846a1",
+      "id": "FL-31b26a23ab76",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
       "ts": 1789986840000,
       "scope": "dom",
       "type": "other",
-      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - 川观新闻",
+      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-10bc73d3691c",
+      "id": "FL-80b4a43f763b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:31:00 GMT",
       "ts": 1789986660000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼中苏拉威西省附近海域发生5.3级地震 - 温州新闻",
+      "title": "印尼中苏拉威西省附近海域发生5.3级地震 - 66wz.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RnNyR2NPSnJXRGJTWHp3cW8xS3o5MV9qMHAyeFRXemdMQ3V6Z1c3RXFPU0VfSXowNzMzWl9oUjF6b3RnYW9pMXV3NXpLR3V3bWJyY05QUW9ueWVrVktMMGFGYXpnUTB1bmkwdw?oc=5",
-      "site": "温州新闻",
+      "site": "66wz.com",
       "siteUrl": "https://www.66wz.com"
     },
     {
@@ -616,15 +616,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-90722129f98a",
+      "id": "FL-96f979608021",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:35:17 GMT",
       "ts": 1789965317000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - emwap.eastmoney.com",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2hiTTdVVjdndGJsQWVGVjJJdDdGUklBOV9ZZWZYT3RsSVA1RHlGZ2RTMFM4RWZSYl9mZVRzSFdtOXNITF9yLTUzbnBPaHlPSnpvZWJpRlo3aklhMExxdFZzYw?oc=5",
-      "site": "emwap.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
