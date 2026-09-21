@@ -1,13 +1,11 @@
 /**
  * wecom-patrol.mjs —— 纯云端重大事件巡检推送（GitHub Actions 定时运行，不依赖本机）
  *
- * 逻辑：抓取谷歌新闻 RSS（国内灾害/事故源）→ 关键词匹配"重大人身伤亡/重大自然灾害"
- *      → 三层真实性把关 → 按模板推送企业微信群 → 状态文件去重
- *
- * 三层把关：
- *  1. 官方媒体白名单：来源 site 必须是央视/新华网/人民网/中国政府网等官方媒体
- *  2. 多源印证：同一事件（标题相似分组）被 ≥2 家不同媒体报道，可信度更高
- *  3. 评论类排除：视频｜/评论/警示/启示/盘点/解读等标题一律不推
+ * 逻辑（2026-09-21 用户规则收紧）：
+ *  1. 信源只收官方：谷歌新闻 RSS 限定 site:news.cn(新华网) / site:gov.cn(政府网) / site:mem.gov.cn(应急部)
+ *  2. 重点关键词：X死、X伤、X失联、火灾、爆炸、重大灾害、中央领导批示指示
+ *  3. 推送门槛：死亡+受伤+失联 合计 ≥2 人；批示/指示/重大事故不论伤亡
+ *  4. 过程报道/科普/救援进展类（无伤亡数字）一律不推；同事件伤亡数字无变化不重推
  *
  * 消息五要素：标题 + 伤亡统计 + 发布时间 + 地址（从标题提取省市县）+ 来源渠道。
  * 运行：node scripts/wecom-patrol.mjs （需环境变量 WECOM_WEBHOOK）
@@ -30,14 +28,14 @@ if (!WEBHOOK) {
   process.exit(0);
 }
 
-/* ---------------- 数据源（国内灾害/事故，与 fetch-news.mjs 同源） ---------------- */
+/* ---------------- 数据源（只收官方：新华网 / 政府网 / 应急管理部） ---------------- */
 const Q = (q) => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q);
 const CN = '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans';
+const SITE_LIMIT = '(site:news.cn OR site:xinhuanet.com OR site:gov.cn OR site:mem.gov.cn)';
 const SOURCES = [
-  { name: 'natural', url: Q('暴雨 OR 洪涝 OR 山洪 OR 台风 OR 龙卷风 OR 泥石流 OR 山体滑坡 OR 滑坡 OR 崩塌 OR 塌方 OR 地震 OR 溃坝 OR 坍塌 OR 倒塌') + CN },
-  { name: 'accident', url: Q('火灾 OR 爆炸 OR 燃爆 OR 踩踏 OR 坠机 OR 空难 OR 沉船 OR 翻船 OR 矿难 OR 透水 OR 危化品事故 OR 起火') + CN },
-  { name: 'casualty', url: Q('(遇难 OR 失联 OR 失踪 OR 伤亡 OR 被困) (洪水 OR 台风 OR 地震 OR 泥石流 OR 滑坡 OR 火灾 OR 爆炸 OR 矿难 OR 事故 OR 灾害)') + CN },
-  { name: 'response', url: Q('"Ⅰ级响应" OR "Ⅱ级响应" OR 国家防总 OR 特大自然灾害 OR 重大事故 OR 国务院工作组 OR 国家消防救援局') + CN },
+  { name: 'fire-blast', url: Q(`火灾 OR 爆炸 OR 起火 OR 燃爆 OR 坍塌 OR 塌方 when:2d ${SITE_LIMIT}`) + CN },
+  { name: 'casualty', url: Q(`死亡 OR 遇难 OR 失联 OR 失踪 OR 伤亡 OR 被困 when:2d ${SITE_LIMIT}`) + CN },
+  { name: 'leader-response', url: Q(`批示 OR 重要指示 OR 重大事故 OR 特别重大 OR 国务院工作组 OR 应急响应 when:2d ${SITE_LIMIT}`) + CN },
 ];
 
 /* ---------------- 过滤规则 ---------------- */
@@ -47,7 +45,7 @@ const FOREIGN_RE = /(尼泊尔|不丹|孟加拉|斯里兰卡|马尔代夫|巴基
 const CHINA_BORDER_EV_RE = /(吉隆|西藏|日喀则|樟木|普兰|亚东|霍尔果斯|瑞丽|磨憨|凭祥|东兴|丹东|绥芬河|黑河|满洲里|二连浩特)/;
 
 /* 事件类型词（必须是"一件事故/灾害"才会推） */
-const EV_TYPE_RE2 = /(火灾|起火|燃爆|爆炸|泥石流|土石流|山体滑坡|滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地震|海啸|溃坝|矿难|透水|冒顶|沉船|翻船|倾覆|侧翻|踩踏|坠机|空难|山洪|洪涝|洪水|台风|龙卷风)/i;
+const EV_TYPE_RE2 = /(火灾|起火|燃爆|爆炸|泥石流|土石流|山体滑坡|滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地震|海啸|溃坝|矿难|透水|冒顶|沉船|翻船|倾覆|侧翻|踩踏|坠机|空难|山洪|洪涝|洪水|台风|龙卷风|事故)/i;
 
 /* 重大程度判定：满足其一即"重大" */
 /* 伤亡数字解析：兼容「8人遇难」「遇难8人」「8人死亡」「死亡8人」「8死1伤」「致8死」等常见写法 */
@@ -59,13 +57,15 @@ const NUM_DEATH_RE = [
   /(\d+)\s*死(?:\d+\s*伤)?/.source,
 ].map(s => new RegExp(s));
 const NUM_MISSING_RE = [/(\d+)\s*人?(?:仍然)?失联/.source, /失联\s*(\d+)\s*人/.source, /(\d+)\s*人失踪/.source, /失踪\s*(\d+)\s*人/.source].map(s => new RegExp(s));
-const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故|生产安全事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示)/i;
+/* 受伤人数：「1人受伤」「受伤3人」「8死1伤」「重伤5人」 */
+const NUM_INJURED_RE = [/(\d+)\s*人(?:受|轻|重)伤/.source, /(?:受|轻|重)伤\s*(\d+)\s*人/.source, /(\d+)\s*伤/.source].map(s => new RegExp(s));
+const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故|生产安全事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示|提级调查|挂牌督办)/i;
 const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺牲|殉职|受伤|重伤)/i;
 
-/* 评论/非事件类排除 */
-const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|记者走进|追问|之问|如何看|为何|说明了什么)/i;
-/* 非事件活动类排除（演练/科普/预警/直播/会议等——无伤亡数字时适用） */
-const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+/* 评论/过程报道/科普类排除（用户点名：救援过程、"跑赢泥石流的23分钟"类特写、科普等不推） */
+const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|记者走进|追忆|缅怀|亲历者|讲述|逃生者|之问|如何看|为何|说明了什么|背后|23分钟|特写|侧记|手记|日记|现场直击)/i;
+/* 非事件活动类排除（演练/科普/培训/预警/会议等） */
+const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|安全知识|防范|避险|自救|逃生技巧|宣传|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
 
 /* 标题清洗：去掉谷歌新闻的"XXX消息丨"前缀和结尾" - 来源" */
 function cleanTitle(t) {
@@ -146,23 +146,18 @@ function pickDeaths(title) {
   return d || 0;
 }
 
-/* 重大程度判定（用户规则）：
- * ① 伤亡案件：死亡≥2人 或 失联≥3人
- * ② 重大生产安全事故/重大事故/Ⅰ·Ⅱ级响应/国家层面响应/中央领导批示 —— 不论伤亡
- * ③ 重大自然灾害（泥石流/滑坡/地震/山洪/洪涝/台风/海啸/溃坝等）：前期可能只有事件信息
- *    无伤亡消息，也直接推送 */
-const GEO_DISASTER_RE = /(泥石流|土石流|山体滑坡|滑坡|地震|海啸|溃坝|山洪|龙卷风)/;
-/* 台风/洪涝类无伤亡时需伴随实际影响词（防"台风生成"类例行消息刷屏） */
-const GEO_IMPACT_RE = /(登陆|过境|转移|撤离|安置|应急响应|停产|停课|停运|停工|避险)/;
-
+/* 重大程度判定（2026-09-21 用户规则）：
+ * ① 伤亡案件：死亡+受伤+失联 合计 ≥2 人即推
+ * ② 中央领导批示/指示、重大事故、Ⅰ·Ⅱ级响应 —— 不论伤亡
+ * 注：地质灾害不再免数字直推（过程报道/科普类靠"无数字不过门槛"自然挡住） */
 function isMajor(title) {
   const deaths = pickDeaths(title);
   const missing = extractNum(title, NUM_MISSING_RE);
-  if (deaths >= 2 || missing >= 3) return { major: true, deaths, missing, why: '人身伤亡' };
-  if (MAJOR_WORD_RE.test(title)) return { major: true, deaths, missing, why: '重大事故/批示/响应' };
-  if (GEO_DISASTER_RE.test(title)) return { major: true, deaths, missing, why: '重大自然灾害' };
-  if (/(台风|洪涝|洪水)/.test(title) && GEO_IMPACT_RE.test(title)) return { major: true, deaths, missing, why: '重大自然灾害' };
-  return { major: false, deaths, missing };
+  const injured = extractNum(title, NUM_INJURED_RE);
+  const cas = deaths + missing + injured;
+  if (cas >= 2) return { major: true, deaths, missing, injured, cas, why: '人身伤亡' };
+  if (MAJOR_WORD_RE.test(title)) return { major: true, deaths, missing, injured, cas, why: '批示/重大事故/响应' };
+  return { major: false, deaths, missing, injured, cas };
 }
 
 /* 标题相似分组键（跨媒体同事件标题前缀通常一致） */
@@ -228,46 +223,36 @@ async function main() {
     await new Promise(r => setTimeout(r, 1200));
   }
 
-  // 2. 逐条过滤：国内 + 事件类型 + 重大程度 + 非评论 + 时效
+  // 2. 逐条过滤：国内 + 事件类型 + 伤亡门槛 + 非过程/科普 + 时效
   const minTs = Date.now() - FRESH_HOURS * 3600000;
   const candidates = [];
   const seenTitle = new Set();
   for (const it of all) {
     if (seenTitle.has(it.title)) continue;
     seenTitle.add(it.title);
-    if (!it.ts || it.ts < minTs) continue;                    // 超过26小时的旧闻不推
-    if (COMMENT_RE.test(it.title)) continue;                  // 评论/盘点类
+    if (!it.ts || it.ts < minTs) continue;                    // 超过时间窗的旧闻不推
+    if (COMMENT_RE.test(it.title)) continue;                  // 评论/过程报道/特写类
     if (ROUTINE_RE.test(it.title)) continue;                  // 例行预报
     if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) continue; // 国外事件
-    if (!EV_TYPE_RE2.test(it.title) && !GEO_DISASTER_RE.test(it.title)) continue; // 必须是事故/灾害
-    const { major, deaths, missing } = isMajor(it.title);
+    if (!EV_TYPE_RE2.test(it.title)) continue;                // 必须是事故/灾害类
+    if (NON_EVENT_RE.test(it.title)) continue;                // 演练/科普/预警/培训类
+    const { major, deaths, missing, injured, cas } = isMajor(it.title);
     if (!major) {
-      console.log(`[skip] 未达重大判定(${deaths}亡${missing}失联): ${it.title.slice(0, 45)}`); // 留痕便于排查漏判
-      continue;                                                 // 重大程度不够
+      console.log(`[skip] 未达门槛(死${deaths}+伤${injured}+失联${missing}): ${it.title.slice(0, 45)}`); // 留痕便于排查漏判
+      continue;                                               // 伤亡合计<2 且非批示/重大事故
     }
-    if (deaths === 0 && missing === 0 && NON_EVENT_RE.test(it.title)) continue; // 无伤亡的演练/预警/活动类
-    candidates.push({ ...it, deaths, missing, key: titleKey(it.title), id: 'PT-' + hash(titleKey(it.title)) });
+    candidates.push({ ...it, deaths, missing, injured, cas, key: titleKey(it.title), id: 'PT-' + hash(titleKey(it.title)) });
   }
   console.log(`候选重大事件: ${candidates.length} 条`);
 
-  // 3. 多源印证统计（同一 key 出现于几家不同媒体）
-  const keySources = new Map();
-  for (const c of candidates) {
-    if (!keySources.has(c.key)) keySources.set(c.key, new Set());
-    if (c.site) keySources.get(c.key).add(c.site);
-  }
-
-  // 4. 可信度把关：官方白名单来源 或 多源印证，二者居其一定为可信
+  // 3. 可信度把关：信源已限定官方站点，仍按域名/媒体名双判，非官方来源一律不推
   const trusted = candidates.filter(c => {
-    const official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
-    const multi = (keySources.get(c.key)?.size || 0) >= 2;
-    c.official = official; c.multi = multi;
-    return official || multi;
+    c.official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
+    return c.official;
   });
   console.log(`通过真实性把关: ${trusted.length} 条`);
   for (const c of candidates) {
-    const official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
-    console.log(`[候选] ${official ? '官方源' : '非官方'}|${keySources.get(c.key)?.size || 1}源|${c.deaths}亡${c.missing}失联|${c.title.slice(0, 45)}`);
+    console.log(`[候选] ${c.official ? '官方源' : '非官方'}|死${c.deaths}伤${c.injured}失联${c.missing}|${c.title.slice(0, 45)}`);
   }
 
   // 5. 去重状态
@@ -279,27 +264,25 @@ async function main() {
     if (now - info.ts > STATE_TTL_MS) delete state.pushed[id];
   }
 
-  // 按伤亡降序 + 时间新优先
-  trusted.sort((a, b) => (b.deaths + b.missing) - (a.deaths + a.missing) || b.ts - a.ts);
+  // 按伤亡合计降序 + 时间新优先
+  trusted.sort((a, b) => b.cas - a.cas || b.ts - a.ts);
 
-  // 6. 推送（每轮最多 MAX_PUSH 条；同一事件伤亡显著增加时允许重推一次进展）
+  // 6. 推送（每轮最多 MAX_PUSH 条；同事件伤亡数字无变化不重推，数字增加才推进展）
   let pushed = 0;
   for (const c of trusted) {
     if (pushed >= MAX_PUSH) break;
     const prev = state.pushed[c.id];
     if (prev && !DRY_RUN) { // 干跑模式忽略去重，完整预览将推内容
-      const newCas = c.deaths + c.missing;
-      if (!(newCas >= (prev.cas || 0) + 3)) continue; // 已推过且伤亡无显著增加
-      console.log(`事件进展重推: ${c.title.slice(0, 30)} (${prev.cas || 0} → ${newCas})`);
+      if (!(c.cas > (prev.cas || 0))) continue; // 已推过且伤亡数字无变化 → 不重复推
+      console.log(`事件进展重推: ${c.title.slice(0, 30)} (${prev.cas || 0} → ${c.cas})`);
     }
-    const srcLabel = c.site || '新闻媒体';
-    const srcNote = c.official && c.multi ? `${srcLabel} 等多家媒体`
-      : c.official ? `${srcLabel}`
-      : `${srcLabel} 等 ${keySources.get(c.key).size} 家媒体`;
+    const srcNote = c.site || '官方媒体';
     const addr = extractAddr(c.title) || '详见标题';
-    const casText = c.deaths || c.missing
-      ? `${c.deaths ? `${c.deaths}人遇难` : ''}${c.deaths && c.missing ? '、' : ''}${c.missing ? `${c.missing}人失联` : ''}（以官方通报为准）`
-      : '暂无伤亡报告，以官方通报为准';
+    const casParts = [];
+    if (c.deaths) casParts.push(`${c.deaths}人遇难`);
+    if (c.missing) casParts.push(`${c.missing}人失联`);
+    if (c.injured) casParts.push(`${c.injured}人受伤`);
+    const casText = casParts.length ? `${casParts.join('、')}（以官方通报为准）` : '人员伤亡情况以官方通报为准';
     const when = new Date(c.ts).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai', hour12: false, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' });
     const md = [
       `**${c.title}**`,
@@ -311,7 +294,7 @@ async function main() {
     try {
       await sendWecom(md);
       pushed++;
-      if (!DRY_RUN) state.pushed[c.id] = { ts: now, cas: c.deaths + c.missing, title: c.title.slice(0, 60) };
+      if (!DRY_RUN) state.pushed[c.id] = { ts: now, cas: c.cas, title: c.title.slice(0, 60) };
       console.log(`${DRY_RUN ? '[DRY-RUN] 模拟推送' : '已推送'}: ${c.title.slice(0, 40)} | ${srcNote}`);
     } catch (e) {
       console.log(`推送失败: ${e.message}`);
