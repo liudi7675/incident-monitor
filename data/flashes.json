@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T07:16:58.453Z",
+  "updated": "2026-09-21T07:32:50.438Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -184,15 +184,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-82ee2322823d",
+      "id": "FL-53fb62917ecf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:55:00 GMT",
       "ts": 1789912500000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaochenbao.com",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 早晨报",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xejFjN05NQUpIWThWejVweUVsR3JtX0tnQjlHWE5Fakt3ZnFnQU1lZUVUZGx4Z2NfcWJLU0VnVVFRaTVlNzhEU1FIU3RkYUQ5b3kzMG0yVWJjVThjcG9IOFg5aDlQVzV2?oc=5",
-      "site": "zaochenbao.com",
+      "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
     },
     {
@@ -268,15 +268,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-5ea46c40eda3",
+      "id": "FL-024e35eff45d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "同济大学新闻网",
+      "site": "news.tongji.edu.cn",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -314,18 +314,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcDVPS2RDaDVxeVFiT1FfdENveDAxX0JtUU9CZXJUcGh5WHpXWTI2TTRfSFpGeXc3ajg5YVFfTkVxTGRNVG9yaXdQb0RQLU0wSHdZdER0S0pwWDFiRk1vbDl4VTJyVUN3?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-00b29f9642a1",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
-      "ts": 1789876393000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-d7ef30028095",
@@ -580,6 +568,18 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
+      "id": "FL-aab20838d5dc",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 06:15:00 GMT",
+      "ts": 1789971300000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "强降雨袭泰国 多地爆发山洪滑坡 - 亚洲电视新闻",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNak05dlVWTVZuR25JVm1qNkxnTVdoNlI4RGhIcWxYWlZxQ2p1MmFzODczQ2RoVlMyQkxKWlcwTHIxeDNEeXNBUzZkWmNqTW9PNGVqUUh2cFMzbElVLTFXekIyTnV1cHR2TnhQVUNZaWdjY2x3aUswaEVzZF9abFRnSHBjRFZWbEdtTnBEV3ZzZHJWbndhR1h0ZHFBZncxVTg3TWpmdm8yU3F1aU5ENzUycFNYOFdGZFVpbTlhU284ZzQxdllYVWFaN1BPRC1QcDZVcklyd3ZGMDZYQnJkRWRsdDdKOUZfRGZlRDJscy16c2VQdw?oc=5",
+      "site": "亚洲电视新闻",
+      "siteUrl": "https://atvnewsonline.com"
+    },
+    {
       "id": "FL-6c03766f36be",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 05:03:00 GMT",
@@ -640,15 +640,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-94a9926288f1",
+      "id": "FL-7d2ab6c3c6b9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
       "ts": 1789959540000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 新浪财经",
+      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSVlNYm40X01SU1prcks5NzFnUEViMzRXYmxQb0l6MHJIVkRQRW5FLVFuUFp4a1k1bTI0UTNJamJlX1BTeFphbHgwem03bFB2a1NEazVsNlgyb0NWZTFQTjFaQ1BOemcwS0x0dWZOa3FoenFFbVJQdA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://news.chemnet.com"
     },
     {
-      "id": "FL-1c478a35797a",
+      "id": "FL-71b34d93137b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 00:15:33 GMT",
       "ts": 1789949733000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 新浪财经",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtR2RyVkVuQjloTk1SclNmQ2hOd3JpRlBTYUYtU3M0dUprYk5NbmFoU0VSbXkwQ1h1dmJwalJlTjVrRWR5bUFBRHI4NWRiSDdINmZaWXhaY3VVS05WT21lQU9FcmpsMVpzbmVlRGdEeTYzdkJDSEoweQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
