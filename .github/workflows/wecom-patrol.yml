@@ -1,7 +1,7 @@
 name: wecom-patrol
 on:
-  schedule:
-    - cron: '0 * * * *'   # 每小时整点巡检一轮，推送上一小时内的最新消息
+  # schedule:
+  #   - cron: '0 * * * *'   # ⏸ 已暂停（2026-09-21 排查顺德火灾漏推），排查完成后再恢复
   workflow_dispatch:
 
 permissions:
