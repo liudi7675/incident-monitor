@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:24:35.279Z",
+  "updated": "2026-09-21T04:40:25.574Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-6b6aed7ef41b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 15:18:00 GMT",
-      "ts": 1789571880000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1409人遇难 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95a1k2V1dIMkllSFlhWHM3dkNITUp4NVVkZFpzNE1tSDVzQkJHSWlldjFhRnQya3pTeVFOZjNfdUNSSTJNOHc3SjB3aHlpaWtWcFhfeXpjel9wb1NWdTNCamRDM0VBVkJxV3VGeHBKU2podw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-b2d13116c5ba",
@@ -61,19 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 28
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
+      "related": 30
     },
     {
       "id": "FL-f1b74b512812",
@@ -148,6 +124,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-256e1a2eb5b6",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
+      "ts": 1789945816000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-4a6ac81807f4",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:46 GMT",
@@ -184,6 +172,18 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
+      "id": "FL-a3788499f8f2",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 19:27:31 GMT",
+      "ts": 1789932451000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tUTVhMi1EXzhQV2YxMjdVM2Y1aW1FZVRIS1YwNGE1aE1WN0pieUNIZmRoOU85TUFnNGlKbmJIOW1IVmJqSlh5MGVFMA?oc=5",
+      "site": "cj.sina.cn",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-a8bce3fc8a85",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 17:03:00 GMT",
@@ -215,9 +215,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -508,18 +508,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-3751fb5b22b7",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 12:33:00 GMT",
-      "ts": 1789821180000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zV1lJTnhiM2pWLXdBSVllSjNBbEp4ZDYySUxUYWoyYVNsWDAwNmcyaHZjZWFSS3Q3eFlNWnVtZDlDWWdFcVNXLW5CNjBIdw?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
       "id": "FL-008835b9873c",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
@@ -602,6 +590,30 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6dXVqWHRqQVBITThCTWFva0xxZWpFdm5JVXlrZEtRdXZOUC1aOGVadFk0d0JEUldkOWJUdmROTWdkejJ0cWphOERYRHVmUkQ0RjJJaUVhUVVqN21vQVBxXzU3NA?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-deea54fe84d3",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:00:00 GMT",
+      "ts": 1789963200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“有人根本不配穿皇马球衣！”德比惨败引发大地震，西媒怒撕穆帅 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGptVEtMa2Naa05DcW9mVXdjemJrMnRUSDVBTzFUVl9CUll2cWduSzd6ZkZIeTA4RE9FX0Zva3l5cWpvYVhjRE1qZ0VYTWJuV2Y4YVpEYjRVdHRmVkhkSWdKWTJkMENBdlZzV2R5R2xkWUhlalBFVHBhSEF5QlYzWVItVWo1WTBXM2tubw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0a396f090e32",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 03:27:53 GMT",
+      "ts": 1789961273000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "【孟艳清已任湖北省政府副秘书长】据湖北地震局官网消息，9月17日至18日，中国地震局防震减灾公共服务与法治工作会议在湖北武汉召开。中国地震局党组成员、副局长张勤出席会议并讲话，湖北省人民政府副秘书长孟艳清同志出席并致辞。上述消息显示，孟艳清已任 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNam53czJyMFlRcEpmV0g1WTJnNW0zZWpmLVZwVndNMnFOYU9sMEk3MXJiQTJnM2lOOW1EUU9IUER6eHFjS0gyYWZaX3A1R25BQTRZSExFOFBWa29GWXd6STNhaWxlc1dKdmxQbzluR0kyNlplRko5RFdIblZpaGdLVndyeXd2OVpw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-94a9926288f1",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-418eed2ca087",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "ts": 1789714800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ21JWWVHS0pRcmI3Nk5MNFRQSExXdkc5LTBRRkd3U1VWM1VRZGNaeWZQV0d4VHFWUmdHUzh4azRqVnM5M24wV29RSmQ4eEJ1cnpIeWN0SzViVDlHUjVIRTFXVWNLS0NVMEc0VkE4UlZLdlhES0pvRXQxMTBUTU5nWHVRMERYY1l2cGxRQ2pZcFJCekl4MDcxZk9HNS1wcFl0SzJhYlBRZTg5dndDS1Mxd3VqS1duUE9wWjhQY1Q0eGo0OG0zZFpkRUxlQXBGSmoweVl2WUs1ajg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
