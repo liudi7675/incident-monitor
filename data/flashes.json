@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:48:32.150Z",
+  "updated": "2026-09-21T10:56:53.825Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,18 +27,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
@@ -49,7 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 29
+      "related": 30
     },
     {
       "id": "FL-263418d50a2b",
@@ -196,16 +184,28 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-dcb49716ce15",
+      "id": "FL-e7e8e18b5476",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
       "ts": 1789900405000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-dcb49716ce15",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 09:47:37 GMT",
+      "ts": 1789897657000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXcDNhT2hIZGh6c0FaUnVfbE9RUGhpQTFYeXpYUzA4NnZiVWpGUmRnMVRSdDdyV3BKQjE5aGlZOFIxclhIMllsVXZjUE1WQjFHenZYOG5CdTFhY3MyMnc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-37eaf8c9fd9a",
@@ -242,6 +242,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTVXODRLQldfeUhEdENZS3NKREVLU0IwWTZ5UFFEanNITi02Z2dQXzhMV1JKTGhuak55OFlhRmw1TktJcVNjanFJMk9pUENJNTlvUTRCalN3M2FBam1OT0dyUmV5cnVNMmNVVVFwUlo0YkFmWTMxTV9HWGZDTENxbC1jSQ?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-e8e807819b33",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:19:12 GMT",
+      "ts": 1789892352000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - xinwen.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZTWg2WlZ0NXBmS0NXbmFKT0k2QmI2bDhneTE5NjFjQ1pjd09TWXpYWnhPRHhhYjVJdnFqakZDNHFQNEZ3ZFM5aTRoeHZRWHh6MUx4bXBlTTdNN3FOVjdsanhZY0dPcF8zSXpSNzBKZnJSQQ?oc=5",
+      "site": "xinwen.bjd.com.cn",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-8b48072869bf",
@@ -508,15 +520,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-a706c5903442",
+      "id": "FL-8a16a39048a7",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 09:52:00 GMT",
       "ts": 1789984320000,
       "scope": "dom",
       "type": "other",
-      "title": "两部门紧急拨付2亿元支持川琼浙闽等4省抢险救灾 - 京报网",
+      "title": "两部门紧急拨付2亿元支持川琼浙闽等4省抢险救灾 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PaVhWMExJcFNDZUlTUFZtd2ZIWk9TQ20xQXBmajVhekdRbGN5Tm1taE1CMmxrdEdXdElPRWZKSl9uZm4zSGxDLWJXQ09aVlUzTDFDblZlTFlSZXczTmk2T1ludWxzUFlSbUpGbFBiQ0pMQQ?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -556,15 +568,15 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-7cade6aab449",
+      "id": "FL-203aee13c42f",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:53:00 GMT",
       "ts": 1789977180000,
       "scope": "dom",
       "type": "collapse",
-      "title": "刘铭诚：黄金原油多头一夜崩塌 抄底良机还是深渊开端？ - 新浪财经_金融信息服务商",
+      "title": "刘铭诚：黄金原油多头一夜崩塌 抄底良机还是深渊开端？ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUJXRmpTVGppZzZJY19xQm55djFEWjlwWC1ESzY5Vk93YV9MR3VRTnNxSGpWc3ZDWE01OWtiNHMzcWdGQXV0ekdBazNaSlRoa1V2bE1zTm9Oajd6WkRuaEYxTUJmVGVRbHFNY1ZEWFF4bU1jYk5TcTkzUHBWRk84RUtkSVl5SHllYUdjWUlDTzE1Zw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -652,15 +664,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1414761b7150",
+      "id": "FL-94a9926288f1",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
       "ts": 1789959540000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 新浪财经_金融信息服务商",
+      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSVlNYm40X01SU1prcks5NzFnUEViMzRXYmxQb0l6MHJIVkRQRW5FLVFuUFp4a1k1bTI0UTNJamJlX1BTeFphbHgwem03bFB2a1NEazVsNlgyb0NWZTFQTjFaQ1BOemcwS0x0dWZOa3FoenFFbVJQdA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -676,27 +688,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-f6094f9cb429",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 01:13:04 GMT",
-      "ts": 1789953184000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "苏丹红海州5座矿井坍塌致10死21伤，多人仍被困井下 - ChemNet News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4YUFmZ0xXQTFqZmNTV2xaWU52ek1VNkZzRzdaNnZrMlJ0MW14aGQ5UkFhT2lxNWtDMThJVDc0d0w1R1hRdzQ5dHlXLV9vV05HNnJrSy1lWjJTdElLZFR3?oc=5",
-      "site": "ChemNet News",
-      "siteUrl": "https://news.chemnet.com"
-    },
-    {
-      "id": "FL-e3f73506538f",
+      "id": "FL-1c478a35797a",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 00:15:33 GMT",
       "ts": 1789949733000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 新浪财经_金融信息服务商",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtR2RyVkVuQjloTk1SclNmQ2hOd3JpRlBTYUYtU3M0dUprYk5NbmFoU0VSbXkwQ1h1dmJwalJlTjVrRWR5bUFBRHI4NWRiSDdINmZaWXhaY3VVS05WT21lQU9FcmpsMVpzbmVlRGdEeTYzdkJDSEoweQ?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -718,9 +718,9 @@
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn",
       "related": 5
     }
