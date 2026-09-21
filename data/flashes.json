@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:23:16.698Z",
+  "updated": "2026-09-21T03:40:27.998Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
@@ -74,6 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
       "site": "mfa.gov.cn",
       "siteUrl": "https://www.mfa.gov.cn"
+    },
+    {
+      "id": "FL-31aaf7309a8a",
+      "date": "2026-09-03",
+      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "ts": 1788418800000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“沙德尔”带来强降雨，福建全力抢险救援 - 人民网-福建频道",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idjB1WHk1RmxjaXpsRFVqTmtSUXdDbEcwVlp0d2k5TnNndmxBNXhhV0syZmdBVlVCQzZuZk56cmNGeWFCYnp5SkVxaFFvbGQ0TXoxalUyeFJtRHJfa2l2TVhBRXJVQWVfM0E?oc=5",
+      "site": "人民网-福建频道",
+      "siteUrl": "http://fj.people.com.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -376,18 +400,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-404022a5642d",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
-      "ts": 1789876393000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-e44bfae95a64",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
@@ -398,6 +410,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
       "site": "人民网",
       "siteUrl": "https://world.people.com.cn"
+    },
+    {
+      "id": "FL-2353619aec3b",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 01:05:14 GMT",
+      "ts": 1789866314000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川盐边县格萨拉乡境内发生泥石流灾害 5人失联 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FcEVzT3pHUG8yMnhGZnFrbnBndVVTMXc2bWdJWWtMX2hxX1A2aHdKNG45SXRodDcyNjc1aExoZlVtSFA5Tmt4SGF0d1QzY1YwTG9MODRyM0tFaGk4bjZrLUViU1pNYlhscEppR1hPbGw?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-14694e5635c7",
@@ -592,18 +616,6 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-26499ac85060",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 02:41:06 GMT",
-      "ts": 1789785666000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新研究揭示俯冲界面粗糙度并非大地震的主控因素 - 科学网—新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
-      "site": "科学网—新闻",
-      "siteUrl": "https://news.sciencenet.cn"
-    },
-    {
       "id": "FL-7d2ab6c3c6b9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
@@ -616,28 +628,16 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-8192d4810c4a",
+      "id": "FL-0b8cf3e93169",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:56:00 GMT",
-      "ts": 1789959360000,
+      "dateISO": "Mon, 21 Sep 2026 02:23:00 GMT",
+      "ts": 1789957380000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏那曲市班戈县发生3.0级地震 震源深度10公里 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVBxSHZVTFRQaFJiVGVQN2EtRC0tVGtGeUhrYUJ6WnBNdm9zV0JjbDZOclBlaV9PZE15aTVQRzJlN1dSSlVzUWsyMTdhcUNaWUpNWjNVbFlZbWpnTjQwY2x6R3ZYNnpCZjA5QkdiX05SVEdDaHBGWldDcGhFZDdRMFFiZlkxYVNEaEJwNQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-3d424bfe72d2",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
-      "ts": 1789957907000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定：09月21日10时23分在西藏那曲市班戈县（北纬31.83度，东经89.18度）发生3.0级地震，震源深度10千米。 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiclEyT09SbFN0aC0tRzlxVjZncjBTaHdZSzdvOFBuR29zaVVNcnJ0Ym03YXR0Qml1UGxhZ1ZEUXZJempITFBDNzAzekphTHRXQnU4RVZYaFVJckt4dTRhUWhLOWZuYmpEdEhWQmlvQQ?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
+      "title": "西藏那曲市班戈县发生3.0级地震，震源深度10千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UbVBpdTQ4bEdyUFE0ZTdzVjNJdXFyLVF0MVV3aVhVeHJxZWU4VDJHUjF6TFJKZkN4YUcyZ3ZpQWlhamhHQlFyZlQzYlJQYnlQYXpmWm1ocTI?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-619ce3a09443",
