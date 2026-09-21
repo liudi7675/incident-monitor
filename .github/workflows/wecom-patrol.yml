@@ -1,7 +1,10 @@
 name: wecom-patrol
 on:
   schedule:
-    - cron: '0 * * * *'   # 每小时整点巡检（2026-09-21 新规则：仅官方源+伤亡合计≥2）
+    # 每 15 分钟巡检一轮（2026-09-21 从每小时提频：缩短重大事件的推送延迟，
+    # 事件发布后最晚约15分钟推群；去重状态保证同一事件只推一次）
+    # 错开 4/34 分的 update-data 任务和整点 Actions 调度拥堵
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 permissions:
