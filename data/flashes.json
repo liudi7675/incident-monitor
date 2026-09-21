@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T10:37:55.679Z",
+  "updated": "2026-09-21T10:48:32.150Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,19 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 30
-    },
-    {
-      "id": "FL-f1b74b512812",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
-      "ts": 1789649759000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "related": 29
     },
     {
       "id": "FL-263418d50a2b",
@@ -280,18 +268,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-425799cc39c0",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
-      "ts": 1789876393000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-7226dbb45053",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
@@ -472,6 +448,18 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
+      "id": "FL-358b31b15953",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 08:36:00 GMT",
+      "ts": 1789806960000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "五指山中学边坡崩塌 涉险教学楼全面停用 - hi.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OSHBubWJENFNzcXdxTV9kM0FNd2g4NHlRendaY2NwMnFEcmwwcE1hMmN5clQ3UTVrbzcwLS1rLVhKYzZqamtaeTNqcXRKWFN6R010bGdGbDBPc2hfV3dUNVNndGR0a3ZzU0d1Rw?oc=5",
+      "site": "hi.chinanews.com.cn",
+      "siteUrl": "https://www.hi.chinanews.com.cn"
+    },
+    {
       "id": "FL-e8ff86e24718",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 06:01:00 GMT",
@@ -496,14 +484,26 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
+      "id": "FL-10bc73d3691c",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 10:31:00 GMT",
+      "ts": 1789986660000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼中苏拉威西省附近海域发生5.3级地震 - 温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RnNyR2NPSnJXRGJTWHp3cW8xS3o5MV9qMHAyeFRXemdMQ3V6Z1c3RXFPU0VfSXowNzMzWl9oUjF6b3RnYW9pMXV3NXpLR3V3bWJyY05QUW9ueWVrVktMMGFGYXpnUTB1bmkwdw?oc=5",
+      "site": "温州新闻",
+      "siteUrl": "https://www.66wz.com"
+    },
+    {
       "id": "FL-048f3e630856",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 09:56:12 GMT",
-      "ts": 1789984572000,
+      "dateISO": "Mon, 21 Sep 2026 10:21:15 GMT",
+      "ts": 1789986075000,
       "scope": "intl",
       "type": "geo",
       "title": "中国驻尼泊尔大使馆：向尼泊尔特大泥石流洪灾学生提供“中国大使奖学金”，帮助他们更好完成学业 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTVqeWttWk82WFZxeUlzaEtyYWVGVzFlNUliRXVoTlZIdE04eGYwSkktd2g2MGdXX1R6RDlQS1BtWXFrcFVERElTOVZLZUVKR1lzVGFFWmd1U1RvQTN4aU1fb25oaDM0QUpqaU14ZmZONGtENHp4Y1dkUXItbGFzY0FFV2ZtVmtaU09BWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhlaGlaSXRESW0wQVVhRHFtNTJqck5JMmNZc3VQMk5OdHVpcWI2YklBTmZ3a0VSZ29LdWlfRGp5UndYVGZWX1pUWkxkZ1gzQnJ6bzlzSFNMUk5JY3dIVW1uaTFVNmppaDVVWVRzV25OQWt1NlN2T29JNm4yV1luVVhSdGszMV9J?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -616,16 +616,16 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-8524f0a23ba0",
+      "id": "FL-04bb2aa5f00d",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 04:46:25 GMT",
-      "ts": 1789965985000,
+      "dateISO": "Mon, 21 Sep 2026 04:44:45 GMT",
+      "ts": 1789965885000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿坍塌造成至少10人死亡 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N2RsTURjT3hzNHlNU3lGanhMVFZCUU5hX2RzdHk4RXFHVVVYU0FNZjlmS0hkUElNd19WLXFVODlDUjJhbkhPUUtGMXlkRmZ5R2toOUZnWG9Bbm9xbl9JaWhHM0tGQll0MzJHdEh1dVZpdVQxa2RENQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "苏丹一座金矿坍塌造成至少10人死亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VllrSmtUQzVpeE9rMERkN2NYVjhnY3lzdW90cEZwUXNkZXFBLW5ObVBtaGI4WGZVVDBpV1FHUzdKVlBzSXdrRl9BOHlmUU5MOGhVaEVkWDFndGJCbG91cUJRS1BxRkx1?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-e479e3cbe475",
