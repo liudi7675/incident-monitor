@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:56:29.063Z",
+  "updated": "2026-09-21T04:09:02.416Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -61,31 +61,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 26
-    },
-    {
-      "id": "FL-d6feb3148f89",
-      "date": "2026-08-04",
-      "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "ts": 1785826800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
+      "related": 25
     },
     {
       "id": "FL-f1b74b512812",
@@ -196,6 +172,18 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
+      "id": "FL-a8bce3fc8a85",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 17:03:00 GMT",
+      "ts": 1789923780000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54Q0xPMGxsb2czREJ0R3dXTW96NTBTQmdYX2ZlWjVKTlRQN0kxV3BSZ2FOVGpGSmxSZEQtQ3dRQUw3NlBlR0V6R0VHa1V5d2dGZXc?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
       "id": "FL-2ae82370baf8",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:21:25 GMT",
@@ -232,28 +220,16 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-53fb62917ecf",
+      "id": "FL-82ee2322823d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:55:00 GMT",
       "ts": 1789912500000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 早晨报",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaochenbao.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xejFjN05NQUpIWThWejVweUVsR3JtX0tnQjlHWE5Fakt3ZnFnQU1lZUVUZGx4Z2NfcWJLU0VnVVFRaTVlNzhEU1FIU3RkYUQ5b3kzMG0yVWJjVThjcG9IOFg5aDlQVzV2?oc=5",
-      "site": "早晨报",
+      "site": "zaochenbao.com",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-8d9e84310a9a",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 13:53:37 GMT",
-      "ts": 1789912417000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "截至当地时间20日17时，尼泊尔泥石流灾害造成的遇难人数升至1451人 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSU1pVDRHZ3lEaTBvc3BMa04wbjZRQmRQQkZTYXp0bV9GVW9WSnV4bHZ2S0FEM1J3cWEwMTNKOFQ4S3dTZmllc2ctYXdSeDB0RVJKaXpRRkVSazJ3Z18xMEJXVWdLYjVRdnVWV1cxdXRTME8xU25nSWlNTjBIbkt4TV9MazFYZTNFcGJLRw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4f9f1505eb12",
@@ -328,15 +304,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-5ea46c40eda3",
+      "id": "FL-024e35eff45d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "同济大学新闻网",
+      "site": "news.tongji.edu.cn",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -352,18 +328,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8b48072869bf",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:19:12 GMT",
-      "ts": 1789892352000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本奄美大岛附近海域发生5.0级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZTWg2WlZ0NXBmS0NXbmFKT0k2QmI2bDhneTE5NjFjQ1pjd09TWXpYWnhPRHhhYjVJdnFqakZDNHFQNEZ3ZFM5aTRoeHZRWHh6MUx4bXBlTTdNN3FOVjdsanhZY0dPcF8zSXpSNzBKZnJSQQ?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
       "id": "FL-a81d31e5daa5",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
@@ -374,6 +338,18 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-8b48072869bf",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:06:14 GMT",
+      "ts": 1789891574000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本奄美大岛附近海域发生5.0级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKTHo1UmlTdmJKeGxXek52anlrYVV2R3dtWXAtbjNwdjltQjY5NHRUb2duVmt2d0k1ZHBiaTRGSk1VaFhLOVJjRTVFa2hETlRfRkVxODBXUXZGX05wWHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-0d8989a9c398",
@@ -388,6 +364,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-00b29f9642a1",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
+      "ts": 1789876393000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
       "id": "FL-e44bfae95a64",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
@@ -400,16 +388,16 @@
       "siteUrl": "https://world.people.com.cn"
     },
     {
-      "id": "FL-ffb2f4bd8dbf",
+      "id": "FL-2353619aec3b",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 00:44:54 GMT",
-      "ts": 1789865094000,
+      "dateISO": "Sun, 20 Sep 2026 01:05:14 GMT",
+      "ts": 1789866314000,
       "scope": "dom",
       "type": "geo",
-      "title": "盐边发生泥石流险情致人员失联，18户30位村民提前转移成功避险 - 四川在线",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51dzBPOVd0LWlteXh4VVVPZzM4LTZXcXZNcG1Ja1d3UWxCb3pnTEFaYkhfZ3J2Nk44LW4tb2RGSGJoanpnY2x4T1I2SF9TS3haTmEzWG9YTkFlc2c4VXc?oc=5",
-      "site": "四川在线",
-      "siteUrl": "https://pzh.scol.com.cn"
+      "title": "四川盐边县格萨拉乡境内发生泥石流灾害 5人失联 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FcEVzT3pHUG8yMnhGZnFrbnBndVVTMXc2bWdJWWtMX2hxX1A2aHdKNG45SXRodDcyNjc1aExoZlVtSFA5Tmt4SGF0d1QzY1YwTG9MODRyM0tFaGk4bjZrLUViU1pNYlhscEppR1hPbGw?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-14694e5635c7",
@@ -446,18 +434,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
       "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
-    },
-    {
-      "id": "FL-d7939e987363",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
-      "ts": 1789854743000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "墨西哥举行全国地震演习 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NOWRJaFhtaEpDU3RyeV9QZmJlYmNlMDBSY1JXZHRDb1pJRmMwVkM5ZzhqUFZyR2JTSm1kaWNHdmRzekNMLTRNaGpidE9ELV9KaUJOR1NYQXlkMzBmc0JIUlNxR1VmdTVkaVVvU0FFekJGUkthS1owUkhWZ2M0UVE?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-49642f344c72",
@@ -518,6 +494,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-3751fb5b22b7",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 12:33:00 GMT",
+      "ts": 1789821180000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "盐边县突发泥石流，消防员用“无人机+搜救犬”开展搜救丨C视频 - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zV1lJTnhiM2pWLXdBSVllSjNBbEp4ZDYySUxUYWoyYVNsWDAwNmcyaHZjZWFSS3Q3eFlNWnVtZDlDWWdFcVNXLW5CNjBIdw?oc=5",
+      "site": "川观新闻",
+      "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
       "id": "FL-008835b9873c",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-418eed2ca087",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "ts": 1789714800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川发生地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ21JWWVHS0pRcmI3Nk5MNFRQSExXdkc5LTBRRkd3U1VWM1VRZGNaeWZQV0d4VHFWUmdHUzh4azRqVnM5M24wV29RSmQ4eEJ1cnpIeWN0SzViVDlHUjVIRTFXVWNLS0NVMEc0VkE4UlZLdlhES0pvRXQxMTBUTU5nWHVRMERYY1l2cGxRQ2pZcFJCekl4MDcxZk9HNS1wcFl0SzJhYlBRZTg5dndDS1Mxd3VqS1duUE9wWjhQY1Q0eGo0OG0zZFpkRUxlQXBGSmoweVl2WUs1ajg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
