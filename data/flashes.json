@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:10:27.490Z",
+  "updated": "2026-09-21T19:40:04.825Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -37,19 +37,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
+      "related": 42
     },
     {
       "id": "FL-f1b74b512812",
@@ -220,16 +208,40 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-ad823457314f",
+      "id": "FL-7a2418bc035f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
       "ts": 1789895820000,
       "scope": "intl",
       "type": "geo",
-      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - 财联社",
+      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDandsazh2aGlMY0Z0NnhVdm5MUFE3dElwV3Z6NEhMbHg1Tml1d2NfOTBsQkw3R29kZ2ZYWUd0WDdqTVJiM2c?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
+    },
+    {
+      "id": "FL-5ea46c40eda3",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
+      "ts": 1789895812000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
+      "site": "同济大学新闻网",
+      "siteUrl": "https://news.tongji.edu.cn"
+    },
+    {
+      "id": "FL-5623f7c7d46e",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
+      "ts": 1789891800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40VHJDVFRNeTVMNG9OVXBpM1phX1QzNUZMdHlaNVNjMWFfU3hsTDlRMWQza1dCSUtGbDlRVmk1NGIyeEtQcUlodGcyOFpoYkxvUVJGaVBwbVY?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-0d8989a9c398",
@@ -292,27 +304,27 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-008835b9873c",
+      "id": "FL-de86dc0b1938",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
       "ts": 1789820340000,
       "scope": "dom",
       "type": "geo",
-      "title": "财联社9月19日电，中国地震台网正式测定：09月19日20时19分在西藏那曲市申扎县（北纬31.99度，东经89.26度）发生4.0级地震，震源深度10千米。 - 财联社",
+      "title": "财联社9月19日电，中国地震台网正式测定：09月19日20时19分在西藏那曲市申扎县（北纬31.99度，东经89.26度）发生4.0级地震，震源深度10千米。 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04Z1NnZXI3Q05RWXNLeUVJMU45VGJKdEtDQkdWSFJRTktmaE5IRVpzU0dYQ3VZd19faDhhOUIyVDV0NEdCRFE?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-2a44061ff46e",
+      "id": "FL-63c1646d363d",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 12:19:00 GMT",
       "ts": 1789820340000,
       "scope": "dom",
       "type": "geo",
-      "title": "财联社9月19日电，中国地震台网自动测定：09月19日20时19分在西藏那曲市申扎县附近（北纬32.03度，东经89.29度）发生4.2级左右地震，最终结果以正式速报为准。 - 财联社",
+      "title": "财联社9月19日电，中国地震台网自动测定：09月19日20时19分在西藏那曲市申扎县附近（北纬32.03度，东经89.29度）发生4.2级左右地震，最终结果以正式速报为准。 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9vTkxveGFaTU1GWHMtZ05nWmdVZVN4TktLRk9JT1NvM1FnY05PMjRyeExYd2RfRmhBLU90NTNEMS1mWG9MSmc?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -460,6 +472,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-f79512220847",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 12:19:38 GMT",
+      "ts": 1789993178000,
+      "scope": "dom",
+      "type": "other",
+      "title": "双预警齐发，中央气象台：今晚到明晚，河北、湖南、江西、福建、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MbWdKdHNQRDVuTHNLbVFueFotT2dXTnNMRHhUNUFBbjJYa1U2M2FERGU4M0Z1N2NaUWs1N3dhSDhqdkVQS2w4NEVKZ3BNTzFnVVp5VVJYV2p3XzVYMFZEdVB2dFQ2Y3JPSVU4TGpDNHBjQ01ZVEgyRA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-f4eb878526d9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:53:45 GMT",
@@ -470,18 +494,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUI1VEtULUluNHVlZ1RRaUcyYWpuT1I5M1Q1ZGRVSWlqU0R1ejRneTdCNzVyakdaMV9heHJ0Q3gwR1Vpa3k3ZEtNejYxU19rTkRWX0JTQUNhbGpFU0daaVRMMnlmUUxrRkk3bHNZaXktRFJkTlRRTnlYN01ZX3M3Zk1jcnpXY3hVcEdFUQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-46b178d12ade",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:46:51 GMT",
-      "ts": 1789987611000,
-      "scope": "dom",
-      "type": "other",
-      "title": "双预警齐发，中央气象台：今晚到明晚，河北、湖南、江西、福建、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5paTU2SmVlclg0cExxejZLQVF3YmU0YVhGbFBJX2hOZlZ1RHJsWHlSUlhKekFXSzlELUU3V1VMd0V6Z042bGVEdmFaYmY?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-b5126fb5d2c7",
@@ -506,18 +518,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-10bc73d3691c",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:31:00 GMT",
-      "ts": 1789986660000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼中苏拉威西省附近海域发生5.3级地震 - 温州新闻",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RnNyR2NPSnJXRGJTWHp3cW8xS3o5MV9qMHAyeFRXemdMQ3V6Z1c3RXFPU0VfSXowNzMzWl9oUjF6b3RnYW9pMXV3NXpLR3V3bWJyY05QUW9ueWVrVktMMGFGYXpnUTB1bmkwdw?oc=5",
-      "site": "温州新闻",
-      "siteUrl": "https://www.66wz.com"
     },
     {
       "id": "FL-048f3e630856",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 7
+      "related": 8
     }
   ]
 }
