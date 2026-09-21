@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:39:05.796Z",
+  "updated": "2026-09-21T22:10:52.382Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -38,30 +38,6 @@
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
       "related": 47
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-4f00564de371",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
-      "ts": 1789649759000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "news.cctv.com",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-263418d50a2b",
@@ -148,6 +124,18 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
+      "id": "FL-31b33544a6d2",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 14:05:21 GMT",
+      "ts": 1789913121000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aVVJZNkxUMl9DdE9oYlphZWIwMEViOUlvbjMxdDhzZXNwSENzRTV6aFE3X1ZrWjBxZndXNng5aTl2SHhMcVZoSlJKeE5LQkdsOTRfQU5nSGhWaG8?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
       "id": "FL-4f9f1505eb12",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:33:13 GMT",
@@ -196,18 +184,6 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-5623f7c7d46e",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
-      "ts": 1789891800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40VHJDVFRNeTVMNG9OVXBpM1phX1QzNUZMdHlaNVNjMWFfU3hsTDlRMWQza1dCSUtGbDlRVmk1NGIyeEtQcUlodGcyOFpoYkxvUVJGaVBwbVY?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-0d8989a9c398",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 05:27:12 GMT",
@@ -218,6 +194,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcDVPS2RDaDVxeVFiT1FfdENveDAxX0JtUU9CZXJUcGh5WHpXWTI2TTRfSFpGeXc3ajg5YVFfTkVxTGRNVG9yaXdQb0RQLU0wSHdZdER0S0pwWDFiRk1vbDl4VTJyVUN3?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-14694e5635c7",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 00:24:20 GMT",
+      "ts": 1789863860000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害造成的遇难人数升至1436人 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjaXJBUV9sR1gxZFFiZ1ZFZmtmekF4dWFldkZCLXp1ZEo4STVOT3E4Q25xaHZIV1hBWVJ1WlZsVkViSTFkTnI4ZV9Oa1E5SlJ6cEZjQk94ektnVExPRDVyek1R?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -254,6 +242,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-5ca4f01afb4e",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 16:07:00 GMT",
+      "ts": 1789834020000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OemVDMFB6UktrS25iVEVBWnFaX05JTFZNZmx2bWJNYUxpdERnUWowQjlnTWxyTVNVYk5kRVBVSk9JUmFoSnYtVDI3RlM0N0NSZkg2dlV6XzBmajI2b3NEY1lNWTVoYzNxLU9V?oc=5",
+      "site": "中国网新闻中心",
+      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-749aed081520",
@@ -328,16 +328,28 @@
       "siteUrl": "http://news.cnnb.com.cn"
     },
     {
-      "id": "FL-26499ac85060",
+      "id": "FL-69cac693ba39",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 02:41:06 GMT",
       "ts": 1789785666000,
       "scope": "dom",
       "type": "geo",
-      "title": "新研究揭示俯冲界面粗糙度并非大地震的主控因素 - 科学网—新闻",
+      "title": "新研究揭示俯冲界面粗糙度并非大地震的主控因素 - news.sciencenet.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pWmdOYXpGSmJoTnZjMTAxMUpBNnFXT3NkUnZBREpYdmh1SnVjdThDeXA4NjE5czYtbXNGdVl5OTljMWR5MGpYZTh2YWo2S2JQeUhuRGRoX1dDa0FlYzBlTDJuWkk?oc=5",
-      "site": "科学网—新闻",
+      "site": "news.sciencenet.cn",
       "siteUrl": "https://news.sciencenet.cn"
+    },
+    {
+      "id": "FL-8ecc26d8d11e",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 21:30:29 GMT",
+      "ts": 1790026229000,
+      "scope": "dom",
+      "type": "other",
+      "title": "两部门紧急拨付2亿元支持4省做好自然灾害应急抢险救灾工作 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CQWp1d1RWTDNycDFuUmJEZUM2aVB3QXVpVGZpUTFpTTlFYzM4S3p1RVZ3Q0toRXpEc25FTzFOMDR2aU52eExSWFBCZHh5OVFSd3YzdGdLTDZfNk1kUi1STlNQd2o1TlFzVER6VUJDY3FNZw?oc=5",
+      "site": "finance.sina.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-29bf541ac468",
@@ -520,18 +532,6 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-048f3e630856",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:21:15 GMT",
-      "ts": 1789986075000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国驻尼泊尔大使馆：向尼泊尔特大泥石流洪灾学生提供“中国大使奖学金”，帮助他们更好完成学业 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhlaGlaSXRESW0wQVVhRHFtNTJqck5JMmNZc3VQMk5OdHVpcWI2YklBTmZ3a0VSZ29LdWlfRGp5UndYVGZWX1pUWkxkZ1gzQnJ6bzlzSFNMUk5JY3dIVW1uaTFVNmppaDVVWVRzV25OQWt1NlN2T29JNm4yV1luVVhSdGszMV9J?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-a74ae55491f1",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:54:45 GMT",
@@ -652,16 +652,16 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-7d2ab6c3c6b9",
+      "id": "FL-691aaee27fdd",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
-      "ts": 1789959540000,
+      "dateISO": "Mon, 21 Sep 2026 03:04:07 GMT",
+      "ts": 1789959847000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSVlNYm40X01SU1prcks5NzFnUEViMzRXYmxQb0l6MHJIVkRQRW5FLVFuUFp4a1k1bTI0UTNJamJlX1BTeFphbHgwem03bFB2a1NEazVsNlgyb0NWZTFQTjFaQ1BOemcwS0x0dWZOa3FoenFFbVJQdA?oc=5",
-      "site": "finance.sina.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVMwVC1oTzVxaGNMZnJXT09lZ0FvakphcC1kMU0yby1iNDVPaThweFByaExRRTh3NXlwSUpSTVNqaVFXU3dMc3pZTVY3TEhVM3lISGFGV2JNRzN6d2wyT1dOMXlfa0lNSnBkcHIyczhpLTJYTlVCaEd5c2tmR0NvY2lXcXZ3c2VC?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-3d424bfe72d2",
