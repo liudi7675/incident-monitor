@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T04:40:25.574Z",
+  "updated": "2026-09-21T04:56:24.717Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -49,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 30
+      "related": 27
     },
     {
       "id": "FL-f1b74b512812",
@@ -340,18 +340,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a81d31e5daa5",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 08:10:00 GMT",
-      "ts": 1789891800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆和田地区策勒县发生3.2级地震，震源深度10千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2NfU0lXX3lkRmMxdE4yUkdITjdxQkh1Ul9uSVFIVzlGTjNhRFhidWNpOTJZXzdsNlFXal96c3ZPaE1HLWFxS19TbUpIY1Y3ODdhMC1fek1sM0ZmcUNFdkl5TnRBMS1jVVhRWS0xQ2p4SkJwdFNvZnVFTFVhZUx2R0VsR0I5S1pfVDFRVTh2NWN3T1UzcjJiVFNWcEJFa2pG?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-8b48072869bf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:06:14 GMT",
@@ -374,18 +362,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcDVPS2RDaDVxeVFiT1FfdENveDAxX0JtUU9CZXJUcGh5WHpXWTI2TTRfSFpGeXc3ajg5YVFfTkVxTGRNVG9yaXdQb0RQLU0wSHdZdER0S0pwWDFiRk1vbDl4VTJyVUN3?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-00b29f9642a1",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 03:53:13 GMT",
-      "ts": 1789876393000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "村民打手电筒救起被困泥石流5人 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVERBWVA2RktyR1RDZlFQWUtSYlJqN0NmdzBBZTIzNFVzeUQ0aU5sc0FVZXpHRnBWUHp1VTlhemo1TjQ3V3E0MS1xejdQdWxVakd2NmI1Mk5XZm1iUjAyRHZKdWhpTV8xeUxPOWlRcm9fV2tod3RZMW5BUlBIVnpCb2dveUp2UkVZQl9SX09VTEowQ0VvbXI2ZVJwb3BkNXZ0ekQxQkJ4c1NvNFp4dmd3czVuN0lnY055UjBUc0tzNXVDdm1pUXp6SG5FZXRJZ3JZaFB1cUpXOEI?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-e44bfae95a64",
@@ -472,15 +448,15 @@
       "siteUrl": "https://sc.cnr.cn"
     },
     {
-      "id": "FL-5ca4f01afb4e",
+      "id": "FL-3df4184d6780",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:07:00 GMT",
       "ts": 1789834020000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 中国网新闻中心",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.china.com.cn",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OemVDMFB6UktrS25iVEVBWnFaX05JTFZNZmx2bWJNYUxpdERnUWowQjlnTWxyTVNVYk5kRVBVSk9JUmFoSnYtVDI3RlM0N0NSZkg2dlV6XzBmajI2b3NEY1lNWTVoYzNxLU9V?oc=5",
-      "site": "中国网新闻中心",
+      "site": "news.china.com.cn",
       "siteUrl": "http://news.china.com.cn"
     },
     {
@@ -592,6 +568,30 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
+      "id": "FL-0302363b1cf2",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:53:57 GMT",
+      "ts": 1789966437000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "逐鹿名古屋|台风已到东京，亚运会媒体班车停运，运动员住的邮轮怎么办 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTXJrMGlDNk5wTldWN2JjNUYwUjZBQ0ZnbU9YNjNoQmh1Q2stREVBYm1YNjZQcWg4RHdzdFp4TkFaTHdqRGtIQ2JZSFJrRnYwbVBLckJ4b2djbFhocXZhLUgxcnNhanJ1TFpSbXZya2t1aV9uSll1ZzRXMDJfaXlJUDdMOWFQSnBwZXBQTA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-04bb2aa5f00d",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:44:45 GMT",
+      "ts": 1789965885000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "苏丹一座金矿坍塌造成至少10人死亡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VllrSmtUQzVpeE9rMERkN2NYVjhnY3lzdW90cEZwUXNkZXFBLW5ObVBtaGI4WGZVVDBpV1FHUzdKVlBzSXdrRl9BOHlmUU5MOGhVaEVkWDFndGJCbG91cUJRS1BxRkx1?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-deea54fe84d3",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:00:00 GMT",
@@ -616,15 +616,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-94a9926288f1",
+      "id": "FL-7d2ab6c3c6b9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
       "ts": 1789959540000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 新浪财经",
+      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSVlNYm40X01SU1prcks5NzFnUEViMzRXYmxQb0l6MHJIVkRQRW5FLVFuUFp4a1k1bTI0UTNJamJlX1BTeFphbHgwem03bFB2a1NEazVsNlgyb0NWZTFQTjFaQ1BOemcwS0x0dWZOa3FoenFFbVJQdA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -659,9 +659,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "印尼东努沙登加拉省发生5.3级地震 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51UW5hNTN6ODhyMUpKRFFQNTJEZjZuWG1VZlJwS1dRcmFjUldSRnE4U0hZaHdtc0JWVW45cFhUQVE4aF83WXBvUFFoM3BHWjBJWGdyaFFPTGhkZkJFS1VIUjJEQWdyb2R0aHUtcDZB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb3U4Y00zb1JHQmVJbDFhN1d4VFFxTGxRVmhIMGFYdG9tVTJGdFhUblpNMEluZU9yMHdNS09QS3c4QVRzNWFLNUlCc1UwV3JjaF9hT2w4SW1LZ0J6NDgzRldtVzFJUDJVRXc?oc=5",
       "site": "紫牛新闻",
-      "siteUrl": "https://www.yangtse.com"
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-f6094f9cb429",
@@ -676,15 +676,15 @@
       "siteUrl": "https://news.chemnet.com"
     },
     {
-      "id": "FL-1c478a35797a",
+      "id": "FL-71b34d93137b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 00:15:33 GMT",
       "ts": 1789949733000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 新浪财经",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtR2RyVkVuQjloTk1SclNmQ2hOd3JpRlBTYUYtU3M0dUprYk5NbmFoU0VSbXkwQ1h1dmJwalJlTjVrRWR5bUFBRHI4NWRiSDdINmZaWXhaY3VVS05WT21lQU9FcmpsMVpzbmVlRGdEeTYzdkJDSEoweQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 4
     }
   ]
 }
