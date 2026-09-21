@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-21T13:13:14.640Z",
+  "updated": "2026-09-21T13:24:04.898Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-c2a04813577b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 17:06:14 GMT",
-      "ts": 1789578374000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
@@ -25,7 +13,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 32
+      "related": 33
     },
     {
       "id": "FL-263418d50a2b",
@@ -64,6 +52,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-256e1a2eb5b6",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
+      "ts": 1789945816000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-1cffa2fd3b9b",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:08:32 GMT",
@@ -88,27 +88,27 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-96f979608021",
+      "id": "FL-4a23ad06e7a5",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 21:05:35 GMT",
       "ts": 1789938335000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HMXNmbXZFNjBxU1Q0OUNsdktyUkNmWUFLbjFPMWtyaXgxLUhWcUgyekVqYTFCY0VRMUdCZE93WkVvWmdhM2FwN1R6cnNVV2ROTDFxS3pjVkJHdnJzYjIyblZCTWUydw?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-38d7b223010d",
+      "id": "FL-4b7461772cb2",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 19:22:11 GMT",
       "ts": 1789932131000,
       "scope": "dom",
       "type": "geo",
-      "title": "约80万立方米滑坡体倾泻而下 三道防线让群众零伤亡 - 新浪财经",
+      "title": "约80万立方米滑坡体倾泻而下 三道防线让群众零伤亡 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YbjlNNFFwUW4wQ1BzVEZtMXFmQXFMRDZsZUxObWduOW9sd3FYT3Q1bGlfLVdSV3VjQzFXTXZnVEc1ZzlpVVpLV080LUZWMFhwRnIwcW15YjRqdllrT1ZwRUpodWFmQ29EWXdITWdPNGQxR0VMSzBDZw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -131,9 +131,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-97f4ac112dc7",
@@ -196,15 +196,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-37eaf8c9fd9a",
+      "id": "FL-4667ffafc419",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:26:29 GMT",
       "ts": 1789896389000,
       "scope": "dom",
       "type": "geo",
-      "title": "昭通彝良：跑赢泥石流的23分钟 - 新华网",
+      "title": "昭通彝良：跑赢泥石流的23分钟 - yn.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDRTZlI5SWtJZEJFajkyOW00dmxmTzI2ZjV3Y2lWODJra0dNUUljZTRXNFZyLWlqQ3pPZzJtM0RGVDc4SGhUWkxwOG5zZEdoTHgtTDMzVGZJOVY5OWN1d201Sktray0xdmdEOGVzSk12QjRteVhOa050ZXhLRlA0T0hn?oc=5",
-      "site": "新华网",
+      "site": "yn.xinhuanet.com",
       "siteUrl": "http://www.yn.xinhuanet.com"
     },
     {
@@ -256,15 +256,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-31bfdff10c61",
+      "id": "FL-e44bfae95a64",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
       "ts": 1789866600000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习--国际 - world.people.com.cn",
+      "title": "墨西哥举行全国地震演习--国际 - 人民网",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
-      "site": "world.people.com.cn",
+      "site": "人民网",
       "siteUrl": "https://world.people.com.cn"
     },
     {
@@ -304,15 +304,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4a61f726f18b",
+      "id": "FL-fb76370c2157",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:18:09 GMT",
       "ts": 1789834689000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - sc.cnr.cn",
+      "title": "四川盐边县突发泥石流 2人遇难 尚有3人失联 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WM3lHMmZGSE04bHRrNW92Y3p2bTY4a1BXWGJZRjJFQ1ZYeXVPeXZySWpHQ2pXMGJjVF85MW14Sk5KZ3lEV0lxMGxmdjVLaHA5QnVSN3QxTmVFcjFsYnBkQmV2aTluaWJRNGVlNEtBakc?oc=5",
-      "site": "sc.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -424,15 +424,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-b3004a99a4b1",
+      "id": "FL-a2f7ca152931",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 13:11:49 GMT",
       "ts": 1789996309000,
       "scope": "dom",
       "type": "geo",
-      "title": "重庆大足成功预警一起滑坡灾情 提前转移2户7人 - 新浪财经",
+      "title": "重庆大足成功预警一起滑坡灾情 提前转移2户7人 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3kzWnA1OFRqSzRIN0JaWHItTmtDSk5mWW9YZjdRamQ1X1QxQVc2MF9IZTRRbC1ST09UUEI0NnYtbnplRzFuMWZUNmFwQnF4dUtFbGNxZlZ0N2hNd1NlWnlBXzNSTXpJWExyMmNFbmxVQ05ScVhYY1BxLVBBNHlHdVJOVzVyMXFJVy1JSXNncG83a1p5RTdQaA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -448,15 +448,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-9427cec59838",
+      "id": "FL-feda19facdc8",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:51:33 GMT",
       "ts": 1789995093000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新浪财经",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GODdCM1p0NElkWVJYWWhsVVJ0N3owQjg5enpZMno5WTg3dzI3SWhfZnFnMlVGYzJaczQwQjZxWnN6eVAtT1JMNG5XcHZkekJ2Wld5SEo0MWJydnVuelBaZU9DbEhpcXdRUzl2eHNLajFmMDNJSHFKSg?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -472,16 +472,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-27eacd6f8945",
+      "id": "FL-c569bb8ab8a6",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:36:45 GMT",
       "ts": 1789994205000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大主流手机接入中国地震预警网，没有苹果 - 新浪财经",
+      "title": "五大主流手机接入中国地震预警网，没有苹果 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EdzBHN3pEWWxQVVNNYW9OVkg4RzZDemJmYzBRQ0xJd1I0MmNlcUlEUy01MlRhR185RTRiQVFtaXBaRkRWb2hfOHVUbk1GYlY0MFcyTTAtdkpNM0tkb08zanBnNTNMcFBnbFFUaVozVQ?oc=5",
-      "site": "新浪财经",
+      "site": "cj.sina.cn",
       "siteUrl": "https://cj.sina.cn"
+    },
+    {
+      "id": "FL-719588fa1f5d",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 11:54:14 GMT",
+      "ts": 1789991654000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - cj.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRRzRnU3JxNlJTQ1dMREp2THhMZFRlVEhKVnhJdGVBczRoZVhpQ1F0QzJSOGhKZXVVM3ZHdklPS0JQMk5tbTV3MkJfVQ?oc=5",
+      "site": "cj.sina.cn",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-46b178d12ade",
@@ -580,15 +592,15 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-203aee13c42f",
+      "id": "FL-22ee544cd068",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:53:00 GMT",
       "ts": 1789977180000,
       "scope": "dom",
       "type": "collapse",
-      "title": "刘铭诚：黄金原油多头一夜崩塌 抄底良机还是深渊开端？ - 新浪财经",
+      "title": "刘铭诚：黄金原油多头一夜崩塌 抄底良机还是深渊开端？ - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUJXRmpTVGppZzZJY19xQm55djFEWjlwWC1ESzY5Vk93YV9MR3VRTnNxSGpWc3ZDWE01OWtiNHMzcWdGQXV0ekdBazNaSlRoa1V2bE1zTm9Oajd6WkRuaEYxTUJmVGVRbHFNY1ZEWFF4bU1jYk5TcTkzUHBWRk84RUtkSVl5SHllYUdjWUlDTzE1Zw?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -664,15 +676,15 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-94a9926288f1",
+      "id": "FL-7d2ab6c3c6b9",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:59:00 GMT",
       "ts": 1789959540000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 新浪财经",
+      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uSVlNYm40X01SU1prcks5NzFnUEViMzRXYmxQb0l6MHJIVkRQRW5FLVFuUFp4a1k1bTI0UTNJamJlX1BTeFphbHgwem03bFB2a1NEazVsNlgyb0NWZTFQTjFaQ1BOemcwS0x0dWZOa3FoenFFbVJQdA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -688,28 +700,16 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-1c478a35797a",
+      "id": "FL-71b34d93137b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 00:15:33 GMT",
       "ts": 1789949733000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - 新浪财经",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - finance.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtR2RyVkVuQjloTk1SclNmQ2hOd3JpRlBTYUYtU3M0dUprYk5NbmFoU0VSbXkwQ1h1dmJwalJlTjVrRWR5bUFBRHI4NWRiSDdINmZaWXhaY3VVS05WT21lQU9FcmpsMVpzbmVlRGdEeTYzdkJDSEoweQ?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.cn",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-577e1477d973",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "ts": 1789714800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本首都圈举行设想M8.2级地震的防灾训练 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2OExXZGNSSG5tR29nM2FzVjhGSF9qUjhrTTRyMDR6ZDNhdWNiWGhmaW5EdEVST2dEbVBnbU56R0s1RTh1bVpZZmNnVWozb0l3aWRXc3lwRQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
@@ -718,9 +718,9 @@
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
+      "title": "青岛货轮火灾致25人遇难 - 人民日报",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "paper.people.com.cn",
+      "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
       "related": 5
     }
