@@ -50,13 +50,20 @@ const CHINA_BORDER_EV_RE = /(吉隆|西藏|日喀则|樟木|普兰|亚东|霍尔
 const EV_TYPE_RE2 = /(火灾|起火|燃爆|爆炸|泥石流|土石流|山体滑坡|滑坡|崩塌|塌方|坍塌|倒塌|地面塌陷|地震|海啸|溃坝|矿难|透水|冒顶|沉船|翻船|倾覆|侧翻|踩踏|坠机|空难|山洪|洪涝|洪水|台风|龙卷风)/i;
 
 /* 重大程度判定：满足其一即"重大" */
-const NUM_DEATH_RE = [/(\d+)\s*人?(?:不幸)?遇难/.source, /(?:死亡|罹难)\s*(\d+)\s*人/.source].map(s => new RegExp(s));
-const NUM_MISSING_RE = [/(\d+)\s*人?(?:仍然)?失联/.source, /失联\s*(\d+)\s*人/.source].map(s => new RegExp(s));
+/* 伤亡数字解析：兼容「8人遇难」「遇难8人」「8人死亡」「死亡8人」「8死1伤」「致8死」等常见写法 */
+const NUM_DEATH_RE = [
+  /(\d+)\s*人?(?:不幸)?遇难/.source,
+  /遇难[^0-9]{0,6}(\d+)/.source,
+  /(\d+)\s*人死亡/.source,
+  /(?:死亡|罹难)\s*(\d+)\s*人/.source,
+  /(\d+)\s*死(?:\d+\s*伤)?/.source,
+].map(s => new RegExp(s));
+const NUM_MISSING_RE = [/(\d+)\s*人?(?:仍然)?失联/.source, /失联\s*(\d+)\s*人/.source, /(\d+)\s*人失踪/.source, /失踪\s*(\d+)\s*人/.source].map(s => new RegExp(s));
 const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故|生产安全事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示)/i;
 const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺牲|殉职|受伤|重伤)/i;
 
 /* 评论/非事件类排除 */
-const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|追问|之问|如何看|为何|说明了什么)/i;
+const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|记者走进|追问|之问|如何看|为何|说明了什么)/i;
 /* 非事件活动类排除（演练/科普/预警/直播/会议等——无伤亡数字时适用） */
 const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
 
@@ -234,7 +241,10 @@ async function main() {
     if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) continue; // 国外事件
     if (!EV_TYPE_RE2.test(it.title) && !GEO_DISASTER_RE.test(it.title)) continue; // 必须是事故/灾害
     const { major, deaths, missing } = isMajor(it.title);
-    if (!major) continue;                                     // 重大程度不够
+    if (!major) {
+      console.log(`[skip] 未达重大判定(${deaths}亡${missing}失联): ${it.title.slice(0, 45)}`); // 留痕便于排查漏判
+      continue;                                                 // 重大程度不够
+    }
     if (deaths === 0 && missing === 0 && NON_EVENT_RE.test(it.title)) continue; // 无伤亡的演练/预警/活动类
     candidates.push({ ...it, deaths, missing, key: titleKey(it.title), id: 'PT-' + hash(titleKey(it.title)) });
   }
