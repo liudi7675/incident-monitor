@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T17:39:41.229Z",
+  "updated": "2026-09-22T18:13:59.602Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-b2d13116c5ba",
+      "id": "FL-7a9df62960ac",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -63,28 +63,40 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-7e25dd729e0b",
+      "id": "FL-4760d688575f",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 13:22:40 GMT",
       "ts": 1790083360000,
       "scope": "dom",
       "type": "geo",
-      "title": "山体滑坡，“00后”网格员龚宝冬选择逆行……他的事迹被写进了故事里 - 搜狐网",
+      "title": "山体滑坡，“00后”网格员龚宝冬选择逆行……他的事迹被写进了故事里 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHdjVG4tUGFGNkJlcTBraEVGa2lGaGZ5YWxQaFB6enA5M1Z4TmpEclB3bTdKVmR4clpWZzUwRURyZmxjd2lxeDE4WFFNNkxjWDFkcXVlQl9SVkFMQ3luMVpXcXhkRldZSFhwUTU3b3hqcU9rZVFMVk5YOTJ4dXMzN19ZOFZmWTlRLVNhdQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-2a6b7cf37604",
+      "id": "FL-d85771fce4d8",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:56:00 GMT",
       "ts": 1790081760000,
       "scope": "dom",
       "type": "geo",
-      "title": "记者帮｜广州番禺一吊臂车吊装时地面塌陷侧倒：压着轿车、倒向板房，多日仍保持原状 - 搜狐网",
+      "title": "记者帮｜广州番禺一吊臂车吊装时地面塌陷侧倒：压着轿车、倒向板房，多日仍保持原状 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU0wNWRtN0hveGJKLWJBSmdnZ1c5MlpxbUlPTl9ydnZXN1oyS3pTTlBhb04wZGd1QWJMVTZ0SWVDWkJWWVdyclFVMkhQNHBKTXdhX0otaTMtenBlcm13cmU5akRiSW5sUDlCTUtMQTM0TjV4V0taN0t2Z0h6bmJLeXVIdGE4OGxaMkxWTg?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e93db8ce6fde",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 12:53:37 GMT",
+      "ts": 1790081617000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "山体滑坡，“00后”网格员龚宝冬选择逆行……他的事迹被写进了故事里 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54Y19MeWd3OU5EY1V6MFR2bjMya2JJUkNWRzZTVXlaU0Q0TndFejF0cUNlNU1QY0R5M1RteGdISVE1Uzl4dUF2bDNVeUVXMW84YlVXOGp6NldTeUxwVXFQbmlB?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-fac17fa11be9",
@@ -171,15 +183,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-42640740d135",
+      "id": "FL-865d7d4611a5",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:24:47 GMT",
       "ts": 1790058287000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 搜狐网",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3hBSGJVSWIwNzNQWThPaWdZSDBOd3RQRmZWNElVdFVLVTMxVGIzeFZkX1k0bWVWcWZrbkFJVDhUYmZoalBjYTF4RThKRXFjOUQ2cFJ4SjVxZ0lyRjNNNGN0Z0xqMHkyblF2OUhIYThqRnRxc2w5X1R5VGV5b25ucG9hcTdWcHZqU0F0Yg?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -195,15 +207,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-7f6f9d59de0e",
+      "id": "FL-9a29f8c18111",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:09:41 GMT",
       "ts": 1790057381000,
       "scope": "dom",
       "type": "geo",
-      "title": "华为、vivo、OPPO、小米、荣耀，接入中国地震预警网，免费提供权威地震预警服务 - 搜狐网",
+      "title": "华为、vivo、OPPO、小米、荣耀，接入中国地震预警网，免费提供权威地震预警服务 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlBpUS1sOE1iUGx1UGQyd3ByU2l5S2VwcE1pNWw1MFB5ZGliTG9SWko4RW81bXJKNVQ2RVA5d1N4NVNKVmJHbmtyS01lV0ZOcEt2UHBGV0VCUFoyUnBTT0FTU21KX2VKbnNOeFNUcmRuOFhQNWtNQ01kaUJCc0djYUROYm1Wa3p3?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -303,18 +315,6 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-04b94cad4539",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:35:00 GMT",
-      "ts": 1790048100000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "四十岁老登砍《魔兽》又火了！暴雪屡试不爽：真乃青春传奇 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0taDByTS1RWEJORG94SlY0dUE5ZHhGQU9xMURqZEhIdFdvV2VwQ3B6d2xySzVjRS01dVZpcENhb1lRRzZSRzhxZ1MzLVcwXzZWM1lUSkpjTlg?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-c14f6c117531",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:22:00 GMT",
@@ -388,15 +388,15 @@
       "related": 42
     },
     {
-      "id": "FL-1f7af99aaf44",
+      "id": "FL-b1e667d4d15c",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
       "ts": 1789644780000,
-      "scope": "intl",
+      "scope": "dom",
       "type": "geo",
-      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 驻澳大利亚大使馆",
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - au.china-embassy.gov.cn",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
-      "site": "驻澳大利亚大使馆",
+      "site": "au.china-embassy.gov.cn",
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
@@ -422,18 +422,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-256e1a2eb5b6",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
-      "ts": 1789945816000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
     },
     {
       "id": "FL-8ca0646de89e",
@@ -467,9 +455,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -496,6 +484,18 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
+      "id": "FL-dcb49716ce15",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
+      "ts": 1789900405000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-ad823457314f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
@@ -508,15 +508,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-024e35eff45d",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "news.tongji.edu.cn",
+      "site": "同济大学新闻网",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -568,15 +568,15 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-d7939e987363",
+      "id": "FL-d3243b50a9de",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
       "ts": 1789854743000,
       "scope": "intl",
       "type": "geo",
-      "title": "墨西哥举行全国地震演习 - 新华网",
+      "title": "墨西哥举行全国地震演习 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 7
     }
   ]
 }
