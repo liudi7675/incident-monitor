@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T21:10:11.368Z",
+  "updated": "2026-09-22T21:39:41.230Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -61,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ0RvTnpkak5kSmZwOE5mUDgyaGJMY3Zmck5XLTMyLWJvdTI2ZUU1b0RPaDMybzV5RTZNY3VSSVJvd2E0M29WNEZlM0pERHFHYjlUaV9aR1hqeGRlLUhaWkduMmlxUm9yanJ3LW9FU2ZGdUpuOFo1ZA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-bca07cac9877",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 15:16:45 GMT",
-      "ts": 1790090205000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "月饼暴利时代彻底结束了吗 高端礼品需求坍塌 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVERJVE1tM2JOT1RMb0FPRWtSN3BDLU5YNkNla0t5NmQ5VlZHWjdZMklIampqS1E0VENQUjBuU01ocjZ2SG1YQXhrSUFlR21SbzIxU2J5cFVJTENPZHFqRHJQemx6eUZ5SHViSkg3czY?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-7ba5864de304",
@@ -155,6 +143,18 @@
       "type": "geo",
       "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWkpXSHJhZUZvQlotN1JuV3JlS2FuRWhUSlFkOWZhWE1TekYyNXRSY1lPQk1kZ1BuUHBXMmxVQmI0bVFKdlNsbjRMNjJfSHc1QktRUV9MUQ?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-5976a7770063",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 09:27:24 GMT",
+      "ts": 1790069244000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "快讯：台风“杜鹃”死亡人数增至6人 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acm5UWk02SkJYZncwQ0FzU3M5Y25WLWtfd1VBRVF2OVhmcjFPQXp6UVhXQkM0UjdiMTJqd202RVYwcHdkMzZGOFIwOHo1blM3aUxwN3RsNA?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
@@ -267,15 +267,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-d8e980f426e2",
+      "id": "FL-30888a669540",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:28:19 GMT",
       "ts": 1790054899000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经",
+      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMmJhdjRBMW5kajFJQWVvX0JzLURYWVM5M1YtUkVfaWhPRlM1dG1faENJU05xaDJSazN3bFVXeUFITG5GSjNlbUlFTzZjSGM?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 7
     }
   ]
 }
