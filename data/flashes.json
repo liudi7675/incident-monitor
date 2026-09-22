@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:11:24.044Z",
+  "updated": "2026-09-22T07:40:40.466Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,15 +111,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-274d0fc58f68",
+      "id": "FL-60e764573c85",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:07:30 GMT",
       "ts": 1790053650000,
       "scope": "dom",
       "type": "geo",
-      "title": "花旗CEO范洁恩警示AI网络攻击风险 称防御修补将如海啸般汹涌而至 - 观点网",
+      "title": "花旗CEO范洁恩警示AI网络攻击风险 称防御修补将如海啸般汹涌而至 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XbUJDS2VjR2pwNVktNU1PTjFkZGFFbzhHQWMzVlNMSlZaRUtMU1VpSEVrclpUZHdpZGdjLVh0a0ItUVpMakNDME1pdXgyaUtlN1VCekc5WmNFaHJFNjRpTDNB?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-565a91bca899",
+      "id": "FL-003a49f7098c",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 01:41:50 GMT",
       "ts": 1790041310000,
       "scope": "dom",
       "type": "geo",
-      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - 观点网",
+      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRU41Y0NqZ29UN19UZ1N0bUNwUVphNnVQcHA0c1JQNlkwd2VhazZTT3dZbnVaTFdOYjZDRVZLWkZDMndZSTdJTDZkNGk1LUJ5N0lTM0lMTG1ZYXBPaFZnWnJR?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -268,6 +268,18 @@
       "related": 37
     },
     {
+      "id": "FL-ec0d2255786c",
+      "date": "2026-09-15",
+      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
+      "ts": 1789487057000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-d6feb3148f89",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
@@ -290,18 +302,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-f1b74b512812",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
-      "ts": 1789649759000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-263418d50a2b",
@@ -352,6 +352,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-256e1a2eb5b6",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
+      "ts": 1789945816000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-8ca0646de89e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:00 GMT",
@@ -383,9 +395,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-4f9f1505eb12",
@@ -424,15 +436,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-7a2418bc035f",
+      "id": "FL-ad823457314f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
       "ts": 1789895820000,
       "scope": "intl",
       "type": "geo",
-      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - cls.cn",
+      "title": "财联社9月20日电，中国地震台网自动测定：09月20日17时17分在巴布亚新几内亚附近（南纬5.71度，东经146.17度）发生6.2级左右地震，最终结果以正式速报为准。 - 财联社",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDandsazh2aGlMY0Z0NnhVdm5MUFE3dElwV3Z6NEhMbHg1Tml1d2NfOTBsQkw3R29kZ2ZYWUd0WDdqTVJiM2c?oc=5",
-      "site": "cls.cn",
+      "site": "财联社",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -460,15 +472,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -508,6 +520,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-edc3e885c5e7",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 22:55:18 GMT",
+      "ts": 1790031318000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，河北、山西、江西、福建、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbk95cEV1RF9JTUxDeTNJaU0wNjdHeExPVnFzZ1BpOXZ2TWU2cWNrQXAwa1hobVlpbXo3b3FTaktObHFyYmo3TVc0Yl9DNS1qcDRIM29zWkxPbmVMbVNSMlBCLUlvVGpLX2k4eDBDQVF1YktkOFZPT2RVUVFhX1hIZ3prU3ItNGFvS3g0eXZQRUM2c21ZS2I5bkItRG1vbzZObWpOWjgtVTJBSkkyc3JaVXpGdFB4WS0tS0NSRWRtWGs0VkFINzk1S0dUMFc5TkN1SWpEZVcxTTM?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
       "id": "FL-7281b7ef0787",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 22:50:07 GMT",
@@ -530,18 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91RGNUdS1CbHVKeENJaGNQSXhTWGZzSDlhWEMxdHdUQnRXZjRxYUt6bndmYjBiVXZZX2gxZ0pva25MRGhTR2diRlBVNVlCdTFkMm1yRVpzaEQ?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-edc3e885c5e7",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 22:40:39 GMT",
-      "ts": 1790030439000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，河北、山西、江西、福建、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdDZhcWN5VktnV1FpeFQ2cm9PS19WczFHWnpOelJOcGYwNnlxQXA3c05wUEx5VlU5dk5aZEZMRExmNi1hWW5JazVmVFRuemFDSGg5Y3N3RWVoeTlsa2xKZzhERW1QaWlhRTA1WHhGQXBOWjZRbkhodUxaS0dQLWY0UkxURk9JRG4tY3RCamkxQnp4eDNFSkxhcUNJMlBZbFl1aDRQazVFcnNVWXFyYXlFWUJkR3BkN2NZRDNveVdobERRTlF6bHFDSmF2VEFVWkxvV0UwQU4yNA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-0974e07d8b21",
@@ -640,15 +652,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f82acf8846a1",
+      "id": "FL-31b26a23ab76",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
       "ts": 1789986840000,
       "scope": "dom",
       "type": "other",
-      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - 川观新闻",
+      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-577e1477d973",
-      "date": "2026-09-18",
-      "dateISO": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "ts": 1789714800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本首都圈举行设想M8.2级地震的防灾训练 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2OExXZGNSSG5tR29nM2FzVjhGSF9qUjhrTTRyMDR6ZDNhdWNiWGhmaW5EdEVST2dEbVBnbU56R0s1RTh1bVpZZmNnVWozb0l3aWRXc3lwRQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
