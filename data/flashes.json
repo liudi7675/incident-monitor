@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T04:11:18.280Z",
+  "updated": "2026-09-22T04:40:30.433Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-2957aff91b0a",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 03:52:31 GMT",
+      "ts": 1790049151000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃已致日本4人死亡6人失踪 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaEZ5aE80RTlzOFdYeGpuU2RLTVBWdFc5MVdlejMweXNNLTNuTXByaUVza2RGd1BZcXBMZENjSGktSkxuWU90TE5UUENHOE5LUWtiRjRqRHBiQjdiRW05VmhRS20yRXh6NXV1NjFfUzgtYXJabFJsamFHQWlyZko1c1RKQnY1NkFFUXNMcA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-f638ba2e5cf7",
@@ -111,18 +123,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-c66f07c037e1",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 01:53:05 GMT",
-      "ts": 1790041985000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "日本17米鲸尸现红色鼓包，或随时爆炸 台风影响移除作业 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YSzAyak5NNlVtbGJhcHJvVkdVRjhjcU1QUW1hR0NnQ1oweXVJeVNNVFJtcWp3UWFtTXo5X2V2VHRiT1VrLWJLY0dsWnB1UDJxWS1qYlhRY2NDT0pBbkJudTVjLUFUYUkwejgwQVpMRHY?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-565a91bca899",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 01:41:50 GMT",
@@ -135,18 +135,6 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-7510757e4d62",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 01:09:24 GMT",
-      "ts": 1790039364000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，河北、山西、江西、福建、四川、重庆、贵州、云南、广西、广东、海南岛等地有短时强降水 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREQ0RVMtdzlET3NpTlVTYTR5WFRkZDVLMW53a1FLR3FXb3R1T3R6OWRreTVqdkJNcmdCWkR0RDdjdkJvejRobVZ3cGZHTllLYXpwdkE2dUV3cDRjeGNHem5NVHNtUDVheThEaWc2Z2xYc3JON1l3SzJuRmlNUGFsbkRpVU9UYnh3LUozVw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-7f206c7115d8",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 00:57:32 GMT",
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85N0lkUFNOQWVlR1RKSkQ1TURRU2YyV2d3enZodEZXM2tXeFJMcEd0RjBnckQtSklhOExrRElIS2NhUmo1bGhVVlB1Z25IandEeVJ2T1hWQ0tqaFlmS1E?oc=5",
       "site": "财新",
       "siteUrl": "https://mini.caixin.com"
+    },
+    {
+      "id": "FL-49e094bd28ae",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 00:27:00 GMT",
+      "ts": 1790036820000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "五大国产主流手机全部接入中国地震预警网 - QQ News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UUHl4bVlkWnNUWGhWNlNxMDhtckpMWWJzQi1nQVZiVEpZRjIzTWJPVW9wVng3NmsyNEMxNk1nVkdWVGFmSDUzR240cmJQWEFUOGlweWk0WQ?oc=5",
+      "site": "QQ News",
+      "siteUrl": "https://view.inews.qq.com"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -280,6 +280,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-256e1a2eb5b6",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
+      "ts": 1789945816000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-2ae82370baf8",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:21:25 GMT",
@@ -292,16 +304,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-366a7437ee91",
+      "id": "FL-11fb917c8127",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "cnr.cn",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-4f9f1505eb12",
@@ -412,15 +424,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b7351918debc",
+      "id": "FL-a8e7c058763e",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 16:49:00 GMT",
       "ts": 1789836540000,
       "scope": "intl",
       "type": "geo",
-      "title": "印度塔塔集团内部大地震！最大股东与董事会几乎反目 - 财联社",
+      "title": "印度塔塔集团内部大地震！最大股东与董事会几乎反目 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuSG1rZnRoMjIxWDVmNVo0a2FxdkdPWVF4MGIycUN0el9LdW5qdnNCWWU4eFRRSkxoaXB6ZDFzS1lGSmJaQkE?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://m.cls.cn"
     },
     {
@@ -542,18 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GODdCM1p0NElkWVJYWWhsVVJ0N3owQjg5enpZMno5WTg3dzI3SWhfZnFnMlVGYzJaczQwQjZxWnN6eVAtT1JMNG5XcHZkekJ2Wld5SEo0MWJydnVuelBaZU9DbEhpcXdRUzl2eHNLajFmMDNJSHFKSg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-cf571f2a2814",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 12:34:00 GMT",
-      "ts": 1789994040000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "华为、vivo、OPPO、小米、荣耀五大国产主流手机全部接入中国地震预警网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8teHUwbDhuNFQzd3dsY19yRmd1TUk2RzZHS2FMTFpuaGRZcmtHQzVtcEhQQUVzLVNhNm9wUHRUeDFOdWFxbXRQMlBUSzFjeERkR0dLdlhybXdGMGlMNEtNWnVKaTFqWXVHYjNnUTZhSFlQelpVMWc?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-f79512220847",
