@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:39:42.823Z",
+  "updated": "2026-09-22T02:11:27.405Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-c66f07c037e1",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 01:53:05 GMT",
+      "ts": 1790041985000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "日本17米鲸尸现红色鼓包，或随时爆炸 台风影响移除作业 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YSzAyak5NNlVtbGJhcHJvVkdVRjhjcU1QUW1hR0NnQ1oweXVJeVNNVFJtcWp3UWFtTXo5X2V2VHRiT1VrLWJLY0dsWnB1UDJxWS1qYlhRY2NDT0pBbkJudTVjLUFUYUkwejgwQVpMRHY?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-565a91bca899",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 01:41:50 GMT",
+      "ts": 1790041310000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRU41Y0NqZ29UN19UZ1N0bUNwUVphNnVQcHA0c1JQNlkwd2VhazZTT3dZbnVaTFdOYjZDRVZLWkZDMndZSTdJTDZkNGk1LUJ5N0lTM0lMTG1ZYXBPaFZnWnJR?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
     },
     {
       "id": "FL-7f206c7115d8",
@@ -268,15 +292,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -340,30 +364,6 @@
       "siteUrl": "https://www.hi.chinanews.com.cn"
     },
     {
-      "id": "FL-f49296c4ab56",
-      "date": "2026-08-31",
-      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
-      "ts": 1788137252000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "习近平外交思想和新时代中国外交",
-      "siteUrl": "https://cn.chinadiplomacy.org.cn"
-    },
-    {
-      "id": "FL-8f672a821451",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 23:17:46 GMT",
-      "ts": 1790032666000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmg5NEtYU2pHUTdrUEhjNDd5NmVBbnNmaTlKTE1SOGRUdGZCOFhCZU15Zm5tNVotbWg4SUk1a3h5aXFrZFNvUEdFNHY2cGptY01VeGhWT3JHTFk2a05iNmRSV29qd2NFV3BCQ1ZmeFRXZTBUR0JkMUR5TFZMUGhLcnJMQkZSUQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-c717b13a7494",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 23:12:50 GMT",
@@ -374,6 +374,18 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxeDdXUFBiV3RmOGoteTg4Smt4M3dXdENOLTJ0dHBCeXZlbzlpVHY4UG1pZHZjTnBPdFRWT1AwZjVZTEg0N2RVMGhpNks5Vk1Vb2J2eW4wQm50MFNfWlJxQmtkWk0tN0hwRGhyS2k1dmpkUDJJV0tKSHZnVzdZUQ?oc=5",
       "site": "8world",
       "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-7281b7ef0787",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 22:50:07 GMT",
+      "ts": 1790031007000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "受台风影响 日本关东地区发生山体滑坡已致2死4失联 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tTGpUd1Q5aTRsOExKWmZ6Zmd0VE5fYS1EM0ZjeXFOMnVuX1pSRmRHdng2T0t6d2Z2Y0pOQ0hyazNEdDdSQTBnV2REakl3eFZoc2pEcTZhVzU2NXVKT2tSbS1QNW9mWEFQ?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-0ed7224acdce",
@@ -520,6 +532,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-98905528a23e",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
+      "ts": 1789990514000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-b5126fb5d2c7",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:46:01 GMT",
@@ -616,18 +640,6 @@
       "siteUrl": "https://m.gmw.cn"
     },
     {
-      "id": "FL-6c03766f36be",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 05:03:00 GMT",
-      "ts": 1789966980000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "千亿帝国崩塌：均和集团与何旗的兴衰录 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYTWZHaDVOU1ZKSzFHWWRGOC1kQlBkcGRPQ1lORnJmWE01c25RQjdRQ0lRV2JIbFRReGNsVEN0R1hsa05CT1Zaa1F1TGRKWlltVlNzZEZMUm1ZQ2lCR2x0S2syNFJUdFp4dk1idjJneEQzYk5nMFFOaA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-04bb2aa5f00d",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:44:45 GMT",
@@ -662,18 +674,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEctWDJiY0NqdlFwdnhKcHl0eUVnZVdaU0ptQUNDQXpaX2Rhamc4aGFmLVhwaEkwTXktY1VpRFI2UUtfTHlKV0JpVUJYREF2Q3VaRU56TC1FWTVwV2MyUWw4ZTdIbVBJN1FRV0ZRWFdUWDFYNmwzc0pNVEctdlhZV3AzMA?oc=5",
       "site": "xj.chinanews.com.cn",
       "siteUrl": "http://www.xj.chinanews.com.cn"
-    },
-    {
-      "id": "FL-424ce0cceb75",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
-      "ts": 1789957907000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定：09月21日10时23分在西藏那曲市班戈县（北纬31.83度，东经89.18度）发生3.0级地震，震源深度10千米。 - jrj.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiclEyT09SbFN0aC0tRzlxVjZncjBTaHdZSzdvOFBuR29zaVVNcnJ0Ym03YXR0Qml1UGxhZ1ZEUXZJempITFBDNzAzekphTHRXQnU4RVZYaFVJckt4dTRhUWhLOWZuYmpEdEhWQmlvQQ?oc=5",
-      "site": "jrj.com.cn",
-      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-523d5713c7c0",
