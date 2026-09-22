@@ -1,18 +1,42 @@
 {
-  "updated": "2026-09-22T10:12:43.735Z",
+  "updated": "2026-09-22T10:41:04.743Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-674383638b4c",
+      "id": "FL-b230488a052b",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-d2bf92d5e638",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 10:18:00 GMT",
+      "ts": 1790072280000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "以练筑防 安全护航——建行贵电支行开展地震应急疏散实战演练 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekRqUTlsZ0IzRms1R1d5WklOTHRSaHR4TlRxMW16MU9iV0l2NXdEWHJDTWd4WDZCaHJvenQ4YXJzQmFsUE9NRVEzREhIWm9IUUUzaEZlaTRCVUhDZ3NuRXd2cFk4TnNJM2FVWFE1Zmc2TXZCZEFCMFNTa0RZMS0zdUotaFVzWmhXQVoyWTRhanNYVFZtUms2dl84MnZqMDFrSVhlVW9VZ181a2Z3MXd0NVAxQ3lJRVpTeVc5Y1BzZDhGMkNmUTJXWENPd3VNZw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://jx.sina.com.cn"
+    },
+    {
+      "id": "FL-f0a458c6b7e1",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 10:15:00 GMT",
+      "ts": 1790072100000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWkpXSHJhZUZvQlotN1JuV3JlS2FuRWhUSlFkOWZhWE1TekYyNXRSY1lPQk1kZ1BuUHBXMmxVQmI0bVFKdlNsbjRMNjJfSHc1QktRUV9MUQ?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-5976a7770063",
@@ -147,15 +171,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-23d1159ef14a",
+      "id": "FL-b80a3f7c1b13",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:56:38 GMT",
       "ts": 1790056598000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本两县四死六失踪 - 联合早报",
+      "title": "台风“杜鹃”致日本两县四死六失踪 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YVpoSGxiUDdfa3NDWFBmQnNCbFUyYU8wRlFLN3I3eEJhZWxVUGgwa2IxdnJhdDI3SFQ5ei1JcldPbkZ4TE8xNlJha1pCaV9XQ1djWlpDYTlITVhGaVNuNTJuYUdIU194UWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -207,6 +231,18 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
+      "id": "FL-5cfe910cf939",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 04:11:00 GMT",
+      "ts": 1790050260000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "快讯：台风“杜鹃”导致日本两县共4人死亡 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtdklHSG04Y19IVkNpeUkzUXAxc0xFeng3VnVwczVqck84VklhRXhLd21DdXBreVhMbHBOdUt3RDl3QVlscHRqVEx3SEtENVE1SmpiNEktQQ?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
       "id": "FL-2957aff91b0a",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:47:00 GMT",
@@ -231,15 +267,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-f3584ae26f62",
+      "id": "FL-cea9430923ef",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:38:00 GMT",
       "ts": 1790048280000,
       "scope": "dom",
       "type": "geo",
-      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - epochtimes.com",
+      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvLTIta2pOVnVoTWVwaG1jcWhpc09sMTM4WjJwS0pJRmVuenlMTmdJTlBFRlZiMEJpdkcya3RmZjREY0hYYjRTbDI3UU84bVVieWxLY2NGTHBaWGw3MWU4b9IBZkFVX3lxTE55T3M5R3dTZGRId0w2Z0FzWlJBSFlIMFQ1Q1N5OTJwLUtTNnBJd3A1UVNNWWZVVUM2MGlFMDVPSDlHWjJ3a2F6NjlQMGxJLUxfSFpSTmU3UzFQbWZuWC1CWGVySC1jQQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -315,15 +351,15 @@
       "siteUrl": "https://mini.caixin.com"
     },
     {
-      "id": "FL-27dcfa7f32e9",
+      "id": "FL-b866449fff83",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 00:27:00 GMT",
       "ts": 1790036820000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产主流手机全部接入中国地震预警网 - 腾讯新闻",
+      "title": "五大国产主流手机全部接入中国地震预警网 - view.inews.qq.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UUHl4bVlkWnNUWGhWNlNxMDhtckpMWWJzQi1nQVZiVEpZRjIzTWJPVW9wVng3NmsyNEMxNk1nVkdWVGFmSDUzR240cmJQWEFUOGlweWk0WQ?oc=5",
-      "site": "腾讯新闻",
+      "site": "view.inews.qq.com",
       "siteUrl": "https://view.inews.qq.com"
     },
     {
@@ -340,30 +376,6 @@
       "related": 41
     },
     {
-      "id": "FL-ec0d2255786c",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
-      "ts": 1789487057000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-a2237798f821",
-      "date": "2026-08-20",
-      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
-      "ts": 1787209200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
-    },
-    {
       "id": "FL-263418d50a2b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:20:00 GMT",
@@ -376,27 +388,27 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-89d6589d1504",
+      "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-861987facab4",
+      "id": "FL-fc0e498bdf07",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -436,27 +448,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-366a7437ee91",
+      "id": "FL-11fb917c8127",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-6f1208e0cccf",
+      "id": "FL-4070bae74ea0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:22:16 GMT",
       "ts": 1789910536000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 联合早报",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWEVFeG0zSF80d2loUW9wOTg5RmRrazBrWUtzMkl1T3c0c2dxMHRFRUVsaEdQNjZLNEl6TmhuNllySm5IYmhtMTRZbDA1c1NKaVlORW1CLTdaNVVKcUoycUVyMGU1SDMxdWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -508,15 +520,15 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
+      "id": "FL-5cdc73c89685",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -556,15 +568,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-749aed081520",
+      "id": "FL-7eef43295216",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "央广网",
+      "site": "news.cnr.cn",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -604,15 +616,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-45865dec2b49",
+      "id": "FL-267105404506",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:07:21 GMT",
       "ts": 1789999641000,
       "scope": "dom",
       "type": "geo",
-      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - 联合早报",
+      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -664,18 +676,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f82acf8846a1",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
-      "ts": 1789986840000,
-      "scope": "dom",
-      "type": "other",
-      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
       "id": "FL-9789fc090d23",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:00:27 GMT",
@@ -700,15 +700,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-e8a32a183e42",
+      "id": "FL-3c635363150e",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
