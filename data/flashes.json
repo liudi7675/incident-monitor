@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:43:59.023Z",
+  "updated": "2026-09-22T01:09:47.862Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-7f206c7115d8",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 00:56:55 GMT",
+      "ts": 1790038615000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "五大国产主流手机全部接入中国地震预警网 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85N0lkUFNOQWVlR1RKSkQ1TURRU2YyV2d3enZodEZXM2tXeFJMcEd0RjBnckQtSklhOExrRElIS2NhUmo1bGhVVlB1Z25IandEeVJ2T1hWQ0tqaFlmS1E?oc=5",
+      "site": "财新",
+      "siteUrl": "https://mini.caixin.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
@@ -37,7 +49,19 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 44
+      "related": 45
+    },
+    {
+      "id": "FL-41662fba499f",
+      "date": "2026-08-11",
+      "dateISO": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "ts": 1786431600000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "专家谈哥伦比亚地震与委内瑞拉地震区别 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sdW96N0dZbW91NkZsTU1pc1F1SEJHSFBUREhwQ0RIVnNGdFBXWXVNZHRZNll0SzdmdjNyand0MDQ4MnJNak8zOXNwSmtUaGZvYUhkYVFsVmdtWThLdzBGd1ZLdzk2ckZZNjNYWjFtMFRxVnNXOHZJXzdpSm81d00?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-d6feb3148f89",
@@ -64,15 +88,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-f1b74b512812",
+      "id": "FL-4f00564de371",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -136,18 +160,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0e4312af82e0",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
-      "ts": 1789945816000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.hsw.cn",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "news.hsw.cn",
-      "siteUrl": "https://news.hsw.cn"
-    },
-    {
       "id": "FL-2ae82370baf8",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:21:25 GMT",
@@ -160,16 +172,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b30dc2c29d68",
+      "id": "FL-11fb917c8127",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
-      "site": "news.cnr.cn",
-      "siteUrl": "https://news.cnr.cn"
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-4f9f1505eb12",
@@ -218,6 +230,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tcDVPS2RDaDVxeVFiT1FfdENveDAxX0JtUU9CZXJUcGh5WHpXWTI2TTRfSFpGeXc3ajg5YVFfTkVxTGRNVG9yaXdQb0RQLU0wSHdZdER0S0pwWDFiRk1vbDl4VTJyVUN3?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-d7ef30028095",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
+      "ts": 1789870320000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2llRGpTa0pjWVN3eDNFREE0dGdPbDJYY0pMOWVDNXV0X3RtWmZGbEtDQjNvMXNYdEQ1OW5iYjR4VlNtRm02Z2ZKZk9iY0ZuX0dGZmlMWUc?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -316,16 +340,16 @@
       "siteUrl": "https://www.hi.chinanews.com.cn"
     },
     {
-      "id": "FL-f0ee7768c9f2",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 02:49:00 GMT",
-      "ts": 1789786140000,
-      "scope": "dom",
+      "id": "FL-f49296c4ab56",
+      "date": "2026-08-31",
+      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
+      "ts": 1788137252000,
+      "scope": "intl",
       "type": "geo",
-      "title": "四川盐边县突发泥石流，已致5人失联 - 中国宁波网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13a2NJOUY4SlJhNTdNQ0F4aHRiRFlNMENCUF9JeUZwZDFTU3p2T1ZKemRLdVdibVdqRlUtYUwxSkpjSW90TjVsT1FsRUZiQnhKQzl4WW9MTU84cFlNOHJ1NldGYVlQZzlL?oc=5",
-      "site": "中国宁波网",
-      "siteUrl": "http://news.cnnb.com.cn"
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
+      "site": "习近平外交思想和新时代中国外交",
+      "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
       "id": "FL-8f672a821451",
@@ -376,13 +400,13 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-29bf541ac468",
+      "id": "FL-ef99008d3f26",
       "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 18:57:49 GMT",
-      "ts": 1790017069000,
+      "dateISO": "Mon, 21 Sep 2026 19:07:12 GMT",
+      "ts": 1790017632000,
       "scope": "intl",
       "type": "weather",
-      "title": "强台风袭击日本 关东多地致2人死亡4人失踪 - jpchinapress.com",
+      "title": "强台风袭击日本关东多地 致2人死亡4人失踪 - jpchinapress.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzhPeExaWXNUbm1sb1ZjZm5BZzJxN2tNOTdsbzZPZy1xMHZTTXQ3VFltSE96b3M3S0paWjQ5a0wzX3NGZzBvWUt6Vm1tM1FDNjg3QUZRX3lETzRNZTBLaTVqZ0k4ZlZiUnE0Q1JGSXN5U05NWHQ4RGFFUW1uUjc4c0ltUWlIbl9ORGc?oc=5",
       "site": "jpchinapress.com",
       "siteUrl": "https://www.jpchinapress.com"
@@ -460,13 +484,13 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-830ef72a206b",
+      "id": "FL-95d4cd36206c",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:45:00 GMT",
       "ts": 1789994700000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东北部一金矿坍塌，至少11人死亡 - 搜狐网",
+      "title": "原创 苏丹东北部一金矿坍塌，至少11人死亡 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzlSTVZvaVZoWHdtOVRHdEJwZkNuWld5a0wxbXpvZE5jMTViS09HV2FaZ0tOTTViTUNZZDl5U081eHdCeWdqelNXQzU1dGZQM2M5Y0dYSHdqY0JYcVpLRXc3dFlMV0ZfLUdFRm54N0Y2UVN6amIwc3lRNzdDOS1KTk5iNHVuZzhk?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
@@ -640,18 +664,6 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-691aaee27fdd",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 03:04:07 GMT",
-      "ts": 1789959847000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海海南州兴海县发生3.2级地震，震源深度10千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVMwVC1oTzVxaGNMZnJXT09lZ0FvakphcC1kMU0yby1iNDVPaThweFByaExRRTh3NXlwSUpSTVNqaVFXU3dMc3pZTVY3TEhVM3lISGFGV2JNRzN6d2wyT1dOMXlfa0lNSnBkcHIyczhpLTJYTlVCaEd5c2tmR0NvY2lXcXZ3c2VC?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-3d424bfe72d2",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
@@ -662,18 +674,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiclEyT09SbFN0aC0tRzlxVjZncjBTaHdZSzdvOFBuR29zaVVNcnJ0Ym03YXR0Qml1UGxhZ1ZEUXZJempITFBDNzAzekphTHRXQnU4RVZYaFVJckt4dTRhUWhLOWZuYmpEdEhWQmlvQQ?oc=5",
       "site": "金融界",
       "siteUrl": "https://m.jrj.com.cn"
-    },
-    {
-      "id": "FL-2b0a206ac533",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 02:11:00 GMT",
-      "ts": 1789956660000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼东努沙登加拉省发生5.3级地震 - 紫牛新闻",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb3U4Y00zb1JHQmVJbDFhN1d4VFFxTGxRVmhIMGFYdG9tVTJGdFhUblpNMEluZU9yMHdNS09QS3c4QVRzNWFLNUlCc1UwV3JjaF9hT2w4SW1LZ0J6NDgzRldtVzFJUDJVRXc?oc=5",
-      "site": "紫牛新闻",
-      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-523d5713c7c0",
