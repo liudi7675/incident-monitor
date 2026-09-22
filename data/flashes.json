@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:10:19.937Z",
+  "updated": "2026-09-22T19:38:54.415Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-3d84e6b91c4c",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 19:27:43 GMT",
+      "ts": 1790105263000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃致日本6人死6人失踪 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUlIamhwSllmWU4zY1AtR0pWRkdScVlOU2pORVRoaHFXOUhTc3JNa09lQXl1cU9YLXV6ZFdqSFFiajAtR3BYZlRWZHB3MFhRQlBzamU2TWpnMUdTWGE1RU9nTkU1TXh0a0NKZ1VvWTdVcUZfTFU5WHdyZ3gxZFJfcUwtcldBcDFxVVhQQjl5ZnpKVDlvQ1cxUndTcDVSeE5B?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-bca07cac9877",
@@ -75,15 +99,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e6e0b7fda9a9",
+      "id": "FL-4fa90d7c1653",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:52:00 GMT",
       "ts": 1790081520000,
       "scope": "intl",
       "type": "geo",
-      "title": "俄罗斯国防部：我们给乌克兰带去了“海啸”和“龙卷风” - news.ifeng.com",
+      "title": "俄罗斯国防部：我们给乌克兰带去了“海啸”和“龙卷风” - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0a1FGb004d0RHOThoWW1JSDZlZXgxS1AwQmY3VWZxcmtFRTdfVzNFMDBYeEhVdW8xUGEySkFwSnY5Z2lOX0NRMmExNXE?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -369,9 +393,9 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
       "related": 42
     },
@@ -460,15 +484,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-6f1208e0cccf",
+      "id": "FL-4070bae74ea0",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:22:16 GMT",
       "ts": 1789910536000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 联合早报",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWEVFeG0zSF80d2loUW9wOTg5RmRrazBrWUtzMkl1T3c0c2dxMHRFRUVsaEdQNjZLNEl6TmhuNllySm5IYmhtMTRZbDA1c1NKaVlORW1CLTdaNVVKcUoycUVyMGU1SDMxdWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -532,15 +556,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-df67a5b15628",
+      "id": "FL-37bcddd97abf",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -568,18 +592,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-d7939e987363",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 21:52:23 GMT",
-      "ts": 1789854743000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "墨西哥举行全国地震演习 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SbmtRS2N5a2xpYnJyY3dDa1BHY0MtR3lMRXBKSzJNdVhTdWZSSmhTNkllZjluM1ppamxScnhjd0RzZmR5ejlfUkwtR05xU3A2SnJ6UTNGRGlYT2F2S0lvb0hxeUFlZHRweEd6ZUwxUFJMSmh3eGsycWYxNDdfZlU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
@@ -604,18 +616,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-0ed7224acdce",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 22:41:00 GMT",
-      "ts": 1790030460000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "国产主流手机品牌全覆盖！华为、小米等5大厂商接入中国地震预警网 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91RGNUdS1CbHVKeENJaGNQSXhTWGZzSDlhWEMxdHdUQnRXZjRxYUt6bndmYjBiVXZZX2gxZ0pva25MRGhTR2diRlBVNVlCdTFkMm1yRVpzaEQ?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-0974e07d8b21",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 15:40:00 GMT",
@@ -628,15 +628,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-45865dec2b49",
+      "id": "FL-267105404506",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:07:21 GMT",
       "ts": 1789999641000,
       "scope": "dom",
       "type": "geo",
-      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - 联合早报",
+      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -676,15 +676,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9789fc090d23",
+      "id": "FL-ab86272df011",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:00:27 GMT",
       "ts": 1789977627000,
       "scope": "dom",
       "type": "geo",
-      "title": "群防群治·百日攻坚丨巡查到位、提前撤离 大足楠木村滑坡 7人安全避险无伤亡 - 华龙网",
+      "title": "群防群治·百日攻坚丨巡查到位、提前撤离 大足楠木村滑坡 7人安全避险无伤亡 - cqnews.net",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yazNtV282TXlHMC1kT3lRVEpRTUt5THM0TFNKbU1mdEI3b2hORWZKS1l0SXdzanJUSGNhZ08yUzRJVHNVXzhtN2dJZkdPdGNEdVNzZEROcVBwRk5qRzJvX0xGS1RQc2txQ3ZR?oc=5",
-      "site": "华龙网",
+      "site": "cqnews.net",
       "siteUrl": "https://www.cqnews.net"
     },
     {
