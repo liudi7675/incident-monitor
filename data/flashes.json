@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:10:07.136Z",
+  "updated": "2026-09-22T23:38:34.580Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-4c509b3c5641",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:17:28 GMT",
+      "ts": 1790119048000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本7人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSWFCVmdHR2xzUTgtVUdIa1VpejdBT2ZKTUdGNzJBYUFIaUtSS1U0ZTNPdW9xTVB2UHgtQ2tZZld3aTNpVmNNMTFCOHJvekNJNm5nNjZVOXdHWmJmdHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-ae5fee4cd092",
@@ -63,6 +75,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-ace9c984aaaa",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 18:06:00 GMT",
+      "ts": 1790100360000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "杜鹃台风在日本造成4人死亡——《台北时报》 - ua.news",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3YwREVvTWE5RHdKdkUyZHVZVVdGNWFEOWJJWXBJODRJaE1WYU9QM2pPWldKRGExdXV4bk0yRTBrQjcxWmpJZnJjWDVobjZFZ1VKQjFNa3VId1NvLU1JRC10Tnd3STRWdEUxaWFuQ0drbkc4alRMNUd6VUdJNGhSbmVZV01LRHJqNEdEdUdxdlRwb2xuSFRUOGZETXQ?oc=5",
+      "site": "ua.news",
+      "siteUrl": "https://ua.news"
+    },
+    {
       "id": "FL-319e76c13b3e",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 16:17:00 GMT",
@@ -95,18 +119,6 @@
       "type": "geo",
       "title": "山体滑坡，“00后”网格员龚宝冬选择逆行……他的事迹被写进了故事里 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUHdjVG4tUGFGNkJlcTBraEVGa2lGaGZ5YWxQaFB6enA5M1Z4TmpEclB3bTdKVmR4clpWZzUwRURyZmxjd2lxeDE4WFFNNkxjWDFkcXVlQl9SVkFMQ3luMVpXcXhkRldZSFhwUTU3b3hqcU9rZVFMVk5YOTJ4dXMzN19ZOFZmWTlRLVNhdQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-2a6b7cf37604",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 12:56:00 GMT",
-      "ts": 1790081760000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "记者帮｜广州番禺一吊臂车吊装时地面塌陷侧倒：压着轿车、倒向板房，多日仍保持原状 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU0wNWRtN0hveGJKLWJBSmdnZ1c5MlpxbUlPTl9ydnZXN1oyS3pTTlBhb04wZGd1QWJMVTZ0SWVDWkJWWVdyclFVMkhQNHBKTXdhX0otaTMtenBlcm13cmU5akRiSW5sUDlCTUtMQTM0TjV4V0taN0t2Z0h6bmJLeXVIdGE4OGxaMkxWTg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -171,15 +183,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-33c61a069546",
+      "id": "FL-22e4406ccda0",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 08:19:09 GMT",
       "ts": 1790065149000,
       "scope": "dom",
       "type": "geo",
-      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
+      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -241,18 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkR4TFJOVkdSOWRnazdxTEtTSkJyWllXcjU3MzFIREo4QUdEcGhHWGZXdUptU3o3cGhKRDBtV3ljcGJ2U1JHQUFnMlFqN2VEMG5RYUljVFdwZw?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-7f6f9d59de0e",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 06:09:41 GMT",
-      "ts": 1790057381000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "华为、vivo、OPPO、小米、荣耀，接入中国地震预警网，免费提供权威地震预警服务 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWlBpUS1sOE1iUGx1UGQyd3ByU2l5S2VwcE1pNWw1MFB5ZGliTG9SWko4RW81bXJKNVQ2RVA5d1N4NVNKVmJHbmtyS01lV0ZOcEt2UHBGV0VCUFoyUnBTT0FTU21KX2VKbnNOeFNUcmRuOFhQNWtNQ01kaUJCc0djYUROYm1Wa3p3?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1a3c7a297132",
@@ -556,15 +556,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
