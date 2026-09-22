@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:40:40.511Z",
+  "updated": "2026-09-22T03:11:28.795Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-674ca22ac64c",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 02:40:17 GMT",
+      "ts": 1790044817000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本3人死亡，多人失踪 - news.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oa2NhU0VoVEZNcVJWLUJSUDFFbDhLbTFwMWc2WGkzSlk5N3pPanJKWGg4cjZMVmpTR1FJZ2R3emp3a0I4ZTVGUW0xemVFZnZXYmNNeWJKZ3lqeFFkZXc?oc=5",
+      "site": "news.bjd.com.cn",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-c66f07c037e1",
@@ -112,15 +124,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-f1b74b512812",
+      "id": "FL-4f00564de371",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -364,18 +376,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-c717b13a7494",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 23:12:50 GMT",
-      "ts": 1790032370000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风杜鹃重创日本关东 破纪录暴雨酿两人死亡 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxeDdXUFBiV3RmOGoteTg4Smt4M3dXdENOLTJ0dHBCeXZlbzlpVHY4UG1pZHZjTnBPdFRWT1AwZjVZTEg0N2RVMGhpNks5Vk1Vb2J2eW4wQm50MFNfWlJxQmtkWk0tN0hwRGhyS2k1dmpkUDJJV0tKSHZnVzdZUQ?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-7281b7ef0787",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 22:50:07 GMT",
@@ -556,15 +556,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-31b26a23ab76",
+      "id": "FL-f82acf8846a1",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
       "ts": 1789986840000,
       "scope": "dom",
       "type": "other",
-      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - cbgc.scol.com.cn",
+      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
