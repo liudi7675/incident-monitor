@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:11:28.795Z",
+  "updated": "2026-09-22T03:40:58.393Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,39 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-674ca22ac64c",
+      "id": "FL-9af4def206ea",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 03:27:50 GMT",
+      "ts": 1790047670000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃致日本4人死6人失踪 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XTDA3eGV5bjgweUFGTk1hOEg1a0FFeTQxTkxiMVJVQml1VjhId0VmOGtsWnczd2d3ZU1hN1pUa0Frb1gtXy01Yk1aSQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-c14f6c117531",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 03:22:00 GMT",
+      "ts": 1790047320000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "台风“杜鹃”致日本强降雨 多地山体滑坡 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NQjlWeEV6U1ExcGVkaExCeGVybk41WFUtWWJHaFJIMlJQN0tqMVRiSkpRcmpLTzBPVzE3OWRqWVhGUV96dEFLa1ZFV3F2RUx4VGtYajJuRU82NjR4TnZsdlpSb2xwTzRza2ZDRjNnU2NGMWJ3X3c?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-9512f48eb528",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 02:40:17 GMT",
       "ts": 1790044817000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本3人死亡，多人失踪 - news.bjd.com.cn",
+      "title": "台风“杜鹃”已致日本3人死亡，多人失踪 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oa2NhU0VoVEZNcVJWLUJSUDFFbDhLbTFwMWc2WGkzSlk5N3pPanJKWGg4cjZMVmpTR1FJZ2R3emp3a0I4ZTVGUW0xemVFZnZXYmNNeWJKZ3lqeFFkZXc?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -85,7 +109,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
+      "related": 44
     },
     {
       "id": "FL-41662fba499f",
@@ -124,15 +148,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-4f00564de371",
+      "id": "FL-f1b74b512812",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -220,15 +244,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-43b39220b57a",
+      "id": "FL-4f9f1505eb12",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:33:13 GMT",
       "ts": 1789911193000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.bjd.com.cn",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nS1gzSWdDeTJ6WWpDcmx1bVdRMTFBQzd0emdrVmlYWF92VW5rcXUweXlVVDRqSEJrVjRsR3psQm5aU2RaV0ZGRF9JcndQakttVWZLNnZUdjMyaWRyNkE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -472,15 +496,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d97b4389af5f",
+      "id": "FL-32df0e00ca87",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:57:02 GMT",
       "ts": 1789995422000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产主流手机品牌全部接入中国地震预警网 - news.bjd.com.cn",
+      "title": "五大国产主流手机品牌全部接入中国地震预警网 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rR3RnQkMxNE1ORUJSYUZ4dmh6ZXkwMXk4dURmejRzcmVsZVB4Vm1WN1hvbmh3d0hmcDJ6bWxPaGN0WldnQkU0eFYyWjZKTGk5QXk1V0lOaC1IaUpjMVE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -496,15 +520,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-95d4cd36206c",
+      "id": "FL-5964cfd14bd5",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:45:00 GMT",
       "ts": 1789994700000,
       "scope": "dom",
       "type": "collapse",
-      "title": "原创 苏丹东北部一金矿坍塌，至少11人死亡 - 搜狐网",
+      "title": "原创 苏丹东北部一金矿坍塌，至少11人死亡 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzlSTVZvaVZoWHdtOVRHdEJwZkNuWld5a0wxbXpvZE5jMTViS09HV2FaZ0tOTTViTUNZZDl5U081eHdCeWdqelNXQzU1dGZQM2M5Y0dYSHdqY0JYcVpLRXc3dFlMV0ZfLUdFRm54N0Y2UVN6amIwc3lRNzdDOS1KTk5iNHVuZzhk?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -544,18 +568,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-b5126fb5d2c7",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:46:01 GMT",
-      "ts": 1789987561000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "十堰经开区马路村成功避险1起崩塌 避免伤亡2户8人 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQ3RxZW9vTVNHaDBqSFFGYnVWR08zZENjd29VTzRwdjc0blowWlhTZ1JpZXBMYV96LWczR3lKSDQ5Q0NlNjcxU1ZWTWZ0S0s2bkpqUmdiWU16ems?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
-    },
-    {
       "id": "FL-f82acf8846a1",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
@@ -568,27 +580,15 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
-      "id": "FL-048f3e630856",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 10:21:15 GMT",
-      "ts": 1789986075000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国驻尼泊尔大使馆：向尼泊尔特大泥石流洪灾学生提供“中国大使奖学金”，帮助他们更好完成学业 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDhlaGlaSXRESW0wQVVhRHFtNTJqck5JMmNZc3VQMk5OdHVpcWI2YklBTmZ3a0VSZ29LdWlfRGp5UndYVGZWX1pUWkxkZ1gzQnJ6bzlzSFNMUk5JY3dIVW1uaTFVNmppaDVVWVRzV25OQWt1NlN2T29JNm4yV1luVVhSdGszMV9J?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b6ebe2a7feda",
+      "id": "FL-58cf78148c21",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 08:37:00 GMT",
       "ts": 1789979820000,
       "scope": "dom",
       "type": "geo",
-      "title": "山区郊游突遇地面塌陷怎么办？这份避险指南请收好！ - 搜狐网",
+      "title": "山区郊游突遇地面塌陷怎么办？这份避险指南请收好！ - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWTlEOHRhSHV0WkxjdnlHbU1pRi1xOXAtQVdHOFFkQ2U3SURjaFhLbTNuZ1FRX3RPWk5LSUhlMUVVTC1DUzhGMGZJZDcwRmc3U1lFNkRVV0hERjJ6Z3lzdE9mdjlyR1ZTQ0lpR2lOTHFLWUZ2eE1lSi1OLTJXVXQxeUVTS3FQMHZw?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -604,15 +604,15 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-c84ea3842dc4",
+      "id": "FL-8ee2ed344551",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 06:48:04 GMT",
       "ts": 1789973284000,
       "scope": "dom",
       "type": "other",
-      "title": "记者手记｜挺进五指山灾区一线：越过塌方，看见山城的韧性 - 搜狐网",
+      "title": "记者手记｜挺进五指山灾区一线：越过塌方，看见山城的韧性 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb09MUXY3aGotTFotNl9OVHBENFdMdmJDanBSSmdqLW5rSmt3VklHVEkwT2pqRkNYOFQ1YU50Z0dxLTN2aElldWNDVldtOUZtclNURm1WWC1acWZPS2YyUEd5UDZ1c01TUlZsRU9veW52U1Bnb0hoQXEwazMzT2lqYjNTc1o3U0l4V0FMRg?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 7
     }
   ]
 }
