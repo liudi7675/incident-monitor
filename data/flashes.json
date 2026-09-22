@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:09:47.862Z",
+  "updated": "2026-09-22T01:39:42.823Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -29,8 +29,8 @@
     {
       "id": "FL-7f206c7115d8",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 00:56:55 GMT",
-      "ts": 1790038615000,
+      "dateISO": "Tue, 22 Sep 2026 00:57:32 GMT",
+      "ts": 1790038652000,
       "scope": "dom",
       "type": "geo",
       "title": "五大国产主流手机全部接入中国地震预警网 - 财新",
@@ -49,7 +49,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 45
+      "related": 44
     },
     {
       "id": "FL-41662fba499f",
@@ -88,15 +88,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-4f00564de371",
+      "id": "FL-f1b74b512812",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 12:55:59 GMT",
       "ts": 1789649759000,
       "scope": "intl",
       "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - news.cctv.com",
+      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54dmJJQUh3UE5aNVVhOXhKRDJaY01KQmg0YmFEQk1wNklPa2VCZkpObWUwRDlmT0dRNVVqLXhwOC1fS1FWdno0SkJLVWlnelRHSFBIYUZDWGdoaDVZQzd0WWtBNUpCR2VPRGROR0k3dkVsYzcwOG16UA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -184,15 +184,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4f9f1505eb12",
+      "id": "FL-43b39220b57a",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:33:13 GMT",
       "ts": 1789911193000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 京报网",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nS1gzSWdDeTJ6WWpDcmx1bVdRMTFBQzd0emdrVmlYWF92VW5rcXUweXlVVDRqSEJrVjRsR3psQm5aU2RaV0ZGRF9JcndQakttVWZLNnZUdjMyaWRyNkE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -268,27 +268,27 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-df67a5b15628",
+      "id": "FL-37bcddd97abf",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-7d2e668e38b8",
+      "id": "FL-3d01a069fcce",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:54:16 GMT",
       "ts": 1789858456000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - news.hsw.cn",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震 震源深度21千米 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fTTVPeGRHbWRhQ19wRS1IMGlibFV5V1lNS0hWR09HZEhGWGN5aThzYk9zbTdBeDBxUm9kdUJMWnhsczl1aGJMN1dUZ2ZfYVdpMDZWSTNWczhJTTRMN2FJ?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
@@ -316,15 +316,15 @@
       "siteUrl": "https://m.cls.cn"
     },
     {
-      "id": "FL-7eef43295216",
+      "id": "FL-749aed081520",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
       "ts": 1789833078000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -460,15 +460,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-32df0e00ca87",
+      "id": "FL-d97b4389af5f",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:57:02 GMT",
       "ts": 1789995422000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产主流手机品牌全部接入中国地震预警网 - 京报网",
+      "title": "五大国产主流手机品牌全部接入中国地震预警网 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rR3RnQkMxNE1ORUJSYUZ4dmh6ZXkwMXk4dURmejRzcmVsZVB4Vm1WN1hvbmh3d0hmcDJ6bWxPaGN0WldnQkU0eFYyWjZKTGk5QXk1V0lOaC1IaUpjMVE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -520,15 +520,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d2d30b9cbfd6",
+      "id": "FL-b5126fb5d2c7",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:46:01 GMT",
       "ts": 1789987561000,
       "scope": "dom",
       "type": "collapse",
-      "title": "十堰经开区马路村成功避险1起崩塌 避免伤亡2户8人 - ctdsb.net",
+      "title": "十堰经开区马路村成功避险1起崩塌 避免伤亡2户8人 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQ3RxZW9vTVNHaDBqSFFGYnVWR08zZENjd29VTzRwdjc0blowWlhTZ1JpZXBMYV96LWczR3lKSDQ5Q0NlNjcxU1ZWTWZ0S0s2bkpqUmdiWU16ems?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -640,15 +640,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-90722129f98a",
+      "id": "FL-96f979608021",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:35:17 GMT",
       "ts": 1789965317000,
       "scope": "dom",
       "type": "collapse",
-      "title": "苏丹东部5座矿井坍塌致10死21伤 - emwap.eastmoney.com",
+      "title": "苏丹东部5座矿井坍塌致10死21伤 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2hiTTdVVjdndGJsQWVGVjJJdDdGUklBOV9ZZWZYT3RsSVA1RHlGZ2RTMFM4RWZSYl9mZVRzSFdtOXNITF9yLTUzbnBPaHlPSnpvZWJpRlo3aklhMExxdFZzYw?oc=5",
-      "site": "emwap.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "http://www.xj.chinanews.com.cn"
     },
     {
-      "id": "FL-3d424bfe72d2",
+      "id": "FL-424ce0cceb75",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 02:31:47 GMT",
       "ts": 1789957907000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网正式测定：09月21日10时23分在西藏那曲市班戈县（北纬31.83度，东经89.18度）发生3.0级地震，震源深度10千米。 - 金融界",
+      "title": "中国地震台网正式测定：09月21日10时23分在西藏那曲市班戈县（北纬31.83度，东经89.18度）发生3.0级地震，震源深度10千米。 - jrj.com.cn",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiclEyT09SbFN0aC0tRzlxVjZncjBTaHdZSzdvOFBuR29zaVVNcnJ0Ym03YXR0Qml1UGxhZ1ZEUXZJempITFBDNzAzekphTHRXQnU4RVZYaFVJckt4dTRhUWhLOWZuYmpEdEhWQmlvQQ?oc=5",
-      "site": "金融界",
+      "site": "jrj.com.cn",
       "siteUrl": "https://m.jrj.com.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 7
+      "related": 6
     }
   ]
 }
