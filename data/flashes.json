@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-22T13:41:31.887Z",
+  "updated": "2026-09-22T14:11:35.434Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-846a26ff01e2",
+      "id": "FL-3d7db262d8d9",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
       "ts": 1789597380000,
       "scope": "dom",
       "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - thecover.cn",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
-      "site": "thecover.cn",
+      "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -75,16 +75,28 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-0f92255f18b9",
+      "id": "FL-d4dd1cd58214",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 11:18:00 GMT",
       "ts": 1790075880000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏甘肃青海换书记 王君正疑为泥石流背锅 - epochtimes.com",
+      "title": "西藏甘肃青海换书记 王君正疑为泥石流背锅 - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTV2dRdFFMQVB4VkxPdW1oNkNVSlNYWWhCNU1ELVJTYjVaRkliUkhFWHdGQ2s0WGVQZjJDdFc0TDhuWjdJTkV1M1otekNqMWpYMlNZZFJ6b0xkaG5EaHl5LQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-385a411b1c6c",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 10:40:54 GMT",
+      "ts": 1790073654000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "欧洲地中海地震中心称：哥伦比亚或有震感。 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzelQ1S3pnZXktUUlQa0ZzNENHUFZPTDZuNHVlSGRIRDF4ekpLd2JBTGJDMXdINWx6Mkk0VVFhSW5KNWVraGwtcEs3Zw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-5976a7770063",
@@ -119,18 +131,6 @@
       "type": "weather",
       "title": "台风“杜鹃”已致日本4人死亡6人失联 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxPUnp2WjNIMnozMWl4SUZENEFhOWRzSmxnQlRqdnZTTDgwMWhPMFlwZlZOWEVzcjZhdnF1b1M0R3I5bDlRVHZHUGlHNUZXV0NBeEZ2OWl0d2pNNVMxbkRtNG5ONHB1eUlkX2wyVHZBcmp0WEIzZGYzb0FOVUxNbFhQY0NIeEt1?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-79c6f4a83661",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 07:57:29 GMT",
-      "ts": 1790063849000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "（外代一线）台风“杜鹃”导致日本4人死亡6人失联 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0VXajdzNGluaTd6SUR1OUZIMzZkQm9qUzNXX3Q4MGtiazdXcjNIX3VKMDdmU2VFbnBUMmxJVlBXSlNKR1kzenVTTDBzN25ES0FacThwUzdzeldnUGkycEpFMC11WDh1RzhDVXg3aUFXVWRvNjY5eWJyWWNjVndxZzNZbnJtV0hi?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -195,15 +195,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c2daa72fac13",
+      "id": "FL-767bd7fc79b6",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经_金融信息服务商",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -219,15 +219,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5b4e08e99248",
+      "id": "FL-1a3c7a297132",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
       "ts": 1790057160000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经_金融信息服务商",
+      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -255,15 +255,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-30888a669540",
+      "id": "FL-d8e980f426e2",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:28:19 GMT",
       "ts": 1790054899000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经_金融信息服务商",
+      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMmJhdjRBMW5kajFJQWVvX0JzLURYWVM5M1YtUkVfaWhPRlM1dG1faENJU05xaDJSazN3bFVXeUFITG5GSjNlbUlFTzZjSGM?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -303,15 +303,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-f3584ae26f62",
+      "id": "FL-cea9430923ef",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:38:00 GMT",
       "ts": 1790048280000,
       "scope": "dom",
       "type": "geo",
-      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - epochtimes.com",
+      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - 大纪元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvLTIta2pOVnVoTWVwaG1jcWhpc09sMTM4WjJwS0pJRmVuenlMTmdJTlBFRlZiMEJpdkcya3RmZjREY0hYYjRTbDI3UU84bVVieWxLY2NGTHBaWGw3MWU4b9IBZkFVX3lxTE55T3M5R3dTZGRId0w2Z0FzWlJBSFlIMFQ1Q1N5OTJwLUtTNnBJd3A1UVNNWWZVVUM2MGlFMDVPSDlHWjJ3a2F6NjlQMGxJLUxfSFpSTmU3UzFQbWZuWC1CWGVySC1jQQ?oc=5",
-      "site": "epochtimes.com",
+      "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -397,7 +397,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
+      "related": 42
     },
     {
       "id": "FL-263418d50a2b",
@@ -532,15 +532,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
