@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:11:35.434Z",
+  "updated": "2026-09-22T14:42:52.485Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,6 +13,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-4fa90d7c1653",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 14:24:34 GMT",
+      "ts": 1790087074000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯国防部：我们给乌克兰带去了“海啸”和“龙卷风” - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0a1FGb004d0RHOThoWW1JSDZlZXgxS1AwQmY3VWZxcmtFRTdfVzNFMDBYeEhVdW8xUGEySkFwSnY5Z2lOX0NRMmExNXE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-7ba5864de304",
@@ -75,27 +87,27 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-d4dd1cd58214",
+      "id": "FL-7ed6f2efbfe1",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 11:18:00 GMT",
       "ts": 1790075880000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏甘肃青海换书记 王君正疑为泥石流背锅 - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTV2dRdFFMQVB4VkxPdW1oNkNVSlNYWWhCNU1ELVJTYjVaRkliUkhFWHdGQ2s0WGVQZjJDdFc0TDhuWjdJTkV1M1otekNqMWpYMlNZZFJ6b0xkaG5EaHl5LQ?oc=5",
+      "title": "西藏甘肅青海換書記 王君正疑為泥石流背鍋 - 大纪元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTV2dRdFFMQVB4VkxPdW1oNkNVSlNYWWhCNU1ELVJTYjVaRkliUkhFWHdGQ2s0WGVQZjJDdFc0TDhuWjdJTkV1M1otekNqMWpYMlNZZFJ6b0xkaG5EaHl5LdIBZkFVX3lxTE9sWmtMMG9NZ0FKdEVqbU9NTlZ2cmtsa0l4T1BWUF9OSUZGUzBGUUVFcTUwbzhUc0pkRHZQNndVSEF6SjdjN1M3NUtGSmozejhrM29JbEp3RkhXQ3R4Zm5SeXBJN05NUQ?oc=5",
       "site": "大纪元",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-385a411b1c6c",
+      "id": "FL-52a8f40ec2af",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 10:40:54 GMT",
       "ts": 1790073654000,
       "scope": "intl",
       "type": "geo",
-      "title": "欧洲地中海地震中心称：哥伦比亚或有震感。 - 新浪财经",
+      "title": "欧洲地中海地震中心称：哥伦比亚或有震感。 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzelQ1S3pnZXktUUlQa0ZzNENHUFZPTDZuNHVlSGRIRDF4ekpLd2JBTGJDMXdINWx6Mkk0VVFhSW5KNWVraGwtcEs3Zw?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -123,18 +135,6 @@
       "siteUrl": "http://nx.people.com.cn"
     },
     {
-      "id": "FL-ef537aed24f1",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 08:15:35 GMT",
-      "ts": 1790064935000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本4人死亡6人失联 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxPUnp2WjNIMnozMWl4SUZENEFhOWRzSmxnQlRqdnZTTDgwMWhPMFlwZlZOWEVzcjZhdnF1b1M0R3I5bDlRVHZHUGlHNUZXV0NBeEZ2OWl0d2pNNVMxbkRtNG5ONHB1eUlkX2wyVHZBcmp0WEIzZGYzb0FOVUxNbFhQY0NIeEt1?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-e41a320509a4",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 07:38:39 GMT",
@@ -145,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDZ5VXM3dDF6TnN2Y1dnRmdlVUJma2cxbkRnbUMzamN2NHBNMHFnMjFIRWhCTXdiQ183a2hRMVFFeWpVYlUzR1B2OWFjdC1VNXNmMEtuU2hDM2F3Z01vYVg0SUxpcTVLdzNoYVE5MGFyN1hHT3BYNHNhSklUWWtqSA?oc=5",
       "site": "新华网",
       "siteUrl": "http://www.news.cn"
-    },
-    {
-      "id": "FL-9ec8d995bfd6",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 06:42:26 GMT",
-      "ts": 1790059346000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本4人死亡 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWk0OVQxcjRTdlpMeUhQbFBiS3VMYW84VE5JRmFPYzNGbGxiQTNQaEpCanNkaEdTd3F5dHRyQnpGSXVHbm1oT2N0VnBuODByR2VFaVdyT0ZORG82bVAxRmVCUDQwQ0JNdzZKeEtoVVh3ZTZSSTV3OC1qRE1jUWc2LUk1TDJfbmt6bHVQag?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-e8d485c202c4",
@@ -195,15 +183,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-767bd7fc79b6",
+      "id": "FL-c2daa72fac13",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -219,15 +207,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1a3c7a297132",
+      "id": "FL-5b4e08e99248",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
       "ts": 1790057160000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经",
+      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -255,15 +243,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-d8e980f426e2",
+      "id": "FL-30888a669540",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:28:19 GMT",
       "ts": 1790054899000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经",
+      "title": "五大国产手机厂商接入中国地震预警网 曾现“地震误报”风波 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMmJhdjRBMW5kajFJQWVvX0JzLURYWVM5M1YtUkVfaWhPRlM1dG1faENJU05xaDJSazN3bFVXeUFITG5GSjNlbUlFTzZjSGM?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -397,7 +385,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 42
+      "related": 41
     },
     {
       "id": "FL-263418d50a2b",
@@ -494,6 +482,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-dcb49716ce15",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
+      "ts": 1789900405000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-ad823457314f",
