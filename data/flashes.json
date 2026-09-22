@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T15:40:03.755Z",
+  "updated": "2026-09-22T16:11:42.614Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,40 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-4fa90d7c1653",
+      "id": "FL-bca07cac9877",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 15:16:45 GMT",
+      "ts": 1790090205000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "月饼暴利时代彻底结束了吗 高端礼品需求坍塌 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YVERJVE1tM2JOT1RMb0FPRWtSN3BDLU5YNkNla0t5NmQ5VlZHWjdZMklIampqS1E0VENQUjBuU01ocjZ2SG1YQXhrSUFlR21SbzIxU2J5cFVJTENPZHFqRHJQemx6eUZ5SHViSkg3czY?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 14:54:00 GMT",
+      "ts": 1790088840000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "吉隆泥石流灾害遇难人员身份识别工作已开展 目前已确认部分遇难人员身份 - 网易新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWFGY1JQeElxWmN5TjhkNmtseTdMajBIT2RTU3I3YkxjY0NJVjRGYkUxeTVkdGRsVkxPcmt3Y21ZaDZGbVpyc0pKenl3NzJxMDVSVHg1Rm9mRTRhenhDTGthcGNCMjVCSFRKY182VlFubWxNb3NIWThRaEg0dVZtZl9B?oc=5",
+      "site": "网易新闻客户端",
+      "siteUrl": "https://c.m.163.com",
+      "related": 44
+    },
+    {
+      "id": "FL-e6e0b7fda9a9",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 14:24:34 GMT",
       "ts": 1790087074000,
       "scope": "intl",
       "type": "geo",
-      "title": "俄罗斯国防部：我们给乌克兰带去了“海啸”和“龙卷风” - 凤凰网",
+      "title": "俄罗斯国防部：我们给乌克兰带去了“海啸”和“龙卷风” - news.ifeng.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0a1FGb004d0RHOThoWW1JSDZlZXgxS1AwQmY3VWZxcmtFRTdfVzNFMDBYeEhVdW8xUGEySkFwSnY5Z2lOX0NRMmExNXE?oc=5",
-      "site": "凤凰网",
+      "site": "news.ifeng.com",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -87,15 +112,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-7ed6f2efbfe1",
+      "id": "FL-dcfdc3be18a9",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 11:18:00 GMT",
       "ts": 1790075880000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏甘肅青海換書記 王君正疑為泥石流背鍋 - 大纪元",
+      "title": "西藏甘肅青海換書記 王君正疑為泥石流背鍋 - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTV2dRdFFMQVB4VkxPdW1oNkNVSlNYWWhCNU1ELVJTYjVaRkliUkhFWHdGQ2s0WGVQZjJDdFc0TDhuWjdJTkV1M1otekNqMWpYMlNZZFJ6b0xkaG5EaHl5LdIBZkFVX3lxTE9sWmtMMG9NZ0FKdEVqbU9NTlZ2cmtsa0l4T1BWUF9OSUZGUzBGUUVFcTUwbzhUc0pkRHZQNndVSEF6SjdjN1M3NUtGSmozejhrM29JbEp3RkhXQ3R4Zm5SeXBJN05NUQ?oc=5",
-      "site": "大纪元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -171,15 +196,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-52db84fd5584",
+      "id": "FL-767bd7fc79b6",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - finance.sina.com.cn",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -195,27 +220,27 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-250f074189bf",
+      "id": "FL-1a3c7a297132",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
       "ts": 1790057160000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - finance.sina.com.cn",
+      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-b80a3f7c1b13",
+      "id": "FL-23d1159ef14a",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:56:38 GMT",
       "ts": 1790056598000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本两县四死六失踪 - zaobao.com.sg",
+      "title": "台风“杜鹃”致日本两县四死六失踪 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YVpoSGxiUDdfa3NDWFBmQnNCbFUyYU8wRlFLN3I3eEJhZWxVUGgwa2IxdnJhdDI3SFQ5ei1JcldPbkZ4TE8xNlJha1pCaV9XQ1djWlpDYTlITVhGaVNuNTJuYUdIU194UWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -243,15 +268,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-77234501c4a1",
+      "id": "FL-f19c6eceb8ca",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:18:44 GMT",
       "ts": 1790054324000,
       "scope": "dom",
       "type": "geo",
-      "title": "第十二届天山地震国际学术研讨会与会代表来呼图壁县开展野外研讨 - finance.sina.cn",
+      "title": "第十二届天山地震国际学术研讨会与会代表来呼图壁县开展野外研讨 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YeUpleko4U09YekhVd0ZHN1NHQm9vb2FzOWplS1NkV21HS1lMUml0RmdHX2dlQWV6VGJZTUdEejFwVVdIMnRzejVIaHFlOUNJVmQ1TDhOQ1pBNGFWSjcwMzRPM0thNE45MGlkZS1YTEZaRzBGdXM5Yg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -279,15 +304,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-cea9430923ef",
+      "id": "FL-f3584ae26f62",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 03:38:00 GMT",
       "ts": 1790048280000,
       "scope": "dom",
       "type": "geo",
-      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - 大纪元",
+      "title": "王維洛：為何低風險區發生嚴重泥石流災害？ - epochtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvLTIta2pOVnVoTWVwaG1jcWhpc09sMTM4WjJwS0pJRmVuenlMTmdJTlBFRlZiMEJpdkcya3RmZjREY0hYYjRTbDI3UU84bVVieWxLY2NGTHBaWGw3MWU4b9IBZkFVX3lxTE55T3M5R3dTZGRId0w2Z0FzWlJBSFlIMFQ1Q1N5OTJwLUtTNnBJd3A1UVNNWWZVVUM2MGlFMDVPSDlHWjJ3a2F6NjlQMGxJLUxfSFpSTmU3UzFQbWZuWC1CWGVySC1jQQ?oc=5",
-      "site": "大纪元",
+      "site": "epochtimes.com",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -363,19 +388,6 @@
       "siteUrl": "https://mini.caixin.com"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 16:15:32 GMT",
-      "ts": 1789488932000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
-      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
-      "siteUrl": "https://www.rfi.fr",
-      "related": 42
-    },
-    {
       "id": "FL-263418d50a2b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:20:00 GMT",
@@ -410,18 +422,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-8ca0646de89e",
@@ -460,15 +460,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4070bae74ea0",
+      "id": "FL-6f1208e0cccf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:22:16 GMT",
       "ts": 1789910536000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaobao.com.sg",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWEVFeG0zSF80d2loUW9wOTg5RmRrazBrWUtzMkl1T3c0c2dxMHRFRUVsaEdQNjZLNEl6TmhuNllySm5IYmhtMTRZbDA1c1NKaVlORW1CLTdaNVVKcUoycUVyMGU1SDMxdWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -616,15 +616,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-267105404506",
+      "id": "FL-45865dec2b49",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 14:07:21 GMT",
       "ts": 1789999641000,
       "scope": "dom",
       "type": "geo",
-      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - zaobao.com.sg",
+      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -640,15 +640,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-feda19facdc8",
+      "id": "FL-9427cec59838",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:51:33 GMT",
       "ts": 1789995093000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - finance.sina.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GODdCM1p0NElkWVJYWWhsVVJ0N3owQjg5enpZMno5WTg3dzI3SWhfZnFnMlVGYzJaczQwQjZxWnN6eVAtT1JMNG5XcHZkekJ2Wld5SEo0MWJydnVuelBaZU9DbEhpcXdRUzl2eHNLajFmMDNJSHFKSg?oc=5",
-      "site": "finance.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 5
+      "related": 6
     }
   ]
 }
