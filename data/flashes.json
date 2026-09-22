@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T02:11:27.405Z",
+  "updated": "2026-09-22T02:40:40.511Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -73,7 +73,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 44
+      "related": 43
     },
     {
       "id": "FL-41662fba499f",
@@ -256,18 +256,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-d7ef30028095",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 02:12:00 GMT",
-      "ts": 1789870320000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "河北唐山市迁西县发生2.4级地震，震源深度18千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nb2llRGpTa0pjWVN3eDNFREE0dGdPbDJYY0pMOWVDNXV0X3RtWmZGbEtDQjNvMXNYdEQ1OW5iYjR4VlNtRm02Z2ZKZk9iY0ZuX0dGZmlMWUc?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -352,16 +340,28 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-358b31b15953",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 08:36:00 GMT",
-      "ts": 1789806960000,
+      "id": "FL-f49296c4ab56",
+      "date": "2026-08-31",
+      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
+      "ts": 1788137252000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
+      "site": "习近平外交思想和新时代中国外交",
+      "siteUrl": "https://cn.chinadiplomacy.org.cn"
+    },
+    {
+      "id": "FL-126bfac821ab",
+      "date": "2026-08-24",
+      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
+      "ts": 1787554800000,
       "scope": "dom",
-      "type": "collapse",
-      "title": "五指山中学边坡崩塌 涉险教学楼全面停用 - hi.chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OSHBubWJENFNzcXdxTV9kM0FNd2g4NHlRendaY2NwMnFEcmwwcE1hMmN5clQ3UTVrbzcwLS1rLVhKYzZqamtaeTNqcXRKWFN6R010bGdGbDBPc2hfV3dUNVNndGR0a3ZzU0d1Rw?oc=5",
-      "site": "hi.chinanews.com.cn",
-      "siteUrl": "https://www.hi.chinanews.com.cn"
+      "type": "geo",
+      "title": "“手机收到7.7级地震预警”，四川省地震局最新通报 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUzJ2bjVHWktmWjhPM2FVUVBHNExVYkM2OWFJdW8xaktMTWp0VDE3eXBUN2UwZjBuLWMtMVJIMUpFdmVHTGJpMTk5c21QaGJTVi1PWlNjaW9EMUhyelBhSzhfMmw2T05WUTdjVFRXWm8?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-c717b13a7494",
@@ -556,15 +556,15 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-f82acf8846a1",
+      "id": "FL-31b26a23ab76",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 10:34:00 GMT",
       "ts": 1789986840000,
       "scope": "dom",
       "type": "other",
-      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - 川观新闻",
+      "title": "婚礼正在进行，酒店正门门厅轰然倒塌，多名亲友受惊受伤，新人拒付尾款被酒店诉至法院，法院判了 - cbgc.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrT01JZlNmV2k2ZldnQmxMbzFMc0NvREtZMVpzTFNHQlFrZXdnSHhiZHdWS0hlVjJNbUE3UHdmU3J0MzlZQjNPLWltT040UQ?oc=5",
-      "site": "川观新闻",
+      "site": "cbgc.scol.com.cn",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -602,18 +602,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yazNtV282TXlHMC1kT3lRVEpRTUt5THM0TFNKbU1mdEI3b2hORWZKS1l0SXdzanJUSGNhZ08yUzRJVHNVXzhtN2dJZkdPdGNEdVNzZEROcVBwRk5qRzJvX0xGS1RQc2txQ3ZR?oc=5",
       "site": "华龙网",
       "siteUrl": "https://www.cqnews.net"
-    },
-    {
-      "id": "FL-203aee13c42f",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:53:00 GMT",
-      "ts": 1789977180000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "刘铭诚：黄金原油多头一夜崩塌 抄底良机还是深渊开端？ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRUJXRmpTVGppZzZJY19xQm55djFEWjlwWC1ESzY5Vk93YV9MR3VRTnNxSGpWc3ZDWE01OWtiNHMzcWdGQXV0ekdBazNaSlRoa1V2bE1zTm9Oajd6WkRuaEYxTUJmVGVRbHFNY1ZEWFF4bU1jYk5TcTkzUHBWRk84RUtkSVl5SHllYUdjWUlDTzE1Zw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-c84ea3842dc4",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2OExXZGNSSG5tR29nM2FzVjhGSF9qUjhrTTRyMDR6ZDNhdWNiWGhmaW5EdEVST2dEbVBnbU56R0s1RTh1bVpZZmNnVWozb0l3aWRXc3lwRQ?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-4ee97473f1c9",
+      "date": "2026-08-14",
+      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "ts": 1786690800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
