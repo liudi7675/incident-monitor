@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-23T21:39:33.734Z",
+  "updated": "2026-09-23T22:11:35.145Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-c25cb9a00b7f",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 20:54:04 GMT",
+      "ts": 1790196844000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿根廷发生5.3级地震，震源深度120千米 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sRnlqLTRyMkFmeXJaQ0hvQ3kyMFMwQkg5NTdTUmFRVV8yMDVzYklMMFF2OEJBREtyT2pqUXpLSFhqZU1PZl94T3FjdE5JR1laajJV?oc=5",
+      "site": "第一财经",
+      "siteUrl": "https://www.yicai.com"
+    },
     {
       "id": "FL-c5c0d4a1570c",
       "date": "2026-09-23",
@@ -99,14 +111,26 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-14c88900dfcc",
+      "id": "FL-f0563831842b",
       "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 09:51:19 GMT",
-      "ts": 1790157079000,
-      "scope": "dom",
+      "dateISO": "Wed, 23 Sep 2026 10:49:12 GMT",
+      "ts": 1790160552000,
+      "scope": "intl",
       "type": "geo",
-      "title": "炸锅！白酒圈大地震，别再被香型割韭菜！这瓶葫芦酒直接颠覆行业 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjdnR3VwbEVHQjZOaFN1dDZneFRJaWNycm1tXzk2R28xbF9uc0NUcURQWTdvSTJla1laRVlSMWpMa2JqcnA5eXVndkFtOFVvdXJSNzJKaVlyY1BaX0JzSGxxUGZnbDBiVTZlRXRhTl9KdVdoSVpJTUFlTkt6a2RUMUpteTlmNV9reDBr?oc=5",
+      "title": "阿根廷发生5.3级地震 震源深度120公里 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamVXNld1dXlVQ1RIQ3RiSTdPakRELS1CUVRfczVrdUJoUUFsQjZUSndXZzFWNktTTlRHSDFUTE5vU2NXX2xSWDdvVWdrX1E2cFFCUTU2VlJMaUtuRlIwRk5rbUR6YndfZDRlRVNBLWQ1R1RpMVV3SHFYRDJ5cnV0YUhrV29OYzd5?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b215b961aba6",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 10:10:00 GMT",
+      "ts": 1790158200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿根廷发生5.3级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWdqc0RBN2Z6MWpoSzlhUGwxcnphMldudngwMWVSOFZKOTUzRW1tVHRkbHAwVVVWT3JDY0FET09VS0V4dGNyZ1FTNTRpOXpqNEY3RDZPeXFzSUNsMW9lNU0yZXJtUlAwWFhUb2ZGSmlzZlpESGpWVWxlb2M5WmN1N0xKSS0tUDha?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -145,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95VUhpakNMZU1oQ2NwblZmU1NoZU8wLXBWQVZUUDBkSkVBMGlfT0xDX25ldmdNbFljSGpUcmdsdi1Na0RUdEhMVDk2TzkwVUFYd1VBdHhkRnVvbU14OXc?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-4f2e8d582586",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 09:21:00 GMT",
-      "ts": 1790155260000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "阿根廷发生5.3级地震，震源深度120千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53b1U3bVBWVVBGQWQ3cEJ2Q2Z2TEUtX3RLSkFLQUYyMzQ3SzRPQmtXUm8zTFJ4VURhWWVqVGNmblRXWTNZa3BHSFFNNldVcndVanFGTExkMDk?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-cea384d7d6b3",
@@ -217,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QeVp1TGlfWTJHSHZmOFpYOFNCcjRzNWlCWTNvelBBRFY0THZNaEljZVFTMmc2bnkzTDkyYnlpOXdIa3NTb1ROS0Jjc3g0WWYwWUNMWEs2U2dLR2NnUEtIUFlFWTJONFZQ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-9cb41bb12d4f",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 05:41:11 GMT",
+      "ts": 1790142071000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”致日本九人死亡四人失联 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZnFiOVo5ZEFkUUV4TUIzV1Q1MHF1RjVMLWxUVTNQNmQxQi1ZUFlHaW5fQm1kMGViSWFPZmpjeHpMZGgwM1V5ZllNR0tab2daRjRSSkxhSnJJNmdNRVVsOUI1cGVWOGtSMWc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-082a08b2d765",
@@ -481,7 +505,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 43
+      "related": 44
     },
     {
       "id": "FL-de074b87f5e2",
@@ -506,18 +530,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-256e1a2eb5b6",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
-      "ts": 1789945816000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
     },
     {
       "id": "FL-8ca0646de89e",
@@ -551,9 +563,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-b88e3048f617",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VllrSmtUQzVpeE9rMERkN2NYVjhnY3lzdW90cEZwUXNkZXFBLW5ObVBtaGI4WGZVVDBpV1FHUzdKVlBzSXdrRl9BOHlmUU5MOGhVaEVkWDFndGJCbG91cUJRS1BxRkx1?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-e8a32a183e42",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
