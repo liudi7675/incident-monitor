@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-22T23:38:34.580Z",
+  "updated": "2026-09-23T00:14:55.159Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-8d9736c5c0b3",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 00:06:49 GMT",
+      "ts": 1790122009000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，黑龙江、吉林、江西、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水天气 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOakFoSmE2M1NPTzk5OGxVSVotZ0xBRDZaREJ2eldPaWdIVk5KWEhjRkFxdFhoUTN3dXFoRHFzSWZhZ2FBeUF1WDRWbDNCaHlNRF9maVI0ZFdlX3Rxd3daa1gxcDVlMHBwOE5WZjI1cEN5Y0pIejgzaVdRTnZUY2lidVRfeHRPekxwempWWTJpUWd5NlhjcW1FanJuZUpWQ3BEeEJtRzFMRHJYb21ZQmkwdmZVWkdEMVFiWFFyZFJIdENJQUcxcUtNTlhaTVpNZHpRU21neUJvR2g?oc=5",
+      "site": "新浪财经_金融信息服务商",
+      "siteUrl": "http://finance.sina.cn"
+    },
     {
       "id": "FL-3d7db262d8d9",
       "date": "2026-09-16",
@@ -27,27 +39,51 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4c509b3c5641",
+      "id": "FL-f32c3a9bff44",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 23:17:28 GMT",
-      "ts": 1790119048000,
+      "dateISO": "Tue, 22 Sep 2026 23:38:56 GMT",
+      "ts": 1790120336000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rSWFCVmdHR2xzUTgtVUdIa1VpejdBT2ZKTUdGNzJBYUFIaUtSS1U0ZTNPdW9xTVB2UHgtQ2tZZld3aTNpVmNNMTFCOHJvekNJNm5nNjZVOXdHWmJmdHc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "台风“杜鹃”已致日本7人死亡 500多栋房屋受损 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KSFVzcFAxNUpHWnBKcTVvcjRHYnFobGJfdFE0TF9DaDlXRXVmMW9od0RCemdhVERVQVczVGFseXRob0VSYlhZb2hhNi1TZ3ktRndrMkdnRE5OZ2l0RzlmYnV3?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-ae5fee4cd092",
+      "id": "FL-57d252b54cc2",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:35:39 GMT",
+      "ts": 1790120139000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - news.china.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNkZNSl90aWNtZWpqNTVTRkN6eXR3ZzdTVHltNktKOTNlNS1SSXFIUUdtQ0NoajE5ZTRWM1ZKbVpmMHZkTlBkeEtoQU45ak45TWNtYlA3dXpvVUxYY3JLTFNyLXJfZjdhMllKVjVhTEY?oc=5",
+      "site": "news.china.com",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-0e805f731471",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:01:24 GMT",
+      "ts": 1790118084000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "#台风杜鹃已致日本7人死亡# - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcVo2eWE5SGNQRkEzalVCdWVPZG1TT2Vaa1dDUmkxZTZQNFY4NzBJVWlZdnoyc3FGcHBhdVZwYTlrLVVqUUFjNXFTcUJTUHBXZU5ab0hrUGRIM2FPejVBS1gzNWtkdjEwRUtkRjJxclBXY0tpeFdyT1JrVWpOb3dwb3hiLWxpQTdlRUhQNjJrQ19SLUVFMGxZWGlrWWR4eG0zVHpSam1wT1o0WnJxNlRlWnNWWHAtWGpZX09B?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-e1d3abdb12e2",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 22:58:21 GMT",
       "ts": 1790117901000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃重创日本关东 死亡人数增至七人 - 8world.com",
+      "title": "台风杜鹃重创日本关东 死亡人数增至七人 - 8world",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnN0NVdnRlZfMGRLRGlmS3R0QmxTY3BMZmM4dEtjaHJ1UDR1QTF3R0Z0dXd1VW9TQzdSTGZiNmRPZHNCbk9jMVBZbW0waVpwcmlpeTllZFJGTUlsSlJkNTBscnpNWThweVVKcm1PVzJsUmhtaVBIYlRnM2oxMlU2amxlanhKWlFMdVd6RUhsUzZSdWFVNmE4Tw?oc=5",
-      "site": "8world.com",
+      "site": "8world",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -75,27 +111,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-ace9c984aaaa",
+      "id": "FL-ca6de6752804",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 18:06:00 GMT",
       "ts": 1790100360000,
       "scope": "intl",
       "type": "weather",
-      "title": "杜鹃台风在日本造成4人死亡——《台北时报》 - ua.news",
+      "title": "杜鹃台风在日本造成4人死亡——《台北时报》 - UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3YwREVvTWE5RHdKdkUyZHVZVVdGNWFEOWJJWXBJODRJaE1WYU9QM2pPWldKRGExdXV4bk0yRTBrQjcxWmpJZnJjWDVobjZFZ1VKQjFNa3VId1NvLU1JRC10Tnd3STRWdEUxaWFuQ0drbkc4alRMNUd6VUdJNGhSbmVZV01LRHJqNEdEdUdxdlRwb2xuSFRUOGZETXQ?oc=5",
-      "site": "ua.news",
+      "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-319e76c13b3e",
+      "id": "FL-926908f91e59",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 16:17:00 GMT",
       "ts": 1790093820000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 新浪财经",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ0RvTnpkak5kSmZwOE5mUDgyaGJMY3Zmck5XLTMyLWJvdTI2ZUU1b0RPaDMybzV5RTZNY3VSSVJvd2E0M29WNEZlM0pERHFHYjlUaV9aR1hqeGRlLUhaWkduMmlxUm9yanJ3LW9FU2ZGdUpuOFo1ZA?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -183,15 +219,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-22e4406ccda0",
+      "id": "FL-33c61a069546",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 08:19:09 GMT",
       "ts": 1790065149000,
       "scope": "dom",
       "type": "geo",
-      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - app.xinhuanet.com",
+      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -231,15 +267,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-767bd7fc79b6",
+      "id": "FL-c2daa72fac13",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -255,27 +291,27 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-1a3c7a297132",
+      "id": "FL-5b4e08e99248",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
       "ts": 1790057160000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经",
+      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经_金融信息服务商",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "新浪财经",
+      "site": "新浪财经_金融信息服务商",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-0dfb1b52787f",
+      "id": "FL-c01c176e97c1",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:52:06 GMT",
       "ts": 1790056326000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本4人死6人失踪 关东地区受灾严重 - 中华网",
+      "title": "台风“杜鹃”致日本4人死6人失踪 关东地区受灾严重 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTIyUGx5U0lObjNzXzVfMmZhQmJsZHNEUDNhNlhWSm9FQjNqTFk2Q0VGNi1GS1NISDRuak9xX2d5Z01WbEszZkduUFpyZ2dob2t4YzhrREJISWpiWWhLN0N0NWxkcjNEMFFRNXpGMlY?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -313,18 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqb2s2S1YzdU1RbnMwRGotUlJ1VzVwVEV1aGdvV2xlcGZ5UlB3dGdwZlBsVkR0Nkx2Mm9EZFFNOXBlSEx3UGZ2S2dhcGF2S2FfZG5YWDduTWFFNUJOV2c?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-04b94cad4539",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 03:35:00 GMT",
-      "ts": 1790048100000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "四十岁老登砍《魔兽》又火了！暴雪屡试不爽：真乃青春传奇 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0taDByTS1RWEJORG94SlY0dUE5ZHhGQU9xMURqZEhIdFdvV2VwQ3B6d2xySzVjRS01dVZpcENhb1lRRzZSRzhxZ1MzLVcwXzZWM1lUSkpjTlg?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-c14f6c117531",
@@ -508,18 +532,6 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-dcb49716ce15",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 10:33:25 GMT",
-      "ts": 1789900405000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚发生6.2级地震，震源深度120千米 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNE5vVnloeVN2OTEzcGV4cE1GQU9GS241MXUtUE15cUo5NjdSMWoxYS0yelNXN2c1RFpmLU9jQnk5S2hta2pOUWlhSGNvZmhSTFVDRUYtelc4bHRkWTBvWExpVENKb095NnV5Z2dDcFJxZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
       "id": "FL-ad823457314f",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:17:00 GMT",
@@ -616,6 +628,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-58dd853699ee",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 16:02:20 GMT",
+      "ts": 1790006540000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "系于伤痛之地：2023年哈塔伊地震后留居居民的灾后生活与心理体验研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OeHViel91OUhRMG5URHljbmtmcmZiUldKRWRzeVY1NmJOLW9QbWNDdmZRZEt3YXJoX1VvbUxpOVB4VktWRm5sSUVUQnQ0MUQ5aUlkTUNwYzF2V2d4YmRrV1pRUUFkbmtLZVVLXw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-0974e07d8b21",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 15:40:00 GMT",
@@ -626,18 +650,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LeEJlQ3dCSlNiWkJzSkxxY2hEZzRWTUlOV2tUM3VzLS1KdXZjYW5XVTRhbXd5WFo1YkpCa3BaMGRWS1djTUNaVi1jaTlpSTA4MEVaQkg1OXNLeWo5V1lHdw?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-45865dec2b49",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 14:07:21 GMT",
-      "ts": 1789999641000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-32df0e00ca87",
@@ -674,18 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-ab86272df011",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 08:00:27 GMT",
-      "ts": 1789977627000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "群防群治·百日攻坚丨巡查到位、提前撤离 大足楠木村滑坡 7人安全避险无伤亡 - cqnews.net",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yazNtV282TXlHMC1kT3lRVEpRTUt5THM0TFNKbU1mdEI3b2hORWZKS1l0SXdzanJUSGNhZ08yUzRJVHNVXzhtN2dJZkdPdGNEdVNzZEROcVBwRk5qRzJvX0xGS1RQc2txQ3ZR?oc=5",
-      "site": "cqnews.net",
-      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-04bb2aa5f00d",
