@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:14:55.159Z",
+  "updated": "2026-09-23T00:43:44.186Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-3d7db262d8d9",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
-      "ts": 1789597380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
@@ -39,28 +27,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f32c3a9bff44",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 23:38:56 GMT",
-      "ts": 1790120336000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 500多栋房屋受损 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KSFVzcFAxNUpHWnBKcTVvcjRHYnFobGJfdFE0TF9DaDlXRXVmMW9od0RCemdhVERVQVczVGFseXRob0VSYlhZb2hhNi1TZ3ktRndrMkdnRE5OZ2l0RzlmYnV3?oc=5",
-      "site": "观点网",
-      "siteUrl": "https://www.guandian.cn"
-    },
-    {
-      "id": "FL-57d252b54cc2",
+      "id": "FL-9443a48e7857",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:35:39 GMT",
       "ts": 1790120139000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - news.china.com",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNkZNSl90aWNtZWpqNTVTRkN6eXR3ZzdTVHltNktKOTNlNS1SSXFIUUdtQ0NoajE5ZTRWM1ZKbVpmMHZkTlBkeEtoQU45ak45TWNtYlA3dXpvVUxYY3JLTFNyLXJfZjdhMllKVjVhTEY?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-309fe31f215b",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
+      "ts": 1790119154000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-0e805f731471",
@@ -123,15 +111,15 @@
       "siteUrl": "https://ua.news"
     },
     {
-      "id": "FL-926908f91e59",
+      "id": "FL-319e76c13b3e",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 16:17:00 GMT",
       "ts": 1790093820000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 新浪财经_金融信息服务商",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ0RvTnpkak5kSmZwOE5mUDgyaGJMY3Zmck5XLTMyLWJvdTI2ZUU1b0RPaDMybzV5RTZNY3VSSVJvd2E0M29WNEZlM0pERHFHYjlUaV9aR1hqeGRlLUhaWkduMmlxUm9yanJ3LW9FU2ZGdUpuOFo1ZA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -255,27 +243,27 @@
       "siteUrl": "http://www.sc.chinanews.com.cn"
     },
     {
-      "id": "FL-533f6984454d",
+      "id": "FL-48664b019fcf",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:36:14 GMT",
       "ts": 1790058974000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - 四川新闻",
+      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcUNSNDEtQ1NkcHlzNEgwOWhhWjB4WDZudnFqMFZiNWw0eC1mWUp6a1F2Z2NGY05ESnVRZEY4VkIxcGROc3luYTJYS0VDMnlwXzJEeEEtSXZRZktxM3ZkNHNBdw?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-c2daa72fac13",
+      "id": "FL-767bd7fc79b6",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经_金融信息服务商",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -291,40 +279,28 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-5b4e08e99248",
+      "id": "FL-1a3c7a297132",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
       "ts": 1790057160000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经_金融信息服务商",
+      "title": "台风杜鹃致日本两县4人死亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "新浪财经_金融信息服务商",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-c01c176e97c1",
+      "id": "FL-0dfb1b52787f",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 05:52:06 GMT",
       "ts": 1790056326000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本4人死6人失踪 关东地区受灾严重 - news.china.com",
+      "title": "台风“杜鹃”致日本4人死6人失踪 关东地区受灾严重 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sQTIyUGx5U0lObjNzXzVfMmZhQmJsZHNEUDNhNlhWSm9FQjNqTFk2Q0VGNi1GS1NISDRuak9xX2d5Z01WbEszZkduUFpyZ2dob2t4YzhrREJISWpiWWhLN0N0NWxkcjNEMFFRNXpGMlY?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-b8e9d50c7e9f",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 05:18:44 GMT",
-      "ts": 1790054324000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "第十二届天山地震国际学术研讨会与会代表来呼图壁县开展野外研讨 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YeUpleko4U09YekhVd0ZHN1NHQm9vb2FzOWplS1NkV21HS1lMUml0RmdHX2dlQWV6VGJZTUdEejFwVVdIMnRzejVIaHFlOUNJVmQ1TDhOQ1pBNGFWSjcwMzRPM0thNE45MGlkZS1YTEZaRzBGdXM5Yg?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-5cfe910cf939",
@@ -409,7 +385,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 44
+      "related": 42
     },
     {
       "id": "FL-1f7af99aaf44",
@@ -460,18 +436,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-8ca0646de89e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:00 GMT",
@@ -503,9 +467,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -520,15 +484,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-b88e3048f617",
+      "id": "FL-b7c890035807",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
       "ts": 1789906277000,
       "scope": "dom",
       "type": "geo",
-      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - 四川新闻",
+      "title": "零伤亡背后：茂县山体滑坡的“三道防线” - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ueXllbkRvUjUzZkZuRkt5SVNFbEk2SWpnRGJDclVhdFNoLXlQMm14cUNBdVRGcnZBQmhyTHg2QnNVY2RvOHpUVkZhOHp1NFFRS2FzU1IzS2dBc0pSazNLbV9zRQ?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
@@ -688,6 +652,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-9789fc090d23",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 08:00:27 GMT",
+      "ts": 1789977627000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "群防群治·百日攻坚丨巡查到位、提前撤离 大足楠木村滑坡 7人安全避险无伤亡 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yazNtV282TXlHMC1kT3lRVEpRTUt5THM0TFNKbU1mdEI3b2hORWZKS1l0SXdzanJUSGNhZ08yUzRJVHNVXzhtN2dJZkdPdGNEdVNzZEROcVBwRk5qRzJvX0xGS1RQc2txQ3ZR?oc=5",
+      "site": "华龙网",
+      "siteUrl": "https://www.cqnews.net"
+    },
+    {
       "id": "FL-04bb2aa5f00d",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:44:45 GMT",
@@ -700,6 +676,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-e479e3cbe475",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 04:05:45 GMT",
+      "ts": 1789963545000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "第十二届天山地震国际学术研讨会与会代表来呼图壁县开展野外研讨 - xj.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEctWDJiY0NqdlFwdnhKcHl0eUVnZVdaU0ptQUNDQXpaX2Rhamc4aGFmLVhwaEkwTXktY1VpRFI2UUtfTHlKV0JpVUJYREF2Q3VaRU56TC1FWTVwV2MyUWw4ZTdIbVBJN1FRV0ZRWFdUWDFYNmwzc0pNVEctdlhZV3AzMA?oc=5",
+      "site": "xj.chinanews.com.cn",
+      "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
       "id": "FL-e8a32a183e42",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-7523ab286805",
+      "date": "2026-09-18",
+      "dateISO": "Fri, 18 Sep 2026 08:46:29 GMT",
+      "ts": 1789721189000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "在茂县石大关山体滑坡中，他最早发现并预警，协助转移群众，获通报表扬丨C视频 - sichuan.scol.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTXBPYzEwbzg4cjgxNzlELVpIdXF3Z2VlVlVyUUw2ZmdSYTVrUHdJbC1nTkhUNlNwTU1oclFMbTFEanJ0SkpubFlHNmtQS3QtOVN3WWVwVU9RLVdXSHlCSFYzWQ?oc=5",
+      "site": "sichuan.scol.com.cn",
+      "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
