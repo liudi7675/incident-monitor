@@ -1,17 +1,29 @@
 {
-  "updated": "2026-09-23T15:11:01.513Z",
+  "updated": "2026-09-23T15:41:48.048Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-c888b8d2c740",
+      "id": "FL-f0abe279cae0",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 15:05:00 GMT",
+      "ts": 1790175900000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本10人死亡 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WODNXaGpFcWE5b1VzVWc1YVpPVmU1S25hUmFCT0VFSHBkcjlFT3NsTU5zNllVckd0RnBMNGlMSERLcXlVbjRfQ3V5eDJLdERIV3MzSVdVZVY2YWJkWkE?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-dea582a51f03",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 14:26:15 GMT",
       "ts": 1790173575000,
       "scope": "dom",
       "type": "geo",
-      "title": "特习会能否促成中方释放地震学家陈友麟？ - dw.com",
+      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
-      "site": "dw.com",
+      "site": "DW.com",
       "siteUrl": "https://www.dw.com"
     },
     {
@@ -27,15 +39,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-d10cd3660d1c",
+      "id": "FL-1cf1dc1ed2d8",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
       "ts": 1790171798000,
       "scope": "intl",
       "type": "geo",
-      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - RFI",
+      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -133,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxUkUyQll6VThfdko2ai10a2lpS3NXdjdnbWJVVk9CQ0R2QmNTLUNGZnVuVU5jcWRZcGJOQnctbFRPRWF3OGx2OWJMSTJyM3NIVkFOdDNodm9fU0wwRkQ0YjVULUNyTGJCVnJUb0NrVTI4bjcyS3VPMw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-8aa4322b7fef",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 09:07:41 GMT",
+      "ts": 1790154461000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "地震学家在华被拘，美国突然高调要人，一张更大的牌正在打出 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3FXTUZpazZMdzhxRXRWa1NlNFN2SkEyVWI2TFB6dXFudVktbGhsRlpHSWlsb0l0SkxZVkZQTTFrZW8xZ3dnMk5aOWQ2OG5nX2JWcjl4OVVsc1VGZlViRk5qOHdaX3BDbkFreFpSM2JEQzFORkJGZTdIaGJMejB0Q0Q1OGUtazZOVzhGbA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-55d228a4a97a",
@@ -447,15 +471,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-565a91bca899",
+      "id": "FL-003a49f7098c",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 01:41:50 GMT",
       "ts": 1790041310000,
       "scope": "dom",
       "type": "geo",
-      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - 观点网",
+      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - guandian.cn",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRU41Y0NqZ29UN19UZ1N0bUNwUVphNnVQcHA0c1JQNlkwd2VhazZTT3dZbnVaTFdOYjZDRVZLWkZDMndZSTdJTDZkNGk1LUJ5N0lTM0lMTG1ZYXBPaFZnWnJR?oc=5",
-      "site": "观点网",
+      "site": "guandian.cn",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -465,9 +489,9 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "RFI",
+      "site": "rfi.fr",
       "siteUrl": "https://www.rfi.fr",
       "related": 42
     },
@@ -520,16 +544,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-11fb917c8127",
+      "id": "FL-b30dc2c29d68",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.cnr.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "site": "news.cnr.cn",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -592,27 +616,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-df67a5b15628",
+      "id": "FL-37bcddd97abf",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -624,18 +636,6 @@
       "type": "geo",
       "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUFZBcldCdGxBNFo0ZmYwQms1WmI0WGkwMXE3WHV0eERicmJicng4TkxLeUlPTnpWQ21iazh3NzZjaXpTUGtoM29MRUhYdkpKMGVfVzJHQkttUQ?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-0cc2109d24d2",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:11:00 GMT",
-      "ts": 1789855860000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcktwVU1UWno0UTJIU2E4UEs5dEs5Q3ZLbVRsSW9xYnYyUzE0TkVaYTVwWW50V1pZeFhuRFJnVndTZDF0Vm5mY1Ata0dEYTRTRXdsSXctNEZfUQ?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
