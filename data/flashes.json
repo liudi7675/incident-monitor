@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T21:11:15.207Z",
+  "updated": "2026-09-23T21:39:33.734Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -231,18 +231,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-508e8ab5329d",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 03:31:20 GMT",
-      "ts": 1790134280000,
-      "scope": "dom",
-      "type": "other",
-      "title": "四川茂县精准避险获应急管理部通报表扬 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRjFnZ19iR3JvSlhBQ1E1QXZrUjNTWllCQmJmOUZ5ZjNtdllzRkdrYWdVRjZ0ZUVKbi1JeVFGdHpYZG5RSTkzYnZ2RzN4RlFfSnl4X3ctaG9vVjhJSWpYMUcxbFp6MVg0d2lUWmtLaVYzSE5GdDh3TFd1X3RiSFRYY0VHaC1EbWxuYU83d1pYSXZUY0dXUExxMnhrbVFWMjFj?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-e772dc93cc13",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 03:12:42 GMT",
@@ -303,15 +291,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-aa573c0ed106",
+      "id": "FL-309fe31f215b",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
+      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -493,7 +481,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-de074b87f5e2",
@@ -556,15 +544,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b30dc2c29d68",
+      "id": "FL-11fb917c8127",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - news.cnr.cn",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
-      "site": "news.cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
     },
     {
@@ -712,15 +700,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-e8a32a183e42",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn",
       "related": 9
     }
