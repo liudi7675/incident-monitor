@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-23T05:40:19.301Z",
+  "updated": "2026-09-23T06:14:49.727Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-9cb41bb12d4f",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 05:41:11 GMT",
+      "ts": 1790142071000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”致日本九人死亡四人失联 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZnFiOVo5ZEFkUUV4TUIzV1Q1MHF1RjVMLWxUVTNQNmQxQi1ZUFlHaW5fQm1kMGViSWFPZmpjeHpMZGgwM1V5ZllNR0tab2daRjRSSkxhSnJJNmdNRVVsOUI1cGVWOGtSMWc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
     {
       "id": "FL-606d77c3a008",
       "date": "2026-09-23",
@@ -87,6 +99,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-8bc5b7b87dd4",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 01:28:12 GMT",
+      "ts": 1790126892000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "土耳其地震灾区母亲亲密伴侣暴力暴露、绝望感、不确定性不容忍及对儿童暴力态度的混合方法研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0aXBTcEYwMzd1clUxb0lyNTFoU1dhWjc2cGVmRTFKQm1aOGFrdHI3WFdnSWVYS2dsZEYxRExwdWlHRlpONFA3UDRrRGpjc3Y4X181SzRpWGtyMUFsN3drdU9SYm1TOHpuWDdtTw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-b804e808c12f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 01:21:36 GMT",
@@ -123,39 +147,27 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-14d882a2125c",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 23:58:00 GMT",
-      "ts": 1790121480000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "日本杜鹃台风死亡人数升至9人—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnBIWjhOdVljRmw2aVZPbzFEZFlhb1FBWG9GeWVHM25oUTFOcklKX1lJUUh4Sm8zZGZka1doU2w5ZnZFSGdlckZfWWx0Wl9aVFpFQ20xSHdVeFlhU3k3ZXBpY0kyR2hxREh0NlgzVkMtUmd1ZmRXb0ZOb1MyZzNNU0JYM3B1ZEl5NzZkMkh0QUcxVEJQWEc4R0FFWVp3RGVxN3hVNFE3bmdIdw?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-9443a48e7857",
+      "id": "FL-57d252b54cc2",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:35:39 GMT",
       "ts": 1790120139000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 中华网",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNkZNSl90aWNtZWpqNTVTRkN6eXR3ZzdTVHltNktKOTNlNS1SSXFIUUdtQ0NoajE5ZTRWM1ZKbVpmMHZkTlBkeEtoQU45ak45TWNtYlA3dXpvVUxYY3JLTFNyLXJfZjdhMllKVjVhTEY?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-309fe31f215b",
+      "id": "FL-aa573c0ed106",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
+      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -291,6 +303,18 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
+      "id": "FL-2a8090a588a2",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 11:04:06 GMT",
+      "ts": 1790075046000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "巴西南大河州暴雨致4人死亡 逾3500人被迫撤离 - br-cn.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX29CX2ZxNjVoVm1NSmZMS01OVE9MX2ZISURhNll6UXJHZS1CZnNnTXpmUU9Eb0ZwalFKRWs3M05KTXZqWmdNcnI3WXBMcGJDbjBoNEw3X3JhSmNFNm9mQkJ1dGp4SlowT2JQSE1CMVdFMGF6R3JxMnNCY0NnMVM0elBVenppMmZaTmlfODJ3?oc=5",
+      "site": "br-cn.com",
+      "siteUrl": "https://www.br-cn.com"
+    },
+    {
       "id": "FL-f0a458c6b7e1",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 10:15:00 GMT",
@@ -315,15 +339,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-33c61a069546",
+      "id": "FL-22e4406ccda0",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 08:19:09 GMT",
       "ts": 1790065149000,
       "scope": "dom",
       "type": "geo",
-      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
+      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - app.xinhuanet.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
-      "site": "新华网客户端",
+      "site": "app.xinhuanet.com",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -375,6 +399,30 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
+      "id": "FL-bc76a96ac99f",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 05:17:10 GMT",
+      "ts": 1790054230000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于高分辨率 DEM 的拐点系列提取与古地震识别——以中国山西断陷带豫光盆地边界断层为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81cjF5a29XUm9hLTJXNGZyZDVyNks2TkpqWkJwMXAzcUlwTmtfNERuQTNlQnB5TVB6OHdmTy1oaXVyMktaSno5LUZwUWRBZlZSX3Q5b1YyMWEwU1JmN2VXRllUVl84dzRUTVl6Vw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-d91314272adb",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 05:17:10 GMT",
+      "ts": 1790054230000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "约旦大学地震风险制度性准备：基于学者视角的灾害风险削减系统分析 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRS0QtMXJMRW10LXdjc3QzU25fdnpHUHljVjB2Qkg2cEtUV3dkTENIbXV2ci1QcGthUUN0UGRaVFBlNW1aVGEwNXhlVEI5bDhCM2xGeDJsaURidFBrQWZadGZ3TGhodEpyVVpMdg?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-5cfe910cf939",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 04:11:00 GMT",
@@ -421,7 +469,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 50
+      "related": 48
     },
     {
       "id": "FL-1f7af99aaf44",
@@ -460,18 +508,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-256e1a2eb5b6",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
-      "ts": 1789945816000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
-    },
-    {
       "id": "FL-8ca0646de89e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:00 GMT",
@@ -503,9 +539,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -628,30 +664,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-45865dec2b49",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 14:07:21 GMT",
-      "ts": 1789999641000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "强台风“杜鹃”袭日：豪雨引发水灾泥石流 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-3f158abc1f19",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 12:58:06 GMT",
-      "ts": 1789995486000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "重庆大足成功预警一起滑坡灾情 提前转移2户7人 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM0hrQmVQLUNFQ2Q3N18yT2lkWUwtX01GRXZUMlZiQW5LYjhBaDQyc0RPa2VCdW1fSVp0TTQ3T2lHYjBFQS1xcExQVEpGX01TTGlzNWFOYTVvZC1aenIyMzBQeGFXTWZU?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-32df0e00ca87",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 12:57:02 GMT",
@@ -686,18 +698,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VllrSmtUQzVpeE9rMERkN2NYVjhnY3lzdW90cEZwUXNkZXFBLW5ObVBtaGI4WGZVVDBpV1FHUzdKVlBzSXdrRl9BOHlmUU5MOGhVaEVkWDFndGJCbG91cUJRS1BxRkx1?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-b0e8286a093d",
-      "date": "2026-09-14",
-      "dateISO": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "ts": 1789369200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91b2ZQMHJfOW44Z3dyb0JDU2F2M3F2VjlCeWU3SmxIWGRoZWZOUnhHbENDZVRoNTVmZy12Nms5Wk81T1FvUDBtcGt4ckZpYlFwWmttUkotTkwxWTZpcmVET1c0MkJUMW51MVVDTHA0Nmc?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
     },
     {
       "id": "FL-e8a32a183e42",
