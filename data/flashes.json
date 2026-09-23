@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-23T11:11:07.552Z",
+  "updated": "2026-09-23T11:40:56.969Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-d8564789b654",
+      "id": "FL-955e0f739849",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:42:17 GMT",
       "ts": 1790160137000,
       "scope": "dom",
       "type": "other",
-      "title": "双预警齐发，中央气象台：今晚到明晚，西藏、四川、陕西、湖北、河南、安徽、福建、广东、海南等地有中到大雨 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mZGpxb1FUX3djdmtjZlFmTzJOS052Y2x0TFk4WVFIdnh4Xy1SQUM4dlFiT0lhRjZlbjhIU011MGdYTEtBd0p2Z21pekdhRkNmRUU3NXJlU3ItaHM?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
+      "title": "双预警齐发，中央气象台：今晚到明晚，西藏、四川、陕西、湖北、河南、安徽、福建、广东、海南等地有中到大雨 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWM1ZlBBYjQ5c3RGT0NwbEowNE9xS3U4M2cybU00Y0lMMDdsc2o2dGgyUi1ac1RlYnAwV2hhYTh0TzVSVFkwb09zVGNFdDR1NHhaQVR3dWZtUWhJZkhscTlYdm5YNGZoNDVEQ0dDMjNCVEFVeHJUYTRhZEprcWxnY1hUSHJJWG1SdGVwOA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-14c88900dfcc",
@@ -87,18 +87,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-f288e2076355",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 08:26:00 GMT",
-      "ts": 1790151960000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”致日本9人死亡4人失踪，超2万户家庭停电 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VNDRmOFZuV2NZbU9xa1gwTUpqYmlqeVREbm10YXJmbHVuQmpGbzlTeEV5Nkc2cVFHZFcxLWQwMnRTZEFjemhNY2JjUTF4bWthU29vMzc0SldaUVZ3b1RzSWJjei1VM2hHSlpweFlwejFCQ2NhNkdESg?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-3100d185793f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 07:29:37 GMT",
@@ -123,15 +111,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-17ff6fea0964",
+      "id": "FL-9cb41bb12d4f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 05:41:11 GMT",
       "ts": 1790142071000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本九人死亡四人失联 - zaobao.com.sg",
+      "title": "台风“杜鹃”致日本九人死亡四人失联 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZnFiOVo5ZEFkUUV4TUIzV1Q1MHF1RjVMLWxUVTNQNmQxQi1ZUFlHaW5fQm1kMGViSWFPZmpjeHpMZGgwM1V5ZllNR0tab2daRjRSSkxhSnJJNmdNRVVsOUI1cGVWOGtSMWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -169,18 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93N3ZfbkRhY0xkYm12UlA0bWdsY2k4VDRmWVQ0dk04TmlpaE15YV9mOGw3NGx3Z25CM3pEMlhrYXF2ZDlaUmZLejRxVWVMaG1DY3BwZWlvSmk5Q09hTGRhVUpVNGU2VXc2dEpGNw?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-b7306332332d",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 02:18:00 GMT",
-      "ts": 1790129880000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本9人死亡 - ycnews.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rbjJsT2xKOHp6SnRTLXdTVjRMdzdQZEVkMmRoX3dXOVI3RUhLS1U0R05xRFd5S0Q3Y0phb3JYZnVWOHhMTnRZem9ROVg1OGFPSGp0WXp3Tm5GNmduWERLRlVR?oc=5",
-      "site": "ycnews.cn",
-      "siteUrl": "https://www.ycnews.cn"
     },
     {
       "id": "FL-78673d83d20b",
@@ -231,15 +207,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-57d252b54cc2",
+      "id": "FL-9443a48e7857",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:35:39 GMT",
       "ts": 1790120139000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - news.china.com",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNkZNSl90aWNtZWpqNTVTRkN6eXR3ZzdTVHltNktKOTNlNS1SSXFIUUdtQ0NoajE5ZTRWM1ZKbVpmMHZkTlBkeEtoQU45ak45TWNtYlA3dXpvVUxYY3JLTFNyLXJfZjdhMllKVjVhTEY?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -253,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-afef9800f12f",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:16:25 GMT",
+      "ts": 1790118985000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，黑龙江、吉林、江西、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水天气 - finance.sina.cn",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0FWcW1iZ1dFSW1XVk9ia1Q0cnJfYWdNTi0tVUh5bDdJWjVLRl9yamxvM3FJMm8xMjI1ZnEzZEtNMWNPMjB0ZlVWV1M2V2o4QXFfRnNQVFRqd0xZa0VNTTdOR1pTTVVYNnhxZ0VDenU0WFJRM0JfNHBBUVNpQ19MTDNDQ0tCYm1pSWVfQVpGWGVaUzduMjJyV29lV19xdGl0SDJFQk5xTzZnRV92TjZwWkFKMFpqRU5Ub2Q3LTZmUFY0VUlSVHR6eTZuVGdQTlI2RWhvR25ZMHRRQQ?oc=5",
+      "site": "finance.sina.cn",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-d204d5b9879d",
@@ -441,9 +429,9 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
       "related": 41
     },
@@ -460,27 +448,27 @@
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
-      "id": "FL-89d6589d1504",
+      "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-861987facab4",
+      "id": "FL-fc0e498bdf07",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -515,20 +503,20 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
       "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
+      "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-4070bae74ea0",
+      "id": "FL-6f1208e0cccf",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 13:22:16 GMT",
       "ts": 1789910536000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - zaobao.com.sg",
+      "title": "四川盐边县发生泥石流 致两人死亡三人失联 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EWEVFeG0zSF80d2loUW9wOTg5RmRrazBrWUtzMkl1T3c0c2dxMHRFRUVsaEdQNjZLNEl6TmhuNllySm5IYmhtMTRZbDA1c1NKaVlORW1CLTdaNVVKcUoycUVyMGU1SDMxdWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -580,15 +568,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
+      "id": "FL-5cdc73c89685",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -648,6 +636,18 @@
       "type": "geo",
       "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WUEJZZElLOU55Qy1WTlFYSzN0cmNJMWpXYjhyc1lCZVRDbkdhZ3c0a3dmV0w3aWhaLXQyNzlCWFoxVmlYYXBBRjZoM1pqeDNFYk1NazlSTnRoQ3Q1WjdUTzRyWUtWbFpiaWhmOXhOMmM1Rlc4aGs4?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-594c01ee2ed2",
+      "date": "2026-08-31",
+      "dateISO": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "ts": 1788159600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "美大峡谷国家公园突发山洪 超20人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldjBIWG1ybGVvYXNrRDZuTmxqU0tHWW5nS094Qy01Vy1xZjlrUVhuQmRld21uaWk3OXk1NmNJcFZBVzBYLUowdW81ZzVuTW5XNGtka0szVV9KcmpWRmFaem5zWkJVMG80dmo0akcxZkpFc2dObU03cXJxTFdwa3M?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
