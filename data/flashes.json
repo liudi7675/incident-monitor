@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T05:10:18.531Z",
+  "updated": "2026-09-23T05:40:19.301Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,18 +111,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-c7137faa732e",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 00:46:39 GMT",
-      "ts": 1790124399000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本3人死亡多人失踪 - qlwb.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EYjdVbnlaTUJ1eDNJVVRMQ3VwN0pGRUpfZFkzeEFqdi1lYXNGdEt4VVFGaEVab0RIRTRUWlZPVG1EOGdZa2JEZzRHMUVodVF3b2xrVFl3MA?oc=5",
-      "site": "qlwb.com.cn",
-      "siteUrl": "https://www.qlwb.com.cn"
-    },
-    {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
@@ -135,16 +123,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d438e1d2c767",
+      "id": "FL-14d882a2125c",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 23:47:41 GMT",
-      "ts": 1790120861000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，黑龙江、吉林、江西、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水天气 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjZNcldvdmtyR2xTVnp5YWRfRWlrN0NLRkU5TTVVQ2NtOUE4eEF2YzNhMGpscXA5enJVX1RfcWtqYkFXanNYS3lLbE1pUnJJa0duNTRHdUNrTHZlRnRCWmtaUkFpSjNVY1V0MVh5Ym9SdHBaT3N4NlZsLXlSSF9ITDA1UlkyNEJ1SFQtZg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "dateISO": "Tue, 22 Sep 2026 23:58:00 GMT",
+      "ts": 1790121480000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "日本杜鹃台风死亡人数升至9人—— 阿纳多卢通讯社 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcnBIWjhOdVljRmw2aVZPbzFEZFlhb1FBWG9GeWVHM25oUTFOcklKX1lJUUh4Sm8zZGZka1doU2w5ZnZFSGdlckZfWWx0Wl9aVFpFQ20xSHdVeFlhU3k3ZXBpY0kyR2hxREh0NlgzVkMtUmd1ZmRXb0ZOb1MyZzNNU0JYM3B1ZEl5NzZkMkh0QUcxVEJQWEc4R0FFWVp3RGVxN3hVNFE3bmdIdw?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-9443a48e7857",
@@ -219,15 +207,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-0768870787d6",
+      "id": "FL-319e76c13b3e",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 16:17:00 GMT",
       "ts": 1790093820000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - finance.sina.com.cn",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZ0RvTnpkak5kSmZwOE5mUDgyaGJMY3Zmck5XLTMyLWJvdTI2ZUU1b0RPaDMybzV5RTZNY3VSSVJvd2E0M29WNEZlM0pERHFHYjlUaV9aR1hqeGRlLUhaWkduMmlxUm9yanJ3LW9FU2ZGdUpuOFo1ZA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -363,15 +351,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-52db84fd5584",
+      "id": "FL-767bd7fc79b6",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:22:00 GMT",
       "ts": 1790058120000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - finance.sina.com.cn",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sMmxBRFlFclpEX2tiTXFSWS1wa3FzZGNXdV96azhIMFRfLWhGRkNqV3NXRmVBaUpCOFpSQWV1UnQyeDRtTko0MWFreDA5U241NlBmdnZLUlZEeEhiaE5lUzdPdVktTTg3U19JQzE3UWVpNlhmR0NhMA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -385,18 +373,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkR4TFJOVkdSOWRnazdxTEtTSkJyWllXcjU3MzFIREo4QUdEcGhHWGZXdUptU3o3cGhKRDBtV3ljcGJ2U1JHQUFnMlFqN2VEMG5RYUljVFdwZw?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-250f074189bf",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 06:06:00 GMT",
-      "ts": 1790057160000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风杜鹃致日本两县4人死亡 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlbnJRb0xJRkJxT043LWNrd0tnbW50czdseG9PZDVfREljZ0FNZTBCRWxvcmQyMl9ta09HMDNBckdPZEFXRWN3UWNvOXAwalJWaUpBZHVFRzdhLThXLWczZ0lZSmdmTU5VSEoyRHZmRVB5Z1dRSVdNUw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-5cfe910cf939",
@@ -445,7 +421,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 48
+      "related": 50
     },
     {
       "id": "FL-1f7af99aaf44",
@@ -484,6 +460,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-256e1a2eb5b6",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 23:10:16 GMT",
+      "ts": 1789945816000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZeTZXVVU3Zy03Wi1QQzZXLUlYX2Z6ZDVNYmwzMWNtbmM5d3dCcm9mNDNVbE9iNHRNay1RMXlPMU1DbGo4SFRfcnlfMFhPb0sxX0hHTVpQakpIdktuRFlJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-8ca0646de89e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:00 GMT",
@@ -515,9 +503,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -650,6 +638,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR0hzbzVlR1BIcmhnbXlTaFBCY1cwQ2t6OHItUTY5T01UNTlXdGFLaGg3amJNRndBSXJFcHpqSkJ4UlN6bUlYamxoUmVNVnpLZkZDR1F4cVBhR0MzYjZRYThPaU03aDRPTWc?oc=5",
       "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-3f158abc1f19",
+      "date": "2026-09-21",
+      "dateISO": "Mon, 21 Sep 2026 12:58:06 GMT",
+      "ts": 1789995486000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "重庆大足成功预警一起滑坡灾情 提前转移2户7人 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM0hrQmVQLUNFQ2Q3N18yT2lkWUwtX01GRXZUMlZiQW5LYjhBaDQyc0RPa2VCdW1fSVp0TTQ3T2lHYjBFQS1xcExQVEpGX01TTGlzNWFOYTVvZC1aenIyMzBQeGFXTWZU?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-32df0e00ca87",
