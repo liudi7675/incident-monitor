@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T13:12:53.819Z",
+  "updated": "2026-09-23T13:41:26.401Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-1ba6bd59c00c",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 07:07:29 GMT",
+      "ts": 1790147249000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃吹袭日本关东 酿九死四失踪 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVRibnR1WnF6bzFTTDhGTEVFUWFJRjRlTVBhOFhYaGRNQVVVYkcybU9XQ3FLcjg5MnA3RmJlVkNSa2I4RFcxWmQ1aG9aS0JFZW00VVNGZ25oc2J4dWtUMVBtRUdxb09lUHpUYmllZTJucjFJT3N3Z0xySEJqR0lVNFBNSzFnbkVURnR0QUNWVQ?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
       "id": "FL-123ed52bc579",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 06:42:00 GMT",
@@ -195,18 +207,6 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-9d61bd85c622",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 00:16:25 GMT",
-      "ts": 1790122585000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：预计今早到明天，黑龙江、吉林、江西、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水天气 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeW82OU0tZDJCemszSXlWOG5LWjFMRnU2N2tXM0RtTGM0V1JMd0Frb0lNWF9feEhtRGhZR2xlM2VwNG1SdndIXzAtTkVXS2twM0dQYWxsa1hNcnpqbXNFWGhiSXVndXNVcGVMRHNaRFRBTTE4T3NpRWVCYmk1V0FVRHMyRnRFRS1xeV9HaU1KYmhDYU5MMDBOMWwxSXZyaFZEN3hFMlJzWnRpZ0N4c05PcjRyRXYzZ1cxNmxUdmcxZnJ5cE84bUF6TjJJZFQxSDlBZjBXWkJFaUgwZw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
@@ -255,16 +255,16 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-d204d5b9879d",
+      "id": "FL-9d61bd85c622",
       "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 23:03:49 GMT",
-      "ts": 1790118229000,
+      "dateISO": "Tue, 22 Sep 2026 23:16:25 GMT",
+      "ts": 1790118985000,
       "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震，震源深度10千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjdrb2hJSlpacmRmenJBVklIRmI0cm4tX0dHUk5HdmwyNVJPMFRGaVloUTV1QlBLYXljRGhyeHA0UVQwVzlRVnpxWEhLVU03VHI5RkhtRGFrZV9wTlNzaHk3MThaNll5eDNYdTBhTVdNTTNXQmVSS0JhSkg4V2V1ZmlSVjJIcVZxUFFreg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "type": "other",
+      "title": "中央气象台：预计今早到明天，黑龙江、吉林、江西、浙江、福建、四川、云南、广西、广东、海南岛等地将有短时强降水天气 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0FWcW1iZ1dFSW1XVk9ia1Q0cnJfYWdNTi0tVUh5bDdJWjVLRl9yamxvM3FJMm8xMjI1ZnEzZEtNMWNPMjB0ZlVWV1M2V2o4QXFfRnNQVFRqd0xZa0VNTTdOR1pTTVVYNnhxZ0VDenU0WFJRM0JfNHBBUVNpQ19MTDNDQ0tCYm1pSWVfQVpGWGVaUzduMjJyV29lV19xdGl0SDJFQk5xTzZnRV92TjZwWkFKMFpqRU5Ub2Q3LTZmUFY0VUlSVHR6eTZuVGdQTlI2RWhvR25ZMHRRQQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-357d4bfaba1b",
@@ -399,15 +399,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-a7bc272e75a8",
+      "id": "FL-7bfbcadd6679",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:20:00 GMT",
       "ts": 1790058000000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - jfdaily.com",
+      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkR4TFJOVkdSOWRnazdxTEtTSkJyWllXcjU3MzFIREo4QUdEcGhHWGZXdUptU3o3cGhKRDBtV3ljcGJ2U1JHQUFnMlFqN2VEMG5RYUljVFdwZw?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -453,11 +453,11 @@
       "ts": 1789488932000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 38
+      "related": 43
     },
     {
       "id": "FL-de074b87f5e2",
@@ -484,15 +484,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-a3b09b07b7ad",
+      "id": "FL-8ca0646de89e",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 23:06:00 GMT",
       "ts": 1789945560000,
       "scope": "intl",
       "type": "geo",
-      "title": "截至当地时间9月20日19时，尼泊尔泥石流已致1451人遇难，5786人失联 - jfdaily.com",
+      "title": "截至当地时间9月20日19时，尼泊尔泥石流已致1451人遇难，5786人失联 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3eEh5YTByZkZiaDl2RnlSTkx3ZnZKREhNbWQ4R2hvemVVellrWVg3dkR1dmg2cEFteXpLcWhMbk5yNThLZnNhUmhweEVFOXFkX0EyM1p2MlpBQQ?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -515,9 +515,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hVXJJWllBd3ktRkFqbkVoN1J4OHVPbjU4b0dETTZ3RGY0VVJpSF9KWUFURFpVcnRUTXVfNktkenJLdjgzNWVwNXo2QUVYZ2otQUNCU3YwWlpEamQ5S0dxRENFSjFwa2Jz?oc=5",
       "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-6f1208e0cccf",
@@ -544,15 +544,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-024e35eff45d",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "news.tongji.edu.cn",
+      "site": "同济大学新闻网",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
@@ -604,27 +604,27 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-d2e5f77d5d04",
+      "id": "FL-2a12736c5d9d",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:16:00 GMT",
       "ts": 1789856160000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - jfdaily.com",
+      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUFZBcldCdGxBNFo0ZmYwQms1WmI0WGkwMXE3WHV0eERicmJicng4TkxLeUlPTnpWQ21iazh3NzZjaXpTUGtoM29MRUhYdkpKMGVfVzJHQkttUQ?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-3612112c929f",
+      "id": "FL-0cc2109d24d2",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 22:11:00 GMT",
       "ts": 1789855860000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - jfdaily.com",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcktwVU1UWno0UTJIU2E4UEs5dEs5Q3ZLbVRsSW9xYnYyUzE0TkVaYTVwWW50V1pZeFhuRFJnVndTZDF0Vm5mY1Ata0dEYTRTRXdsSXctNEZfUQ?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -718,9 +718,9 @@
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn",
       "related": 7
     }
