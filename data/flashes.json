@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T19:10:19.230Z",
+  "updated": "2026-09-23T19:40:16.141Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -97,18 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-14c88900dfcc",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 09:51:19 GMT",
-      "ts": 1790157079000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "炸锅！白酒圈大地震，别再被香型割韭菜！这瓶葫芦酒直接颠覆行业 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjdnR3VwbEVHQjZOaFN1dDZneFRJaWNycm1tXzk2R28xbF9uc0NUcURQWTdvSTJla1laRVlSMWpMa2JqcnA5eXVndkFtOFVvdXJSNzJKaVlyY1BaX0JzSGxxUGZnbDBiVTZlRXRhTl9KdVdoSVpJTUFlTkt6a2RUMUpteTlmNV9reDBr?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7ac69916cc09",
@@ -231,15 +219,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-17ff6fea0964",
+      "id": "FL-9cb41bb12d4f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 05:41:11 GMT",
       "ts": 1790142071000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本九人死亡四人失联 - zaobao.com.sg",
+      "title": "台风“杜鹃”致日本九人死亡四人失联 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZnFiOVo5ZEFkUUV4TUIzV1Q1MHF1RjVMLWxUVTNQNmQxQi1ZUFlHaW5fQm1kMGViSWFPZmpjeHpMZGgwM1V5ZllNR0tab2daRjRSSkxhSnJJNmdNRVVsOUI1cGVWOGtSMWc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -279,6 +267,18 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
+      "id": "FL-b7306332332d",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 02:18:00 GMT",
+      "ts": 1790129880000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本9人死亡 - ycnews.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rbjJsT2xKOHp6SnRTLXdTVjRMdzdQZEVkMmRoX3dXOVI3RUhLS1U0R05xRFd5S0Q3Y0phb3JYZnVWOHhMTnRZem9ROVg1OGFPSGp0WXp3Tm5GNmduWERLRlVR?oc=5",
+      "site": "ycnews.cn",
+      "siteUrl": "https://www.ycnews.cn"
+    },
+    {
       "id": "FL-78673d83d20b",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:05:00 GMT",
@@ -291,15 +291,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-b2d13116c5ba",
+      "id": "FL-7a9df62960ac",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -493,7 +493,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 45
+      "related": 44
     },
     {
       "id": "FL-de074b87f5e2",
@@ -580,15 +580,15 @@
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-0e239f30cfcd",
+      "id": "FL-d147e6cd4b49",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:46:17 GMT",
       "ts": 1789893977000,
       "scope": "dom",
       "type": "geo",
-      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - 新华网",
+      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTVXODRLQldfeUhEdENZS3NKREVLU0IwWTZ5UFFEanNITi02Z2dQXzhMV1JKTGhuak55OFlhRmw1TktJcVNjanFJMk9pUENJNTlvUTRCalN3M2FBam1OT0dyUmV5cnVNMmNVVVFwUlo0YkFmWTMxTV9HWGZDTENxbC1jSQ?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -616,15 +616,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
