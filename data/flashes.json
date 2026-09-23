@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:42:14.110Z",
+  "updated": "2026-09-23T19:10:19.230Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -53,8 +53,8 @@
     {
       "id": "FL-c888b8d2c740",
       "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 14:26:15 GMT",
-      "ts": 1790173575000,
+      "dateISO": "Wed, 23 Sep 2026 14:02:03 GMT",
+      "ts": 1790172123000,
       "scope": "dom",
       "type": "geo",
       "title": "特习会能否促成中方释放地震学家陈友麟？ - dw.com",
@@ -97,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-14c88900dfcc",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 09:51:19 GMT",
+      "ts": 1790157079000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "炸锅！白酒圈大地震，别再被香型割韭菜！这瓶葫芦酒直接颠覆行业 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMjdnR3VwbEVHQjZOaFN1dDZneFRJaWNycm1tXzk2R28xbF9uc0NUcURQWTdvSTJla1laRVlSMWpMa2JqcnA5eXVndkFtOFVvdXJSNzJKaVlyY1BaX0JzSGxxUGZnbDBiVTZlRXRhTl9KdVdoSVpJTUFlTkt6a2RUMUpteTlmNV9reDBr?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7ac69916cc09",
@@ -207,18 +219,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-123ed52bc579",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 06:42:00 GMT",
-      "ts": 1790145720000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”致日本9人死亡4人失踪 超2万户家庭停电 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83WktDenJVWnhRUEJQZ2p1NXFjU3JfY0o4eDl3SlRyMEhoMDVpVjViTkJPbDZ3dlRjTXJBVWFuenZ6ZnpEZUJGekNHMS13VUFtS3NDYk9PZWhzMWhGbmZqcW8yNDBzOUZIOWJ3WWpzSDYySzFxamdNZQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
       "id": "FL-15d41708f66c",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 06:37:24 GMT",
@@ -231,15 +231,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-9cb41bb12d4f",
+      "id": "FL-17ff6fea0964",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 05:41:11 GMT",
       "ts": 1790142071000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本九人死亡四人失联 - 联合早报",
+      "title": "台风“杜鹃”致日本九人死亡四人失联 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZnFiOVo5ZEFkUUV4TUIzV1Q1MHF1RjVMLWxUVTNQNmQxQi1ZUFlHaW5fQm1kMGViSWFPZmpjeHpMZGgwM1V5ZllNR0tab2daRjRSSkxhSnJJNmdNRVVsOUI1cGVWOGtSMWc?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -339,18 +339,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-3d84e6b91c4c",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 19:27:43 GMT",
-      "ts": 1790105263000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风杜鹃致日本6人死6人失踪 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUlIamhwSllmWU4zY1AtR0pWRkdScVlOU2pORVRoaHFXOUhTc3JNa09lQXl1cU9YLXV6ZFdqSFFiajAtR3BYZlRWZHB3MFhRQlBzamU2TWpnMUdTWGE1RU9nTkU1TXh0a0NKZ1VvWTdVcUZfTFU5WHdyZ3gxZFJfcUwtcldBcDFxVVhQQjl5ZnpKVDlvQ1cxUndTcDVSeE5B?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-4fa90d7c1653",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:52:00 GMT",
@@ -423,6 +411,18 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-3d84e6b91c4c",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "ts": 1790060400000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃致日本6人死6人失踪 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWhNMTJEMHNkdUR6SmVGWW5oUWJtVU1VMVFNeVpkUGJLRUdtWmdKYmszdUduNjI3OFQ1TXhCYWpGQWNfUlRCa1FIUFM0NEd1Z2NERkswUVphczlPWkdQQkJYUnRrUWtzelBOYXBHYmdMbHR2bkx6UUNhZ3hKOVBhcDBRUWdkQQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-533f6984454d",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:36:14 GMT",
@@ -445,6 +445,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkR4TFJOVkdSOWRnazdxTEtTSkJyWllXcjU3MzFIREo4QUdEcGhHWGZXdUptU3o3cGhKRDBtV3ljcGJ2U1JHQUFnMlFqN2VEMG5RYUljVFdwZw?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
+    },
+    {
+      "id": "FL-bc76a96ac99f",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 05:17:10 GMT",
+      "ts": 1790054230000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于高分辨率 DEM 的拐点系列提取与古地震识别——以中国山西断陷带豫光盆地边界断层为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81cjF5a29XUm9hLTJXNGZyZDVyNks2TkpqWkJwMXAzcUlwTmtfNERuQTNlQnB5TVB6OHdmTy1oaXVyMktaSno5LUZwUWRBZlZSX3Q5b1YyMWEwU1JmN2VXRllUVl84dzRUTVl6Vw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-5cfe910cf939",
@@ -604,28 +616,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-df67a5b15628",
+      "id": "FL-37bcddd97abf",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-2a12736c5d9d",
-      "date": "2026-09-19",
-      "dateISO": "Sat, 19 Sep 2026 22:16:00 GMT",
-      "ts": 1789856160000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生4.1级地震，震源深度21千米 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EUFZBcldCdGxBNFo0ZmYwQms1WmI0WGkwMXE3WHV0eERicmJicng4TkxLeUlPTnpWQ21iazh3NzZjaXpTUGtoM29MRUhYdkpKMGVfVzJHQkttUQ?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-0cc2109d24d2",
