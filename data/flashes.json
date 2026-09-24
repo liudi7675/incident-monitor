@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T21:10:54.085Z",
+  "updated": "2026-09-24T21:39:06.470Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHNfSjdidUM1SmpBNjJQMWk2N0hqWlhSSXlNMDJZSzlLVnlraTAxVVNEeVk5WksyUWxrVkRZTEFLMVlwX0NIdkhtY0hJUGd4M2diVDU5SkJPRUNJLVgyNHlJdFNKbW1wNEVrRjhrbUNic0dKTVg1SHk0MGJIcEVoLUJGd0FxdEVEQlROOG9ocw?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-c25cb9a00b7f",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 20:54:04 GMT",
-      "ts": 1790196844000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "阿根廷发生5.3级地震，震源深度120千米 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sRnlqLTRyMkFmeXJaQ0hvQ3kyMFMwQkg5NTdTUmFRVV8yMDVzYklMMFF2OEJBREtyT2pqUXpLSFhqZU1PZl94T3FjdE5JR1laajJV?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
     },
     {
       "id": "FL-f0abe279cae0",
@@ -73,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-184350ddecba",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 10:23:07 GMT",
+      "ts": 1790158987000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿根廷发生5.3级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QcmR2cFRyZFpsd2c3UkZRY0pQSUhRazdXR2lyTWtpdVpSbzVDcmFJUVZuVk05WXI2UzRZV25GZXFOUTM4Mk9vU01EaFRIbktpWjVCQ2VvejgxNW1aYWJGU052dXlma2dRVUpEZ1UtbnQtZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
       "id": "FL-7ac69916cc09",
@@ -147,27 +147,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-aa573c0ed106",
+      "id": "FL-309fe31f215b",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
+      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-184a23e50697",
+      "id": "FL-e4817fa80c1d",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 15:08:51 GMT",
       "ts": 1790089731000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机厂商接入中国地震预警网！曾现“地震误报”风波 - 东方财富",
+      "title": "五大国产手机厂商接入中国地震预警网！曾现“地震误报”风波 - finance.eastmoney.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9feUVleEYtWUJiU0RfajVVQVpzbVluOVhZSjdneUp0WUIzcUM1SHhvSW5kRko3X1NGXy1IZkowLS1zUWV1Sjl2ckR3VEptWVBsUndiSDE0TE9jSFNqbGtIc1J1Q2VZQQ?oc=5",
-      "site": "东方财富",
+      "site": "finance.eastmoney.com",
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
@@ -267,15 +267,15 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-1e0a66dcd08f",
+      "id": "FL-9ba1851dd40d",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 18:57:05 GMT",
       "ts": 1790276225000,
       "scope": "intl",
       "type": "fire",
-      "title": "日本洪水致一光伏发电站短路起火：水中带电只能眼瞅着烧完 - tech.sina.cn",
+      "title": "日本洪水致一光伏发电站短路起火：水中带电只能眼瞅着烧完 - 手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMUw3X2REWlRMN2Mtd2o3YlVPdE1URzhydHcySGJnMEhkUS1tVWpPaHNCMm41UnNoYmhvTC1XLXVnMlJSSHBCZUlfOUJnM1lQb2dkMmZmRDBub0syekJZNnB0blZXdDhaTXRkMFFyYmR1NUJWN2Q5N3FfcFBVYlZWSF9UdGZKbXM?oc=5",
-      "site": "tech.sina.cn",
+      "site": "手机新浪网",
       "siteUrl": "https://tech.sina.cn"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-cd7ae5202c19",
+      "id": "FL-8524f0a23ba0",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:46:25 GMT",
       "ts": 1789965985000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿坍塌造成至少10人死亡 - news.cctv.com",
+      "title": "苏丹一座金矿坍塌造成至少10人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N2RsTURjT3hzNHlNU3lGanhMVFZCUU5hX2RzdHk4RXFHVVVYU0FNZjlmS0hkUElNd19WLXFVODlDUjJhbkhPUUtGMXlkRmZ5R2toOUZnWG9Bbm9xbl9JaWhHM0tGQll0MzJHdEh1dVZpdVQxa2RENQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
