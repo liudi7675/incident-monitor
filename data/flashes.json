@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:13:31.404Z",
+  "updated": "2026-09-24T18:43:00.195Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-c25cb9a00b7f",
+      "id": "FL-44eb2f96bb0f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 20:54:04 GMT",
       "ts": 1790196844000,
       "scope": "intl",
       "type": "geo",
-      "title": "阿根廷发生5.3级地震，震源深度120千米 - 第一财经",
+      "title": "阿根廷发生5.3级地震，震源深度120千米 - yicai.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sRnlqLTRyMkFmeXJaQ0hvQ3kyMFMwQkg5NTdTUmFRVV8yMDVzYklMMFF2OEJBREtyT2pqUXpLSFhqZU1PZl94T3FjdE5JR1laajJV?oc=5",
-      "site": "第一财经",
+      "site": "yicai.com",
       "siteUrl": "https://www.yicai.com"
     },
     {
@@ -75,27 +75,27 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-b4668c9ff377",
+      "id": "FL-b6bf13e536b6",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 11:53:00 GMT",
       "ts": 1790164380000,
       "scope": "dom",
       "type": "weather",
-      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - 共同网",
+      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-7ac69916cc09",
+      "id": "FL-ed4e5d259c7e",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 09:41:00 GMT",
       "ts": 1790156460000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - 共同网",
+      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51aldOck1qd0pNVDdkSXhEd0lkVF81UkZ6M0xEZlR6MC1lSDFtV2F6NmgtYmhBdXRveG5xY1RqYXpDOFRBUElBb1c2UDl1NWlmMlJySF9QNA?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -135,6 +135,18 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
+      "id": "FL-846a26ff01e2",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
+      "ts": 1789597380000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - thecover.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
+      "site": "thecover.cn",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
@@ -171,15 +183,15 @@
       "siteUrl": "https://finance.eastmoney.com"
     },
     {
-      "id": "FL-fac17fa11be9",
+      "id": "FL-ea7ec83bce43",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:34:01 GMT",
       "ts": 1790080441000,
       "scope": "dom",
       "type": "weather",
-      "title": "快讯：台风“杜鹃”死亡人数增至7人 - 共同网",
+      "title": "快讯：台风“杜鹃”死亡人数增至7人 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RS2txV0hlMEpBQ1BkYmFLQmdEU2ppbEFwRE5GS2F1MlhPTzZPeS1obFNKbDVSWlRuaDZ1VXZETWxFRGhwMFpaelZPTmcxcDFmVjFEak1waw?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -195,15 +207,15 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
-      "id": "FL-f0a458c6b7e1",
+      "id": "FL-522dcc502330",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 10:15:00 GMT",
       "ts": 1790072100000,
       "scope": "dom",
       "type": "geo",
-      "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - 共同网",
+      "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWkpXSHJhZUZvQlotN1JuV3JlS2FuRWhUSlFkOWZhWE1TekYyNXRSY1lPQk1kZ1BuUHBXMmxVQmI0bVFKdlNsbjRMNjJfSHc1QktRUV9MUQ?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -303,15 +315,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-90957fc9c380",
+      "id": "FL-8dda62acfd7c",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 11:14:00 GMT",
       "ts": 1790248440000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - 共同网",
+      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - china.kyodonews.net",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNWUyWnozVUl6aWQwNkxHSmttNXNSeDhiQVFpcHhqMWhhM3k4bVJMa2dibWUtTkxuRDZwdlk1a2k1RlAwb0d5TFpCaDZvUFYxRlJKNS1oaw?oc=5",
-      "site": "共同网",
+      "site": "china.kyodonews.net",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -339,15 +351,15 @@
       "siteUrl": "https://www.7hcn.com"
     },
     {
-      "id": "FL-d05010eee7dd",
+      "id": "FL-3a8804e8dbcd",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:08:36 GMT",
       "ts": 1790240916000,
       "scope": "intl",
       "type": "geo",
-      "title": "亚洲/印度尼西亚 - 地震后弗洛勒斯岛数百个家庭梦想拥有一所安全的小屋 - fides.org",
+      "title": "亚洲/印度尼西亚 - 地震后弗洛勒斯岛数百个家庭梦想拥有一所安全的小屋 - Agenzia Fides",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQTTBfQ2xia2YwdWFaU3RNVjJ5OWdhbDBSb245STVDb3BsSDdLNFRNVjZZYUxqemxDTWVraXV5b2Z2S25lcC1rcElvWmtEcktpWnpOc0pvME04WWJlcjZ5YmNORzZMOU9yZnB2UGVXWmhXU2luOFA5Nmw1bHpaUTNPb0c4cUNLaVFlb05LUjFXbmFyblFlZkMxMzc4SFZxTnlLLXJHWVJjWFRKa1VPbi1Rcm1YRzRYMG5MVTljOHNVVFc0TG5KV1dyY0tZaTNiRC1iYnpIUE0tV2VHbHRqaldCZVZDUzdqTGNZZy1fTXBUcGp4NjZqcm5uU2RpVTcyaTRjZ19lVEk4VHpJVGJ5UFdjU1Q5OWh4REZzMEp3TEd1YmVCNG1sajUtMW1sY0JBeWRKUlY4aHIzcFowMUNEQ19feVpKSXg3aVQyRW9LUmpZN1FqZ0xuRTd6LVhPb3NVRzJWT2U3NDR0M0xoc0E2YzB6Ym5KWlFES0pUTTNrQ3lqQ1lTakl6djQxMlNhVHRRXzNPZ0hSaWdEZF9HUVotNGFWU3FBMWowZWxRcmM5anFoUUZMOS13Vk55VnpkaGJ4WGk5NTdB?oc=5",
-      "site": "fides.org",
+      "site": "Agenzia Fides",
       "siteUrl": "https://www.fides.org"
     },
     {
@@ -373,18 +385,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTXhkVVhHNGdFV1BBbjBqcG13bzZ1WnhQOHd0VFdiNDB2anpNSjVkeEZvdC1GUUNHR1hpS1M4YlhERGxpX1htYkl5cUlfeVlsTklybllLdDJ2R3RVT0h5eURhTzhVMS1aRHQyWmRaNDRERGx3M2ZUcw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn",
-      "related": 42
+      "related": 44
     },
     {
-      "id": "FL-a6e315119965",
+      "id": "FL-84dcccc9cdaf",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 07:32:00 GMT",
       "ts": 1790235120000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流｜极端天灾还是规划失守？当｢发展通道｣撞上｢灾害通道｣ - 香港01",
+      "title": "西藏泥石流｜极端天灾还是规划失守？当｢发展通道｣撞上｢灾害通道｣ - global.hk01.com",
       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxONFpERERFa2hFSWVEQ1ItZUtCWkdYWmdSN0pjYTJuLUNvX29WRXFnOU1RNldJdFc1MklQSmFqdktDQ3NYRmRVai1hR0FYNE5wdzZrWE1abmZSV196Qk1UczlDc3N5bGE1M215SksyRTV1RUVvNVBkUUE1UVFaeWRjTFRUR3dFMHV5YUVoWEtUeWVjZkhjQ2tUTlJkOEl5Um1CVEt4MGhsMlctaDVkSDhFUmQzLTJuZ3I4OGFHWl9zNXFuNEhCall1OXNZczdweFAybUp4WnM5SHA3QlRmZG9EM2pldlEyTkdtT3VzRDFTVWhNSnYxWHJLeE9XM1JXbUxYclhOYWpoUlhJYjZPd1hXVElCbWYzV2NqRTQtN1JFOWpmdUZLbUZTSlp1YlV4UEJuYlNMY3VHRU1lbFlPdV93aDA1R3oxMjlkZUhRMkRZbkdndTk4Q0dMbW54QU4xRWpqeWNqcEh6VU5aZjlkdS0wRFUyRVM4U3NxaGtjR09tOFg5WGlGeWYzVnp1NHhkcVYta2lKVGE4RmJJNWhaM05OUzRqQ2tlS3JDXzdlM29qRE1ZcERwSVlmOA?oc=5",
-      "site": "香港01",
+      "site": "global.hk01.com",
       "siteUrl": "https://global.hk01.com"
     },
     {
@@ -424,15 +436,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-b64a47eb254b",
+      "id": "FL-b87cb735f99e",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 05:56:14 GMT",
       "ts": 1790229374000,
       "scope": "dom",
       "type": "geo",
-      "title": "男人遭遇泥石流活埋，却靠着坚强的意志自救成功！ - 虎扑",
+      "title": "男人遭遇泥石流活埋，却靠着坚强的意志自救成功！ - bbs.hupu.com",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCbUlWLVVvUE9NeDFtaXJteXNUaExzbEIyWjhTc3JBWUlhWjdvMFF4dDNHRFc0c0xiX2xGbEJJdDBVbi10Nk1FOTBrbw?oc=5",
-      "site": "虎扑",
+      "site": "bbs.hupu.com",
       "siteUrl": "https://bbs.hupu.com"
     },
     {
@@ -484,15 +496,15 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-c888b8d2c740",
+      "id": "FL-dea582a51f03",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 03:34:25 GMT",
       "ts": 1790220865000,
       "scope": "dom",
       "type": "geo",
-      "title": "特习会能否促成中方释放地震学家陈友麟？ - dw.com",
+      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
-      "site": "dw.com",
+      "site": "DW.com",
       "siteUrl": "https://www.dw.com"
     },
     {
@@ -640,27 +652,15 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-3f158abc1f19",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 12:58:06 GMT",
-      "ts": 1789995486000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "重庆大足成功预警一起滑坡灾情 提前转移2户7人 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM0hrQmVQLUNFQ2Q3N18yT2lkWUwtX01GRXZUMlZiQW5LYjhBaDQyc0RPa2VCdW1fSVp0TTQ3T2lHYjBFQS1xcExQVEpGX01TTGlzNWFOYTVvZC1aenIyMzBQeGFXTWZU?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "http://sc.people.com.cn"
     },
     {
-      "id": "FL-97b15e91007f",
+      "id": "FL-f9fc56b816c8",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:00:00 GMT",
       "ts": 1789369200000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1396人遇难 - 封面新闻",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - thecover.cn",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6b3dpUWZSMGUyT0RWM1pPb2FlV193VEFFTEx1ajQyQ05MSVlNSHgwOVRiYlZwZ01CNHRFYXFzYzRqTjF0SC0xRW51c253VTMzcWw2VXRLSGc3MGhhM1llakl2ZXd6dTJTNk9EcEI5ODc2bTJBUTRv?oc=5",
-      "site": "封面新闻",
+      "site": "thecover.cn",
       "siteUrl": "https://m.thecover.cn"
     },
     {
@@ -718,9 +718,9 @@
       "ts": 1789110000000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "title": "青岛货轮火灾致25人遇难 - paper.people.com.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
+      "site": "paper.people.com.cn",
       "siteUrl": "http://paper.people.com.cn",
       "related": 9
     }
