@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:11:07.462Z",
+  "updated": "2026-09-24T03:41:30.472Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -171,18 +171,6 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-cea384d7d6b3",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 09:16:29 GMT",
-      "ts": 1790154989000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：全球天气公报（2026年09月23日） - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxUkUyQll6VThfdko2ai10a2lpS3NXdjdnbWJVVk9CQ0R2QmNTLUNGZnVuVU5jcWRZcGJOQnctbFRPRWF3OGx2OWJMSTJyM3NIVkFOdDNodm9fU0wwRkQ0YjVULUNyTGJCVnJUb0NrVTI4bjcyS3VPMw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-55d228a4a97a",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 08:03:29 GMT",
@@ -219,18 +207,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-2ddd8d230bcf",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 02:33:15 GMT",
-      "ts": 1790130795000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "2011年东日本大地震后石卷区域药品协调系统改善灾害健康管理的回顾性分析——Melon Pan系统首次实践评估 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93N3ZfbkRhY0xkYm12UlA0bWdsY2k4VDRmWVQ0dk04TmlpaE15YV9mOGw3NGx3Z25CM3pEMlhrYXF2ZDlaUmZLejRxVWVMaG1DY3BwZWlvSmk5Q09hTGRhVUpVNGU2VXc2dEpGNw?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-b7306332332d",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:18:00 GMT",
@@ -245,13 +221,25 @@
     {
       "id": "FL-78673d83d20b",
       "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 02:05:04 GMT",
+      "ts": 1790129104000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本9人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLbEhEcjJPaHY3U2xtT3prdGh4WUx6ZjlIaTRRSzBqTGo0dE8yd0g5S05kRzhzU2FfT1lxS2hVSDAyMm43YllWMkFqX1piQlMtSUJXR2RVUUxmVUtCUWc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-23d93ee54fa9",
+      "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:05:00 GMT",
       "ts": 1790129100000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本9人死亡 - 京报网",
+      "title": "台风“杜鹃”已致日本9人死亡 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10cWJ2M0JPRnBoQk4tQXQ0aEVvc190NUxlc2hESjJWdndNQUFTSG5PQ29YdUs3QS1UR1lCWjlrNW5pUGlsMHRFVG5Lb2ZhRXBwNkxpZWE4dFRxVExrMnBNY1VCdDlhcGNLZ19JcHVvQjJPZw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -265,6 +253,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-357d4bfaba1b",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 22:36:45 GMT",
+      "ts": 1790116605000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃致日本6人死亡6人失踪 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORWkzZFNsNkN5WlNXclVOd2VFcWR5RkFHQUNaSkw0VmIwN0FwWm82cWNrRWRuTzlMUFdnVzRRM1VIay1TT3I3ZmRhcFhzTHI3bUpsOGtUemtGZVBwTmtQdGhoOHJvN1duSGFsejF1V3V1RE50VEJHazJoV3pIMkJsUWRKMmtBZw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-fac17fa11be9",
@@ -327,15 +327,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-22e4406ccda0",
+      "id": "FL-33c61a069546",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 08:19:09 GMT",
       "ts": 1790065149000,
       "scope": "dom",
       "type": "geo",
-      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - app.xinhuanet.com",
+      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
-      "site": "app.xinhuanet.com",
+      "site": "新华网客户端",
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
@@ -433,7 +433,19 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 42
+      "related": 49
+    },
+    {
+      "id": "FL-63b321a83d88",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 02:01:53 GMT",
+      "ts": 1790215313000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm42QkRQR0w3Z3luTWEwdV85NllNVk9WcHpFQ1lMSl8wVDVwb0xFbzhRZzAycVdYeEhGdFFad2xzVFBqbkFxekJTQlJDeUUyd2ZoaFh3UWpIUGNVeGdhU1JkQkstcE5ZY2ttNFpxbWNkcDcyWFNySFJKdDcyQmx3d1puOEpEbnFi?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8aa4322b7fef",
@@ -470,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkdBNktzd0c4ZXdjWVlHME1seW5tZ1FyVjF1aWVReWhPT19xa2VBOV9HQ19rMUx4emdCWkFIYkhmc2ZCRmpLYmtIZFFZd1ZkV1VlbndReWFISC00TGk3MlZvWHFEVXpoWDJ0aFZhUnhFM09VQVNTVUpOR0NOdlo2Z2xFTl9nWEVYRWl1X3VJb0thX3k3ZGZDY0Z0bXVvWlVrTUpTOHpPVy14eGlYOUE5S2lOQlU0MHBfWS1Jc1BnSkpHUTNzemdtLTU3WmM3eXZneXlWcG5Dbw?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
-    },
-    {
-      "id": "FL-14396124f5b5",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 01:47:00 GMT",
-      "ts": 1790214420000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWWFNT3FsMzN3Wnh3c0VXN0ZnY0taZTVyYTh4LUYtczVLTXpaZy1GOFpVOEhlalhfdkxPdUw4ZE9VX042VHNXeWdQTFVxYUd5aWNUN0I4clhkUQ?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-88ab9885370b",
@@ -556,15 +556,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-11fb917c8127",
+      "id": "FL-366a7437ee91",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
       "ts": 1789917207000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
+      "title": "尼泊尔泥石流灾害已致1451人遇难 - cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "央广网",
+      "site": "cnr.cn",
       "siteUrl": "https://www.cnr.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 8
+      "related": 9
     }
   ]
 }
