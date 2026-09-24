@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:11:19.886Z",
+  "updated": "2026-09-24T10:41:12.666Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
+      "id": "FL-dea582a51f03",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 21:11:36 GMT",
+      "ts": 1790197896000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
+      "site": "DW.com",
+      "siteUrl": "https://www.dw.com"
+    },
+    {
       "id": "FL-c25cb9a00b7f",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 20:54:04 GMT",
@@ -25,18 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sRnlqLTRyMkFmeXJaQ0hvQ3kyMFMwQkg5NTdTUmFRVV8yMDVzYklMMFF2OEJBREtyT2pqUXpLSFhqZU1PZl94T3FjdE5JR1laajJV?oc=5",
       "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
-    },
-    {
-      "id": "FL-dea582a51f03",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 19:43:04 GMT",
-      "ts": 1790192584000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
-      "site": "DW.com",
-      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-f0abe279cae0",
@@ -95,6 +95,18 @@
       "type": "geo",
       "title": "阿根廷发生5.3级地震 震源深度120公里 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamVXNld1dXlVQ1RIQ3RiSTdPakRELS1CUVRfczVrdUJoUUFsQjZUSndXZzFWNktTTlRHSDFUTE5vU2NXX2xSWDdvVWdrX1E2cFFCUTU2VlJMaUtuRlIwRk5rbUR6YndfZDRlRVNBLWQ1R1RpMVV3SHFYRDJ5cnV0YUhrV29OYzd5?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b215b961aba6",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 10:10:00 GMT",
+      "ts": 1790158200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿根廷发生5.3级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWdqc0RBN2Z6MWpoSzlhUGwxcnphMldudngwMWVSOFZKOTUzRW1tVHRkbHAwVVVWT3JDY0FET09VS0V4dGNyZ1FTNTRpOXpqNEY3RDZPeXFzSUNsMW9lNU0yZXJtUlAwWFhUb2ZGSmlzZlpESGpWVWxlb2M5WmN1N0xKSS0tUDha?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -169,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10cWJ2M0JPRnBoQk4tQXQ0aEVvc190NUxlc2hESjJWdndNQUFTSG5PQ29YdUs3QS1UR1lCWjlrNW5pUGlsMHRFVG5Lb2ZhRXBwNkxpZWE4dFRxVExrMnBNY1VCdDlhcGNLZ19JcHVvQjJPZw?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
+      "id": "FL-3d7db262d8d9",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
+      "ts": 1789597380000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-674383638b4c",
@@ -255,18 +279,6 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-2bc79d12fd67",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "ts": 1790060400000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风杜鹃致日本6人死6人失踪 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWhNMTJEMHNkdUR6SmVGWW5oUWJtVU1VMVFNeVpkUGJLRUdtWmdKYmszdUduNjI3OFQ1TXhCYWpGQWNfUlRCa1FIUFM0NEd1Z2NERkswUVphczlPWkdQQkJYUnRrUWtzelBOYXBHYmdMbHR2bkx6UUNhZ3hKOVBhcDBRUWdkQQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
       "id": "FL-533f6984454d",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:36:14 GMT",
@@ -291,18 +303,6 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-ec0d2255786c",
-      "date": "2026-09-15",
-      "dateISO": "Tue, 15 Sep 2026 15:44:17 GMT",
-      "ts": 1789487057000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1403人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxSXBDLTAxcDN6MUhlbFRjOE9WY1dfaVpCLUpETDl0ZWl5YjlFdlp1MW14eGtuREJlU1ZuckpwTm52RzM5WlpKUFhnTGVkVDVvRmw5S2MtemJXMGtxY2F3dUNOS2FFZkc2?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-71a4e2229fa1",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:36:13 GMT",
@@ -315,15 +315,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3a8804e8dbcd",
+      "id": "FL-d05010eee7dd",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:08:36 GMT",
       "ts": 1790240916000,
       "scope": "intl",
       "type": "geo",
-      "title": "亚洲/印度尼西亚 - 地震后弗洛勒斯岛数百个家庭梦想拥有一所安全的小屋 - Agenzia Fides",
+      "title": "亚洲/印度尼西亚 - 地震后弗洛勒斯岛数百个家庭梦想拥有一所安全的小屋 - fides.org",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQTTBfQ2xia2YwdWFaU3RNVjJ5OWdhbDBSb245STVDb3BsSDdLNFRNVjZZYUxqemxDTWVraXV5b2Z2S25lcC1rcElvWmtEcktpWnpOc0pvME04WWJlcjZ5YmNORzZMOU9yZnB2UGVXWmhXU2luOFA5Nmw1bHpaUTNPb0c4cUNLaVFlb05LUjFXbmFyblFlZkMxMzc4SFZxTnlLLXJHWVJjWFRKa1VPbi1Rcm1YRzRYMG5MVTljOHNVVFc0TG5KV1dyY0tZaTNiRC1iYnpIUE0tV2VHbHRqaldCZVZDUzdqTGNZZy1fTXBUcGp4NjZqcm5uU2RpVTcyaTRjZ19lVEk4VHpJVGJ5UFdjU1Q5OWh4REZzMEp3TEd1YmVCNG1sajUtMW1sY0JBeWRKUlY4aHIzcFowMUNEQ19feVpKSXg3aVQyRW9LUmpZN1FqZ0xuRTd6LVhPb3NVRzJWT2U3NDR0M0xoc0E2YzB6Ym5KWlFES0pUTTNrQ3lqQ1lTakl6djQxMlNhVHRRXzNPZ0hSaWdEZF9HUVotNGFWU3FBMWowZWxRcmM5anFoUUZMOS13Vk55VnpkaGJ4WGk5NTdB?oc=5",
-      "site": "Agenzia Fides",
+      "site": "fides.org",
       "siteUrl": "https://www.fides.org"
     },
     {
@@ -337,7 +337,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUE2bERvdEZHLUdwemdJMFp2T1NZWkRuUGhEcDZFUTR3SU5KWEItU2VxWDZZaHlMSXZmVm1RSjFLN0RZY1lLTW9SRUU?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com",
-      "related": 47
+      "related": 48
     },
     {
       "id": "FL-a6e315119965",
@@ -374,6 +374,18 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YU2pkelBja016aFljZlZfczJNd05IOXdtQml2c2JMTnNFMmNHcEdyaURVVEJKaDdnalVjb3BTYThuOWRQTVBuTw?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://i.ifeng.com"
+    },
+    {
+      "id": "FL-129ef0b76410",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 06:35:32 GMT",
+      "ts": 1790231732000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "德国政坛大地震，选择党狂胜默茨认栽，欧洲右转挡不住了 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUZzQkJUTlF2dUZpc052MzZscDY5WDhEd0Fib2J0X1V0dG5NZXRJTU04UW1TUE03VmRDVjRiaUFLd3pkMm9OaVZaMFA1SWZyanZJTENVTTBUTi1heFdSN1hSc2FiWGRpSTFOVzVUVTBvcnROZmhyajdLSDhSOFFJZDFsSzBFOWFJTVlMVw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -434,6 +446,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTVUJiWWUyU0xpZlFWTWsxc2g5dENkdE5pVWRXVG9yTGl3cEJHQVNVX2R4R0FsOVY3ZE0zTEhObU93cnR5RjdtS0hFWkpOWW4ydUpGaEdZUGE?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-b3d737f72376",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 04:03:26 GMT",
+      "ts": 1790222606000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "雷暴和山体滑坡预警。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lYUdpd3JqSnE5T0tmNi05Sk51SUdEdFVYRE9RT3dUR29qVFd5UkYxR2hGZlpGYzhLcjlnc2s1UXhVYkJxU1F5czJiMDRmamp3UEZnbWJjOHdTdjBCUW5hbEMxZ1dmN0Ju?oc=5",
+      "site": "Vietnam.vn",
+      "siteUrl": "https://www.vietnam.vn"
     },
     {
       "id": "FL-8f433d70a29c",
@@ -520,18 +544,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-11fb917c8127",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 15:13:27 GMT",
-      "ts": 1789917207000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1451人遇难 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XLXdjWmM5VWFGd1pjWm9UeXJpaW5kaXNHTFdKOEZUeng4R3BlWUdvaGhSSWxZdHc4cnd5YTlTeWhCazRUM3hTeE4xcHROb0NqU1p3REtIdk1NLVhLb3FNaldsZkxyT05IeVlaSTBRYU9SdWlNVXc?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
-    },
-    {
       "id": "FL-b88e3048f617",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 12:11:17 GMT",
@@ -580,18 +592,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-0bb4cb5d3816",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "湖南桂东强降雨引发山体滑坡！救援队正争分夺秒抢通S315生命线 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mS0ZRT2QzNVd0N29ZZ3ZIWk9xUTBZZjlscFpuZVVGMFVRQkZYQWktZXFScVpwdHRaaVZzYUFQbjNacENkZUFYLU1rYS1xM0RScHdJSjFBenZxRmd3eUdrLVJ2ZzVRbFF0NkZnTGNiVEk?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
@@ -602,6 +602,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-e34f6d05bc66",
+      "date": "2026-09-05",
+      "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
+      "ts": 1788591600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "冰崩引发泥石流，有何特殊性？ - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTFZPLXpCT0JVSzdjZzFfS093ZTVWMFF1d3dxNUFlN3huOEY1SUZWTFJwdkZOZzl0bGtqekFqUWZNZ0JHOUhJQUtJeHVCYzBuc3Z0T0J3TXJWTElZMVpWbndvRnBuNWV0TzhmYTBaRlc3UnBSRmpfMUlTVEZVSVE?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn"
     },
     {
       "id": "FL-7281b7ef0787",
@@ -638,18 +650,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM0hrQmVQLUNFQ2Q3N18yT2lkWUwtX01GRXZUMlZiQW5LYjhBaDQyc0RPa2VCdW1fSVp0TTQ3T2lHYjBFQS1xcExQVEpGX01TTGlzNWFOYTVvZC1aenIyMzBQeGFXTWZU?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-32df0e00ca87",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 12:57:02 GMT",
-      "ts": 1789995422000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "五大国产主流手机品牌全部接入中国地震预警网 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rR3RnQkMxNE1ORUJSYUZ4dmh6ZXkwMXk4dURmejRzcmVsZVB4Vm1WN1hvbmh3d0hmcDJ6bWxPaGN0WldnQkU0eFYyWjZKTGk5QXk1V0lOaC1IaUpjMVE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-c06bd56f2ca7",
