@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T05:40:52.375Z",
+  "updated": "2026-09-24T06:14:37.053Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sRnlqLTRyMkFmeXJaQ0hvQ3kyMFMwQkg5NTdTUmFRVV8yMDVzYklMMFF2OEJBREtyT2pqUXpLSFhqZU1PZl94T3FjdE5JR1laajJV?oc=5",
       "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
+    },
+    {
+      "id": "FL-dea582a51f03",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 19:43:04 GMT",
+      "ts": 1790192584000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
+      "site": "DW.com",
+      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-c5c0d4a1570c",
@@ -61,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qSWt2WmREcktxN2plczZ1WTYtMzN4TkNIQWRCX3pzNGdHY04xLXZGYzhUUS1iTGI3bnhwYlJIRFkzcGhtVUhfUFZfekJva0RTdmJxbmhJUVRtTjVoNUE?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-c888b8d2c740",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 14:07:07 GMT",
-      "ts": 1790172427000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "特习会能否促成中方释放地震学家陈友麟？ - dw.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
-      "site": "dw.com",
-      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-186a757e3105",
@@ -135,15 +135,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-abd96700f095",
+      "id": "FL-78b505230ce0",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 09:50:00 GMT",
       "ts": 1790157000000,
       "scope": "intl",
       "type": "geo",
-      "title": "中国地震台网正式测定：09月23日17时21分在阿根廷（南纬28.85度，西经67.10度）发生5.3级地震，震源深度120千米。 - finance.sina.com.cn",
+      "title": "中国地震台网正式测定：09月23日17时21分在阿根廷（南纬28.85度，西经67.10度）发生5.3级地震，震源深度120千米。 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sM0ZHMnpuUHFpa1R6UVpnb3RubWFPWlhnRG5ma1hUdmpYVEt1dGZxRGJYcmVmUWFaSjVQSFFldEg1N0JMMmFuVk9iSkltTzA2WHpZR2RYaFlwcHJEMW9nV0ZFSHhDZmhhS0ZQTVgwdHRjdmVOR2tXUQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -195,28 +195,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3f83b4e7c79f",
+      "id": "FL-2ddd8d230bcf",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:33:15 GMT",
       "ts": 1790130795000,
       "scope": "intl",
       "type": "geo",
-      "title": "2011年东日本大地震后石卷区域药品协调系统改善灾害健康管理的回顾性分析——Melon Pan系统首次实践评估 - ebiotrade.com",
+      "title": "2011年东日本大地震后石卷区域药品协调系统改善灾害健康管理的回顾性分析——Melon Pan系统首次实践评估 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93N3ZfbkRhY0xkYm12UlA0bWdsY2k4VDRmWVQ0dk04TmlpaE15YV9mOGw3NGx3Z25CM3pEMlhrYXF2ZDlaUmZLejRxVWVMaG1DY3BwZWlvSmk5Q09hTGRhVUpVNGU2VXc2dEpGNw?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-b7306332332d",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 02:18:00 GMT",
-      "ts": 1790129880000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本9人死亡 - ycnews.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rbjJsT2xKOHp6SnRTLXdTVjRMdzdQZEVkMmRoX3dXOVI3RUhLS1U0R05xRFd5S0Q3Y0phb3JYZnVWOHhMTnRZem9ROVg1OGFPSGp0WXp3Tm5GNmduWERLRlVR?oc=5",
-      "site": "ycnews.cn",
-      "siteUrl": "https://www.ycnews.cn"
     },
     {
       "id": "FL-78673d83d20b",
@@ -231,15 +219,15 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-7a9df62960ac",
+      "id": "FL-b2d13116c5ba",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:15:29 GMT",
       "ts": 1789542929000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - news.cn",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -375,15 +363,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-003a49f7098c",
+      "id": "FL-565a91bca899",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 01:41:50 GMT",
       "ts": 1790041310000,
       "scope": "dom",
       "type": "geo",
-      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - guandian.cn",
+      "title": "荣耀接入中国地震预警网 五大国产手机厂商均获官方授权 - 观点网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VRU41Y0NqZ29UN19UZ1N0bUNwUVphNnVQcHA0c1JQNlkwd2VhazZTT3dZbnVaTFdOYjZDRVZLWkZDMndZSTdJTDZkNGk1LUJ5N0lTM0lMTG1ZYXBPaFZnWnJR?oc=5",
-      "site": "guandian.cn",
+      "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -397,7 +385,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 50
+      "related": 51
     },
     {
       "id": "FL-e210fdcaf74b",
@@ -436,15 +424,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-6371b79fd739",
+      "id": "FL-c3008dbe0fb0",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:57:03 GMT",
       "ts": 1790215023000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风杜鹃致日本11人死亡、4人失踪 - guandian.cn",
+      "title": "台风杜鹃致日本11人死亡、4人失踪 - 观点网",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWVI3QWJIenNlaHpNUjJIem5SUWx2NGd3Q1lPU3J0WkFkV2xyYWh5bnNNLWFMN3hOYm1tS195dFdkdmNDME45alhiZWU0RnE2eDk1UVJYQi1tX1BBRTJaWHBR?oc=5",
-      "site": "guandian.cn",
+      "site": "观点网",
       "siteUrl": "https://www.guandian.cn"
     },
     {
@@ -460,27 +448,27 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-1f1151c2ed20",
+      "id": "FL-88ab9885370b",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:36:43 GMT",
       "ts": 1790213803000,
       "scope": "intl",
       "type": "geo",
-      "title": "Storegga海啸在东南北海传播的数值模拟：古水深重建对丹麦与德国海啸沉积成因的重新评估 - ebiotrade.com",
+      "title": "Storegga海啸在东南北海传播的数值模拟：古水深重建对丹麦与德国海啸沉积成因的重新评估 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZWVFSXV3NUVkeTRUaWRBTFV6U1RvWndSMnJJX2ZaOWs4LVhpSVc0bWl3aXV4c1lwSHkxR3U1S0VSR2g2N3YtSnhVemNOODlmNjF1UXU4bGMtY3dHdGYxZlZ5ZS1CcGdCT0pqRA?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-7a9a257d5316",
+      "id": "FL-e5a9dd96038c",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:15:35 GMT",
       "ts": 1790212535000,
       "scope": "dom",
       "type": "geo",
-      "title": "基于地震液化效应的海上风电基础沉降控制：外伸式裙板基础离心机试验研究 - ebiotrade.com",
+      "title": "基于地震液化效应的海上风电基础沉降控制：外伸式裙板基础离心机试验研究 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS2NFa2xodjdmSkR6NWhBVTRVeEotTUVWbTNrOTh6aU9PVV8tdHRkYWFTVlpnZ1hpdjhLcjlnMmZlSTNMdExFX3FadjdUSDFpTEFUQUlBb3ZISDllMzE0X3dSYXJoTkFuVjAtXw?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -556,27 +544,27 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-5ea46c40eda3",
+      "id": "FL-024e35eff45d",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
       "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - news.tongji.edu.cn",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
-      "site": "同济大学新闻网",
+      "site": "news.tongji.edu.cn",
       "siteUrl": "https://news.tongji.edu.cn"
     },
     {
-      "id": "FL-d147e6cd4b49",
+      "id": "FL-0e239f30cfcd",
       "date": "2026-09-20",
       "dateISO": "Sun, 20 Sep 2026 08:46:17 GMT",
       "ts": 1789893977000,
       "scope": "dom",
       "type": "geo",
-      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - news.cn",
+      "title": "记者走进四川盐边泥石流搜救核心现场：搜救仍在继续 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTVXODRLQldfeUhEdENZS3NKREVLU0IwWTZ5UFFEanNITi02Z2dQXzhMV1JKTGhuak55OFlhRmw1TktJcVNjanFJMk9pUENJNTlvUTRCalN3M2FBam1OT0dyUmV5cnVNMmNVVVFwUlo0YkFmWTMxTV9HWGZDTENxbC1jSQ?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -614,6 +602,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
       "site": "suzhou.gov.cn",
       "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-55d6c57ae661",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "苏州风力持续增大！国家防总已对江苏等地启动防汛防台风四级应急响应！ - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnhZbF9ocExyRHNScVJIM2VORjVQVXJfZ29pVlRJT1lEZjJHeEVJRnlCNDlQcHZsY1RyaGJoNjMwUlZaS3VXQ1I1U0NpdUNUdlI0cXc4U1VNN1BaZGx5Rk9HNy01RUhYTnFDblVIamhTYWJod2lIZHp2bGZzMWNva2JPYThWYzRhQ0RvWA?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "https://www.suzhou.gov.cn"
     },
     {
       "id": "FL-7281b7ef0787",
@@ -664,15 +664,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b803caa200b8",
+      "id": "FL-b0e8286a093d",
       "date": "2026-09-14",
       "dateISO": "Mon, 14 Sep 2026 07:00:00 GMT",
       "ts": 1789369200000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - stdaily.com",
+      "title": "中国地震局回应“预警信息接入苹果iOS系统”，正在沟通，力争推进！ - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91b2ZQMHJfOW44Z3dyb0JDU2F2M3F2VjlCeWU3SmxIWGRoZWZOUnhHbENDZVRoNTVmZy12Nms5Wk81T1FvUDBtcGt4ckZpYlFwWmttUkotTkwxWTZpcmVET1c0MkJUMW51MVVDTHA0Nmc?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
     },
     {
