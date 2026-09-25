@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:16:10.179Z",
+  "updated": "2026-09-25T00:44:21.819Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2dmZWaUZRNXhDMS1IOGp3VWI4NDBXS3pycmZ5N2JmQXgwWV82OWR0ODZlTGY0Y2NBNDNDV0pSRWtVRG1YT0Z5VVBDRVZGaFRraWhWcHZCM2g?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-e772dc93cc13",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 03:12:42 GMT",
+      "ts": 1790133162000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWldqYWdnQmRzdjk4ZXI5bm1EenhLaDh6QTRUQWN0YV9wcGZvQVNicGhub3FZSVFXWXRxc1dHVG5QMl9VLWVyVUtCakIxSHR0djIyd3NjckNTSU1PRXhfVG1EQWNFRUN3a2gyTWI3RklGWnNDODY4enhjVmFXYjdkcmZqUzdoSGpM?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-3f83b4e7c79f",
@@ -279,18 +291,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-22783efb8fb9",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 15:28:46 GMT",
-      "ts": 1790263726000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VVozUEkwdkc1YTFTSlFmcm9mR3llYWVNZ0JmLTJERmxGc3RIT1lCdERIel9BUXlhTldhQk16cE43S3VtMTU1UWdTbk9zUGR5X0RzWklUeG5hVzlrLUE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-0220527eb1d8",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 14:01:00 GMT",
@@ -409,7 +409,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUE2bERvdEZHLUdwemdJMFp2T1NZWkRuUGhEcDZFUTR3SU5KWEItU2VxWDZZaHlMSXZmVm1RSjFLN0RZY1lLTW9SRUU?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com",
-      "related": 45
+      "related": 46
     },
     {
       "id": "FL-d26ff2f8eeb5",
@@ -446,18 +446,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS2NFa2xodjdmSkR6NWhBVTRVeEotTUVWbTNrOTh6aU9PVV8tdHRkYWFTVlpnZ1hpdjhLcjlnMmZlSTNMdExFX3FadjdUSDFpTEFUQUlBb3ZISDllMzE0X3dSYXJoTkFuVjAtXw?oc=5",
       "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-e210fdcaf74b",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 04:41:15 GMT",
-      "ts": 1790224875000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "硬抗14级台风，云深处机器狗成功通过极端工况试炼|具身智能机器人|城市内涝|浙江省|杭州市|机器人_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xYmNfR0ZBdDluZHczN3BBODVYVnhXc2ZCaXhOMHc1TFJvMFRiQlNWdG1QTzRJeGhRLTc1UmI2Tlh6TVBBUVVlaXhGbkJDMmkzUURESWtId1k2UFNOZjVNVThlcjdUVldXU24yLTJzaVUwa0xfUFp2LTJuQkp6OUE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-dea582a51f03",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-07a00d7bc5f4",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 00:22:19 GMT",
+      "ts": 1790295739000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdiUGpPNjRjUy1ZVnZ4MDNwY2J1WVltVnUxRkJCZE1OSnFKbGpBTEVSQk9ValhtWW04ellOZHREeUYwM1F5MXJGZUVuU3ZuSEQwTVlVdzgyTnJ2amR0N1FGTkV3NGQ3VGVoNXQxNUNuRW0wSzZlbWJsVFVRZW5xcGF2Q2VHZkZW?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
