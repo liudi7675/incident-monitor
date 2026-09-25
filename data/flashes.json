@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T13:13:03.973Z",
+  "updated": "2026-09-25T13:41:51.806Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,18 +63,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-3100d185793f",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 07:29:37 GMT",
-      "ts": 1790148577000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆喀什地区叶城县发生3.2级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeE1VaTdzeHhiUnZWY3FKX3I4RkZicy1fSk1NOVAycU9DTXc5Y2RHOEg3V0NjUUMzSGRDVWhWb0dMckpWVEVjRTRLSmg5bFdxal9aTVVCSll2ODZoMUo4ZDBIQ2loRGZZSnJsRlNCT293ZVdPdk9aQ1dXNUNVSHoyVzl3RjhzWW1G?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-8fc62467f6a9",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 05:43:00 GMT",
@@ -97,18 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
       "site": "封面新闻",
       "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-c2a04813577b",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "ts": 1789542000000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-a8313f5d9c0f",
@@ -135,6 +111,30 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
+      "id": "FL-677dc499b4ba",
+      "date": "2026-09-09",
+      "dateISO": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "ts": 1788937200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1374人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVXZBNHFBdWFOQlRXOUc3QmRyZDVJUnBQS1ZyMkFNTXUwd0NnbXZGNGZjNVNWZW43LTFVeXZhQmczcVBLSFBlTWZ3VjBud0VudW1JNmdoaDdFckptc01nSWI0dVBLTS1MR1ByMUhRbW52RmFCUXlN?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
+      "id": "FL-d5f52eb9e983",
+      "date": "2026-09-09",
+      "dateISO": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "ts": 1788937200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1367人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9icDJ6VGJQTFc0Zktia3ptN25RbjlQRnRSZ2puNlVVUFVjaDJ1TS1SS0RhSmVZRlZ4aVFCSFNDUE1wLXlrZ0N1NXZUMHFnZ1JnanVLZjNRb3VKXzdhdE1GbmN3QUx6RldRbVE0QXRjVkE5SzV5V2lr?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
+    },
+    {
       "id": "FL-674383638b4c",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
@@ -147,28 +147,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-aa573c0ed106",
+      "id": "FL-309fe31f215b",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
+      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-21e57989cf46",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 18:06:36 GMT",
-      "ts": 1790100396000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGbHBhRlhBdVRyQTdfZW9wb1RhRVVpOWphUUVBcVF5S2RST09yM3BBUjUtaUEzdWVVWVA4ZklUU2JpRm0wTWpBaFk4aFV3dGotY0FxNG00TWRVMWp3Qmg3NQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-a5e9b634b422",
@@ -231,27 +219,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-2b7ad983a54d",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "环保天地 - 法国专家：为何有必要强调尼泊尔泥石流的核心诱因是山崩而非冰崩 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-730a659feab0",
+      "id": "FL-b16a78ee0dbe",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 23:59:01 GMT",
       "ts": 1790294341000,
       "scope": "dom",
       "type": "geo",
-      "title": "基于标准贯入试验的地震砂土液化风险分级软件研发与验证 - 生物通",
+      "title": "基于标准贯入试验的地震砂土液化风险分级软件研发与验证 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQWo3UWIxVks5amJCWVFtWDFYV083bGZQN0VIcDJmZkxJMHZOX00yVGM3Rkxfa3FoZndmWTcyREpnQnpSaVdXNms5MXRHam90ZFVEVGtBYjdhNDNOaXlVQ1dkaEZHclhLX3RDWQ?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -337,42 +313,42 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 46
+      "related": 51
     },
     {
-      "id": "FL-2a92fcbc49a7",
+      "id": "FL-d26ff2f8eeb5",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 06:22:51 GMT",
       "ts": 1790230971000,
       "scope": "dom",
       "type": "geo",
-      "title": "融合可变应力参数与随机滑移模型的扩展随机有限断层地震动模拟方法 - 生物通",
+      "title": "融合可变应力参数与随机滑移模型的扩展随机有限断层地震动模拟方法 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wMXZVeENGQ180N0hYeVczbUgyMWJNdURUdGdRVGF6SWNEdGlBcC15cU5sSXczbWJ4bzFoTXpza1NrYTVYNXgySXpLWVU0Sm9RVW9YNnk1WHIxc1VkdmFCUjliREo4ejRPcGVrTw?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-88ab9885370b",
+      "id": "FL-1f1151c2ed20",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 05:22:50 GMT",
       "ts": 1790227370000,
       "scope": "intl",
       "type": "geo",
-      "title": "Storegga海啸在东南北海传播的数值模拟：古水深重建对丹麦与德国海啸沉积成因的重新评估 - 生物通",
+      "title": "Storegga海啸在东南北海传播的数值模拟：古水深重建对丹麦与德国海啸沉积成因的重新评估 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85ZWVFSXV3NUVkeTRUaWRBTFV6U1RvWndSMnJJX2ZaOWs4LVhpSVc0bWl3aXV4c1lwSHkxR3U1S0VSR2g2N3YtSnhVemNOODlmNjF1UXU4bGMtY3dHdGYxZlZ5ZS1CcGdCT0pqRA?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-e5a9dd96038c",
+      "id": "FL-7a9a257d5316",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 05:22:50 GMT",
       "ts": 1790227370000,
       "scope": "dom",
       "type": "geo",
-      "title": "基于地震液化效应的海上风电基础沉降控制：外伸式裙板基础离心机试验研究 - 生物通",
+      "title": "基于地震液化效应的海上风电基础沉降控制：外伸式裙板基础离心机试验研究 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS2NFa2xodjdmSkR6NWhBVTRVeEotTUVWbTNrOTh6aU9PVV8tdHRkYWFTVlpnZ1hpdjhLcjlnMmZlSTNMdExFX3FadjdUSDFpTEFUQUlBb3ZISDllMzE0X3dSYXJoTkFuVjAtXw?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -388,18 +364,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-cd7cfbb5d90a",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 15:50:40 GMT",
-      "ts": 1789660240000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福克斯群岛发生6.5级地震 震源深度100公里 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQdFBkSGtLaFVhWnlmV2FoeEE2UWpLOWFLWEFXcXZDSmQ0N1kyck5ralQtZUNvMk8xekdtaEo1RHFTbW1Md0Zuc1IxNndBSzAtTmFKc2s1N1lHZm1QMmhxQXNLdmtHdWFC?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-263418d50a2b",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:20:00 GMT",
@@ -412,16 +376,40 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-ce673d3f04fd",
+      "id": "FL-618117f0b306",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:37:35 GMT",
+      "ts": 1789616255000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFhmUjRHM2VqUGV2ZllyNlpWRWpGMzdJamFFSlgwdW52YXJlRmEyNy1xSTdTVWNBZndWbUY4SkY3Vzc2cjF2XzYxbzYxVEU4aE5VS010YnR6aDB2a1Z0WW81ZlA0RWctM1FEQWcwMWM4c3BqaXFoZDQ0M3BQX3I3ZVJPZmpweWZnYUJreHNlSjlCdGxrVDEwYWtB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-7ab0bb23c0bb",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
       "ts": 1789023600000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-9b681f1020e0",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "ts": 1789023600000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1380人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EWGIwMGQxN3BqNzRoZ05Sd0pwdl9sUnJzU2VQTDBaM3B1NDZoY1NXZ05BbzhTZjR6bFk4TzlIU2JldW9yelljTDZ3cjktOU5iejY5ZFRTd1ZGazZjVF9zb3hTLV9tRVgzc0YyNWs2SnBQTlJsOHgw?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -448,16 +436,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-b5bb87217368",
+      "id": "FL-5ea46c40eda3",
       "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 17:34:39 GMT",
-      "ts": 1789925679000,
+      "dateISO": "Sun, 20 Sep 2026 09:16:52 GMT",
+      "ts": 1789895812000,
       "scope": "dom",
       "type": "geo",
-      "title": "画廊 木材是地震区建筑材料的好选择吗？ - 2 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVQxSS15TzhNa2VtdGYxX21wWVlnWWFwdDE0N1JUNkZKbGhCMkZLbzRiTWs3Q1I1Zk9RY3AyQlRweVYydlpjdGQzT1BYc1ZMN1N0T0ZncU5iSGlwMjdiRlZyaTVFOFdSd1hBeW9WVHlnSXJ6VlJyZ3dldFViZGRsZm1EUVlNemhiaFJpdlpWWnhOb202OFpuZUN0dlZ0djNhTjJ0M1lDcUkyNGxNQTlLRU13emNKeXRNcm42TEs3MHBoM2h1bWRaUGNXSkYwR3JrLS1GV19ockk4RkczdG5pRUd3TDNBUkVad3F4R1M1bk5qZnlVbFM2eWRZYmItNUlv?oc=5",
-      "site": "ArchDaily",
-      "siteUrl": "https://www.archdaily.com"
+      "title": "土木工程学院周颖团队在《自然·通讯》发表建筑结构地震动力响应智能预测研究成果并入选编辑精选 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80akxmdTdSXzRVUi1fUmlGYWo2bktiMXlMZ2VjaGZ3alhJaFNqTExoM2VtQzdIYkFreU9EVHR4cWdCa2pIWVJDZGRBVDZvNWF5MkdmM000bHNBZw?oc=5",
+      "site": "同济大学新闻网",
+      "siteUrl": "https://news.tongji.edu.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -544,16 +532,28 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-cd7ae5202c19",
+      "id": "FL-8524f0a23ba0",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 04:46:25 GMT",
       "ts": 1789965985000,
       "scope": "intl",
       "type": "collapse",
-      "title": "苏丹一座金矿坍塌造成至少10人死亡 - news.cctv.com",
+      "title": "苏丹一座金矿坍塌造成至少10人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13N2RsTURjT3hzNHlNU3lGanhMVFZCUU5hX2RzdHk4RXFHVVVYU0FNZjlmS0hkUElNd19WLXFVODlDUjJhbkhPUUtGMXlkRmZ5R2toOUZnWG9Bbm9xbl9JaWhHM0tGQll0MzJHdEh1dVZpdVQxa2RENQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-97b15e91007f",
+      "date": "2026-09-14",
+      "dateISO": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "ts": 1789369200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害已致1396人遇难 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6b3dpUWZSMGUyT0RWM1pPb2FlV193VEFFTEx1ajQyQ05MSVlNSHgwOVRiYlZwZ01CNHRFYXFzYzRqTjF0SC0xRW51c253VTMzcWw2VXRLSGc3MGhhM1llakl2ZXd6dTJTNk9EcEI5ODc2bTJBUTRv?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-e8a32a183e42",
@@ -590,18 +590,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sdnRCeUtoWUdSTlFWQ3dYckUyYS1PajRXeG9pLXQ3TXh4S1NHZUxncWx5b0U5bFpoeVlBRFBMN0VDMzFnU0hqV1lPLUM?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-b512f95391ef",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 11:50:13 GMT",
-      "ts": 1790337013000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔称泥石流灾难是警示 吁富裕国家为气候灾难买单 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xbkhaTUVVSllrdUdWTWJYUVhuUVF0SEdnY25uNm1NQkdDOGxtU3hvcERQOFlNZkczcE1ZdmVzcjlBUjB4MVptbjlEMFIxMlhkQ0Zhbm9hVWkyLWlaa2ZFbWJ5d1hBRi05YXc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-3ddb6214552e",
@@ -664,27 +652,27 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-777394f9749f",
+      "id": "FL-5343839212a8",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
       "ts": 1790316895000,
       "scope": "intl",
       "type": "geo",
-      "title": "环太平洋海啸记录揭示仅隔73年的两次堪察加巨大逆冲地震具有近乎共址破裂 - 生物通",
+      "title": "环太平洋海啸记录揭示仅隔73年的两次堪察加巨大逆冲地震具有近乎共址破裂 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QdjRvTnVFNEhsOUhxSDJscF9uNUY1d0tXTEhCdEh6TlZEa3RBcUFQLUFnNF85LW5RRVVtZlBZbW5ENm00czRHRjFRcUk3YkUwNHhkSWJ5N0w2X19ueFo0bTc1ZmZTa2x1cjJKYw?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-2c29547cb02d",
+      "id": "FL-4bcc61d611ac",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
       "ts": 1790316895000,
       "scope": "dom",
       "type": "fire",
-      "title": "粒径与泥沙储存解释了为何某些山地景观中缺乏火后泥石流 - 生物通",
+      "title": "粒径与泥沙储存解释了为何某些山地景观中缺乏火后泥石流 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yQ3BjN05MR3pHS0tabnprekdYSlRtNkhtYXhqNXB3ZWtYZktZZjJKb3FtNU54U3JhZG80RVQzWXgzYlNMWTZpcWF3X2ZJTi1WTUZGMGpBMTQya1pENW5Eci1IZU1CekViM1UxSw?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -723,6 +711,18 @@
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
       "related": 8
+    },
+    {
+      "id": "FL-6858037717b9",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "ts": 1789110000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1386人，失联5130人 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWko2a0l6Z3JYZTI5R3pRMFRBZVlwcFdDQkVMb0t3NmdHUzZ0ME5LTU5kcXhjSW56TjdqQU8zQWpBR0ZySnlkcXY4d184VnRZVDJqNXhNWElXcTFhbWhZX29FMHB5NFJJNnZOdVo3SGFYMENlbHFN?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     }
   ]
 }
