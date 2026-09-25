@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T06:46:10.146Z",
+  "updated": "2026-09-25T07:12:17.134Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -267,28 +267,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-533f6984454d",
+      "id": "FL-48664b019fcf",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:36:14 GMT",
       "ts": 1790058974000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - 四川新闻",
+      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - sichuan.scol.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcUNSNDEtQ1NkcHlzNEgwOWhhWjB4WDZudnFqMFZiNWw0eC1mWUp6a1F2Z2NGY05ESnVRZEY4VkIxcGROc3luYTJYS0VDMnlwXzJEeEEtSXZRZktxM3ZkNHNBdw?oc=5",
-      "site": "四川新闻",
+      "site": "sichuan.scol.com.cn",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-ccb4f7d1bf90",
-      "date": "2026-09-08",
-      "dateISO": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "ts": 1788850800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1357人 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13R1RjVDV4OTV5Q2R1QTR2dEVUNkRUNU11d3BYbXRadVVfdDNGM09uVjVBYW9YNlh5MDBUenBReXJXQkg2Wjl0YTdqZy0xSHNnV0VIS3pDaGRTcDZxTTlGNFR0R04wdUxNWE84N0cxd05GUHNfMW05cWR3?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-a66e299abb48",
@@ -363,15 +351,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-922a7397020b",
+      "id": "FL-0ce0dee8d420",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 09:36:00 GMT",
       "ts": 1790242560000,
       "scope": "dom",
       "type": "collapse",
-      "title": "采购换帅，能否挽救山姆“崩塌”的中产叙事？| 风向标工作室 - bjnews.com.cn",
+      "title": "采购换帅，能否挽救山姆“崩塌”的中产叙事？| 风向标工作室 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZbXBib1JCcmc5QlFmMUVjNU1CSHBsMXhXZ3JXTzYxcnVSUGNSYnZmbWRjQ21Id2U2T3VtSlpZMnJUWDRlYklsTzltZld6eVZTOVBRclNwTENKQkdab21CQS1JbDg?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -448,6 +436,18 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
+      "id": "FL-c3008dbe0fb0",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 01:57:03 GMT",
+      "ts": 1790215023000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风杜鹃致日本11人死亡、4人失踪 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWVI3QWJIenNlaHpNUjJIem5SUWx2NGd3Q1lPU3J0WkFkV2xyYWh5bnNNLWFMN3hOYm1tS195dFdkdmNDME45alhiZWU0RnE2eDk1UVJYQi1tX1BBRTJaWHBR?oc=5",
+      "site": "观点网",
+      "siteUrl": "https://www.guandian.cn"
+    },
+    {
       "id": "FL-14396124f5b5",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:47:00 GMT",
@@ -470,6 +470,18 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
       "site": "驻澳大利亚使馆",
       "siteUrl": "https://au.china-embassy.gov.cn"
+    },
+    {
+      "id": "FL-618117f0b306",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 03:37:35 GMT",
+      "ts": 1789616255000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFhmUjRHM2VqUGV2ZllyNlpWRWpGMzdJamFFSlgwdW52YXJlRmEyNy1xSTdTVWNBZndWbUY4SkY3Vzc2cjF2XzYxbzYxVEU4aE5VS010YnR6aDB2a1Z0WW81ZlA0RWctM1FEQWcwMWM4c3BqaXFoZDQ0M3BQX3I3ZVJPZmpweWZnYUJreHNlSjlCdGxrVDEwYWtB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-9b681f1020e0",
@@ -532,40 +544,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-3d0d137d5faf",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "江西遂川县两镇发生山体滑坡灾害，4人遇难10人失联 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LcEpSQ2FFbEJBOGVucGd3eU5UV25qR19yT3ByaExQYmdMbDgtZHA0ek5VcE5scmNIbVFXcS1Lb2JwTHJMRGoybHhBeHBWSm5PWUl4amhzMkdUc3NmSnpUMGlSX0RTSXRHMEM2bUFlTnRscS1GemdGVExB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-e34f6d05bc66",
@@ -652,6 +640,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-777394f9749f",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
+      "ts": 1790316895000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "环太平洋海啸记录揭示仅隔73年的两次堪察加巨大逆冲地震具有近乎共址破裂 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QdjRvTnVFNEhsOUhxSDJscF9uNUY1d0tXTEhCdEh6TlZEa3RBcUFQLUFnNF85LW5RRVVtZlBZbW5ENm00czRHRjFRcUk3YkUwNHhkSWJ5N0w2X19ueFo0bTc1ZmZTa2x1cjJKYw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-2c29547cb02d",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 8
     },
     {
       "id": "FL-6858037717b9",
