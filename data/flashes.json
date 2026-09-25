@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:11:27.982Z",
+  "updated": "2026-09-25T11:41:47.703Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,15 +75,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-314e419af65b",
+      "id": "FL-8fc62467f6a9",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 05:43:00 GMT",
       "ts": 1790142180000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆喀什地区叶城县发生3.2级地震，震源深度10千米 - jiemian.com",
+      "title": "新疆喀什地区叶城县发生3.2级地震，震源深度10千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2dmZWaUZRNXhDMS1IOGp3VWI4NDBXS3pycmZ5N2JmQXgwWV82OWR0ODZlTGY0Y2NBNDNDV0pSRWtVRG1YT0Z5VVBDRVZGaFRraWhWcHZCM2g?oc=5",
-      "site": "jiemian.com",
+      "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -147,18 +147,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-a5e9b634b422",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 11:06:30 GMT",
-      "ts": 1790075190000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "圣保罗强降雨致多地积水树木倒塌 交通拥堵达900公里 - br-cn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUkyWGk2UkRUa0NxTDZJaVpkT0ZQSUdHTnEyNTNXc2JwdHQ2MjNFV1ZJakZYWEY2QW9xSFJrbF9FT2FWczhlTS03NHRGSjFla3E1NlltNUx3N2JKcll2QjVXMUVicDQwai1YNWliUkR3dXlLdEtnV05yTHA0S1hiakk1anFMTDFGc2RkOEJn?oc=5",
-      "site": "br-cn.com",
-      "siteUrl": "https://www.br-cn.com"
-    },
-    {
       "id": "FL-f0a458c6b7e1",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 10:15:00 GMT",
@@ -195,15 +183,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-d6feb3148f89",
+      "id": "FL-0fa05aae3512",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -231,6 +219,18 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
+      "id": "FL-ea9195aad3a9",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 17:09:49 GMT",
+      "ts": 1790269789000,
+      "scope": "intl",
+      "type": "fire",
+      "title": "日媒：台风“杜鹃”导致日本水坝决堤，被淹太阳能发电厂发生火灾 - jpchinapress.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0l6amlDOVAxUlJ5SlZYLU0xcFBlVzFKRnc3NDE1Vzg4UHIxT2ZIRzY5ZlotX2JFMnZFNmRWTmt5eFVWNktoZ3ZzbEpSRGNIdXBVQXUtbnd1d3ROQ2xoQy1NWU5xR2dVZGZOczcxdU9GZUhYYnFiY2lEcDFQeXVLdlVoT3pNWTI1OGc?oc=5",
+      "site": "jpchinapress.com",
+      "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
       "id": "FL-22783efb8fb9",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 15:28:46 GMT",
@@ -243,15 +243,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-1a7b6a019af1",
+      "id": "FL-10e3c977339c",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 13:10:07 GMT",
       "ts": 1790255407000,
       "scope": "dom",
       "type": "geo",
-      "title": "恰逢华西秋雨，进山旅游如何判断山洪、滑坡、泥石流等风险？专家解答 - sohu.com",
+      "title": "恰逢华西秋雨，进山旅游如何判断山洪、滑坡、泥石流等风险？专家解答 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalNuTVpKNnVrNEJqdzRZck8xdWw4T3REQl9lMVpPS3c2bUxDTUpvc2xLWjFIOGtUclNEVmFVcmlLSi1ZUldLM1JBTzlLbWN3Zkkwc0hnZTM2TVNYU2Fwd2R1b0ltVC05NURwYmNzSDdGdXlHR21xeUdPVElEVE9POGRkUjFQd3dkMGRqWQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -297,11 +297,11 @@
       "ts": 1790235898000,
       "scope": "dom",
       "type": "geo",
-      "title": "外交部：西藏吉隆泥石流灾害共造成261名外籍人员失联 - sohu.com",
+      "title": "外交部：西藏吉隆泥石流灾害共造成261名外籍人员失联 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 40
+      "related": 41
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -424,15 +424,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
+      "id": "FL-50cd7b6888bb",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "title": "日本茨城县地震致37人受伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -448,15 +448,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-37bcddd97abf",
+      "id": "FL-df67a5b15628",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "bjnews.com.cn",
+      "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -484,15 +484,15 @@
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
-      "id": "FL-d6d4953b7e2e",
+      "id": "FL-d167150c3943",
       "date": "2026-06-29",
       "dateISO": "Mon, 29 Jun 2026 07:00:00 GMT",
       "ts": 1782716400000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾高县5.5级地震致13人受轻微伤 - 新华网",
+      "title": "四川宜宾高县5.5级地震致13人受轻微伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FU1liUWhIa0wzb0pVaEdjSWxEVjFxdDJnLUw2aENqNUt1a3hFSmdsQWVic19DMDdfTGZIVmo4VG1PcWxaX09hTHlWUzVsVGxJTGJSM1p4OE5sZHV1dG9RN2EwSHY5Q3JVVWtnT0xmUGtodTg0LWUtczJQQ0NMTUU?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -520,15 +520,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -556,15 +556,15 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-b3dd0a00baf5",
+      "id": "FL-81524360cbb4",
       "date": "2026-07-31",
       "dateISO": "Fri, 31 Jul 2026 07:00:00 GMT",
       "ts": 1785481200000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本熊本地震已造成36人死亡 近万人避难 - 新华网",
+      "title": "日本熊本地震已造成36人死亡 近万人避难 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTS1WRXNXcndhVDBkY0luYUVhU0d6Y1Zwb3VHWEhTOUR2Nkwyd3RPQVV2SXNvOFpfUnltdExhTFBpSjEzSjZ3YW9xVnpxVDRiTkhSWTBWb2ttbE9VMkVXZWRYYWRuSkRHajhhYTY5UngyZWM4SzBTMjdybWVSTHc?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -580,15 +580,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-7a39e16c6b0f",
+      "id": "FL-3ddb6214552e",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:45:30 GMT",
       "ts": 1790333130000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本12死3失踪 - sohu.com",
+      "title": "台风“杜鹃”已致日本12死3失踪 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObllrMFNtUnNnOGsyb1MzV1VMbElURzlwUVpFOHFBaHdYQlpNcTA0SllLNlZBakNST3V6LV9GNjVWeU5CeFVhRlUyN2JBT0lNTVFLLVg5Z1ZXUWZtUzZTb09INC1kcllwZWFxMkx1aFF3NXlrLWlvZThOdmhwUlo5azlDMnU2N29V?oc=5",
-      "site": "sohu.com",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -700,15 +700,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-4ee97473f1c9",
+      "id": "FL-eaf1d904e975",
       "date": "2026-08-14",
       "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
       "ts": 1786690800000,
       "scope": "dom",
       "type": "geo",
-      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
