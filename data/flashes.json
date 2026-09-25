@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T03:11:05.787Z",
+  "updated": "2026-09-25T03:41:15.875Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-422137aee317",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 14:58:24 GMT",
-      "ts": 1790175504000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”致日本10死4失踪 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qSWt2WmREcktxN2plczZ1WTYtMzN4TkNIQWRCX3pzNGdHY04xLXZGYzhUUS1iTGI3bnhwYlJIRFkzcGhtVUhfUFZfekJva0RTdmJxbmhJUVRtTjVoNUE?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-d10cd3660d1c",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
@@ -39,27 +27,27 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-b6bf13e536b6",
+      "id": "FL-b4668c9ff377",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 11:53:00 GMT",
       "ts": 1790164380000,
       "scope": "dom",
       "type": "weather",
-      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - china.kyodonews.net",
+      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-ed4e5d259c7e",
+      "id": "FL-7ac69916cc09",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 09:41:00 GMT",
       "ts": 1790156460000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - china.kyodonews.net",
+      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51aldOck1qd0pNVDdkSXhEd0lkVF81UkZ6M0xEZlR6MC1lSDFtV2F6NmgtYmhBdXRveG5xY1RqYXpDOFRBUElBb1c2UDl1NWlmMlJySF9QNA?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -99,15 +87,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3f83b4e7c79f",
+      "id": "FL-2ddd8d230bcf",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:33:15 GMT",
       "ts": 1790130795000,
       "scope": "intl",
       "type": "geo",
-      "title": "2011年东日本大地震后石卷区域药品协调系统改善灾害健康管理的回顾性分析——Melon Pan系统首次实践评估 - ebiotrade.com",
+      "title": "2011年东日本大地震后石卷区域药品协调系统改善灾害健康管理的回顾性分析——Melon Pan系统首次实践评估 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93N3ZfbkRhY0xkYm12UlA0bWdsY2k4VDRmWVQ0dk04TmlpaE15YV9mOGw3NGx3Z25CM3pEMlhrYXF2ZDlaUmZLejRxVWVMaG1DY3BwZWlvSmk5Q09hTGRhVUpVNGU2VXc2dEpGNw?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -183,27 +171,27 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-7cb3a9939fac",
+      "id": "FL-3168b2b06ac5",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 13:17:30 GMT",
       "ts": 1790083050000,
       "scope": "dom",
       "type": "geo",
-      "title": "柔佛峇株巴辖海域4.4级地震 柔甲森雪隆皆有感 - 联合早报",
+      "title": "柔佛峇株巴辖海域4.4级地震 柔甲森雪隆皆有感 - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTVZqZXVFcDQ1OUVxTGhmUU5OSXJaNUdOMkp4dG1TYzBkTGRPdGpfa1hIMWpubVQxOUxteW1SZVo2V1ZfN3VYWktUOG5xN1VlZzFmOExWd2JPQkZ2cW9LcEtzbnlVR0U?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-ea7ec83bce43",
+      "id": "FL-fac17fa11be9",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:34:01 GMT",
       "ts": 1790080441000,
       "scope": "dom",
       "type": "weather",
-      "title": "快讯：台风“杜鹃”死亡人数增至7人 - china.kyodonews.net",
+      "title": "快讯：台风“杜鹃”死亡人数增至7人 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RS2txV0hlMEpBQ1BkYmFLQmdEU2ppbEFwRE5GS2F1MlhPTzZPeS1obFNKbDVSWlRuaDZ1VXZETWxFRGhwMFpaelZPTmcxcDFmVjFEak1waw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -219,27 +207,27 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
-      "id": "FL-522dcc502330",
+      "id": "FL-f0a458c6b7e1",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 10:15:00 GMT",
       "ts": 1790072100000,
       "scope": "dom",
       "type": "geo",
-      "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - china.kyodonews.net",
+      "title": "详讯：台风“杜鹃”导致6人死亡 多处山体滑坡 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GWkpXSHJhZUZvQlotN1JuV3JlS2FuRWhUSlFkOWZhWE1TekYyNXRSY1lPQk1kZ1BuUHBXMmxVQmI0bVFKdlNsbjRMNjJfSHc1QktRUV9MUQ?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-8f8b3f4a697d",
+      "id": "FL-5976a7770063",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 09:27:24 GMT",
       "ts": 1790069244000,
       "scope": "dom",
       "type": "weather",
-      "title": "快讯：台风“杜鹃”死亡人数增至6人 - china.kyodonews.net",
+      "title": "快讯：台风“杜鹃”死亡人数增至6人 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5acm5UWk02SkJYZncwQ0FzU3M5Y25WLWtfd1VBRVF2OVhmcjFPQXp6UVhXQkM0UjdiMTJqd202RVYwcHdkMzZGOFIwOHo1blM3aUxwN3RsNA?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -267,27 +255,15 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
-      "id": "FL-7bfbcadd6679",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 06:20:00 GMT",
-      "ts": 1790058000000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”导致日本4人死亡6人失联 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkR4TFJOVkdSOWRnazdxTEtTSkJyWllXcjU3MzFIREo4QUdEcGhHWGZXdUptU3o3cGhKRDBtV3ljcGJ2U1JHQUFnMlFqN2VEMG5RYUljVFdwZw?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-1cb01c9ff353",
+      "id": "FL-5cfe910cf939",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 04:11:00 GMT",
       "ts": 1790050260000,
       "scope": "intl",
       "type": "weather",
-      "title": "快讯：台风“杜鹃”导致日本两县共4人死亡 - china.kyodonews.net",
+      "title": "快讯：台风“杜鹃”导致日本两县共4人死亡 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtdklHSG04Y19IVkNpeUkzUXAxc0xFeng3VnVwczVqck84VklhRXhLd21DdXBreVhMbHBOdUt3RDl3QVlscHRqVEx3SEtENVE1SmpiNEktQQ?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -303,15 +279,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-b16a78ee0dbe",
+      "id": "FL-730a659feab0",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 23:59:01 GMT",
       "ts": 1790294341000,
       "scope": "dom",
       "type": "geo",
-      "title": "基于标准贯入试验的地震砂土液化风险分级软件研发与验证 - ebiotrade.com",
+      "title": "基于标准贯入试验的地震砂土液化风险分级软件研发与验证 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQWo3UWIxVks5amJCWVFtWDFYV083bGZQN0VIcDJmZkxJMHZOX00yVGM3Rkxfa3FoZndmWTcyREpnQnpSaVdXNms5MXRHam90ZFVEVGtBYjdhNDNOaXlVQ1dkaEZHclhLX3RDWQ?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -363,28 +339,28 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-8dda62acfd7c",
+      "id": "FL-90957fc9c380",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 11:14:00 GMT",
       "ts": 1790248440000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - china.kyodonews.net",
+      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNWUyWnozVUl6aWQwNkxHSmttNXNSeDhiQVFpcHhqMWhhM3k4bVJMa2dibWUtTkxuRDZwdlk1a2k1RlAwb0d5TFpCaDZvUFYxRlJKNS1oaw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-0ce0dee8d420",
+      "id": "FL-71a4e2229fa1",
       "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:36:00 GMT",
-      "ts": 1790242560000,
+      "dateISO": "Thu, 24 Sep 2026 09:36:13 GMT",
+      "ts": 1790242573000,
       "scope": "dom",
       "type": "collapse",
-      "title": "采购换帅，能否挽救山姆“崩塌”的中产叙事？| 风向标工作室 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZbXBib1JCcmc5QlFmMUVjNU1CSHBsMXhXZ3JXTzYxcnVSUGNSYnZmbWRjQ21Id2U2T3VtSlpZMnJUWDRlYklsTzltZld6eVZTOVBRclNwTENKQkdab21CQS1JbDg?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
+      "title": "采购换帅，能否挽救山姆“崩塌”的中产叙事？| 风向标工作室 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGpUb0R6d1ZCZ0l1SFpTOHc3TFI5X3BSTDQtalFxLWFoellmS05FT2N3OHdUY2VfWVRQQU5oV2dkQm9RaTExTTYxTUZfQlIwV1VHc1FTYzIwQkpFN1R6T2VzYVdhc3htLVdjM0Q4Smp4Nl8ybDA3RC1hR09LcHkzeWQzdTRqQ3VY?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7487a7237094",
@@ -437,26 +413,26 @@
     {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 07:36:54 GMT",
-      "ts": 1790235414000,
+      "dateISO": "Thu, 24 Sep 2026 07:44:23 GMT",
+      "ts": 1790235863000,
       "scope": "dom",
       "type": "geo",
-      "title": "外交部：西藏吉隆泥石流灾害共造成261名外籍人员失联 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUE2bERvdEZHLUdwemdJMFp2T1NZWkRuUGhEcDZFUTR3SU5KWEItU2VxWDZZaHlMSXZmVm1RSjFLN0RZY1lLTW9SRUU?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com",
-      "related": 50
+      "title": "外交部：西藏吉隆泥石流灾害共造成261名外籍人员失联 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRFJjY0NDVWt5Wk93OWpnUXFqYzctT3lDZi1ZTW9Pb0Z3Y3oyQ214OFJQOHhCaHFvUFNhUG9oYXJtTEZBMkZUMGpUR2dacUdqcDVYN3B5c2NzN2RXRlAzbE5HaE5MZzZUOWlRSFhWbjE4TTVXV3BNX3RyT2VGUzVJbkhNRVJOQXNXOXEydg?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com",
+      "related": 45
     },
     {
-      "id": "FL-d26ff2f8eeb5",
+      "id": "FL-2a92fcbc49a7",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 06:22:51 GMT",
       "ts": 1790230971000,
       "scope": "dom",
       "type": "geo",
-      "title": "融合可变应力参数与随机滑移模型的扩展随机有限断层地震动模拟方法 - ebiotrade.com",
+      "title": "融合可变应力参数与随机滑移模型的扩展随机有限断层地震动模拟方法 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wMXZVeENGQ180N0hYeVczbUgyMWJNdURUdGdRVGF6SWNEdGlBcC15cU5sSXczbWJ4bzFoTXpza1NrYTVYNXgySXpLWVU0Sm9RVW9YNnk1WHIxc1VkdmFCUjliREo4ejRPcGVrTw?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -544,6 +520,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-ebfe1c7b98be",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:42:55 GMT",
+      "ts": 1789911775000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "画廊 木材是地震区建筑材料的好选择吗？ - 13 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOGROZVpBSzVBSy1iT2VvaVRsTXVjTUoybjBCZ2RscVZGN08zWFFzOG02MzJ4dXNjUkpLUnlvOVFadGVkU3h3ZWZyMDJieHlsbjlMMFpGX2tqWEF6TVI4Q1FVczJJWW54RXBYaHdpZG1JU2Q2RGZuS3hvbFJnLWNodU4wYnV3dDI2ZUd2Rm9yMVFkWmFjUHc5VDFFNUZ0eGVjRUdZcGMyUktVVWdRYklxT3FPZUpNTlVsbXVnZmVzSkVCLVVnTVNpYW1xUXZRVHV3N0pybEx0WVJZSlNBRU95SzR3aG54cUZNeVVWcGJrZWNJNjZTY0F0YmNTdG5NUlJF?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
+    },
+    {
       "id": "FL-03e1c60639f5",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
@@ -568,16 +556,28 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-df67a5b15628",
+      "id": "FL-37bcddd97abf",
       "date": "2026-09-19",
       "dateISO": "Sat, 19 Sep 2026 23:17:02 GMT",
       "ts": 1789859822000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川盐边县泥石流已致2人遇难 3人失联 - 新京报",
+      "title": "四川盐边县泥石流已致2人遇难 3人失联 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oR2R6bmlHTEE2WjVGT2kzNm5xdEd6bjlSeExjNXRzZV9KQ1ZxZGRZSFRuMlNRckpRSWcxOXdmaW9YOURlMURua3N1ODhLbzIxaTR2Nk5KQlpSMU85eS1VTWRyb08?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-e34f6d05bc66",
@@ -592,15 +592,15 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-f49296c4ab56",
+      "id": "FL-43cdb35f2c91",
       "date": "2026-08-31",
       "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
       "ts": 1788137252000,
       "scope": "intl",
       "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
+      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - cn.chinadiplomacy.org.cn",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "习近平外交思想和新时代中国外交",
+      "site": "cn.chinadiplomacy.org.cn",
       "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 12
     }
   ]
 }
