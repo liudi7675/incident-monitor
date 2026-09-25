@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:41:52.685Z",
+  "updated": "2026-09-25T10:11:09.509Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -373,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "sohu.com",
       "siteUrl": "https://m.sohu.com",
-      "related": 44
+      "related": 45
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -482,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-b5bb87217368",
-      "date": "2026-09-20",
-      "dateISO": "Sun, 20 Sep 2026 17:34:39 GMT",
-      "ts": 1789925679000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "画廊 木材是地震区建筑材料的好选择吗？ - 2 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVQxSS15TzhNa2VtdGYxX21wWVlnWWFwdDE0N1JUNkZKbGhCMkZLbzRiTWs3Q1I1Zk9RY3AyQlRweVYydlpjdGQzT1BYc1ZMN1N0T0ZncU5iSGlwMjdiRlZyaTVFOFdSd1hBeW9WVHlnSXJ6VlJyZ3dldFViZGRsZm1EUVlNemhiaFJpdlpWWnhOb202OFpuZUN0dlZ0djNhTjJ0M1lDcUkyNGxNQTlLRU13emNKeXRNcm42TEs3MHBoM2h1bWRaUGNXSkYwR3JrLS1GV19ockk4RkczdG5pRUd3TDNBUkVad3F4R1M1bk5qZnlVbFM2eWRZYmItNUlv?oc=5",
-      "site": "ArchDaily",
-      "siteUrl": "https://www.archdaily.com"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -616,6 +604,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-81db783c5a43",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 09:30:37 GMT",
+      "ts": 1790328637000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”致日本12死3失踪 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5UmE0ZFNRVHo0T2Q3b19NUWpkeWdQN3I2dlR1NVFERDhUZTJOVDFNNGJUU1J3X3BLSGN5NTQ0STM3b0kxQVpDSU5hRlhCOE8tQS14OTE4Z1lzVkd0YkE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-571f5fdd07f1",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:17:08 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 11
+      "related": 10
     }
   ]
 }
