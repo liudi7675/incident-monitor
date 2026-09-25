@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:10:42.125Z",
+  "updated": "2026-09-25T20:41:25.207Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
+      "id": "FL-f0563831842b",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 10:49:12 GMT",
+      "ts": 1790160552000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿根廷发生5.3级地震 震源深度120公里 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamVXNld1dXlVQ1RIQ3RiSTdPakRELS1CUVRfczVrdUJoUUFsQjZUSndXZzFWNktTTlRHSDFUTE5vU2NXX2xSWDdvVWdrX1E2cFFCUTU2VlJMaUtuRlIwRk5rbUR6YndfZDRlRVNBLWQ1R1RpMVV3SHFYRDJ5cnV0YUhrV29OYzd5?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-184350ddecba",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:23:07 GMT",
@@ -87,16 +99,16 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-3d7db262d8d9",
+      "id": "FL-c2a04813577b",
       "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
-      "ts": 1789597380000,
+      "dateISO": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "ts": 1789542000000,
       "scope": "dom",
-      "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
+      "type": "collapse",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-a8313f5d9c0f",
@@ -109,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YRjA1MkdaZ2E3TkQyaGx0QWlKOXJpX3JMcHA3R0J0UXpQQTcwRlpFNWZSamp1NHNwc1N2Wm9Lb1ltdlZ2QjNIaTcxZThFTTc3S0VhSjBkY05HOWRlOHBjdFQxQ2hTN2sydzZESWVQMGQ?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-694c61f46c1f",
-      "date": "2026-09-09",
-      "dateISO": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "ts": 1788937200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流灾害遇难人数升至1369人 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnQjBLSG9PN1piWFhqb0xoSEwxTDFSMk1qdi1vNkZXQThySm5jUWpXWEdFQ2oxM0J0aXR6M0NucWktNm9JUVc5c2VhUEEyNDloUU84QjFZOEZ4Q2QteS1wVHlVM2hKeTdVQUZ0NzBsQW05T2pGbmNB?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-674383638b4c",
@@ -145,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-21e57989cf46",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 18:06:36 GMT",
-      "ts": 1790100396000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGbHBhRlhBdVRyQTdfZW9wb1RhRVVpOWphUUVBcVF5S2RST09yM3BBUjUtaUEzdWVVWVA4ZklUU2JpRm0wTWpBaFk4aFV3dGotY0FxNG00TWRVMWp3Qmg3NQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-184a23e50697",
@@ -313,7 +301,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 45
+      "related": 46
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -374,6 +362,18 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IbzJPdEh5eFY3dGI4QVl6dGlrNk1tdmcyXzFnVXNlMkRhanZUcUJDcVFud2wySC1VeEt6bXZBQTVERXRnOURlOXAyMUpUTExnc1RMd01lWE5sRzhjSEZOcVlwR1V2SzVnd2Yxc0ZfZlNta01XT1p1cnZvRQ?oc=5",
       "site": "mfa.gov.cn",
       "siteUrl": "https://www.mfa.gov.cn"
+    },
+    {
+      "id": "FL-3d7db262d8d9",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-7ab0bb23c0bb",
