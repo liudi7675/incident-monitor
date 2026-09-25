@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:44:21.819Z",
+  "updated": "2026-09-25T01:10:42.383Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,16 +63,16 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-15d41708f66c",
+      "id": "FL-3100d185793f",
       "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 06:37:24 GMT",
-      "ts": 1790145444000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”致日本9人死亡4人失踪 超2万户家庭停电 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QeVp1TGlfWTJHSHZmOFpYOFNCcjRzNWlCWTNvelBBRFY0THZNaEljZVFTMmc2bnkzTDkyYnlpOXdIa3NTb1ROS0Jjc3g0WWYwWUNMWEs2U2dLR2NnUEtIUFlFWTJONFZQ?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
+      "dateISO": "Wed, 23 Sep 2026 07:29:37 GMT",
+      "ts": 1790148577000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆喀什地区叶城县发生3.2级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeE1VaTdzeHhiUnZWY3FKX3I4RkZicy1fSk1NOVAycU9DTXc5Y2RHOEg3V0NjUUMzSGRDVWhWb0dMckpWVEVjRTRLSmg5bFdxal9aTVVCSll2ODZoMUo4ZDBIQ2loRGZZSnJsRlNCT293ZVdPdk9aQ1dXNUNVSHoyVzl3RjhzWW1G?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8fc62467f6a9",
@@ -303,6 +303,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-e4155a072e52",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 13:50:35 GMT",
+      "ts": 1790257835000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "恰逢华西秋雨，进山旅游如何判断山洪、滑坡、泥石流等风险？专家解答 - jinantimes.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UmNtcGZ3YUxfdlBmRWxtdGtJLTdqTGVybWcyZXJSdjZneGxwTUlsSUcyVmVnbkZ3OWhPM2NHcFhnUzB0RGpOaHdibW5vVkpEVWhXZXVRZDdmRU5zYWpN?oc=5",
+      "site": "jinantimes.com.cn",
+      "siteUrl": "https://www.jinantimes.com.cn"
+    },
+    {
       "id": "FL-10e3c977339c",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 13:10:07 GMT",
@@ -325,6 +337,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWhSRVd5dFVlOVV1ZklHUjhPcjk4VmluZVcwdW5PMHZ1ZW1hMmtXanAyT1lraWhGY1FFZkp4MmJEYmxZZ1I5NFNrMzVfZ2pTX1pHLUNzQ283bi1ONm9yN0pORXhIeG9ybW9VREl1NHBJQ3E4RUNpYjNqQk5TeGdYWHJaeEZ1MzVXa2FfSzRhUFNZVC15MnJwNg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-dea582a51f03",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 12:18:11 GMT",
+      "ts": 1790252291000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
+      "site": "DW.com",
+      "siteUrl": "https://www.dw.com"
     },
     {
       "id": "FL-8dda62acfd7c",
@@ -409,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5udUE2bERvdEZHLUdwemdJMFp2T1NZWkRuUGhEcDZFUTR3SU5KWEItU2VxWDZZaHlMSXZmVm1RSjFLN0RZY1lLTW9SRUU?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com",
-      "related": 46
+      "related": 47
     },
     {
       "id": "FL-d26ff2f8eeb5",
@@ -448,18 +472,6 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-dea582a51f03",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 03:34:25 GMT",
-      "ts": 1790220865000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "特习会能否促成中方释放地震学家陈友麟？ - DW.com",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNmM0N3Myb2xiQTZVODlMTmNhT0RoMDFKLUp1UFlhd1JtcURqN1JUVXhxRVJQMmNZdTFhQ1J0LVlQbVk5bWs4MGRxdlMyLWdhTjgyMWxHR0FiQmJESUxjVnYwRGxYdGlIZkR0VXNLUjRUaXJCUlhHcVZ2dXpUY2hHSjFjRFVDYmpKSkZyenE4ZXRBYVVwWWZNeV80aUpGM2tMX1k5aGI1Y0Z3endVWkxNWVRtdXB2NHlRUzRiNVh2dWh3VmdYem5hYm0xT1NDTnctbVpLcHhVWW1iUXBNc0huNHFKUW5CeURUNzRvR2F2UU12bmJJYW9FN2FfeFdoRnpIQWNRUXBxUWFTbXJ6ZFdRZ0t4OUN0Rjd6Znk5b2dwelLSAaACQVVfeXFMTmF1cnhLWG9LUzVZUXdiLVhGUTR2MVZUN1R0aHRjcmlkdDRpeG15VkpDWC16Y09vVkNNUXJLaWN1dnZGdGFVNHpkUjh5R2wyZFhHY0x2R0VLMEs3bFcyWEQwcXRfSUQ0cjJsTXFtTV9IcHlDVFhSNk5NMGV0SzZoYmxsM0JQXzNRV2xZQV9GN3hzbTRPOC13S25iODN3X3RMVmVHajlQZmhhR0tWdW9kVF8zdUdBRVV0UVRtMGxhM2J1cy1xRG44ckdWWmlJYVRDRFZoLVIySkpuR1NUbG1GQXBFaGd3Z2NJaW1MQ3lnMHFWRXJVbkxBX1BxQmJrSC1ndFJxQkVsdnZlYjI3WDNaR2RMZGhKY1diYkI1T1JSVmNG?oc=5",
-      "site": "DW.com",
-      "siteUrl": "https://www.dw.com"
-    },
-    {
       "id": "FL-b0d874fb3056",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 02:01:16 GMT",
@@ -470,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZXJJMFcyUFFRQ01TWWxMYU96cDhvSEVSNkRxXzl1aXRHZFgxaENhSDBucG5rcmZYdmZfMGFNbTg3MXIwclBtZ04zaVZTSUJ3Tm5ldkZGaEJyZ2g5QnJwcjQ2bVZIeGZQd3NJYks5RUw?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.com.cn"
-    },
-    {
-      "id": "FL-c3008dbe0fb0",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 01:57:03 GMT",
-      "ts": 1790215023000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风杜鹃致日本11人死亡、4人失踪 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWVI3QWJIenNlaHpNUjJIem5SUWx2NGd3Q1lPU3J0WkFkV2xyYWh5bnNNLWFMN3hOYm1tS195dFdkdmNDME45alhiZWU0RnE2eDk1UVJYQi1tX1BBRTJaWHBR?oc=5",
-      "site": "观点网",
-      "siteUrl": "https://www.guandian.cn"
     },
     {
       "id": "FL-14396124f5b5",
