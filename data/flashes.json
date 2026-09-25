@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T08:42:27.849Z",
+  "updated": "2026-09-25T09:11:43.004Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-e772dc93cc13",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 03:12:42 GMT",
-      "ts": 1790133162000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWldqYWdnQmRzdjk4ZXI5bm1EenhLaDh6QTRUQWN0YV9wcGZvQVNicGhub3FZSVFXWXRxc1dHVG5QMl9VLWVyVUtCakIxSHR0djIyd3NjckNTSU1PRXhfVG1EQWNFRUN3a2gyTWI3RklGWnNDODY4enhjVmFXYjdkcmZqUzdoSGpM?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-78673d83d20b",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 02:05:00 GMT",
@@ -123,15 +111,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-c2a04813577b",
+      "id": "FL-6c37d6eedf5e",
       "date": "2026-09-16",
       "dateISO": "Wed, 16 Sep 2026 07:00:00 GMT",
       "ts": 1789542000000,
       "scope": "dom",
       "type": "collapse",
-      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - UN News",
+      "title": "加沙：建筑坍塌致至少20人死亡，搜救工作仍在继续 - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wdnBqX2d2T1NSQ092SjlCdW1fbVZfak4ycERLSWtGb2VxT21FdXRQSkd5bVFiVkxvZlFlaDZralk5b2FyemR4RlptclBhbDhrR1ZILTc4Zw?oc=5",
-      "site": "UN News",
+      "site": "news.un.org",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -171,6 +159,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-9443a48e7857",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 23:35:39 GMT",
+      "ts": 1790120139000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NNkZNSl90aWNtZWpqNTVTRkN6eXR3ZzdTVHltNktKOTNlNS1SSXFIUUdtQ0NoajE5ZTRWM1ZKbVpmMHZkTlBkeEtoQU45ak45TWNtYlA3dXpvVUxYY3JLTFNyLXJfZjdhMllKVjVhTEY?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-309fe31f215b",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
@@ -193,6 +193,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGbHBhRlhBdVRyQTdfZW9wb1RhRVVpOWphUUVBcVF5S2RST09yM3BBUjUtaUEzdWVVWVA4ZklUU2JpRm0wTWpBaFk4aFV3dGotY0FxNG00TWRVMWp3Qmg3NQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-7cb3a9939fac",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 13:17:30 GMT",
+      "ts": 1790083050000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "柔佛峇株巴辖海域4.4级地震 柔甲森雪隆皆有感 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aTVZqZXVFcDQ1OUVxTGhmUU5OSXJaNUdOMkp4dG1TYzBkTGRPdGpfa1hIMWpubVQxOUxteW1SZVo2V1ZfN3VYWktUOG5xN1VlZzFmOExWd2JPQkZ2cW9LcEtzbnlVR0U?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-fac17fa11be9",
@@ -327,30 +339,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-71a4e2229fa1",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:36:13 GMT",
-      "ts": 1790242573000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "采购换帅，能否挽救山姆“崩塌”的中产叙事？| 风向标工作室 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGpUb0R6d1ZCZ0l1SFpTOHc3TFI5X3BSTDQtalFxLWFoellmS05FT2N3OHdUY2VfWVRQQU5oV2dkQm9RaTExTTYxTUZfQlIwV1VHc1FTYzIwQkpFN1R6T2VzYVdhc3htLVdjM0Q4Smp4Nl8ybDA3RC1hR09LcHkzeWQzdTRqQ3VY?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-7487a7237094",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:13:28 GMT",
-      "ts": 1790241208000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "竞拍流拍率73%！焦煤价格崩塌？ - 七禾网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XNjlndEEwNFdrNlR1TUpyRTZwMmV6LXQ5OXZjUGJRdUljaXlJWE5xaE9lWUk5b0plYlRRVklZTS1nZkprWkdKVzYySkhndUo3TmJnNQ?oc=5",
-      "site": "七禾网",
-      "siteUrl": "https://www.7hcn.com"
-    },
-    {
       "id": "FL-dd6ff54ca4bf",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 08:01:17 GMT",
@@ -385,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 44
+      "related": 46
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -504,6 +492,18 @@
       "type": "geo",
       "title": "画廊 木材是地震区建筑材料的好选择吗？ - 2 - ArchDaily",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVQxSS15TzhNa2VtdGYxX21wWVlnWWFwdDE0N1JUNkZKbGhCMkZLbzRiTWs3Q1I1Zk9RY3AyQlRweVYydlpjdGQzT1BYc1ZMN1N0T0ZncU5iSGlwMjdiRlZyaTVFOFdSd1hBeW9WVHlnSXJ6VlJyZ3dldFViZGRsZm1EUVlNemhiaFJpdlpWWnhOb202OFpuZUN0dlZ0djNhTjJ0M1lDcUkyNGxNQTlLRU13emNKeXRNcm42TEs3MHBoM2h1bWRaUGNXSkYwR3JrLS1GV19ockk4RkczdG5pRUd3TDNBUkVad3F4R1M1bk5qZnlVbFM2eWRZYmItNUlv?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
+    },
+    {
+      "id": "FL-ebfe1c7b98be",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 13:42:55 GMT",
+      "ts": 1789911775000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "画廊 木材是地震区建筑材料的好选择吗？ - 13 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOGROZVpBSzVBSy1iT2VvaVRsTXVjTUoybjBCZ2RscVZGN08zWFFzOG02MzJ4dXNjUkpLUnlvOVFadGVkU3h3ZWZyMDJieHlsbjlMMFpGX2tqWEF6TVI4Q1FVczJJWW54RXBYaHdpZG1JU2Q2RGZuS3hvbFJnLWNodU4wYnV3dDI2ZUd2Rm9yMVFkWmFjUHc5VDFFNUZ0eGVjRUdZcGMyUktVVWdRYklxT3FPZUpNTlVsbXVnZmVzSkVCLVVnTVNpYW1xUXZRVHV3N0pybEx0WVJZSlNBRU95SzR3aG54cUZNeVVWcGJrZWNJNjZTY0F0YmNTdG5NUlJF?oc=5",
       "site": "ArchDaily",
       "siteUrl": "https://www.archdaily.com"
     },
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 11
+      "related": 10
     }
   ]
 }
