@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:12:17.134Z",
+  "updated": "2026-09-25T07:41:38.154Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -267,28 +267,16 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-48664b019fcf",
+      "id": "FL-533f6984454d",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 06:36:14 GMT",
       "ts": 1790058974000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - sichuan.scol.com.cn",
+      "title": "五大国产手机已接入中国地震预警网，无需下载，一个动作就可以设置。你设置了吗？记得给家长也设置上丨C视频 - 四川新闻",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcUNSNDEtQ1NkcHlzNEgwOWhhWjB4WDZudnFqMFZiNWw0eC1mWUp6a1F2Z2NGY05ESnVRZEY4VkIxcGROc3luYTJYS0VDMnlwXzJEeEEtSXZRZktxM3ZkNHNBdw?oc=5",
-      "site": "sichuan.scol.com.cn",
+      "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
-    },
-    {
-      "id": "FL-a66e299abb48",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-730a659feab0",
@@ -301,6 +289,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQWo3UWIxVks5amJCWVFtWDFYV083bGZQN0VIcDJmZkxJMHZOX00yVGM3Rkxfa3FoZndmWTcyREpnQnpSaVdXNms5MXRHam90ZFVEVGtBYjdhNDNOaXlVQ1dkaEZHclhLX3RDWQ?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-b22d366ed992",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 23:57:01 GMT",
+      "ts": 1790294221000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：预计今早至明天，吉林、辽宁、陕西、河南、安徽、江苏、湖北、四川、重庆等地将有短时强降水天气，局地可达60毫米以上 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGVaVmdQQ1NEbVZLWEFlVnZ2WkxQVE5ubUZmNllYR3U0WnJJTU5HMmJ2bkxaMHFVMW1kMnFDLUR0SDBnY3RWUFFySzhoVVBpMjQxak8xdHZSZnNlalo1QnE2Tk05WHRNelZfN3BibHUxUlR0RDNhaHlueHJuZnlSRnVBV0JFUUdBMjl4Ng?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-22783efb8fb9",
@@ -375,18 +375,6 @@
       "siteUrl": "https://www.7hcn.com"
     },
     {
-      "id": "FL-3a8804e8dbcd",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 09:08:36 GMT",
-      "ts": 1790240916000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "亚洲/印度尼西亚 - 地震后弗洛勒斯岛数百个家庭梦想拥有一所安全的小屋 - Agenzia Fides",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQTTBfQ2xia2YwdWFaU3RNVjJ5OWdhbDBSb245STVDb3BsSDdLNFRNVjZZYUxqemxDTWVraXV5b2Z2S25lcC1rcElvWmtEcktpWnpOc0pvME04WWJlcjZ5YmNORzZMOU9yZnB2UGVXWmhXU2luOFA5Nmw1bHpaUTNPb0c4cUNLaVFlb05LUjFXbmFyblFlZkMxMzc4SFZxTnlLLXJHWVJjWFRKa1VPbi1Rcm1YRzRYMG5MVTljOHNVVFc0TG5KV1dyY0tZaTNiRC1iYnpIUE0tV2VHbHRqaldCZVZDUzdqTGNZZy1fTXBUcGp4NjZqcm5uU2RpVTcyaTRjZ19lVEk4VHpJVGJ5UFdjU1Q5OWh4REZzMEp3TEd1YmVCNG1sajUtMW1sY0JBeWRKUlY4aHIzcFowMUNEQ19feVpKSXg3aVQyRW9LUmpZN1FqZ0xuRTd6LVhPb3NVRzJWT2U3NDR0M0xoc0E2YzB6Ym5KWlFES0pUTTNrQ3lqQ1lTakl6djQxMlNhVHRRXzNPZ0hSaWdEZF9HUVotNGFWU3FBMWowZWxRcmM5anFoUUZMOS13Vk55VnpkaGJ4WGk5NTdB?oc=5",
-      "site": "Agenzia Fides",
-      "siteUrl": "https://www.fides.org"
-    },
-    {
       "id": "FL-dd6ff54ca4bf",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 08:01:17 GMT",
@@ -436,6 +424,18 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
+      "id": "FL-e5a9dd96038c",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 05:22:50 GMT",
+      "ts": 1790227370000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于地震液化效应的海上风电基础沉降控制：外伸式裙板基础离心机试验研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS2NFa2xodjdmSkR6NWhBVTRVeEotTUVWbTNrOTh6aU9PVV8tdHRkYWFTVlpnZ1hpdjhLcjlnMmZlSTNMdExFX3FadjdUSDFpTEFUQUlBb3ZISDllMzE0X3dSYXJoTkFuVjAtXw?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-c3008dbe0fb0",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:57:03 GMT",
@@ -448,15 +448,15 @@
       "siteUrl": "https://www.guandian.cn"
     },
     {
-      "id": "FL-14396124f5b5",
+      "id": "FL-44b5a3e82148",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:47:00 GMT",
       "ts": 1790214420000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - 上观新闻",
+      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - jfdaily.com",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWWFNT3FsMzN3Wnh3c0VXN0ZnY0taZTVyYTh4LUYtczVLTXpaZy1GOFpVOEhlalhfdkxPdUw4ZE9VX042VHNXeWdQTFVxYUd5aWNUN0I4clhkUQ?oc=5",
-      "site": "上观新闻",
+      "site": "jfdaily.com",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -568,18 +568,6 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-f49296c4ab56",
-      "date": "2026-08-31",
-      "dateISO": "Mon, 31 Aug 2026 00:47:32 GMT",
-      "ts": 1788137252000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - 习近平外交思想和新时代中国外交",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "习近平外交思想和新时代中国外交",
-      "siteUrl": "https://cn.chinadiplomacy.org.cn"
-    },
-    {
       "id": "FL-7281b7ef0787",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 22:50:07 GMT",
@@ -640,6 +628,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-a10d2f5fcf6a",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 07:03:00 GMT",
+      "ts": 1790319780000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "天皇夫妇29日将赴熊本县慰问地震灾区 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNENIQ3dNUWw2ekQxUXZxSklodm53djRwVnNIN01LQUVmd2VWeDlnTWpOcVBhT0U2WUtTc1RhdnkwaG8waEJHUkc3c04xb0habzJWRGNjSQ?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
       "id": "FL-777394f9749f",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 06:14:55 GMT",
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-0c5ccb0cb13c",
+      "id": "FL-662a55c86a79",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:26:59 GMT",
       "ts": 1790314019000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：全球天气公报（2026年09月24日） - 新浪财经",
+      "title": "中央气象台：全球天气公报（2026年09月24日） - finance.sina.com.cn",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQVRFaFdmYkNmNVBYNW9hRmQ1c05QSDcyQzRGX2EwV0ppLWs0S1h6b0hhSmJ0bmpVWFNrcGw4V3NjVjBzcVdBY3pkR0ZSU3pnc2RZU2JUVGstVWplYWJrbi1ERWRRUXFMY0NNY05teExDWGU5N0Q1aA?oc=5",
-      "site": "新浪财经",
+      "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
     {
