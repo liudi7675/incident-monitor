@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-25T22:11:02.170Z",
+  "updated": "2026-09-25T22:40:15.120Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-f0abe279cae0",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 15:05:00 GMT",
-      "ts": 1790175900000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风“杜鹃”已致日本10人死亡 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51ajViVFVISjRKME5GWUkwa05ZUW1NaTdoX0NYVlZtNDZCaFd0clVtVHkyQXlCUzR1Zjk5NDhteFNGM3RWUk5tZllaSkIzQlZMNGN4NEVGVkZsZlY1YjF3eg?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
     {
       "id": "FL-dea582a51f03",
       "date": "2026-09-23",
@@ -51,15 +39,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-8e2961befa1e",
+      "id": "FL-184350ddecba",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:23:07 GMT",
       "ts": 1790158987000,
       "scope": "intl",
       "type": "geo",
-      "title": "阿根廷发生5.3级地震 - xinwen.bjd.com.cn",
+      "title": "阿根廷发生5.3级地震 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QcmR2cFRyZFpsd2c3UkZRY0pQSUhRazdXR2lyTWtpdVpSbzVDcmFJUVZuVk05WXI2UzRZV25GZXFOUTM4Mk9vU01EaFRIbktpWjVCQ2VvejgxNW1aYWJGU052dXlma2dRVUpEZ1UtbnQtZw?oc=5",
-      "site": "xinwen.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -73,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51aldOck1qd0pNVDdkSXhEd0lkVF81UkZ6M0xEZlR6MC1lSDFtV2F6NmgtYmhBdXRveG5xY1RqYXpDOFRBUElBb1c2UDl1NWlmMlJySF9QNA?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-3d7db262d8d9",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 22:23:00 GMT",
+      "ts": 1789597380000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://m.thecover.cn"
     },
     {
       "id": "FL-6c37d6eedf5e",
@@ -123,16 +123,40 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-309fe31f215b",
+      "id": "FL-aa573c0ed106",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
+      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-21e57989cf46",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 18:06:36 GMT",
+      "ts": 1790100396000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10公里 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGbHBhRlhBdVRyQTdfZW9wb1RhRVVpOWphUUVBcVF5S2RST09yM3BBUjUtaUEzdWVVWVA4ZklUU2JpRm0wTWpBaFk4aFV3dGotY0FxNG00TWRVMWp3Qmg3NQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
+    },
+    {
+      "id": "FL-a5e9b634b422",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 11:06:30 GMT",
+      "ts": 1790075190000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "圣保罗强降雨致多地积水树木倒塌 交通拥堵达900公里 - br-cn.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUkyWGk2UkRUa0NxTDZJaVpkT0ZQSUdHTnEyNTNXc2JwdHQ2MjNFV1ZJakZYWEY2QW9xSFJrbF9FT2FWczhlTS03NHRGSjFla3E1NlltNUx3N2JKcll2QjVXMUVicDQwai1YNWliUkR3dXlLdEtnV05yTHA0S1hiakk1anFMTDFGc2RkOEJn?oc=5",
+      "site": "br-cn.com",
+      "siteUrl": "https://www.br-cn.com"
     },
     {
       "id": "FL-f0a458c6b7e1",
@@ -183,27 +207,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-2b7ad983a54d",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "环保天地 - 法国专家：为何有必要强调尼泊尔泥石流的核心诱因是山崩而非冰崩 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxQbWZHTmY3d084b1hBdXo3bFNpN3dERThOOTBmZFBINUxXRWdRYWNpdmJQYWdrSkRiVFh6VkFkRnVGSjRCSEs5bGNQVWRJZDEzOGlhUXQ1WTdGc0lxVDVjemFUalRGXzZ1SDNNT19VblpnbmszNkNjNnYtQjVxamdQd1BlakYtTU5uTDd2emUzeTk4ZXN3dDRBVlZzWm96bTJ0c2lWR29kYkpBNVY2WUtENmFhYUNSYU9TZGY0d0VTdGJ1Nzk1RTdzMS1YYXFWX05BcjUtZDNNUGdQWS1lcTB0ZzEzVzFZV2lrVUxfckRoWjdQNjEwZDZxV2dqXzVqeFpoU2hHVWpWaVBLcWxjUF9oTHdibVRjcVRVZE1MY0tOOFBLTGUta196WnJOM0pTbzhjbFRPWWlGQXc1S3JGR1VBWlBuLW8wWm1QajhjbTJxVml3N05wTjR1NWdSN3dLOUc0eGxJWFVmdVNtakJjc2Myb2N1d1FpWlZ2RU1RUTVPTGZlTmpvcW9Zdk9tTlE1cFVocWdPVjdNaEpERktrSEZUMHJDbnU0dzNrdlRKUkNmbUd6Y3pZa3YxRjc2Y3FiM19DZXcteU5SMGlkeW5xNWw0NjRiV2hLaEVBZnFpS0R0cS1mU04wMkdsclJnQnlEa05nSDhnQWlSbFZOY0liUlF2eHE3WUR2Zw?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-22783efb8fb9",
+      "id": "FL-2497067a4395",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 15:28:46 GMT",
       "ts": 1790263726000,
       "scope": "intl",
       "type": "geo",
-      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - 京报网",
+      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VVozUEkwdkc1YTFTSlFmcm9mR3llYWVNZ0JmLTJERmxGc3RIT1lCdERIel9BUXlhTldhQk16cE43S3VtMTU1UWdTbk9zUGR5X0RzWklUeG5hVzlrLUE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -241,7 +253,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 51
+      "related": 43
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -328,27 +340,15 @@
       "siteUrl": "https://www.mfa.gov.cn"
     },
     {
-      "id": "FL-3d7db262d8d9",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "茂县山体滑坡最新消息：提前转移161人受通报表扬 正科学开展排险 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lOGYxb2NjeUh1dWZMbTdlZmVJVV9UWmt1T0V2YzhNb3pzSmsxNE1NSHFrTEh4UXp6UUsyVFlKUVF2bkItOXY2cjBZaTRFdkJHLUtydlVJdnBVY203VC1EeVZBVmd0aGxUNHBQS0pGVDVPVC15anRr?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
-      "id": "FL-7ab0bb23c0bb",
+      "id": "FL-ce673d3f04fd",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
       "ts": 1789023600000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -386,18 +386,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-43cdb35f2c91",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中方向尼泊尔提供应对泥石流灾害紧急人道主义援助_构建人类命运共同体 - cn.chinadiplomacy.org.cn",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXYXlkQXlBbTlwZ0ZCaVotb3dtei1lV3AxZEFtVFVPV0tYbXYyamF2TU1TeDdSNTJQSGZXNk14THBpZnhJa2Y1VHJnTm5FYk5jZzF5QnhmVDl1b1VCM3lPQVVXMmxyWlc5VUhHMEJwdWVtQ2dUVWc?oc=5",
-      "site": "cn.chinadiplomacy.org.cn",
-      "siteUrl": "https://cn.chinadiplomacy.org.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -484,6 +472,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-0b81cc08d993",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 22:19:40 GMT",
+      "ts": 1790374780000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "暴雪就《暗黑破坏神4》第15赛季问题致歉 部分玩家获赠璀璨火花 - 3DM",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VNHVEWTJFSzN3TjJZRF9xM0FwM0RacGNUZmp1cVQ3RjZRTEdXMUhXYVIyNlFSY0RLTTRsTER6N1c2SzVxUUdxSjJsZTRuYkRNU2N5cUc1SHRPdWJv?oc=5",
+      "site": "3DM",
+      "siteUrl": "https://www.3dmgame.com"
+    },
+    {
       "id": "FL-ef0352ba1624",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 21:49:56 GMT",
@@ -532,16 +532,16 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-300239b931aa",
+      "id": "FL-f5dd0c2f07d9",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 15:38:00 GMT",
-      "ts": 1790350680000,
-      "scope": "intl",
+      "dateISO": "Fri, 25 Sep 2026 17:13:00 GMT",
+      "ts": 1790356380000,
+      "scope": "dom",
       "type": "geo",
-      "title": "巴特纳省发生3.2级地震| 阿尔及利亚新闻社 - aps.dz",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQejUzMEhVWE5kTzA2M2llTzVSZHhlYkc0ak1rdEdFR3NNRkZiYWdLdDNuVHlOT21RVHRuaWV6SHpkcWtXeGdDVl9lbXVIOEFIS1RFbXpRaWZ6NVBRVHM0cll0aWhDWXRRNE9kZ0JlUHNQQTRlMGVwLTlEMklXXy02bGNNaGFPYVZHNzFjTW9wZmRwZlBMLXhxUXBkaWdpWnc0MmxxYUt3dVhUX05MU09IdGdCcjdOczdYZ2dEdDJVcjZqdkVmMVFtY0l5NTNxRDM2S3p4ZGsyNWU1Q0pHZmhJYm1R?oc=5",
-      "site": "aps.dz",
-      "siteUrl": "https://www.aps.dz"
+      "title": "新喀里多尼亚洛亚蒂群岛附近发生7.0级地震—— 阿纳多卢通讯社 - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2M2c0NrNTFEcDhfUUVVTzhwaTlHdmY0dXBZaXlpN3RwaXBNdUV3eEhySFAwOTVzNXZPSzloNkpmLW0tNi1wT09rdUNsZ25EU1A0NGdlX1lRblZITlFjcFpNeWIzZkRPWWlxUTBlZTVoQ3hRWDQ3SmJSVzlVSG1VWmU4SmNXWTRyWHNyOHU5ekxxQm96U1dvclNBZTZGNm1YT1RBUUJFc3lvVm5jQ3ZZOXVUOGRDQQ?oc=5",
+      "site": "UA.NEWS",
+      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-71289029d840",
@@ -628,15 +628,15 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-81db783c5a43",
+      "id": "FL-257c0ca15c66",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 09:30:37 GMT",
       "ts": 1790328637000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”致日本12死3失踪 - 京报网",
+      "title": "台风“杜鹃”致日本12死3失踪 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5UmE0ZFNRVHo0T2Q3b19NUWpkeWdQN3I2dlR1NVFERDhUZTJOVDFNNGJUU1J3X3BLSGN5NTQ0STM3b0kxQVpDSU5hRlhCOE8tQS14OTE4Z1lzVkd0YkE?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 8
+      "related": 10
     }
   ]
 }
