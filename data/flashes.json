@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:38:59.753Z",
+  "updated": "2026-09-26T00:14:26.380Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-184350ddecba",
+      "id": "FL-8e2961befa1e",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:23:07 GMT",
       "ts": 1790158987000,
       "scope": "intl",
       "type": "geo",
-      "title": "阿根廷发生5.3级地震 - 京报网",
+      "title": "阿根廷发生5.3级地震 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QcmR2cFRyZFpsd2c3UkZRY0pQSUhRazdXR2lyTWtpdVpSbzVDcmFJUVZuVk05WXI2UzRZV25GZXFOUTM4Mk9vU01EaFRIbktpWjVCQ2VvejgxNW1aYWJGU052dXlma2dRVUpEZ1UtbnQtZw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-674383638b4c",
+      "id": "FL-b230488a052b",
       "date": "2026-09-02",
       "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
       "ts": 1788332400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -241,7 +241,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 45
+      "related": 44
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -328,51 +328,39 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0a09e377a773",
-      "date": "2026-09-03",
-      "dateISO": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "ts": 1788418800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川绵阳市北川县发生4.8级地震 震源深度10千米 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrZ01lUjJaSFdwV08zUG5yc1FsZGx4ZFlVNkJ0Vk91VkwxSU9oXy1aazl1TXFvZHFUNElLRTJzX29yd21UOWxtM2wxdU1SMzUtZ1hVM2R2aXpZS1hDRl9KZFBoV1poamhza1pfQnpmbkw?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-89d6589d1504",
+      "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-861987facab4",
+      "id": "FL-fc0e498bdf07",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-03e1c60639f5",
+      "id": "FL-5cdc73c89685",
       "date": "2026-09-06",
       "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
       "ts": 1788678000000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -412,18 +400,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-e34f6d05bc66",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
@@ -436,40 +412,88 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-e8a32a183e42",
+      "id": "FL-3c635363150e",
       "date": "2026-08-28",
       "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
       "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-9cd94abbd850",
+      "id": "FL-d07942777a5d",
       "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 23:33:21 GMT",
-      "ts": 1790379201000,
-      "scope": "intl",
+      "dateISO": "Fri, 25 Sep 2026 23:57:00 GMT",
+      "ts": 1790380620000,
+      "scope": "dom",
       "type": "geo",
-      "title": "南太平洋新喀里多尼亚附近海域发生6.6级地震 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12NkhFQkdwbjlaM2tFV2UyVDRBQzB6ejRkTVFDcnhaSUxNYTJkekVpMUw0QldwcEpaZmVockpZY3d6WVpOeWE2YXU1Z1U4bTN1cHF0SnE4WUJET0dUNDdzSGdaMWxocGcxU1E?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
+      "title": "四川宜宾市珙县附近发生4.4级左右地震 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ES3dJR1ZiYTQ0SW8wV01jMXdKcFZ1TGZkQ3RPODVFUzMyaXllWHI0WERPQmRsMVhvS2NxSExfRUZoNGhneEFxQTRSN2dqMjVOcy0zLTR6Rlo?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-d877eb91e635",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 23:52:19 GMT",
+      "ts": 1790380339000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生4.5级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTUwU1pocDBzellEeXJIdnJseDhHblpkVUF5LVBpOXNGa2FLRTRxeWYyOTRqYzJ3bkt2NlZSYWx4bTR0RGNsclpMSkQ0ZFBXUlZZbUlpMjZGMDRiMnh0czRJOV8zZG54MkF0eXRid05PVDR4azEyc0EzeXZnRnN6dm1TcUZlT2tkTWNTcw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-79882cbedca1",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 23:51:52 GMT",
+      "ts": 1790380312000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新喀里多尼亚7级地震 震源深度17.1公里 - chinapress.com.my",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS1U0S2pMdmNGYk1zYzdoZU51ZDVraUZhbEhXNGJsVjZoaEppRjJza0J1X2FRUVpsS0dYcjVKOF9EcjRHV3RXOG9tM3RVTWp1bEU2a2Jyd0pkYTFrQkJmbU5ROER1U3htZEVNY3BaaDMzZU1KMjhFQmJuUHhHWHVMdXJfOHZ6WWE5SFVmSWNUeTVEU29wQk1XOHpDSE5EcnZUVzlnYzFNQ2p6ZWh5SjJyd1hDR0tteEcxdGhfTWRpRmN5aWFrcHRWVHZaWlVGbXlqZEF5Qk9aTzNCd1JETzFOejRpREQyNWFNLXVydVBNWWdXVktiWHhacHMwTTk1M1E5aXJvbm9ETUFIcW1oTWc?oc=5",
+      "site": "chinapress.com.my",
+      "siteUrl": "https://www.chinapress.com.my"
+    },
+    {
+      "id": "FL-0d88b448435c",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
+      "ts": 1790380260000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-452c1dac727f",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 23:12:26 GMT",
+      "ts": 1790377946000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生4.5级地震 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ubk14RjJIRXEzNllyRVg4aDVLX3lYeTV6RnZSSWVDMlp0cmJyMDl2NXZFUGZLeGtWTTd5YzdTblp2bWtwYUh5bWFQS1lsSHdHc0laUGg0SV9sSmtHWnk1VjFsWHlrVmhkR3dkM3pUNU83Zw?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-b9d6e67e86e1",
@@ -482,18 +506,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HR0MyYmg1VnZpeGNNekdVMlU2SVZ4LXE1SGNQaUFWSkYxeVNPcXJWcVFaZE5uazFrcnlZVWRWM3VrWndBOF9uZHVyYTI5T0U4dnMzQXdabWpSOE5SQ2c?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-d877eb91e635",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 23:05:41 GMT",
-      "ts": 1790377541000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUlFRa3g5Wmtmc0p6SGJtOGFRN05oMG40N2ZKWFJDNlBCRVFkSWRwVFZtX1NvX2tzMjRTc1BhSHV1WUEyWWtFTE9pSVMySGdjb0ZrZlc4Y0ZGQm1JZGtkYUxMWVlBUnVzdEItNWF6VnhwOTg1M3Z6MDdzQlZkMl92dEhMMmdId0Fh?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-ef0352ba1624",
@@ -530,18 +542,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mWW5Nb0o0dHdGckJYMXFqOWZyR203S3VYQjlPMi1pajZ3cm5HX3RpT3NLUVFkbVRGdUJsTmJJUHM5dHVnZDJDejVuUQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-f5dd0c2f07d9",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 17:13:00 GMT",
-      "ts": 1790356380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新喀里多尼亚洛亚蒂群岛附近发生7.0级地震—— 阿纳多卢通讯社 - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2M2c0NrNTFEcDhfUUVVTzhwaTlHdmY0dXBZaXlpN3RwaXBNdUV3eEhySFAwOTVzNXZPSzloNkpmLW0tNi1wT09rdUNsZ25EU1A0NGdlX1lRblZITlFjcFpNeWIzZkRPWWlxUTBlZTVoQ3hRWDQ3SmJSVzlVSG1VWmU4SmNXWTRyWHNyOHU5ekxxQm96U1dvclNBZTZGNm1YT1RBUUJFc3lvVm5jQ3ZZOXVUOGRDQQ?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-71289029d840",
@@ -616,15 +616,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-0c4f5573ec38",
+      "id": "FL-4c89f7901370",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 10:30:51 GMT",
       "ts": 1790332251000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典旅游区住宅爆炸坍塌 三人受伤多栋商铺受损 - 8world",
+      "title": "雅典旅游区住宅爆炸坍塌 三人受伤多栋商铺受损 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVg4UlpjRWtqUzRtVHROQVBPeUtYYkV5aUVPNkJGVjBlSnFZa0Q1bmhpbnd5RzBDSkxjTnk1elhlZThTVGRhSHRWZkgybXo4c3kwal9hLXJkc1dvNkpmOG9DSFRfeXd1MUhWLXBYRnp4cHpVcGNBZlNwMldKdWJDSGVHRTNGV2ZuUWMxaTltTU10d2x2MjJwX1NQTklfZWVu?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 10
+      "related": 11
     }
   ]
 }
