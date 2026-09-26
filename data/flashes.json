@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T14:40:13.196Z",
+  "updated": "2026-09-26T15:10:47.835Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,16 +63,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-ff2cf3625b86",
-      "date": "2026-09-01",
-      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "ts": 1788246000000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "天气现场-强降雨突袭泉州洛江 多处内涝坍塌 暴雨Ⅱ级应急启动 - 天气网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94LTcxRDVOWmRNdFBoa2RVa1VSMkJ2Z2RpVlkxVHNXUktDamdjNW9qbUVzNl9GQXdqZXBLMTFUdFF4amQ1Q1V3UkdTS0prWUdsblhmR1QwMlVxd3NtVjdkOHM3NXY?oc=5",
-      "site": "天气网",
-      "siteUrl": "https://www.weather.com.cn"
+      "id": "FL-a2237798f821",
+      "date": "2026-08-20",
+      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "ts": 1787209200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-31aaf7309a8a",
@@ -135,28 +135,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-667f158ec3f7",
+      "id": "FL-fbe04cabe39c",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 14:37:21 GMT",
-      "ts": 1790433441000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "一次致命抉择，令《终结者》宇宙彻底崩塌 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feEkyb3hSQjhoWmdHbzFBTDB2LTU4YzZsdUducm05Yms5eGxmbzA0aUdnM1ZpbVgwcnczd0RVZlFJSC11dkpCWUFfRUtvbDZrS3RlaEw4WXJfcnBPeGZFTmJjRExYdzZVVlNpbFpKcnh3QQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "http://k.sina.com.cn"
+      "dateISO": "Sat, 26 Sep 2026 14:42:00 GMT",
+      "ts": 1790433720000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "泰国曼谷暴雨引发洪灾，政府开展救援安置 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2ZhN3hYZkdMQVVvRldIamVwV2N2VkxscVMtSW9FajRzUElLVE9KaEkwQ1c1aUdrN3FNOWNyaHVWdWpzQzh5Z01LQjZBaE40ZHZxdG55c244R0RsU3JBNUFRRm94MFdHMlhvUnJMNEQ2QURGNHM5aXBtTDBjbk84M2tacG9oWjI1?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-3d040d5ff6d7",
+      "id": "FL-e9f4df7f4f67",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:36:06 GMT",
       "ts": 1790433366000,
       "scope": "intl",
       "type": "weather",
-      "title": "总台记者观察丨泰国曼谷暴雨引发洪灾 政府开展救援安置 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHVwaC1ZMzc3T3dWSW93RjVWOU5MY2RXNzNCeHM0UTd3NWNEQjlNYy1wWUZZUHZxRGwybThZNnJPTGM1RldRX2JZMjl6Z08wUm5iaWVJc05FeGVTXzBLRTNNc1VMQ0RmbFpIWG1ON3JCZnotQnpKZk1KeU9nRTZjdVVMOGYxeVNZ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "泰国曼谷暴雨引发洪灾，政府开展救援安置 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53VTNwYXRBckZQZ0JVTG9lYVkwaGpOX0c1ZF82ZGRtQ0VZa3l2MDN4MGJ6SjliY01GSVAxTE5oTTJHQzM0UE96a0F4ZGhpTFdZdUdicUtMZ0w4OUN1SlE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-9922da7b434e",
@@ -205,18 +205,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 31
+      "related": 32
     },
     {
-      "id": "FL-75300d66f43a",
+      "id": "FL-47ac15115fd0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:53:00 GMT",
       "ts": 1790416380000,
       "scope": "dom",
       "type": "geo",
-      "title": "应急科普丨地震来临时，这些科普知识速速了解！ - finance.sina.com.cn",
+      "title": "应急科普丨地震来临时，这些科普知识速速了解！ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MDVNVjFXZ00xTXhrcGVXaHRJTXpBbEdTTU5CWFZZTUVObGE1Q1F4bEx0WTF6NHEtYjZNeTRaQ0pXNlhhaDFoanVDRjZiTU1lQUdqbEhTLUs0UVZ6cU9uX2JnOHFnZVV6M01rWG8yNTdndXZ5S0E?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -244,27 +244,27 @@
       "siteUrl": "https://www.chinapress.com.my"
     },
     {
-      "id": "FL-f0d3e85a056c",
+      "id": "FL-beadb71bb25a",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 08:37:45 GMT",
-      "ts": 1790411865000,
+      "dateISO": "Sat, 26 Sep 2026 08:31:00 GMT",
+      "ts": 1790411460000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度25千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejFHRjlITlFpRk53U3NRMDUyUUFUTG80WGlFVmJBUXFKYjE1YW8zbjZaeUxTMzRvT3pHQmlRajdYWmZXc0h5YlhXTUZLV0xCTEE2TEhnbldYR3RTT0VYUDYwcGZQYm5lVVdfYWx2OFdmcEQ5T0hnU2ZuRW51RkFIeVNTOUZGSzk3?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度25千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuaWI1ZmlGNTF6Rlg3VnRnUm13R1JpZWd6QmhKOGNDQW1lcU5jZERqSDU4LWNHRXBzTWZOMkwybGtPMUV0RTRhb2Vzc09wTmp0MFZJTGJlNjY?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-50835c7c0a50",
+      "id": "FL-10fcd155bdbd",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 08:07:15 GMT",
       "ts": 1790410035000,
       "scope": "dom",
       "type": "other",
-      "title": "台湾老妇服务区搭帐篷夜宿 帐篷倒塌受困身亡 - 8world",
+      "title": "台湾老妇服务区搭帐篷夜宿 帐篷倒塌受困身亡 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTdaNUE2S1p0bG02c1dhNVJOSnkwOHRva1ZOM0xUek5qVFZoS3NGaFhRdnhPcTlHNnVsSWRJSng5MElxc19QOVFuOHlwUXR1VWRLdlpHXzlSZEdNMTAtNEEwWS1paE0zZVdLSHlIeTVEeUQ2RndWM3hSeVZIZy1OZDhSLThObzZ5bjY3S3dVU3kzbUdyUzBsM3pVdVo4LUY4OFI4eGo1c0ZJcF9NbHllRFZJUQ?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -292,15 +292,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-3d3d2af78478",
+      "id": "FL-2f3cf5fd9884",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:08:53 GMT",
       "ts": 1790406533000,
       "scope": "dom",
       "type": "geo",
-      "title": "熊本接連地震 台積電所在地菊陽町3級 - ntdtv.com",
+      "title": "熊本接連地震 台積電所在地菊陽町3級 - 新唐人電視台",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlNlRyZjRBVmg5Mm1QX0xjUHB0SGJLaF9GdWg3V2xzM0JQOXZyTEQwSWd3eXBRS0RWMFF5TFZYeFB0cWxVMUZxb2k0cTh2Vldtd2x2T1VMR0R0WEdaYm5mctIBZkFVX3lxTE9PY29kMDVsRE1QVDU2LW44RjU3TmNQTVJvd09FVWU0VDdnb1VFN3lrYlRkaWVESWZGcy13d1hEMENwMUpjNTlKQU1OdXZ6Z1lQNEJ4Y2J3MzR1NXVMRzAzV29qcVBhdw?oc=5",
-      "site": "ntdtv.com",
+      "site": "新唐人電視台",
       "siteUrl": "https://www.ntdtv.com"
     },
     {
@@ -350,18 +350,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVk5xM1dWWTZwb3g3ZTNfSGhGTy03WnJ3SVNWWUlickFsaUhJWGJOYThCc3VSU2tjRXVNMHU1QWVVSWpMMlpBRV9FQmlPT0NBVmNXZDR3TUJsd2RORWVBT2MyczgxMzUzcDdFb0U5dTdNTXlqbzBWQUR5REtaR0FWWDRxZFY2MU5MM0hndnZR?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-9751215ee590",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 05:06:26 GMT",
-      "ts": 1790399186000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本熊本今天接连发生两起地震 未引发海啸威胁 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2NXZURHdrY0Y5akdaY0xVTHl3OWl6WXN6and2aThUNjVBUXFnb2syckNaMWo2U1RYVkgxa1lGSEdCZjA1N09UeERvYWxpZGFySkFPeXFoUG5FdEpWNDFPRHhUdGtQci1pYmRRSTFMZw?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-b68004800400",
@@ -484,15 +472,15 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-a5e49d03bfbc",
+      "id": "FL-ac21ce79388b",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 01:49:04 GMT",
       "ts": 1790387344000,
       "scope": "dom",
       "type": "geo",
-      "title": "马国沙巴州发生3.3级轻微地震 - 8world",
+      "title": "马国沙巴州发生3.3级轻微地震 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ueG9YZmk5YlFVR0V1MTR5X0F5ZXZHdlUtUDhBUFJwbHA3MzNtNmVQSXRtMVVURFZkZ2thdlhWQXdYR1RCTVJLei0xS201cmE4ZUpmdXhqb0VkdG5JQjZKdlZBRkM3cUVuUUJkLVBnbw?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -616,18 +604,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-d877eb91e635",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 23:52:19 GMT",
-      "ts": 1790380339000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTUwU1pocDBzellEeXJIdnJseDhHblpkVUF5LVBpOXNGa2FLRTRxeWYyOTRqYzJ3bkt2NlZSYWx4bTR0RGNsclpMSkQ0ZFBXUlZZbUlpMjZGMDRiMnh0czRJOV8zZG54MkF0eXRid05PVDR4azEyc0EzeXZnRnN6dm1TcUZlT2tkTWNTcw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-0d88b448435c",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
@@ -638,6 +614,18 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
       "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
+    },
+    {
+      "id": "FL-d877eb91e635",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 23:47:08 GMT",
+      "ts": 1790380028000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生4.5级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFNLamlhbWpQSVVMdDRpZUN2cENSOVNmWXA2MHlOdjVLdHBYSE1xbjZPdkFENWJzV0JLZEt5eEJTc08xMVBkUUJ5V2NiWXcwX3ExSm9MYW40al9DclB1WnpsWWdkYzVzWE5XVDRnckpHZUlpV2ZnZDI2OW1NNXVYS0JUcHExVlpSWGQ1bw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-452c1dac727f",
@@ -710,6 +698,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNENIQ3dNUWw2ekQxUXZxSklodm53djRwVnNIN01LQUVmd2VWeDlnTWpOcVBhT0U2WUtTc1RhdnkwaG8waEJHUkc3c04xb0habzJWRGNjSQ?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-4ee97473f1c9",
+      "date": "2026-08-14",
+      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "ts": 1786690800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
