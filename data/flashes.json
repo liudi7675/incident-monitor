@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:37:56.947Z",
+  "updated": "2026-09-26T20:10:47.457Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -85,19 +85,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
       "site": "UN News",
       "siteUrl": "https://news.un.org"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "ts": 1789023600000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "山东青岛市北海造船厂一货轮火灾事故已造成20人遇难 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa3g4VnlYVXpHY3N1YmFWWjVORmhQME1CaTFYZU81TmtMQng3ZEF5N1BXNVhITnJSWE1vSDZtMXMzN3J1WFU4NzZMaFIxVU4zMEMtVFk3VEd1R3kyT2FELW9hYlVDUWZxZTQ4R3hyZ1Y?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com",
-      "related": 2
     },
     {
       "id": "FL-89d6589d1504",
@@ -220,15 +207,15 @@
       "siteUrl": "https://www.tdm.com.mo"
     },
     {
-      "id": "FL-bc494ee1162c",
+      "id": "FL-88b75849c4bc",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:53:47 GMT",
       "ts": 1790434427000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴布亚新几内亚发生5.6级地震 - cj.sina.cn",
+      "title": "巴布亚新几内亚发生5.6级地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55eWJPU2ZZeE14MmFjUFJkcDZKa3VCaVIyUVJPY2hRM2huamxnZUlEQmgxWWM3OU5wN3UyWkdiNlVxZEJ3clRXOElObw?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -286,11 +273,11 @@
       "ts": 1790418183000,
       "scope": "dom",
       "type": "geo",
-      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（一）_独家采编 - tibet.cn",
+      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（一）_独家采编 - 中国西藏网",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
-      "site": "tibet.cn",
+      "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 24
+      "related": 27
     },
     {
       "id": "FL-661e99e4f728",
@@ -317,15 +304,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-f5b789134f95",
+      "id": "FL-4562f1649a59",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
       "ts": 1790415550000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - zaobao.com.sg",
+      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdG5Ray01eFNyVFBPRk9ZQ1VGdDZpSjdndy1kQlVlWmxnY1dtYjJjMXpLYlFWWWhBZmVlRzNoT1NSeXdDa2lpbmZ2RUtza2YzOXp2V0hMYkk1MEJkMEpqb0MyZFN0bjVrSmc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -413,39 +400,39 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-fdf7b0c7f3b8",
+      "id": "FL-b77f3f801f75",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:10:03 GMT",
       "ts": 1790395803000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本熊本县发生4.5级地震 - cj.sina.cn",
+      "title": "日本熊本县发生4.5级地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yVkloUHBVaE84RlRoSEZqdzVCYVc4THlFZG15R2FfS05qODBqSkFUYjRaT0lOVU8tUlFfd1VZU2xOLTRxZDZzLVQtSQ?oc=5",
-      "site": "cj.sina.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-a87c91d52036",
+      "id": "FL-96d0c5cb8f5a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:07:04 GMT",
       "ts": 1790395624000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生3.4级地震，震源深度5千米 - news.cctv.com",
+      "title": "四川宜宾市高县发生3.4级地震，震源深度5千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRjZSZ0l3SWExOTF1S2VrWkpDVmNDU3lPSlQtQWZtYTNNcTl6NDludjlTS0NIZG10OEZFLWVMeW1zUEFxT0hOMzBOZ2VtRjBPc0ZyX0xrZTVBUkJTai1RNjI5MUdnWm45b1VqWlpYXzU5TGNoQUVGSA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-2d688e18dcdd",
+      "id": "FL-48a0d3659f9a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:31:33 GMT",
       "ts": 1790393493000,
       "scope": "dom",
       "type": "geo",
-      "title": "11:31:33【四川宜宾市高县附近发生3.3级左右地震】 - 财联社",
+      "title": "11:31:33【四川宜宾市高县附近发生3.3级左右地震】 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yTldPc0x0NzAzZkhyLV9sZEFYZVhiRC1McDU0TGNHXzJKRks4c2hzdEFtSlFTUHB4V2N0cEgtOWJfWDJHRnVLdA?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -545,16 +532,28 @@
       "siteUrl": "http://china.zjol.com.cn"
     },
     {
-      "id": "FL-1a76fe42135e",
+      "id": "FL-b5297a5d627a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 01:13:17 GMT",
       "ts": 1790385197000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - news.cctv.com",
+      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYbUJQSnh1bl9rd21oSjIxbDBkQUVUb3pReHZfaWx5MTN3MjAxaHZha2YzSjBpc0lkRXdMWnhuQUl6YzlvREhCcWJNeHhUSHRCNndzVnUxcWZsYnJ5Tmk4a3RQSVhlMFN0LXV3Ri1JNmhvazFXZC1yMA?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-04c443e45ae8",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 00:42:34 GMT",
+      "ts": 1790383354000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "宜宾发生4.4级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zaFFxOEJKX0NPdGZ1eC1xX0NfcWpRZk5yS2x1V0VIdUdLb2E5VU4zQWZOMEJuYk5rM0FnS3JTWWF0VmVaTWw2OUdNd0VzYXY3Y0E?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-941203cdde9d",
@@ -579,6 +578,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzZtZ2lOREU4dVhSUG1GSjNPOC1ZYWR0X3FGdGRUMm1wYm1RMEoyb3ExZzkxenRmSmFLZXVZRXFPbW14bkhIekltZHUwU3BHZFJzb1cxaGM1R0l0V2xtVXBGSFlQZTFnSFF2ZVBHOVlQY3FuUmxCYXFocFp3TnQ1RFdvLUltMks3M0FjRQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-98905528a23e",
@@ -617,15 +628,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-0d88b448435c",
+      "id": "FL-dd11f392f283",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
+      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -701,28 +712,17 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-75636405da30",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 05:21:58 GMT",
-      "ts": 1790313718000,
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-11",
+      "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "ts": 1789110000000,
       "scope": "dom",
-      "type": "other",
-      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESE1RZU1OMVBSbzIxMWNrSUl0YUJoM2lRUndtc3EyeU9UUGpMZzNXRVN2YjByRGJoaGlXV0VVMXlvQ2N6Zk9aRFBEeXBQN0ZEYmYtWXJ4THl4OVVMYTd3?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
-    },
-    {
-      "id": "FL-4ee97473f1c9",
-      "date": "2026-08-14",
-      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
-      "ts": 1786690800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "type": "fire",
+      "title": "青岛货轮火灾致25人遇难 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
+      "site": "人民日报",
+      "siteUrl": "http://paper.people.com.cn",
+      "related": 8
     }
   ]
 }
