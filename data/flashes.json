@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:10:34.517Z",
+  "updated": "2026-09-26T05:39:42.857Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-b4668c9ff377",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 11:53:00 GMT",
-      "ts": 1790164380000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-184350ddecba",
@@ -253,7 +241,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IaFd5cFk3Y0s4MC1Kalp1WWhOc201U0pzZUs2UzdyQjZiWklvV25XTGFRMEE4cm8zbnQ5MW5UN3R3RHduaGN0T3M1bDBhMmlTWXV2bjMwVlA2dEEtemVFZkg4bE5mSlJ1VTU4Qg?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 34
+      "related": 35
     },
     {
       "id": "FL-a1906c703c74",
@@ -280,15 +268,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c41d1c719860",
+      "id": "FL-418eed2ca087",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:48:22 GMT",
       "ts": 1790390902000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川发生地震 - finance.sina.com.cn",
+      "title": "四川发生地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWEd5dHV0d1ZxVmJ6eFhKZGI1YS1rbk9qeUgwVm5PSXZsVkRzZVFIa2dkRnY2VzBVMkEzcVBSSUVNbldTOEZfeEIzNjR4cDFHNXlKUVVCRlBUdFUwYXBTY196YndMTTMwWDRRcUJQeVBJYmt5cy1PLTNlU0MtU05SX0VKWjJqcUFPQnBZN2NreS1zc1pDdXVncXZDVHp1LV81US1tZXAwS04yZDBrQ0ZxaWl3eEJObXYtakNybGJFdW5OY1Juc2o4bWVGaG8yQnR3bE5LUUxlVQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -340,15 +328,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-9e0a8bdff41f",
+      "id": "FL-e8f7cbe44e9a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:06:07 GMT",
       "ts": 1790388367000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - finance.sina.com.cn",
+      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNQUxaOTFneDB6RC1MdTJtMDlEVlIyYmpDbFI5ODM0alV1dlZfWndzMldZYzBjWlloakhIZ1pjOG5fZ0h5S1Z5SlRQS1F2b1I5b2hhdnBaVVJGdklwVFRxbFEyaGNCcThyUTMwbnhXTHRsV0RTVUZDeXprU0Q0UXVsblpSY1NoUmNZNks4d3JibXd3TUVhLXdwb2ZPMW1OeDRQYXFoTzNDUTFSNTNOa0g3bnY5MDgyaUVkZU5GSjA2djA1QXF5VmlzVGRRd3ZmMUpmbWNmVkZQQWZxcmFSZXA1MjRpOWpyd0trOXZ5Sk1xRE5pbzRCd2gydnh1SWV2ZzRYNG85ak1tcTg5WGZHeEtmN2pYdHk1Z3JkZmUyeTVyOVpoTXlFNDhaOEhTQ0l2NWVQVlpZam1TSi1QOURnckdMZlNuWDhKSm9hUUxLWWp4Z05UaXRHZ0prLUdfX29yOGVKWWhQbmdGRDkyNFVSZ1pIS3lsR1Viai1zcTczWmk1T2xzODFqRVV4QnMtX3dMRm9HN2NobVEwUkJsMUw0ZEFISnVmRDlqUTVTWEpLdHJhTDJPdnNWaHdCZlpEeEpvLU1vbE5JdHZNZ1hsNzdVeUVJazI2QzBkN2lCdzdORXA0UHlFdw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -362,6 +350,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ0lCRm1DMDJBLXRZZlE2U3pVWGJ2RGFRdVRJbUdPRVVrbzdJcjc4Ri1iSHF5aWFreXk3Wk5FbEc3MEc0Q2lLVWJYWUNrSzBDTmROWjB4NTk3OXJLR0Nzalp5c1g3ZDk4ckxxb0ZISmI?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-a5e49d03bfbc",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 01:49:04 GMT",
+      "ts": 1790387344000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "马国沙巴州发生3.3级轻微地震 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ueG9YZmk5YlFVR0V1MTR5X0F5ZXZHdlUtUDhBUFJwbHA3MzNtNmVQSXRtMVVURFZkZ2thdlhWQXdYR1RCTVJLei0xS201cmE4ZUpmdXhqb0VkdG5JQjZKdlZBRkM3cUVuUUJkLVBnbw?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-0a8a002f5fa2",
@@ -424,15 +424,15 @@
       "siteUrl": "http://china.zjol.com.cn"
     },
     {
-      "id": "FL-e4ce47612035",
+      "id": "FL-eedecca428c5",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 00:41:21 GMT",
       "ts": 1790383281000,
       "scope": "dom",
       "type": "geo",
-      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - ebiotrade.com",
+      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ2x3YTgzTXVHZVp3ZWIwRWNaM3A0eUhlbG1tbjJnMDd6aGlvZnRwZzJpNVU4ZkczTWRaNEJ1d2wzTDNjUVFXdVlGbG1tS3JpcnJoX09IWE5NZ1dFbWhhcElFU3JYWW96aE5uUQ?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -472,15 +472,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-91cd1bc38bf3",
+      "id": "FL-7e29dcfbe2c3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 00:15:09 GMT",
       "ts": 1790381709000,
       "scope": "dom",
       "type": "fire",
-      "title": "混合疏水砂土火灾后泥石流流变特性研究 - ebiotrade.com",
+      "title": "混合疏水砂土火灾后泥石流流变特性研究 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4SnJXVThoR0N0RnpadlNQd2lDVERUMHB5dUxIdEV1MHJ5QU1qaFF0MkU5TGd1enk4YTVjaGxQNG92Rk85YjZyMlFaREppc1ExNEM5aktNSDNNZEExWmpDM01wZGd6MHQ3eHlDcw?oc=5",
-      "site": "ebiotrade.com",
+      "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-d9a57ba2fd3a",
+      "id": "FL-aedef713583e",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 07:58:19 GMT",
       "ts": 1790323099000,
       "scope": "dom",
       "type": "weather",
-      "title": "四川德昌遭遇有气象记录以来最强降雨 安全转移8591人，无人员伤亡 - finance.sina.com.cn",
+      "title": "四川德昌遭遇有气象记录以来最强降雨 安全转移8591人，无人员伤亡 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzNTZzRZZUVZWndzREI3UmZKbk1RWUp0Z0tkSjREdGVjXzlhZEpGdnV1elh6R21QQVFsTHNEN1RqNzhYOGx0aFFVcXIzT2cyM0REVklVX1RyeGxHMjNWc0JUMHdBUHdaTG1fS0hVTXB5ZHV3cFVqV1d4ZnNsazAyTDdiUXBQUWZxZngtdW4zSF9wWGxoWXM3Sw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-1c670040501d",
+      "id": "FL-75636405da30",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:21:58 GMT",
       "ts": 1790313718000,
       "scope": "dom",
       "type": "other",
-      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - news.hsw.cn",
+      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESE1RZU1OMVBSbzIxMWNrSUl0YUJoM2lRUndtc3EyeU9UUGpMZzNXRVN2YjByRGJoaGlXV0VVMXlvQ2N6Zk9aRFBEeXBQN0ZEYmYtWXJ4THl4OVVMYTd3?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
