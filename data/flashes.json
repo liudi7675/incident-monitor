@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:42:46.893Z",
+  "updated": "2026-09-26T19:09:35.122Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-0fa05aae3512",
+      "id": "FL-d6feb3148f89",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -99,15 +99,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-50cd7b6888bb",
+      "id": "FL-91bdb2ea9dee",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - news.cn",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -121,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-836b517667ee",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 18:35:00 GMT",
+      "ts": 1790447700000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VNGJFcE9GUVQ0bEx0RGdVbUtFMHdmengzNEFMS3FqdFZ3ZEJvN3MxaTZFSW56UkNfQS1Xamx0dnBJR3Y4Z1FFU0pKbzNzSk9MSHdIVGRFbXJwTlZvcEwzZTMxVExBV25zNG1fRlQ1Y3dhdVVHbzVuRg?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-877d46e8bdb9",
@@ -219,18 +231,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-eedecca428c5",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 12:15:40 GMT",
-      "ts": 1790424940000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ2x3YTgzTXVHZVp3ZWIwRWNaM3A0eUhlbG1tbjJnMDd6aGlvZnRwZzJpNVU4ZkczTWRaNEJ1d2wzTDNjUVFXdVlGbG1tS3JpcnJoX09IWE5NZ1dFbWhhcElFU3JYWW96aE5uUQ?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-e941471c1e2b",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:34:21 GMT",
@@ -265,7 +265,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 29
+      "related": 32
     },
     {
       "id": "FL-661e99e4f728",
@@ -292,15 +292,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-f5b789134f95",
+      "id": "FL-4562f1649a59",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:39:10 GMT",
       "ts": 1790415550000,
       "scope": "intl",
       "type": "blast",
-      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - zaobao.com.sg",
+      "title": "雅典旅游区住宅爆炸倒塌 造成六人死 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdG5Ray01eFNyVFBPRk9ZQ1VGdDZpSjdndy1kQlVlWmxnY1dtYjJjMXpLYlFWWWhBZmVlRzNoT1NSeXdDa2lpbmZ2RUtza2YzOXp2V0hMYkk1MEJkMEpqb0MyZFN0bjVrSmc?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -484,18 +484,6 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-b0281ffe7960",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 02:02:22 GMT",
-      "ts": 1790388142000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾发生4.5级地震 震源深度5公里 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ0lCRm1DMDJBLXRZZlE2U3pVWGJ2RGFRdVRJbUdPRVVrbzdJcjc4Ri1iSHF5aWFreXk3Wk5FbEc3MEc0Q2lLVWJYWUNrSzBDTmROWjB4NTk3OXJLR0Nzalp5c1g3ZDk4ckxxb0ZISmI?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-0a8a002f5fa2",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 01:41:09 GMT",
@@ -580,15 +568,15 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -616,15 +604,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-dd11f392f283",
+      "id": "FL-0d88b448435c",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
+      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "cztv.com",
+      "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -652,15 +640,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-b9d6e67e86e1",
+      "id": "FL-7843b0cb0884",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:06:11 GMT",
       "ts": 1790377571000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局开展四川宜宾市高县4.5级地震应急处置工作 - 京报网",
+      "title": "中国地震局开展四川宜宾市高县4.5级地震应急处置工作 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HR0MyYmg1VnZpeGNNekdVMlU2SVZ4LXE1SGNQaUFWSkYxeVNPcXJWcVFaZE5uazFrcnlZVWRWM3VrWndBOF9uZHVyYTI5T0U4dnMzQXdabWpSOE5SQ2c?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -712,6 +700,18 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
+      "id": "FL-75636405da30",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 05:21:58 GMT",
+      "ts": 1790313718000,
+      "scope": "dom",
+      "type": "other",
+      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESE1RZU1OMVBSbzIxMWNrSUl0YUJoM2lRUndtc3EyeU9UUGpMZzNXRVN2YjByRGJoaGlXV0VVMXlvQ2N6Zk9aRFBEeXBQN0ZEYmYtWXJ4THl4OVVMYTd3?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 8
     }
   ]
 }
