@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T16:40:58.690Z",
+  "updated": "2026-09-26T17:10:10.221Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,15 +51,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-d6feb3148f89",
+      "id": "FL-0fa05aae3512",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
+      "id": "FL-50cd7b6888bb",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "title": "日本茨城县地震致37人受伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -111,16 +111,16 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-ff2f82ed4471",
+      "id": "FL-877d46e8bdb9",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 16:36:40 GMT",
-      "ts": 1790440600000,
+      "dateISO": "Sat, 26 Sep 2026 16:05:06 GMT",
+      "ts": 1790438706000,
       "scope": "dom",
       "type": "geo",
-      "title": "福建罗源县碧里乡发生滑坡泥石流险情 3人暂未联系上 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkkwa1Q0SHVmN1hBdzV0c2dsek90VXM3b1FEWlVaOWxxMUNDTllPZmVzaFFUYW1aYXQtVHd1Qm9PNTBsNjl4eEZfNVpOQjEzMnJXWjNZYmE3QXgtTFA1QnJzT0UyV3R2dEtNYzRPU2tNdURhRFFaN2h1dDZ1cXBpQ01YZzAtSFVUcDBWeGY3NE1oQnRmN19ncQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情 3人暂未联系上 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xSFVuc1NsRlR1eE1DWkpXNVVFZ1FidXRxLU5ONmJvNloydWFMNmlZWi1QeXF3ZkRoMFN0TDBYTUtpZVJnem9RWUtrRExHSnRQQ2RFck15dWhsV1NSUk50b25EdHNJcW4z?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-f0dd75a0c935",
@@ -145,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SVjJ4Z1N5akt6c1dkNW13WS04WUVidHIzdnpJVmVKanFxM09zbGNMbHdIejRxWTlLZmthVmtIaXFHZllPamxSeE0wcDNkVGJ5R3hJ?oc=5",
       "site": "虎嗅网",
       "siteUrl": "https://www.huxiu.com"
+    },
+    {
+      "id": "FL-92db81d9441e",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:48:30 GMT",
+      "ts": 1790437710000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情，3人暂未联系上 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd244cGtDNlFNZjJJNmhjTkRCTHZCdlNuN0tBUUozQVFTV2VlcUFseUpaYnkwQnp5VF9GLTJ3aFVrOGtlbnpTdUZqYnBGRWxzMzJOc1AzY29TVjYtMjdOc1VaSUI5SFRFcXRMdWZ4WklyLUEtQTR0TlhoNHJfWk1jcUtIWlFZRF8xU3JyTk5laHo0VlhuWGVicw?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-8c0142bafb06",
@@ -183,15 +195,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-eedecca428c5",
+      "id": "FL-e4ce47612035",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 12:15:40 GMT",
       "ts": 1790424940000,
       "scope": "dom",
       "type": "geo",
-      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - 生物通",
+      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ2x3YTgzTXVHZVp3ZWIwRWNaM3A0eUhlbG1tbjJnMDd6aGlvZnRwZzJpNVU4ZkczTWRaNEJ1d2wzTDNjUVFXdVlGbG1tS3JpcnJoX09IWE5NZ1dFbWhhcElFU3JYWW96aE5uUQ?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -424,18 +436,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9e270cbe154e",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 02:52:00 GMT",
-      "ts": 1790391120000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾高县26日地震暂未收到人员伤亡报告 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UnpLSnhJZG41VmdSMXdmejFCeEU1VXZaeWNxS0Rkd1c2U0xSZThMYUc5RGtGNkVmWFhWWU1ieXg5NzRPby1DMXViY0FWNnFWQVlKdlNxWEtwWi1CUEIwY2UtNVk?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-0a305e2cc97f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:30:32 GMT",
@@ -568,18 +568,6 @@
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
-      "id": "FL-79d47fc10a5f",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:00:00 GMT",
-      "ts": 1790380800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "高县先后发生三次地震 亲历者：睡觉被晃醒 房子感觉要晃塌了 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OREZqTjN2dHNVM3U5QW10Znk0dk9wdlQ0X0F2VUNudk1sTzJRVWloX0dBU25TQmQ3MW8tekQyeExndDN1VFQxRkpVTC1maWxDaVV3ZXplbnZOV1NXYmRlcDVmQV8?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-fb448a3e9124",
       "date": "2026-07-11",
       "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -592,15 +580,15 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -698,6 +686,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RYXRzanJGYUdUTE9FOWVwejZ3TXhtSnlDNUl3XzQyNkIxMWJvYTh1bU91REpJSm5uaHZCM1JRQnZMTGc3YnJOZ2ltUGEzN0lhdWhGMVEwa0VISmhCZTRrLQ?oc=5",
       "site": "thepaper.cn",
       "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-b85f6f97e6d5",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 10:45:29 GMT",
+      "ts": 1790333129000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "台风“杜鹃”已致日本12死3失踪 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRjJpQVZYZmJmSDF1c2o0UGdlTFhySU95NDhINDlGREFjRjBIQ2lMRTZybUd0UU9pY2FKWGZJeE03MXloQVM1Z0E3TF80TGltQ3pIam1hRC1qU1lkU3JKZkhfVEdDZUdy?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
     },
     {
       "id": "FL-a10d2f5fcf6a",
