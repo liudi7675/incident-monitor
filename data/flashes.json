@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T06:44:11.248Z",
+  "updated": "2026-09-26T07:10:46.186Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,40 +51,28 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-d6feb3148f89",
+      "id": "FL-0fa05aae3512",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-2497067a4395",
+      "id": "FL-22783efb8fb9",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 15:28:46 GMT",
       "ts": 1790263726000,
       "scope": "intl",
       "type": "geo",
-      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - news.bjd.com.cn",
+      "title": "中国驻土耳其使馆提醒在土中国公民注意防范地震灾害 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VVozUEkwdkc1YTFTSlFmcm9mR3llYWVNZ0JmLTJERmxGc3RIT1lCdERIel9BUXlhTldhQk16cE43S3VtMTU1UWdTbk9zUGR5X0RzWklUeG5hVzlrLUE?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-90957fc9c380",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 11:14:00 GMT",
-      "ts": 1790248440000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNWUyWnozVUl6aWQwNkxHSmttNXNSeDhiQVFpcHhqMWhhM3k4bVJMa2dibWUtTkxuRDZwdlk1a2k1RlAwb0d5TFpCaDZvUFYxRlJKNS1oaw?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-8216c3f69455",
@@ -123,15 +111,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
+      "id": "FL-50cd7b6888bb",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "title": "日本茨城县地震致37人受伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -157,6 +145,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-2f3cf5fd9884",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:08:53 GMT",
+      "ts": 1790406533000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "熊本接連地震 台積電所在地菊陽町3級 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlNlRyZjRBVmg5Mm1QX0xjUHB0SGJLaF9GdWg3V2xzM0JQOXZyTEQwSWd3eXBRS0RWMFF5TFZYeFB0cWxVMUZxb2k0cTh2Vldtd2x2T1VMR0R0WEdaYm5mctIBZkFVX3lxTE9PY29kMDVsRE1QVDU2LW44RjU3TmNQTVJvd09FVWU0VDdnb1VFN3lrYlRkaWVESWZGcy13d1hEMENwMUpjNTlKQU1OdXZ6Z1lQNEJ4Y2J3MzR1NXVMRzAzV29qcVBhdw?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
     },
     {
       "id": "FL-a9b06ab63bbb",
@@ -205,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVk5xM1dWWTZwb3g3ZTNfSGhGTy03WnJ3SVNWWUlickFsaUhJWGJOYThCc3VSU2tjRXVNMHU1QWVVSWpMMlpBRV9FQmlPT0NBVmNXZDR3TUJsd2RORWVBT2MyczgxMzUzcDdFb0U5dTdNTXlqbzBWQUR5REtaR0FWWDRxZFY2MU5MM0hndnZR?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-98dc421d1b0d",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 05:16:31 GMT",
-      "ts": 1790399791000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "海啸诱导杂交后三刺鱼种群的全基因组快速清除机制 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NdjhudjlhQ1Mta1ZQYk9MU0F6RTFOemtidkhqX0ZNekVhWlJEUDdLNmxUWEpzRldEdkFhdEpUUlNHS21jeVljRXBwelh1MVhoRlZ6WnpydnpQbHNtd0JwTEVEYU1ycmU0WlVLdQ?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-7e29dcfbe2c3",
@@ -292,6 +280,18 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
+      "id": "FL-1edd8abec572",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 03:20:06 GMT",
+      "ts": 1790392806000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：今早到明天，海南岛、浙江、重庆等地有短时强降水 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd293MVFOcHNORFNvLTdVd2R1VVhOOHZqNHpmZE4xc3Ytb1BiZjR6Z29CZlRUWXNkQXBzbGxNQ0M1bl94SGdGNmtKcnVBdjJXemU5a2NLTFpfUjVvLW9oal9penRIemNWcHZXU0luZDFZVmtYbnNxdU5mOTl0VnV3NlQxLTI5M2VHcjR3RA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-38706c5a3c31",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:00:50 GMT",
@@ -304,15 +304,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0a305e2cc97f",
+      "id": "FL-2d5b13e9c06d",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:30:32 GMT",
       "ts": 1790389832000,
       "scope": "dom",
       "type": "geo",
-      "title": "宜宾地震 4.5级地震震源深度5公里 - 中华网",
+      "title": "宜宾地震 4.5级地震震源深度5公里 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SWV6RnRBRDhybVU0T09CVmxLeTZMMXJPbFhrV0R2a3pLclRqWXVQRWU5cWhHRFNRVUVXYzBIRVB4VFNQd0IxZUVwbjNpa01ZZUdWT1ZSeGdMRWgxNWttWDdfa1VKdk1GVmxnS0xaSnk?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -364,15 +364,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-b0281ffe7960",
+      "id": "FL-8ea11ed536b3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:02:22 GMT",
       "ts": 1790388142000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾发生4.5级地震 震源深度5公里 - 中华网",
+      "title": "四川宜宾发生4.5级地震 震源深度5公里 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NQ0lCRm1DMDJBLXRZZlE2U3pVWGJ2RGFRdVRJbUdPRVVrbzdJcjc4Ri1iSHF5aWFreXk3Wk5FbEc3MEc0Q2lLVWJYWUNrSzBDTmROWjB4NTk3OXJLR0Nzalp5c1g3ZDk4ckxxb0ZISmI?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -484,18 +484,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ea61a00299c4",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:31:24 GMT",
-      "ts": 1790382684000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：天 气 公 报（2026年09月26日） - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ1FXMGV6bVBZTFJhT2NvcVFORUlRWkM1U2RPTi12Rk9tNWJwaEh1TkhUU1dxcEJ3a0dKc3J2QkxkcVlHY0ZJR0FCZk5mbTh0R0ttZ1E1THlpMnZJWUdCV2FaT2FKek5XUVBoX3pPcHNhU2FLSXhRcUpndlNZOFlvWnJDMWJLbXZDQ2dqVw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-729ebdf95472",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 00:30:00 GMT",
@@ -532,15 +520,27 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-fb448a3e9124",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -592,15 +592,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-7843b0cb0884",
+      "id": "FL-b9d6e67e86e1",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:06:11 GMT",
       "ts": 1790377571000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震局开展四川宜宾市高县4.5级地震应急处置工作 - news.bjd.com.cn",
+      "title": "中国地震局开展四川宜宾市高县4.5级地震应急处置工作 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HR0MyYmg1VnZpeGNNekdVMlU2SVZ4LXE1SGNQaUFWSkYxeVNPcXJWcVFaZE5uazFrcnlZVWRWM3VrWndBOF9uZHVyYTI5T0U4dnMzQXdabWpSOE5SQ2c?oc=5",
-      "site": "news.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -652,15 +652,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-f0e618cbde77",
+      "id": "FL-cd4d506785a5",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 12:27:00 GMT",
       "ts": 1790339220000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏自治区党委书记胡昌升到泥石流核心受灾区，向遇难人员默哀 - news.ifeng.com",
+      "title": "西藏自治区党委书记胡昌升到泥石流核心受灾区，向遇难人员默哀 - 凤凰网",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sdnRCeUtoWUdSTlFWQ3dYckUyYS1PajRXeG9pLXQ3TXh4S1NHZUxncWx5b0U5bFpoeVlBRFBMN0VDMzFnU0hqV1lPLUM?oc=5",
-      "site": "news.ifeng.com",
+      "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
     },
     {
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 8
     }
   ]
 }
