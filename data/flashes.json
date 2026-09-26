@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T02:10:43.715Z",
+  "updated": "2026-09-26T02:40:08.513Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,15 +39,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-184350ddecba",
+      "id": "FL-8e2961befa1e",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 10:23:07 GMT",
       "ts": 1790158987000,
       "scope": "intl",
       "type": "geo",
-      "title": "阿根廷发生5.3级地震 - 京报网",
+      "title": "阿根廷发生5.3级地震 - xinwen.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QcmR2cFRyZFpsd2c3UkZRY0pQSUhRazdXR2lyTWtpdVpSbzVDcmFJUVZuVk05WXI2UzRZV25GZXFOUTM4Mk9vU01EaFRIbktpWjVCQ2VvejgxNW1aYWJGU052dXlma2dRVUpEZ1UtbnQtZw?oc=5",
-      "site": "京报网",
+      "site": "xinwen.bjd.com.cn",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -291,6 +291,42 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-0a305e2cc97f",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 02:30:32 GMT",
+      "ts": 1790389832000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "宜宾地震 4.5级地震震源深度5公里 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SWV6RnRBRDhybVU0T09CVmxLeTZMMXJPbFhrV0R2a3pLclRqWXVQRWU5cWhHRFNRVUVXYzBIRVB4VFNQd0IxZUVwbjNpa01ZZUdWT1ZSeGdMRWgxNWttWDdfa1VKdk1GVmxnS0xaSnk?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-10fc7cd12fcb",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 02:28:34 GMT",
+      "ts": 1790389714000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾高县连发三次地震，有居民称凌晨被震醒后和家人躲厕所避险，当地：正排查灾情 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLTR5bW9HNG1mbmZkSW85WGcta0x2UDBtUEdlSTNmR1IyMVN2dC1MLW1oYWpnaHhYb3o3Z0xJeThKck1yN1M0Z3YwSlV4TTlMbklqN2lPcDNvNDhaaUxuM3N1cGYwNmgySlMwbXZaUWlBQ01aY1duVXhJejZyd2hWTGd0U1FVUkI4aFRkTHZqdw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-0a69a99e9561",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 02:11:52 GMT",
+      "ts": 1790388712000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生4.4级地震 震源深度5公里 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Fcy1pRlhxZllMa2FBaEZBVEIyQ2xOeGwtWWpVLWdCMkZZb0lfV3pCeVVUZTJ4THBoWXpqYmFGNDViUENjMjFXaU5lOFVCMmtnSUE1S28xVHE1WERMVjZId09yOUtxYXNXdnVCTlpiYzk?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-e8f7cbe44e9a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:06:07 GMT",
@@ -400,18 +436,6 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-941203cdde9d",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:38:02 GMT",
-      "ts": 1790383082000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkVlZjluUmdNODVYbi1HMkxLVjNzQnljRHBCODhoQ1lnMzRqLU9JbDRoMWhGQ3A4bWt4RTNjVDJXbUJDeEdlSExOemVZVFBqeXQ1TTNxOEhwYThJdHgwWXBiMVF3TFl1OGw4THRqYy0xdVZfX3YyajZWUmwwN0gwX0V6bWFadWZkMG5qQw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-ea61a00299c4",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 00:31:24 GMT",
@@ -424,14 +448,14 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-729ebdf95472",
+      "id": "FL-941203cdde9d",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:30:00 GMT",
-      "ts": 1790382600000,
+      "dateISO": "Sat, 26 Sep 2026 00:21:22 GMT",
+      "ts": 1790382082000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾发生4.4级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzZtZ2lOREU4dVhSUG1GSjNPOC1ZYWR0X3FGdGRUMm1wYm1RMEoyb3ExZzkxenRmSmFLZXVZRXFPbW14bkhIekltZHUwU3BHZFJzb1cxaGM1R0l0V2xtVXBGSFlQZTFnSFF2ZVBHOVlQY3FuUmxCYXFocFp3TnQ1RFdvLUltMks3M0FjRQ?oc=5",
+      "title": "四川宜宾市高县发生4.4级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb3RmalRBTk5pWS1fUlNBclVsZnJCWVExbGpObTNRdXVZektMMnNMV0tpVFdJVGdDTk02amNjVFVVa2FoZHJPS1B3NUl0WDkzQy14QTdEeDBpLTc4V3BMYk1hbnpvcFBQNUhfekdNWTlkeGJQaHNFWHlHU2xDby1xdHZDWXZGRFdx?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -482,18 +506,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
       "site": "央广网",
       "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-d6d4953b7e2e",
-      "date": "2026-06-29",
-      "dateISO": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "ts": 1782716400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾高县5.5级地震致13人受轻微伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FU1liUWhIa0wzb0pVaEdjSWxEVjFxdDJnLUw2aENqNUt1a3hFSmdsQWVic19DMDdfTGZIVmo4VG1PcWxaX09hTHlWUzVsVGxJTGJSM1p4OE5sZHV1dG9RN2EwSHY5Q3JVVWtnT0xmUGtodTg0LWUtczJQQ0NMTUU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-98905528a23e",
@@ -578,18 +590,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNmRsaW1aTjJrZHJ3RlNVR1ZOMW02bHl0VjdMNVVBUEVKb3FmNEpaa1FpZEZ6WldOYzZWOTYtRmUyWUJjdjhSc1JkNA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-512b8ddba992",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 21:23:00 GMT",
-      "ts": 1790371380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震，震源深度5千米 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RYXRzanJGYUdUTE9FOWVwejZ3TXhtSnlDNUl3XzQyNkIxMWJvYTh1bU91REpJSm5uaHZCM1JRQnZMTGc3YnJOZ2ltUGEzN0lhdWhGMVEwa0VISmhCZTRrLQ?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-f53bd711194a",
