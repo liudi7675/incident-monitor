@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T04:11:17.989Z",
+  "updated": "2026-09-26T04:40:47.053Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,15 +27,15 @@
       "siteUrl": "https://www.rfi.fr"
     },
     {
-      "id": "FL-b6bf13e536b6",
+      "id": "FL-b4668c9ff377",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 11:53:00 GMT",
       "ts": 1790164380000,
       "scope": "dom",
       "type": "weather",
-      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - china.kyodonews.net",
+      "title": "〈更新〉台风“杜鹃”已致千叶和神奈川10人死亡 4人失踪 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1udTdFSE01SUk5LVJJaXJnQUw1VUNMQi1TVDkwWGVnOE1tb3gtX0EwTHJlSVdLNXliUFpVZkxaX25kSlA0NXM5Z2FsR3lwLVVMYzhzelNfZw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -51,28 +51,16 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-ed4e5d259c7e",
+      "id": "FL-7ac69916cc09",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 09:41:00 GMT",
       "ts": 1790156460000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - china.kyodonews.net",
+      "title": "台风“杜鹃”已致千叶和神奈川9人死亡 5人失踪 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51aldOck1qd0pNVDdkSXhEd0lkVF81UkZ6M0xEZlR6MC1lSDFtV2F6NmgtYmhBdXRveG5xY1RqYXpDOFRBUElBb1c2UDl1NWlmMlJySF9QNA?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-674383638b4c",
-      "date": "2026-09-02",
-      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "ts": 1788332400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-e82ace8ff04b",
@@ -87,15 +75,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-b60e6fe39a52",
+      "id": "FL-370c059da30f",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 12:40:00 GMT",
       "ts": 1790080800000,
       "scope": "dom",
       "type": "geo",
-      "title": "详讯：台风“杜鹃”导致7人死亡 多处山体滑坡 - china.kyodonews.net",
+      "title": "详讯：台风“杜鹃”导致7人死亡 多处山体滑坡 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XUVp0dFlURlFBNGlLdGNBMktzZEx5R1d0TXNHbVpGWUNZQjN3RVhtdWxaaGp4Z1NSMVJHLU5zSS0yREUtdldIMG85Q0owd0pVNHRxWDE3OA?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -135,15 +123,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-8dda62acfd7c",
+      "id": "FL-90957fc9c380",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 11:14:00 GMT",
       "ts": 1790248440000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - china.kyodonews.net",
+      "title": "台风“杜鹃”致千叶和神奈川11人死亡 印旛沼决堤田地被淹 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DNWUyWnozVUl6aWQwNkxHSmttNXNSeDhiQVFpcHhqMWhhM3k4bVJMa2dibWUtTkxuRDZwdlk1a2k1RlAwb0d5TFpCaDZvUFYxRlJKNS1oaw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -159,15 +147,15 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
-      "id": "FL-44b5a3e82148",
+      "id": "FL-14396124f5b5",
       "date": "2026-09-24",
       "dateISO": "Thu, 24 Sep 2026 01:47:00 GMT",
       "ts": 1790214420000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - jfdaily.com",
+      "title": "台风“杜鹃”已致日本11人死亡，4人失踪 - 上观新闻",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWWFNT3FsMzN3Wnh3c0VXN0ZnY0taZTVyYTh4LUYtczVLTXpaZy1GOFpVOEhlalhfdkxPdUw4ZE9VX042VHNXeWdQTFVxYUd5aWNUN0I4clhkUQ?oc=5",
-      "site": "jfdaily.com",
+      "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com"
     },
     {
@@ -231,6 +219,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-49cc5a56f5a0",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 04:10:37 GMT",
+      "ts": 1790395837000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "今晨，四川宜宾发生三次地震，暂未收到人员伤亡报告 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNelZFN0xYeWlZZUhmQWUtV05GQnRtcVdYeWUyMW1ScDNDT19XRVpzRGNtbjB3eU5wVFpQZkFkYTE3Z3h4UHRJR0gtUmlxSHJkTUtSUEZfaklGVlhVd1RocHExbEpuZ0NjZ25qU1lueFVnQ21wUXBSZHBkZ2g3M2wxSzI5WE5rLUEz?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:57:28 GMT",
@@ -241,7 +241,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IaFd5cFk3Y0s4MC1Kalp1WWhOc201U0pzZUs2UzdyQjZiWklvV25XTGFRMEE4cm8zbnQ5MW5UN3R3RHduaGN0T3M1bDBhMmlTWXV2bjMwVlA2dEEtemVFZkg4bE5mSlJ1VTU4Qg?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 34
+      "related": 36
     },
     {
       "id": "FL-a1906c703c74",
@@ -352,15 +352,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-a139a9a6d435",
+      "id": "FL-07b3a517d239",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 01:31:00 GMT",
       "ts": 1790386260000,
       "scope": "dom",
       "type": "other",
-      "title": "中央气象台：每 日 天 气 提 示（2026年09月26日） - finance.sina.com.cn",
+      "title": "中央气象台：每 日 天 气 提 示（2026年09月26日） - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDdUaUV6NFRoN0RIbzNySlc0Q0lOOFRjY1REOUljWXpKNUR6bHdmbGlJV2syNV9oU296dHdoelhZMkY3TGVDdDFHTnNrbVkyaDNyajJuMEU0aUJ1WWRaWG9qaFp5T0ZITWNZc1NSSmtMVmpONndRc3EzMVUtdGJqSUE5MVZBRUFPZVE?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -544,15 +544,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-dd11f392f283",
+      "id": "FL-0d88b448435c",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
+      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "cztv.com",
+      "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -580,15 +580,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-99fe0bfec1e1",
+      "id": "FL-ef0352ba1624",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 21:49:56 GMT",
       "ts": 1790372996000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网正式测定：09月26日05时23分在洛亚蒂群岛（南纬21.25度，东经168.45度）发生6.6级地震，震源深度10千米。 - finance.sina.com.cn",
+      "title": "中国地震台网正式测定：09月26日05时23分在洛亚蒂群岛（南纬21.25度，东经168.45度）发生6.6级地震，震源深度10千米。 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlNmRsaW1aTjJrZHJ3RlNVR1ZOMW02bHl0VjdMNVVBUEVKb3FmNEpaa1FpZEZ6WldOYzZWOTYtRmUyWUJjdjhSc1JkNA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -604,28 +604,28 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-02a43855e44e",
+      "id": "FL-0d8faf4a655c",
+      "date": "2026-09-25",
+      "dateISO": "Fri, 25 Sep 2026 21:09:34 GMT",
+      "ts": 1790370574000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MOGx4anNlcEpSQXJHWHBWWGY5NENfZC00TmpvWGlxVUlIMXlGRE1FdkZvTXUzZWVNczZwc2NrUkFKTzdtUWVEbDEzTQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-f53bd711194a",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 21:04:35 GMT",
       "ts": 1790370275000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - finance.sina.com.cn",
+      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yNDQ3emJncXVnSC1oVWs5bzZBVE9ISHlJVHI0NTBoX3pjZEJ1ZEVfZUluYzhGZEVWSlF3WnZEdGxJVmYxMGdJajBIZw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-7eda49eef030",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 13:03:18 GMT",
-      "ts": 1790341398000,
-      "scope": "dom",
-      "type": "other",
-      "title": "脑梗住院的她，冒着塌方落石，徒步4小时回村…… - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZG5LVlJ3alo4ekllN21pOEVsVF9BWmpCd1c5UW1ua3d0UmxKVFA1UTAwZGo0cGQ3ZWc0a3FkT2dYX0Ffd2JxZkMyRDQ1MVpUa3ptQjhCTUtZYkU4ZklwSC1ZNnJKbHFkMGlidlBLMS1Udl9IVUVvaVV5M29OandhdUpjZmItN3ZkRGtjNA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-cd4d506785a5",
@@ -676,27 +676,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-9624cab430f9",
+      "id": "FL-a10d2f5fcf6a",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 07:03:00 GMT",
       "ts": 1790319780000,
       "scope": "dom",
       "type": "geo",
-      "title": "天皇夫妇29日将赴熊本县慰问地震灾区 - china.kyodonews.net",
+      "title": "天皇夫妇29日将赴熊本县慰问地震灾区 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RNENIQ3dNUWw2ekQxUXZxSklodm53djRwVnNIN01LQUVmd2VWeDlnTWpOcVBhT0U2WUtTc1RhdnkwaG8waEJHUkc3c04xb0habzJWRGNjSQ?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-75636405da30",
+      "id": "FL-1c670040501d",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:21:58 GMT",
       "ts": 1790313718000,
       "scope": "dom",
       "type": "other",
-      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - 华商网",
+      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - news.hsw.cn",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESE1RZU1OMVBSbzIxMWNrSUl0YUJoM2lRUndtc3EyeU9UUGpMZzNXRVN2YjByRGJoaGlXV0VVMXlvQ2N6Zk9aRFBEeXBQN0ZEYmYtWXJ4THl4OVVMYTd3?oc=5",
-      "site": "华商网",
+      "site": "news.hsw.cn",
       "siteUrl": "https://news.hsw.cn"
     },
     {
