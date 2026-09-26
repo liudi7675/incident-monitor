@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T23:10:29.026Z",
+  "updated": "2026-09-26T23:38:38.182Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -135,6 +135,42 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-418eed2ca087",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 23:18:53 GMT",
+      "ts": 1790464733000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川发生地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2JfZVRrQ0VvMk9ZTXFRX3doQ0FSSDItUEp4MkhOZlpQbzR5MmZGWm5PMEtEd2lQc19OYUpuUjNzcElvMVJ4Q01tZ2hwblNSOUdvU2paN21IemRuSmd0Z2tIa0kweEU3dnNEZ3dwd0J5UzFtMnNiTGpfeUlRQ3JnZmtNaDVuaGN3N0VBOVZadEhWeGkwTzVrSWdOX211TDBPcWVFZkNaMUpKcU1IaHJKZGJXeW5SVjZwV2hTcXhsVEltQTlSbWh1anYzcHp3OVF2d1VZcjRaN0s?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-f61c3dd05f0c",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 23:10:43 GMT",
+      "ts": 1790464243000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源发生一起滑坡泥石流险情 造成3人失联 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RGxCQjRhWWpZdmFZSi0ySFR1R1dqbTkxR2x5QTJGcFFhZEl0aHJtTnhWZXhMOTJsSVdoNHp4V2luejRYVXNpVmdlTE5zbTlqV0tvSFJWUHlLZksxUWswNHhNNEU?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-7dc7817b6a3c",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 23:09:00 GMT",
+      "ts": 1790464140000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源发生一起滑坡泥石流险情 造成3人失联 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bFQtM0g4blFQb0JqeVFOMUFFZlB2QzJRc1U2a1BVbXNRbjlnSW5vQTBldC1YVDAwNTZRaW85X3NXSzZ2U1JidVU2U29qQjZselJBekdZRFVIOERoT2x5WGN3dmExYUJKODhaa0ZfTTVzazNYTmItUQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-d2167cf8573d",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 22:57:00 GMT",
@@ -171,18 +207,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-418eed2ca087",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 20:23:38 GMT",
-      "ts": 1790454218000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONi0tTm4xNWE4SDVJVW8zT25xbXgxR21DeVRrUnNKcldaM1FneHlGTXFvWFNmSnBuSkFheWFjVlhCZDlMaUM2czhKN3hzTDB1cS1VRnlxOWd3MXJkekZ6WHJFa09lRFVUbXZvZmlCQ0dwNlh4bjVTSEUtNVJZWTlUT25fQ1Y5YkU2U2VVTHZtNG9qald6aThEVWZsdjVIcGxfV01vV3cwb3E2bzRnOHJyZnFsQjh6MUM3TEV3Z2NYMUlwUjdBWU5ZeGp2NTIwNkZOUFhSVS13LWI?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
       "id": "FL-836b517667ee",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 19:31:28 GMT",
@@ -191,6 +215,18 @@
       "type": "geo",
       "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnZOR2RGNng0bzhQWXM3UnBRWnRNUnZMQWdhM1RhREtpOHhDYi1mUk1hT3J1SlpEaTVEMkxQSDMtQm53YjA1UzdpZk1kUldmX3JnVEY5WWxhRzJGWjlqWDlXWWtGaGRzUlJVNDhVLXUwdGYzMkdtWkktT0d4Y1l0ZTJCSy0xSHdzRGswVzZ6WEhBRl9tUGFKRA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-18d0f2b11016",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 18:43:12 GMT",
+      "ts": 1790448192000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：华西至黄淮江淮多降水 华北华东有雷雨 青藏高原有较强雨雪天气 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rZkFOemZoLWx6ZkllbkpSc0VNSWFWSUY0MWRaQW43M2E2aGNVaVM1MWpsVU0zY2tYa0EyMmh2dGtDOTRjai0tLVI3aXdHeWZ3LWFrN25jNkxQckU2anlLaFd3VHFNcTJSY2RLTy1ZYVJIcnZzYUpHYw?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -289,7 +325,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 32
+      "related": 31
     },
     {
       "id": "FL-661e99e4f728",
@@ -338,18 +374,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuaWI1ZmlGNTF6Rlg3VnRnUm13R1JpZWd6QmhKOGNDQW1lcU5jZERqSDU4LWNHRXBzTWZOMkwybGtPMUV0RTRhb2Vzc09wTmp0MFZJTGJlNjY?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-50835c7c0a50",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 08:07:15 GMT",
-      "ts": 1790410035000,
-      "scope": "dom",
-      "type": "other",
-      "title": "台湾老妇服务区搭帐篷夜宿 帐篷倒塌受困身亡 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTdaNUE2S1p0bG02c1dhNVJOSnkwOHRva1ZOM0xUek5qVFZoS3NGaFhRdnhPcTlHNnVsSWRJSng5MElxc19QOVFuOHlwUXR1VWRLdlpHXzlSZEdNMTAtNEEwWS1paE0zZVdLSHlIeTVEeUQ2RndWM3hSeVZIZy1OZDhSLThObzZ5bjY3S3dVU3kzbUdyUzBsM3pVdVo4LUY4OFI4eGo1c0ZJcF9NbHllRFZJUQ?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-67b6f478e1b8",
@@ -410,18 +434,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1obnJ5d3h3NjFtZk5sYXlBQkZTWS1Hc2x1UUdJYXAwbWtNMllkQWRmc2xLQjlrUG5sS09vSHhqNkI2ZmxjTFZValJrcG5zYTZzTng0elU5cXpuMFFSQ19rV1ZKd1F1UDFJ?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-b77f3f801f75",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 04:10:03 GMT",
-      "ts": 1790395803000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本熊本县发生4.5级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yVkloUHBVaE84RlRoSEZqdzVCYVc4THlFZG15R2FfS05qODBqSkFUYjRaT0lOVU8tUlFfd1VZU2xOLTRxZDZzLVQtSQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-96d0c5cb8f5a",
@@ -506,18 +518,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRW9KY0lqZXBsby14OWZuM1JOYzI2cHp3OWFsemc5YlpWRWNzYl9LaThTYjU5VHoyTUNGUzYxLVdQZDM5em51eDA2cUZ2NmZTZ3hEX2VFa2RxQWxDMUhDTXVvdjRhRnFvcVhYU3J0Qm1tQ0VxbElSQ2dsaVhDdTJQTXZlX0R6bzNYSi1mSA?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c82b4a7bd14b",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 01:19:00 GMT",
-      "ts": 1790385540000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "南太平洋新喀里多尼亚附近海域发生6.6级地震 - qzwb.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6OEh3aTlOdWRrREpDQU1DaHNDUTdCb1o1VUo1RUVPYWFiU0F0R0tQc2J1MkpvaTgzbUZkQk9oYVUzWEh6OUJiMHQ5bUhkd1p3NWdhUlYyWjZzckhoeDdPSDZUQjNfTkpiVVdxWXpxaw?oc=5",
-      "site": "qzwb.com",
-      "siteUrl": "https://www.qzwb.com"
     },
     {
       "id": "FL-cca2874816cb",
