@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:13:06.384Z",
+  "updated": "2026-09-26T13:10:25.621Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,27 +51,27 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-d6feb3148f89",
+      "id": "FL-0fa05aae3512",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-a2237798f821",
+      "id": "FL-70df99d44104",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
       "ts": 1787209200000,
       "scope": "intl",
       "type": "geo",
-      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - news.un.org",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
-      "site": "UN News",
+      "site": "news.un.org",
       "siteUrl": "https://news.un.org"
     },
     {
@@ -87,16 +87,28 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-91bdb2ea9dee",
+      "id": "FL-50cd7b6888bb",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "title": "日本茨城县地震致37人受伤 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-31bfdff10c61",
+      "date": "2026-09-20",
+      "dateISO": "Sun, 20 Sep 2026 01:10:00 GMT",
+      "ts": 1789866600000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥举行全国地震演习--国际 - world.people.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9admtFekU0elpZUEYwNndTRFMwZUd4RFp4N3pMdnlQajFZQ0ZrQ1NoNGhvaFRoX3VQYWJzSHE0d0d2TWdScHJ5OUtpb3hPY3JhT1psWkZOVFQ4ajNWM0hvSDhac2Y1THE0RW1ENQ?oc=5",
+      "site": "world.people.com.cn",
+      "siteUrl": "https://world.people.com.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -111,6 +123,30 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-9922da7b434e",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:55:00 GMT",
+      "ts": 1790427300000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "希腊雅典卫城附近发生爆炸，一栋建筑倒塌至少2人受伤 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMnlOQXdvRXJCSUp1RXNLWkk0N2l2ek5wWFFaV18tWHRsMEFsMUE3NjB1SmFRX1dzZzktdlRmcFlid3A5a2trNnhOSXdTZVl2bFBVQ21uRVV3ekliQ0toMkNhbDNUZWdzcDc3ZzZyVXpVa3BqU1JXUWtoVVo1dGlKM2FMLWRTTFJ3?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-eedecca428c5",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 12:15:40 GMT",
+      "ts": 1790424940000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ2x3YTgzTXVHZVp3ZWIwRWNaM3A0eUhlbG1tbjJnMDd6aGlvZnRwZzJpNVU4ZkczTWRaNEJ1d2wzTDNjUVFXdVlGbG1tS3JpcnJoX09IWE5NZ1dFbWhhcElFU3JYWW96aE5uUQ?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-e941471c1e2b",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:34:21 GMT",
@@ -123,15 +159,15 @@
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
-      "id": "FL-75300d66f43a",
+      "id": "FL-47ac15115fd0",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 09:53:00 GMT",
       "ts": 1790416380000,
       "scope": "dom",
       "type": "geo",
-      "title": "应急科普丨地震来临时，这些科普知识速速了解！ - finance.sina.com.cn",
+      "title": "应急科普丨地震来临时，这些科普知识速速了解！ - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02MDVNVjFXZ00xTXhrcGVXaHRJTXpBbEdTTU5CWFZZTUVObGE1Q1F4bEx0WTF6NHEtYjZNeTRaQ0pXNlhhaDFoanVDRjZiTU1lQUdqbEhTLUs0UVZ6cU9uX2JnOHFnZVV6M01rWG8yNTdndXZ5S0E?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -181,18 +217,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 37
+      "related": 31
     },
     {
-      "id": "FL-50835c7c0a50",
+      "id": "FL-10fcd155bdbd",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 08:07:15 GMT",
       "ts": 1790410035000,
       "scope": "dom",
       "type": "other",
-      "title": "台湾老妇服务区搭帐篷夜宿 帐篷倒塌受困身亡 - 8world",
+      "title": "台湾老妇服务区搭帐篷夜宿 帐篷倒塌受困身亡 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLTdaNUE2S1p0bG02c1dhNVJOSnkwOHRva1ZOM0xUek5qVFZoS3NGaFhRdnhPcTlHNnVsSWRJSng5MElxc19QOVFuOHlwUXR1VWRLdlpHXzlSZEdNMTAtNEEwWS1paE0zZVdLSHlIeTVEeUQ2RndWM3hSeVZIZy1OZDhSLThObzZ5bjY3S3dVU3kzbUdyUzBsM3pVdVo4LUY4OFI4eGo1c0ZJcF9NbHllRFZJUQ?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -220,15 +256,15 @@
       "siteUrl": "https://m.thepaper.cn"
     },
     {
-      "id": "FL-a5e49d03bfbc",
+      "id": "FL-ac21ce79388b",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:26:24 GMT",
       "ts": 1790407584000,
       "scope": "dom",
       "type": "geo",
-      "title": "马国沙巴州发生3.3级轻微地震 - 8world",
+      "title": "马国沙巴州发生3.3级轻微地震 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ueG9YZmk5YlFVR0V1MTR5X0F5ZXZHdlUtUDhBUFJwbHA3MzNtNmVQSXRtMVVURFZkZ2thdlhWQXdYR1RCTVJLei0xS201cmE4ZUpmdXhqb0VkdG5JQjZKdlZBRkM3cUVuUUJkLVBnbw?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -292,27 +328,15 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-7e29dcfbe2c3",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 05:16:31 GMT",
-      "ts": 1790399791000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "混合疏水砂土火灾后泥石流流变特性研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4SnJXVThoR0N0RnpadlNQd2lDVERUMHB5dUxIdEV1MHJ5QU1qaFF0MkU5TGd1enk4YTVjaGxQNG92Rk85YjZyMlFaREppc1ExNEM5aktNSDNNZEExWmpDM01wZGd6MHQ3eHlDcw?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-9751215ee590",
+      "id": "FL-2432c1635549",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 05:06:26 GMT",
       "ts": 1790399186000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本熊本今天接连发生两起地震 未引发海啸威胁 - 8world",
+      "title": "日本熊本今天接连发生两起地震 未引发海啸威胁 - 8world.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2NXZURHdrY0Y5akdaY0xVTHl3OWl6WXN6and2aThUNjVBUXFnb2syckNaMWo2U1RYVkgxa1lGSEdCZjA1N09UeERvYWxpZGFySkFPeXFoUG5FdEpWNDFPRHhUdGtQci1pYmRRSTFMZw?oc=5",
-      "site": "8world",
+      "site": "8world.com",
       "siteUrl": "https://www.8world.com"
     },
     {
@@ -386,18 +410,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkRVUDVNcXFoQXJDd1lyaXVnWUVKRTNDaGRhRVBIOEtMRUNhVjdKbkdTbTlhVEhuaFFBZTdCMEk1VlBNZ0xOZGFwWXUtS3JYbTdCYTVqZk04amRLbTZyZFJCUEZYdExySGEtT0M4MmpfVm1mN00tbkNTWkZMQUp3NWw2Vk5LN0Z3MnlPcg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-9e270cbe154e",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 02:52:00 GMT",
-      "ts": 1790391120000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾高县26日地震暂未收到人员伤亡报告 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UnpLSnhJZG41VmdSMXdmejFCeEU1VXZaeWNxS0Rkd1c2U0xSZThMYUc5RGtGNkVmWFhWWU1ieXg5NzRPby1DMXViY0FWNnFWQVlKdlNxWEtwWi1CUEIwY2UtNVk?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-0a305e2cc97f",
@@ -532,15 +544,15 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -580,15 +592,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-0d88b448435c",
+      "id": "FL-dd11f392f283",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
+      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -652,18 +664,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-79d47fc10a5f",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "ts": 1790362800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "高县先后发生三次地震 亲历者：睡觉被晃醒 房子感觉要晃塌了 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OREZqTjN2dHNVM3U5QW10Znk0dk9wdlQ0X0F2VUNudk1sTzJRVWloX0dBU25TQmQ3MW8tekQyeExndDN1VFQxRkpVTC1maWxDaVV3ZXplbnZOV1NXYmRlcDVmQV8?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-cd4d506785a5",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 12:27:00 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 10
     }
   ]
 }
