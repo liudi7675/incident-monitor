@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:10:55.947Z",
+  "updated": "2026-09-26T21:39:11.347Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-e82ace8ff04b",
+      "date": "2026-07-28",
+      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "ts": 1785222000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "唐山大地震50周年：从毛泽东批阅到44年后的余震，五个鲜为人知的历史细节 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-370c059da30f",
@@ -292,15 +304,15 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-beadb71bb25a",
+      "id": "FL-0210733abdb4",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 08:31:00 GMT",
       "ts": 1790411460000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度25千米 - Jiemian.com",
+      "title": "新疆阿克苏地区沙雅县发生3.7级地震，震源深度25千米 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuaWI1ZmlGNTF6Rlg3VnRnUm13R1JpZWd6QmhKOGNDQW1lcU5jZERqSDU4LWNHRXBzTWZOMkwybGtPMUV0RTRhb2Vzc09wTmp0MFZJTGJlNjY?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -532,18 +544,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-729ebdf95472",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:30:00 GMT",
-      "ts": 1790382600000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾发生4.4级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzZtZ2lOREU4dVhSUG1GSjNPOC1ZYWR0X3FGdGRUMm1wYm1RMEoyb3ExZzkxenRmSmFLZXVZRXFPbW14bkhIekltZHUwU3BHZFJzb1cxaGM1R0l0V2xtVXBGSFlQZTFnSFF2ZVBHOVlQY3FuUmxCYXFocFp3TnQ1RFdvLUltMks3M0FjRQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-16ec1e0fee88",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 00:13:21 GMT",
@@ -592,15 +592,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-d07942777a5d",
+      "id": "FL-98ec02ee8e52",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:57:00 GMT",
       "ts": 1790380620000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市珙县附近发生4.4级左右地震 - Jiemian.com",
+      "title": "四川宜宾市珙县附近发生4.4级左右地震 - jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ES3dJR1ZiYTQ0SW8wV01jMXdKcFZ1TGZkQ3RPODVFUzMyaXllWHI0WERPQmRsMVhvS2NxSExfRUZoNGhneEFxQTRSN2dqMjVOcy0zLTR6Rlo?oc=5",
-      "site": "Jiemian.com",
+      "site": "jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
     {
@@ -640,15 +640,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-eb7568dadb3e",
+      "id": "FL-34c650d9c01b",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 22:45:39 GMT",
       "ts": 1790376339000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震，震源深度5千米- 世相 - 新湖南",
+      "title": "四川宜宾市高县发生4.5级地震，震源深度5千米- 世相 - hunantoday.cn",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LNER3aUdPMGh3cnJjUDVxTGVkb1hMUnhuM3pJYWpUYVlZV2gzNHlDZGVLOTVpcVppLW5wdFdPR3NsaDlmWnRIWUtWRmZhOS10UG5HT3NxQzVabjZGbjI5REJ3RTJxQQ?oc=5",
-      "site": "新湖南",
+      "site": "hunantoday.cn",
       "siteUrl": "https://www.hunantoday.cn"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-1c670040501d",
+      "id": "FL-75636405da30",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 05:21:58 GMT",
       "ts": 1790313718000,
       "scope": "dom",
       "type": "other",
-      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - news.hsw.cn",
+      "title": "无人机投送+北斗预警！长安大学重大科技成果在救灾一线立大功 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESE1RZU1OMVBSbzIxMWNrSUl0YUJoM2lRUndtc3EyeU9UUGpMZzNXRVN2YjByRGJoaGlXV0VVMXlvQ2N6Zk9aRFBEeXBQN0ZEYmYtWXJ4THl4OVVMYTd3?oc=5",
-      "site": "news.hsw.cn",
+      "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
     },
     {
