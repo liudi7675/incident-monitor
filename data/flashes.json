@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T00:44:44.048Z",
+  "updated": "2026-09-26T01:09:47.431Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,15 +87,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-aa573c0ed106",
+      "id": "FL-309fe31f215b",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 23:19:14 GMT",
       "ts": 1790119154000,
       "scope": "intl",
       "type": "weather",
-      "title": "台风“杜鹃”已致日本7人死亡 - news.cctv.com",
+      "title": "台风“杜鹃”已致日本7人死亡 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbFphd1ZZWXgwc1BQeGhMZGZjd1ZPVHQxY3ZQWThGNjF3bmtUZXNXQ0hSaTcyaWhJZ0tlcmxER1lzc0Q2QkM0aW1oSU5GWk9FVWtRSzdLSUo1SG04ekRwVHI4TXNlcWZaNnBMbnJrb1RFRUl1bGhUcQ?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -133,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcUNSNDEtQ1NkcHlzNEgwOWhhWjB4WDZudnFqMFZiNWw0eC1mWUp6a1F2Z2NGY05ESnVRZEY4VkIxcGROc3luYTJYS0VDMnlwXzJEeEEtSXZRZktxM3ZkNHNBdw?oc=5",
       "site": "四川新闻",
       "siteUrl": "https://sichuan.scol.com.cn"
+    },
+    {
+      "id": "FL-a66e299abb48",
+      "date": "2026-09-01",
+      "dateISO": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "ts": 1788246000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 尼泊尔仍未解除对中国在这次泥石流洪灾中应负责任的怀疑 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQekE0d0ZoUlkzQWpLM0l4TWx5a29mcmZkLXpqTGpKS2VublhpQWlLcTEySVNEcmFscFJhTnNiWmgtUWd5a1JoamtzYWdPR2UzVkZlMkVtdzJLMnAwVFA4RzU5ODB0ZlFWSHpiN3BGU3NwYWdFeXlKNld0ekN5UTVtWHdfWU02Sm5sYmQ1MV96S2pPODVwaGN1aVhKa0NYSHZaNUZ1MS1pakE1VV9PS0FDbFBwY3A0OGl1Vjh1N3VQWm0wbkNNbGdLZDVadlQ1SHhxZmF6eVdkRWhpQUdIQ3NBM3VfeWE5cWh5Wm5OVi1ZUXItUktlUk1hbjVPWGRKamFnYTBROS10QkZHZDViMjQ5aXU1WDJqc3Y0dkpoZm1mVUR1UlAzSnZ0OFBoMERaS0JTemgtUWI5OXhEekhqR0JwTHI1Rmh3bG52LTU0bFdRYUZLQUFYSTJZa19oZEFCclFKX1RwRDJtTlJHZWIxRS1Td1NfTjZub0dQanExTldCVGNDckx0amk4M2Y2NWR1NXJOQWFqLWVfYVR6bF9QR0hmMERZRW5OZW1GaURfSzVXLUxCd1dwUU12M3BJREJLRGt5MUg2R3lHZWhuZ2lQQW9KOXpxX0F2QUs5SXloSkhxTVcxNTNYVS1PaTg1c1E1V2kwZC1LbGNRQUo?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
     },
     {
       "id": "FL-22783efb8fb9",
@@ -181,7 +193,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEdpQWs0QzhVbVBNakYtY05QMEZJN2lxTVdDaEtlRW1SWTdvSmd5ZHJjc0g5T3htaGYzbnpySHl3ZHppU01QdWFCQ1dOMGEzcENfTDRpcXdkN1c1OFBoSFFtd2xWcjFUT0M4Q01qbTltbEFlZ1ZYSHlZME5HVms1bHpRbDAwdE53ZUxvSQ?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com",
-      "related": 42
+      "related": 43
     },
     {
       "id": "FL-2a92fcbc49a7",
@@ -206,6 +218,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SS2NFa2xodjdmSkR6NWhBVTRVeEotTUVWbTNrOTh6aU9PVV8tdHRkYWFTVlpnZ1hpdjhLcjlnMmZlSTNMdExFX3FadjdUSDFpTEFUQUlBb3ZISDllMzE0X3dSYXJoTkFuVjAtXw?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-e4155a072e52",
+      "date": "2026-09-24",
+      "dateISO": "Thu, 24 Sep 2026 01:50:35 GMT",
+      "ts": 1790214635000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "恰逢华西秋雨，进山旅游如何判断山洪、滑坡、泥石流等风险？专家解答 - jinantimes.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UmNtcGZ3YUxfdlBmRWxtdGtJLTdqTGVybWcyZXJSdjZneGxwTUlsSUcyVmVnbkZ3OWhPM2NHcFhnUzB0RGpOaHdibW5vVkpEVWhXZXVRZDdmRU5zYWpN?oc=5",
+      "site": "jinantimes.com.cn",
+      "siteUrl": "https://www.jinantimes.com.cn"
     },
     {
       "id": "FL-14396124f5b5",
@@ -256,15 +280,15 @@
       "siteUrl": "https://m.thecover.cn"
     },
     {
-      "id": "FL-ce673d3f04fd",
+      "id": "FL-7ab0bb23c0bb",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
       "ts": 1789023600000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流灾害已致1382人遇难 - news.cctv.com",
+      "title": "尼泊尔泥石流灾害已致1382人遇难 - 央视网",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aVWFzenVvcDVzU1hONFVINmZ3cmZzOGpnVUI0MGFNUVQ1RnlnTlF6dkxseVZZaWFwcDlRQ1dmTG9keDQ3dU1kdzZqMDNJalk1Tk1XMUpfTWtQeW5tRW1mZXI4Y0d1d284bWxTdlJ1N0ZDdi1vbTUxQg?oc=5",
-      "site": "news.cctv.com",
+      "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -302,6 +326,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-418eed2ca087",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 01:08:45 GMT",
+      "ts": 1790384925000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川发生地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT2pRamc4dlJjejFiQ2FYaUpxRmFMakp4U2MwSFJneGpoOGJOakR2am5Db0hXZ1N3MEU0OFM2VGJ2OWEwRjZwMkhTbVhIVFJGNjdzbHp2c3ZnaG0wbldELS1JNGU0dkU2LURPRjJ4YlZSSkY3UXBhVkRwcS1zZjVPSWFESjdDRmxQRFlESl9xZjk4MUNFemt2bXdkdTJEaVRhYk1vdXV4M0drVmIxbkpRRWg4MHlFQUdfU3hLNWVJVXBHZ2JKS0NYZ2RzMlJSdzl5YVdGaXhYTU0?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-eedecca428c5",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 00:41:21 GMT",
+      "ts": 1790383281000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "植被介导的水文过程对滑坡易感性的控制作用：来自流域尺度与场地尺度分析的证据 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wQ2x3YTgzTXVHZVp3ZWIwRWNaM3A0eUhlbG1tbjJnMDd6aGlvZnRwZzJpNVU4ZkczTWRaNEJ1d2wzTDNjUVFXdVlGbG1tS3JpcnJoX09IWE5NZ1dFbWhhcElFU3JYWW96aE5uUQ?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-941203cdde9d",
@@ -376,18 +424,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-e34f6d05bc66",
       "date": "2026-09-05",
       "dateISO": "Sat, 05 Sep 2026 07:00:00 GMT",
@@ -400,15 +436,15 @@
       "siteUrl": "http://paper.people.com.cn"
     },
     {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -446,18 +482,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1INW5DSDR2UmFfVTRCM25PQTdZRFB5ZHNrcjdxSFZLc1RTTWtOODA2RU9EN09rdW9nNE5uWWZEaFpmVVRCRnE4UmEyTHZFUk1tZURrVjZPWTc?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-d877eb91e635",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 23:52:19 GMT",
-      "ts": 1790380339000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLTUwU1pocDBzellEeXJIdnJseDhHblpkVUF5LVBpOXNGa2FLRTRxeWYyOTRqYzJ3bkt2NlZSYWx4bTR0RGNsclpMSkQ0ZFBXUlZZbUlpMjZGMDRiMnh0czRJOV8zZG54MkF0eXRid05PVDR4azEyc0EzeXZnRnN6dm1TcUZlT2tkTWNTcw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-79882cbedca1",
@@ -566,18 +590,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnh4MWY3U0NLcFM0Ni1SeXlBMnd6elhUN0pyY3ZKME0wMXppY25BNXdldWlXMnhESWFaTEFSdkR6WDFsamp3SXUtOGw0YnhPUG9xQUR1NUg3SENWQmRKMl9OWktrZ0FSdk1zT01mWUlpZGZybDVxdzN1UXRoMDktczFjNms0SkZOMm5yUXNuUEh1MnVtX1UxaDFETGNkaVVQb29R?oc=5",
       "site": "gbcode.rthk.hk",
       "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-96b53e560cca",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 14:35:12 GMT",
-      "ts": 1790346912000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "台风造成日本超500所学校受损，37所停课 - jpchinapress.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3RFTFZIdlNybXFUWXN0LTlrQllOVGMtUElkbnR3bTctMFRWSjg4d1F6cjUwZkROaEk3RnB1dklWOFlrUGQtQi1kMl9TekU1Z09GdUduVTVmeGZfOFNVZmx6elZwVjdQWmpkN2dFZS1NLUpqWHk2aXVCd3lwMDFjSXpBOW0zUmpYSWc?oc=5",
-      "site": "jpchinapress.com",
-      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-7eda49eef030",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uQVRFaFdmYkNmNVBYNW9hRmQ1c05QSDcyQzRGX2EwV0ppLWs0S1h6b0hhSmJ0bmpVWFNrcGw4V3NjVjBzcVdBY3pkR0ZSU3pnc2RZU2JUVGstVWplYWJrbi1ERWRRUXFMY0NNY05teExDWGU5N0Q1aA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-3d50544edb12",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 00:22:00 GMT",
-      "ts": 1790295720000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "注意防范山洪、泥石流等次生灾害，中央气象台：今天至明天，吉林、辽宁、陕西、河南、安徽、江苏、湖北、四川、重庆等地有短时强降水 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13YlZMNGRhazlHZzRpWlVnWWUxc3lQR296RDE0bUlLS21SNWtQUHhRQ2EzRVhJX2dKV09DbW1Nal95RWJCSjVWUHVySE9OYUxBZndxd3hGUVZYbTNBV2c?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
