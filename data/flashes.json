@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:39:48.104Z",
+  "updated": "2026-09-26T11:10:38.275Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,18 +87,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8216c3f69455",
-      "date": "2026-09-24",
-      "dateISO": "Thu, 24 Sep 2026 07:54:30 GMT",
-      "ts": 1790236470000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "里约坎塔加洛山一建筑坍塌 附近居民被紧急疏散 - br-cn.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWVXN1puWlpUdnJ6UjFhQUEtQmFvaVJVRGhHemc2TTIwUFBLamc4QVlJSXRFbG9vT1dfUUhIbm40T1hIRmU2cEh4ZDhzRlp0RUZ4Q0JRNG44alhkLUVOQjMyNl9pck42dF9GMlNJQ0RWbUtnTzJyX3VjV1lQbTQzTHREc29wNW1UczdobEdn?oc=5",
-      "site": "br-cn.com",
-      "siteUrl": "https://www.br-cn.com"
-    },
-    {
       "id": "FL-70df99d44104",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -119,6 +107,18 @@
       "type": "geo",
       "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-861987facab4",
+      "date": "2026-08-30",
+      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "ts": 1788073200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏泥石流：中国称气候变暖导致惨烈灾难 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44R3gxYndzaTFVdmhMRjlDRE1fWlNQcGc1dTQxRG85WC1YUTFPbHVmMGNSN1VJNnVDN2sxakFicFZla3NKWXUtTWI2Ymh0ODVQYzBNdUdKRUZ4VUQ5U0hGZW1NZXBHUdIBa0FVX3lxTE5BZmQwdGNTV1RjTHg0N3RHZmFjQmFzajZlZzdTOVFTSEtjWE8wUGY1LVlTeElnOFh1X191TW1kTlc1TzZXTkhOcjFXZ2tqWXZKOXgxbmo0S0I2eklUMk1NN3RLSDdmdy16S2pn?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
@@ -205,7 +205,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZW90VE8tR1J2LTZGb3JaN1haWTIxdHBwOUlteDJzM2tvd1FvTUxGTUhWeDgyZEtHeFlNcWRmMVVmZUVXUHpQZE5LMHhBdURROHZWRVV4M19FM1FsQjBTejY4MUJ3LTR4VWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 30
+      "related": 33
     },
     {
       "id": "FL-50835c7c0a50",
@@ -328,16 +328,16 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-c64aeb4c46ca",
+      "id": "FL-b68004800400",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 04:46:00 GMT",
-      "ts": 1790397960000,
+      "dateISO": "Sat, 26 Sep 2026 04:46:54 GMT",
+      "ts": 1790398014000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾高县9月26日连发多次地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzhobGFYTzVNQmEwcEx6TFRyZkk2TVZXWGFMR0M1MmFIcWN0ellmSEpvd0RtUzhLWEFrQTNfMzkxdk02dDhlaFViMERCMldEQ0ZHOGZJaDVfX3N6aFh3MzBzQUdjQXBjYjRLLVFKWXkyTmVqSWlZX0hNeFJCR0VVSkI5Zk4tMkZU?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "四川宜宾高县9月26日连发多次地震 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnaWRhTmc4NTVQU0hjV1VwVGExZ3dHLVJUZjczcDNHcWFMZWN3eDBfNHEzUTBjY3JKZ2ZUUWdGOFIzcFRTUXJIMGIycFo4amc1RkJ5bE5UYzR1Z2hKcHZrMGRQRU9QRHZfa1RqQ2hB?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://sc.cnr.cn"
     },
     {
       "id": "FL-8fbd52fb6902",
