@@ -1,19 +1,7 @@
 {
-  "updated": "2026-09-27T18:42:51.945Z",
+  "updated": "2026-09-27T19:09:21.607Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-1cf1dc1ed2d8",
-      "date": "2026-09-23",
-      "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
-      "ts": 1790171798000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - rfi.fr",
-      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
-      "site": "rfi.fr",
-      "siteUrl": "https://www.rfi.fr"
-    },
     {
       "id": "FL-255cd68102c5",
       "date": "2026-09-22",
@@ -25,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWNVM2FBcWxTZE9Cd3U0TVJ2WWwtNHNqSWtScWxEUlgwdk9ZX2F4aWxYQU5tOUEwRllkRlRQNlZreG5lV3dlbE5iYjhMQVQ5a0FELThUOUZRLThyTlg0STQyQWhSdw?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-0fa05aae3512",
-      "date": "2026-08-04",
-      "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "ts": 1785826800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "news.cn",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-8ed23c09e627",
@@ -61,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-73569a24487e",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 18:58:22 GMT",
+      "ts": 1790535502000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LZzBIMlhyNkxVRk9xcEhzaml2aHNJWFlxaThRb1FNWmpLZ21xcldXSUNsMFZpUlB1R1RQRm9UNVhSUjFocy0zdndEMjRfZFpBaHJVSXVscXhUM0YwTG5RMGVnNA?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-b9c93f6f7de0",
@@ -195,15 +183,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-287db429fa96",
+      "id": "FL-63dcde9c0b55",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:42:25 GMT",
       "ts": 1790520145000,
       "scope": "dom",
       "type": "collapse",
-      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - 极目新闻",
+      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - ctdsb.net",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80VDZHRkZvVGswLWtSTVNRQl9lX3o4dnNqZUp4VWltdVg3ak5xYlBTT2xPeTNrdUEtZlNOTGU4NnJick1Jd0drNE5RX1lsXzI4c2hGYmZ3TG1OdU0?oc=5",
-      "site": "极目新闻",
+      "site": "ctdsb.net",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -241,6 +229,18 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51TG1veFZPNFlSOWhtU1BBMGJiZHVLLWh6UkZ3aEoyM2oyTVNGLUVZU2REbzJ2NnNGa1F4QldPOWdZall4UkZZNHFWc1cwUWhIbDA1RjBXQWc3bl92c2I0ZkxEa1F6eENsdGNPcg?oc=5",
       "site": "温州新闻",
       "siteUrl": "https://www.66wz.com"
+    },
+    {
+      "id": "FL-9ca5abd65019",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:40:23 GMT",
+      "ts": 1790512823000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "合肥肥东县发生3.1级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXpGeU16dXEzSlNqMUZnYXhKdVBLU2ZNOTc3R1JUblZQZzV0TG12VjBXZWdqS05NQ0poYjV1WGx6N2xTSTRuWWRVLXp5enpZMWJiYW5KZFRxc293R2VnSDFKX2RXUk9rQS1rdlJDUHkzaHZWZlNoNl9HYV9EU0RxMXFkZVduQUt3?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-eeb18d2b20a5",
