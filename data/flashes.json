@@ -1,17 +1,29 @@
 {
-  "updated": "2026-09-27T17:09:59.516Z",
+  "updated": "2026-09-27T17:39:27.996Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-255cd68102c5",
+      "id": "FL-1cf1dc1ed2d8",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
+      "ts": 1790171798000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-b824dfd35604",
       "date": "2026-09-22",
       "dateISO": "Tue, 22 Sep 2026 00:27:00 GMT",
       "ts": 1790036820000,
       "scope": "dom",
       "type": "geo",
-      "title": "五大国产主流手机全部接入中国地震预警网 - 观察者网",
+      "title": "五大国产主流手机全部接入中国地震预警网 - guancha.cn",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWNVM2FBcWxTZE9Cd3U0TVJ2WWwtNHNqSWtScWxEUlgwdk9ZX2F4aWxYQU5tOUEwRllkRlRQNlZreG5lV3dlbE5iYjhMQVQ5a0FELThUOUZRLThyTlg0STQyQWhSdw?oc=5",
-      "site": "观察者网",
+      "site": "guancha.cn",
       "siteUrl": "https://www.guancha.cn"
     },
     {
@@ -73,6 +85,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0F2TTc3TlBkMlJXaWJsU05BSzhid2hMcDd2TDRzNEVGRUxYM3lCLWZSYXhDSHJlWTVraXUzOHZhZXlmLVRrMk03cVZqVjVNSm5ZSGY3cUMzVGJIS2wzQmh6Rmk1R29VS1c1SS1ldTF0REVVRTRKVWhFZ1hrOWlBZWVDUEJfZklLNFJPNg?oc=5",
       "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f53bd711194a",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 16:47:05 GMT",
+      "ts": 1790527625000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55N0JRTy1yWmlxVkhhdWhsdDhUU1FGcmIwU2FndEVJckhrcnVabUNUQldyRVRUTFpYM2VvMFZUNW9DeVZxNHUxZnRiNA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-e890b264d79f",
@@ -159,15 +183,15 @@
       "siteUrl": "https://www.yicai.com"
     },
     {
-      "id": "FL-d243e56db9c6",
+      "id": "FL-e2471e613d23",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:03:00 GMT",
       "ts": 1790521380000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网自动测定：09月27日23时00分在新疆喀什地区塔什库尔干县附近（北纬36.99度，东经74.87度）发生4.2级左右地震，最终结果以正式速报为准。 - finance.sina.com.cn",
+      "title": "中国地震台网自动测定：09月27日23时00分在新疆喀什地区塔什库尔干县附近（北纬36.99度，东经74.87度）发生4.2级左右地震，最终结果以正式速报为准。 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XNWpKN1REOUpMSTVzblNhZTJwZzNGaU9BNkFtaEVqYlItWVNEU19LdU1zQWYtUkJoUHMxQy0yM1p5a0pSZXpIREtLdi15REliR2p6TkRQRnN2eFA5Y1ItMFFhNUtQUHRuSld1RHZzN1VhMlotQzUwRA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -387,27 +411,15 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-8b25bdde4112",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 05:23:00 GMT",
-      "ts": 1790486580000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福建罗源发生滑坡泥石流险情 致3人失联 - sohu.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2RzNjdNdzhSemc2S2dmZnRXLV9PQ3RiYUZsM0RacnJySFdaS3c4QnZNZG9ocnN4WW8yUy1qS216c0RjdHRuNXQ2Q1d4eVIxUFc1eE5jQ2hZYllVTnJ6OUxCVTZpTnROd2d3MFgwNUJ4aHd0MzIwaUN6OENhRzh3clhpUE5iR0ZF?oc=5",
-      "site": "sohu.com",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-2c12b6d9cbe3",
+      "id": "FL-beafeb16accd",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 04:52:05 GMT",
       "ts": 1790484725000,
       "scope": "dom",
       "type": "geo",
-      "title": "无人机抛投 + 北斗预警，长安大学破解高位滑坡监测难题 - 科学网—新闻",
+      "title": "无人机抛投 + 北斗预警，长安大学破解高位滑坡监测难题 - news.sciencenet.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNUd5d2Fpb3UzSm9HU2tJMnpkVEVRNU9xVU5PVFJYaDU5cHhrRHBvdndhYmpNbGR0NDAyTWRyMWhlbHNwdDR5M2Y5Wm5tUjNCeF9FOXBMcVNkTmZzSUZqdTc0c2g?oc=5",
-      "site": "科学网—新闻",
+      "site": "news.sciencenet.cn",
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
@@ -417,11 +429,11 @@
       "ts": 1790480010000,
       "scope": "dom",
       "type": "geo",
-      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（二）_独家采编 - 中国西藏网",
+      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（二）_独家采编 - tibet.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56MkhkU0hxem9Hb2hsT2RqVk9vMkFsS2h2TXNuX0UzZmpqVktnOGtBajdkWHRrTC1xQVdNejZSdVBSZnNXbFh2ajJ0aXZka2lXTWVWSUhLbUEteC1NQXdHZWZjMlAwbHBTeWc?oc=5",
-      "site": "中国西藏网",
+      "site": "tibet.cn",
       "siteUrl": "http://www.tibet.cn",
-      "related": 28
+      "related": 27
     },
     {
       "id": "FL-10c1f2d4c235",
@@ -568,15 +580,15 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-2d688e18dcdd",
+      "id": "FL-48a0d3659f9a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 03:31:33 GMT",
       "ts": 1790393493000,
       "scope": "dom",
       "type": "geo",
-      "title": "11:31:33【四川宜宾市高县附近发生3.3级左右地震】 - 财联社",
+      "title": "11:31:33【四川宜宾市高县附近发生3.3级左右地震】 - cls.cn",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yTldPc0x0NzAzZkhyLV9sZEFYZVhiRC1McDU0TGNHXzJKRks4c2hzdEFtSlFTUHB4V2N0cEgtOWJfWDJHRnVLdA?oc=5",
-      "site": "财联社",
+      "site": "cls.cn",
       "siteUrl": "https://www.cls.cn"
     },
     {
@@ -711,18 +723,6 @@
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
       "related": 8
-    },
-    {
-      "id": "FL-74bfe6e1915a",
-      "date": "2026-08-07",
-      "dateISO": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "ts": 1786086000000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "国家防总、应急管理部组织多部门联合会商调度部署台风“白海豚”防范应对工作国家防总提升防汛防台风应急响应至三级 - mem.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96S0Z6REh4NTJWMTI1dE9tMFRIYU5DdmdIbE9Sb3ZaZ3R6a3JMclp0Rl9YZ3A4NkVKUlZodHBNYmVYelVLbDdnZWYtZWdxbG1XUHZhTjdzUTMzLUNpVnVPTmIwdEkxTjU1ZFJnMQ?oc=5",
-      "site": "mem.gov.cn",
-      "siteUrl": "https://www.mem.gov.cn"
     }
   ]
 }
