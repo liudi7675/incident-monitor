@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-27T18:12:56.674Z",
+  "updated": "2026-09-27T18:42:51.945Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-1cf1dc1ed2d8",
+      "date": "2026-09-23",
+      "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
+      "ts": 1790171798000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - rfi.fr",
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
+      "site": "rfi.fr",
+      "siteUrl": "https://www.rfi.fr"
+    },
     {
       "id": "FL-255cd68102c5",
       "date": "2026-09-22",
@@ -15,15 +27,15 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
-      "id": "FL-d6feb3148f89",
+      "id": "FL-0fa05aae3512",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -49,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-b9c93f6f7de0",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 18:33:29 GMT",
+      "ts": 1790534009000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测......_7x24快讯_新浪财经 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GX3BJcVpLUHJYbEZEUTRuaVIwYzk1dFhUU29FQlRPUlhNekJEV3djVWNZM0ZMaW5zRTk3MjBMclJxLUVuQnltWEVCUQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-51c42fad78c2",
@@ -85,18 +109,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa0F2TTc3TlBkMlJXaWJsU05BSzhid2hMcDd2TDRzNEVGRUxYM3lCLWZSYXhDSHJlWTVraXUzOHZhZXlmLVRrMk03cVZqVjVNSm5ZSGY3cUMzVGJIS2wzQmh6Rmk1R29VS1c1SS1ldTF0REVVRTRKVWhFZ1hrOWlBZWVDUEJfZklLNFJPNg?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-f53bd711194a",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 16:47:05 GMT",
-      "ts": 1790527625000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55N0JRTy1yWmlxVkhhdWhsdDhUU1FGcmIwU2FndEVJckhrcnVabUNUQldyRVRUTFpYM2VvMFZUNW9DeVZxNHUxZnRiNA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-e890b264d79f",
@@ -159,27 +171,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-008f71fadaf8",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 15:21:40 GMT",
-      "ts": 1790522500000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "克什米尔发生4.0级地震 震源深度10千米 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxWDlYOXlqVTR4T0J1bU50NVJfekdic0l1Z2lXbWJ6b3lVNmtkS1Z6U1E5RXZBb1NOaWFYSm44bmtLV1FvYVR3T3RRTUFCUEJhQXlQWWY1X1ctTWQtZERONWx6VXQ3VmRSTWJYQXB1OA?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
-    },
-    {
-      "id": "FL-1cbfaad74e09",
+      "id": "FL-86c48d8ae370",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:13:00 GMT",
       "ts": 1790521980000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆喀什地区塔什库尔干县附近发生4.2级左右地震 - yicai.com",
+      "title": "新疆喀什地区塔什库尔干县附近发生4.2级左右地震 - 第一财经",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zc0xpWFdBYXJFUVVjTFM3TDFISTRhNkp5SG1QWk9JeHN0aUNfcDFpYzRlVWNvejVuTm5QYmJnRTNwUm1lSVppT3BzYVR4cHZSMVNIcw?oc=5",
-      "site": "yicai.com",
+      "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-63dcde9c0b55",
+      "id": "FL-287db429fa96",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:42:25 GMT",
       "ts": 1790520145000,
       "scope": "dom",
       "type": "collapse",
-      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - ctdsb.net",
+      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80VDZHRkZvVGswLWtSTVNRQl9lX3o4dnNqZUp4VWltdVg3ak5xYlBTT2xPeTNrdUEtZlNOTGU4NnJick1Jd0drNE5RX1lsXzI4c2hGYmZ3TG1OdU0?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -229,30 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ3lQdGdMU2xNSGVPRU44WUtsU19xYmlya1pOelBjZHBhYkNIRWdtZlRiaTc5M3RxSlgyd0tZZ01ZaTNRenRoWmt1M0taeC1SemJjeHl4aWt6dHI3YjZrTUh3cmRmUlJTSHYtTE1JYm8?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-424e42fc7deb",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 14:06:36 GMT",
-      "ts": 1790517996000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW9QelYxS1lVcTM0cFEzcVNCQTZodjRvR29Pbkh2cTc3X0UyNDRGYVJzc1hqbkZsZ1hhRXphRHJDcWFzY201dFpmeFNKOElZZTRHMV8xZjZ4MlVxYmVjZlRULVA3aE5LMGFUUDVySnhmUEdzMTVsVGYwTUhNWW5vUTJkbF9Wc2xR?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d68147b49e41",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 12:58:21 GMT",
-      "ts": 1790513901000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "安徽合肥市肥东县发生3.1级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYm41c0ZCaVRKUm9Ka1pZN3A2V2Ntak1hUngwZlV4QXJDQjY4S0RqNFNSREx2RFZVc0hYbzgyTW5Lb3FpeVV2OGp1YjAzRzRlalR3VlRySjFyZlNWb2JEcUNSQy1RV2xVc3NTZkFaYUVCaHh5cXFJTmtaMUtFdnZmN0lKelRSRm82S3FEa1hieWtVWHEwVW0xNUhGVE1EeXNBaTVpZzRhdnRwQWVvYVh2aFNGWFZPV19USXpVNGtjT3ZMOUdEeGtWU2YzWXhWT25GQ2liOUVXRUtTX3htT19kcGVZVlI0QXR1cWZxemFTR2I1dzdNcGlHNUdaWW5OZnRkcnhVVWM3LWROQ0lB?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-7b75c6905ae3",
@@ -289,6 +265,18 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZEtURS1YemNtTUFiT3duZ2JMdV9SMW5kQXVQbXZsVUFUZjhudW5qc3FJa2poZ2M5QVhrMzI0UkdHS01iaUU1YnBIbHlDOV82QW5md2VEQmRpb21raXQ2OVZTQQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-34b5f8554039",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:17:21 GMT",
+      "ts": 1790511441000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vT01CYTFIQUZmQzJneDJ3NWFfd05fQnROczlRb2pkZnN5VDFVME9hdDM1SVJFTFVtZjhZQmtydUNZRFA4ZFNXMnNmaXJXZzBnYWRIakM3TkZTenI2UHVobDQ2TG56V0huY0FsYzFVSVVBNXo1a2pMVw?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-97b3af45cf92",
@@ -520,6 +508,18 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-e9f4df7f4f67",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 10:36:05 GMT",
+      "ts": 1790418965000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "泰国曼谷暴雨引发洪灾，政府开展救援安置 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzV1pMUVYwU3NzQldYb05hZk1raVBqTG5vT1BqRkN4eGR2SHp5YWNmM200ckg2bkVCWHl3ZmUwLTNCeGt2bmtsWjJzRERBYlFkSmtMQ2dRNTFGTmVsTDMzUXhCMUxYMTZKRGNINXFaVzJQZw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-418eed2ca087",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -527,7 +527,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHd5MjBvSW5vcG0zQktwUGNNV2FoeTh3Nzh1TmZMOW9FaHpYQ0lydFkxWjVWX0I5cHowLWF5c1RGU29GcTE1ZG9RRE5IenNZTHpUQmdsUXh6VUZXaDBVQXpMZHVkTUQxY3Y4QlVSenNQNlFYR1dkNDVkdUtLbkU5NDlVUEpIdEJ2TzQyZjdEQkxZcC05S0lzWjhiT0FKZGJKNDhWcDI4VDFKN0gtWHdTNlRDUExPcHBObm5mX2pRUjJna25NazF6MTgtNjk3cm1iZVlzem5wWQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0dzV2UzRDZQcWREaXo4VEdQUWEzemZEUzR6NEY2dE1JbzJFWW5xZVZZcWhJaWU5TF9ncEY1eHNLajU4Q3ZTODZUa1BJZEV3ckhmZXV0aWgxeFJQcXJMQ1lsRmhDN2g4ZEljYmRmVVNQT0dPSUdyby0zX2lsRkFDSG52QW9lMUpXVGhIS1A0eDlMMS16UTR0aHV3TDY1ZjB1b1FGMzdEVmNfSW5oR3JlWWpVWUMzM081NGhDUl82YXFiakF1YkVaRTcwaDJ6VGN3SUp4cWdtYWY?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
@@ -640,15 +640,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-98905528a23e",
+      "id": "FL-123f36a2c22b",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "新华网",
+      "site": "news.cn",
       "siteUrl": "https://www.news.cn"
     },
     {
