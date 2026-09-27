@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:14:02.830Z",
+  "updated": "2026-09-27T12:44:02.128Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -159,6 +159,30 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-424e42fc7deb",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:25:42 GMT",
+      "ts": 1790511942000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2E1UVA3RThtdE1pb2tJRzFfOU9ZdTJfUW5ZYUZ4THo1RnA5RFpWLUtBWUdlSW51b1RnMzdDdWFpdWdzaEJBeHZENlQ4ZnVjNkVHT0RXdnZyRVE4YU9WY01URE43OWxqd2lJb25MdkFWbHloenZMNGZfNFZXS0VrN2VSVTdYVlp5R19Uaw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-431eb87743b2",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:21:47 GMT",
+      "ts": 1790511707000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "安徽合肥市肥东县发生3.1级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFN5WW9faUZ4bERhYk1kQmhZOFUyTmhSREpiSDVvOFV5b0RfSW4tUko0QUJQSEhBMXJiYm9LZzdMNWJxbFBHNWNIWjNZODFYUldmN2dRTTlTVVVrMXE5aDN5YWNSVTVhUVJKeFNuamlkQXFMWlhCMXZvSWxHZ1NiRTJfTG5XVFRuWmVrMA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-97b3af45cf92",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 11:24:03 GMT",
@@ -219,6 +243,18 @@
       "siteUrl": "https://www.enanyang.my"
     },
     {
+      "id": "FL-f711595c9f91",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 10:30:00 GMT",
+      "ts": 1790505000000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "印度尼泊尔暴雨洪灾至少19死 10人遭雪崩掩埋失踪 - 亚洲电视新闻",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPT1Mwbm5WcnljWVROVlJrODF1bHlXbEprNERfMUJPOXluSlhka2lnM3BVQU1hUEo3dnJPQ2hrUHBFQVFXTmRNOWRxSS1xVEVpbnk0a3FIcWplUS1TdzBpTHNweHREZ0FGUjdHZXM5MVJPbEFMaktHaXhKYWQwUEt6QUt1c2lTbGJuMU10LTVXQ1JJNFN1b3Q5cC03b1pCR1lDRl94SU51M0k1MnBwdTc0Q2Y3T1AtVVlncDQtQU84Mm1fLWd6M08tdUFFUlRkcFZBRnk5MzdnZWZZaXFWWTVfVFdfTkkzYzNrWjN2UVhzTXRad2h1TVVGVWlJenJ2M2NOdjlFTEtjRDRHTkhnaVY0cE5sMGFnYTNCN3oycWRGZ0dadFY4TEJ6Zm5jVXpfUm9xZEpMUW82bmZzeFJvcDIw?oc=5",
+      "site": "亚洲电视新闻",
+      "siteUrl": "https://atvnewsonline.com"
+    },
+    {
       "id": "FL-31df16c68cb6",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 10:08:42 GMT",
@@ -229,18 +265,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoNFl3X2cydWlfWDJKM0FFVWxjNzlPLVhjTmtHUjZMOVBHU25KV3VxZTRRX3cydTNQRU55ZHZWdVA0RTAxWG9QQVBqOXQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-787305b46c32",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 09:46:38 GMT",
-      "ts": 1790502398000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "泰国曼谷持续强降雨引发内涝 当地华人：街道积水最深超1米，部分商超物资遭抢购 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWNia0Q4bEdXUE5Jb0UwT2p0UXQ0UFdPSmZ4bk1JWDIxQ2wwdUtYSHNWRU1mTXBtZEdERmxYc1BnUVZqN3AyMzAzcTlfalpEdklWRDJQSS10cGZEeUJvU1l3bmhaQ1JFd0VRU051VVNYMllNVzhGTm4yNEZPbVlLRUJ0VGhxSzJ3TnNDeA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7b2e8f9860f4",
@@ -291,18 +315,6 @@
       "siteUrl": "https://www.enanyang.my"
     },
     {
-      "id": "FL-662d9f6e12c4",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 05:23:00 GMT",
-      "ts": 1790486580000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福建罗源发生滑坡泥石流险情 致3人失联 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2RzNjdNdzhSemc2S2dmZnRXLV9PQ3RiYUZsM0RacnJySFdaS3c4QnZNZG9ocnN4WW8yUy1qS216c0RjdHRuNXQ2Q1d4eVIxUFc1eE5jQ2hZYllVTnJ6OUxCVTZpTnROd2d3MFgwNUJ4aHd0MzIwaUN6OENhRzh3clhpUE5iR0ZF?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-2c12b6d9cbe3",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 04:52:05 GMT",
@@ -325,7 +337,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56MkhkU0hxem9Hb2hsT2RqVk9vMkFsS2h2TXNuX0UzZmpqVktnOGtBajdkWHRrTC1xQVdNejZSdVBSZnNXbFh2ajJ0aXZka2lXTWVWSUhLbUEteC1NQXdHZWZjMlAwbHBTeWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 29
+      "related": 30
     },
     {
       "id": "FL-67623ead30f9",
@@ -532,18 +544,6 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
-      "id": "FL-10fc7cd12fcb",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 02:28:35 GMT",
-      "ts": 1790389715000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾高县连发三次地震，有居民称凌晨被震醒后和家人躲厕所避险，当地：正排查灾情 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXNMTDdva2JxVVhxYnhrYWJOWmtHdnhsTF9zc21oTmFtZFZheC1XX21kZmdDMHFhenc4cFY5RzdsOWdMZnZ1dGRoUnlMYkE3aVhvSUF1M3luOVVWeTcwS2F0TjdwX25ucERmaUE2aEY0WktBLXpFQXVHR1NQQVFUQkNuTU1zN1FpSFBGSw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-79d47fc10a5f",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 02:11:00 GMT",
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 7
+      "related": 8
     },
     {
       "id": "FL-74bfe6e1915a",
