@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T22:40:47.700Z",
+  "updated": "2026-09-27T23:10:41.102Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,6 +51,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-4e2fbeee9189",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 22:59:32 GMT",
+      "ts": 1790549972000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - 大河财立方",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1S2RqTEN1UFMzdmN3RTlaeXVkVUhvcWJjVkhsWEQ0NU9rZ09jTEpDVFhOOC1qZGhBUkoyV3NKRjJnZGZycjc2X3NnNDZSS2ZLV3gwQVp4WU1HLXlBSE44cWpDaHdFeWdpTXc?oc=5",
+      "site": "大河财立方",
+      "siteUrl": "https://app.dahecube.com"
+    },
+    {
       "id": "FL-c783eb1e1115",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 22:04:34 GMT",
@@ -87,15 +99,15 @@
       "siteUrl": "https://www.epochtimes.com"
     },
     {
-      "id": "FL-4473caaeca4a",
+      "id": "FL-73569a24487e",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 18:58:22 GMT",
       "ts": 1790535502000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里 - emwap.eastmoney.com",
+      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里 - 东方财富",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LZzBIMlhyNkxVRk9xcEhzaml2aHNJWFlxaThRb1FNWmpLZ21xcldXSUNsMFZpUlB1R1RQRm9UNVhSUjFocy0zdndEMjRfZFpBaHJVSXVscXhUM0YwTG5RMGVnNA?oc=5",
-      "site": "emwap.eastmoney.com",
+      "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
     },
     {
@@ -123,15 +135,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-51678e985862",
+      "id": "FL-911922bdabfa",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 16:57:55 GMT",
       "ts": 1790528275000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - finance.sina.com.cn",
+      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZSkxQUnZBM2NxeVEzcGN2aGlWQ2dOTEt2S2xiREdwUlByUTc3cjJHVW8tU1JQN3pHYXRRX2szenBWR2wwYnhVV2I2VQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -147,27 +159,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e890b264d79f",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 16:08:00 GMT",
-      "ts": 1790525280000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "尼泊尔强降雨引发灾情，已致21人死亡 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KQ0tObmp5N3dYNE5YUWl6RnlRZjBGaWUwRG11eDQtNFVxbEhfMlpCZ0NoYWtaUEVZX1FJMkNXUHlJUjhsaWo1aXZqU2NkdlFmN2ozYllDYkR2XzlSY0E?oc=5",
-      "site": "thepaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
-    },
-    {
-      "id": "FL-dbffbfb74ca7",
+      "id": "FL-e30d6efe9371",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:52:10 GMT",
       "ts": 1790524330000,
       "scope": "intl",
       "type": "weather",
-      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - finance.sina.com.cn",
+      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PS2pucnRrYllYbFB5U0duT0VTa1BHWnFnUjJ3bVp4T1BQNHBldllhZy1fNFZDdml2cHNXZjRPbERpZVQzZk9uQVlzZw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -195,15 +195,15 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-bde5ad51e9d7",
+      "id": "FL-5e46bcd3730f",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:18:58 GMT",
       "ts": 1790522338000,
       "scope": "dom",
       "type": "geo",
-      "title": "克什米尔发生4.0级地震 震源深度10千米 - finance.sina.com.cn",
+      "title": "克什米尔发生4.0级地震 震源深度10千米 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91Unk2aURZU0tORXhlSnpRbGlRSzk2eXZuaGRydTZocmhrRjdoU0JQVlR3V3JXLXd5WUNJU1dPMWtNRzBNamV5NmFYdw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -231,15 +231,15 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-63dcde9c0b55",
+      "id": "FL-287db429fa96",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:42:25 GMT",
       "ts": 1790520145000,
       "scope": "dom",
       "type": "collapse",
-      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - ctdsb.net",
+      "title": "多看一眼，救下两人！十堰龚家庄口崩塌成功避险 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80VDZHRkZvVGswLWtSTVNRQl9lX3o4dnNqZUp4VWltdVg3ak5xYlBTT2xPeTNrdUEtZlNOTGU4NnJick1Jd0drNE5RX1lsXzI4c2hGYmZ3TG1OdU0?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -303,15 +303,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-f002a1ac4bc7",
+      "id": "FL-a4122cca6aa1",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 12:25:42 GMT",
       "ts": 1790511942000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - ctdsb.net",
+      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 极目新闻",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tVmtQSkxoRk1hVzNPZ2ZrdVlLZVU3XzFMelQwaHVSY0puRy1SdHBJY3BMbkZ5MFZVTzFwb01PT3lmOHpaRExkMzdGWmVDVlNWdHMzaEJFQ0VZTlk?oc=5",
-      "site": "ctdsb.net",
+      "site": "极目新闻",
       "siteUrl": "https://www.ctdsb.net"
     },
     {
@@ -327,15 +327,15 @@
       "siteUrl": "https://i.ifeng.com"
     },
     {
-      "id": "FL-b6da38eda52c",
+      "id": "FL-9920ea161a39",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 10:43:28 GMT",
       "ts": 1790505808000,
       "scope": "intl",
       "type": "weather",
-      "title": "尼泊尔强降雨引发灾情 已致12人死亡 - finance.sina.com.cn",
+      "title": "尼泊尔强降雨引发灾情 已致12人死亡 - cj.sina.cn",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLZmItRVVGRUJIQmNuNVpWUHdrbzh0WDhocWdEbVR1eE9sQ1hyanpKLXVKYzU4UC1Hd1JXcVRNYmlPTHVZSVZuZEZBMA?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "cj.sina.cn",
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
@@ -628,18 +628,6 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-55d6c57ae661",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "苏州风力持续增大！国家防总已对江苏等地启动防汛防台风四级应急响应！ - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnhZbF9ocExyRHNScVJIM2VORjVQVXJfZ29pVlRJT1lEZjJHeEVJRnlCNDlQcHZsY1RyaGJoNjMwUlZaS3VXQ1I1U0NpdUNUdlI0cXc4U1VNN1BaZGx5Rk9HNy01RUhYTnFDblVIamhTYWJod2lIZHp2bGZzMWNva2JPYThWYzRhQ0RvWA?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "https://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-8fe9ef97ca8c",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:46:35 GMT",
@@ -712,6 +700,18 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-4ee97473f1c9",
+      "date": "2026-08-14",
+      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "ts": 1786690800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 8
     }
   ]
 }
