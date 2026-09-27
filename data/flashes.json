@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T13:39:57.292Z",
+  "updated": "2026-09-27T14:11:02.592Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,15 +15,15 @@
       "siteUrl": "https://www.dw.com"
     },
     {
-      "id": "FL-1cf1dc1ed2d8",
+      "id": "FL-d10cd3660d1c",
       "date": "2026-09-23",
       "dateISO": "Wed, 23 Sep 2026 13:56:38 GMT",
       "ts": 1790171798000,
       "scope": "intl",
       "type": "geo",
-      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - rfi.fr",
+      "title": "法国报纸摘要 - 《解放报》：尼泊尔泥石流洪灾唤醒对墨脱大型水电站风险的担忧 - RFI",
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
     },
     {
@@ -37,6 +37,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ydnVNSVdnVWVIeXNTN29qTVZqUVZCNkF3QlYwcDUyeW5KZnRHQ2xyLVVpcjNwRExpRzZJOWlyemRiWEZBTW5HRG9LRUlsZEFYNDNFY0RyWlk1RllEMVBnWFR3QktiZFhwVW1IV3VBR1UySFNrVEFv?oc=5",
       "site": "北京市人民政府门户网站",
       "siteUrl": "https://www.beijing.gov.cn"
+    },
+    {
+      "id": "FL-e82ace8ff04b",
+      "date": "2026-07-28",
+      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "ts": 1785222000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "唐山大地震50周年：从毛泽东批阅到44年后的余震，五个鲜为人知的历史细节 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-370c059da30f",
@@ -123,6 +135,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-b3fa00f08d09",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 13:09:47 GMT",
+      "ts": 1790514587000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "#媒体原创 曼谷遭遇持续强降雨引发内涝 ，当地华人:街道积水最深超1米 ，汽车被淹、商超物资遭抢购 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0Jfak04eEJpQ0VUeExKRktpV29Ydl93eld2T0lFMW1UZzZaZlJpMjFNVUJKX0ZmSGUySkMxVUZZX2pYV1lmbzNZQkNBOUdjWUV2Q1ptd1NhdWp3dzRwQ1U2M2F4WHByZnpQRGZfUE91MFFmWVk5T1NwbVRUNmNldEpMZUVMYVZVc1JSLQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-b89ecfbd6e85",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 13:06:26 GMT",
@@ -147,15 +171,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-7b75c6905ae3",
+      "id": "FL-30e112941f42",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 12:57:00 GMT",
       "ts": 1790513820000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽合肥发生3.1级地震 - 温州新闻",
+      "title": "安徽合肥发生3.1级地震 - 66wz.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51TG1veFZPNFlSOWhtU1BBMGJiZHVLLWh6UkZ3aEoyM2oyTVNGLUVZU2REbzJ2NnNGa1F4QldPOWdZall4UkZZNHFWc1cwUWhIbDA1RjBXQWc3bl92c2I0ZkxEa1F6eENsdGNPcg?oc=5",
-      "site": "温州新闻",
+      "site": "66wz.com",
       "siteUrl": "https://www.66wz.com"
     },
     {
@@ -349,7 +373,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56MkhkU0hxem9Hb2hsT2RqVk9vMkFsS2h2TXNuX0UzZmpqVktnOGtBajdkWHRrTC1xQVdNejZSdVBSZnNXbFh2ajJ0aXZka2lXTWVWSUhLbUEteC1NQXdHZWZjMlAwbHBTeWc?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 31
+      "related": 30
     },
     {
       "id": "FL-67623ead30f9",
@@ -426,12 +450,12 @@
     {
       "id": "FL-8ee9e0f72d32",
       "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 19:31:28 GMT",
-      "ts": 1790451088000,
+      "dateISO": "Sat, 26 Sep 2026 18:31:00 GMT",
+      "ts": 1790447460000,
       "scope": "dom",
       "type": "geo",
       "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTnZOR2RGNng0bzhQWXM3UnBRWnRNUnZMQWdhM1RhREtpOHhDYi1mUk1hT3J1SlpEaTVEMkxQSDMtQm53YjA1UzdpZk1kUldmX3JnVEY5WWxhRzJGWjlqWDlXWWtGaGRzUlJVNDhVLXUwdGYzMkdtWkktT0d4Y1l0ZTJCSy0xSHdzRGswVzZ6WEhBRl9tUGFKRA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNGNBanFjZUt6RXgyVlpPbWt3a29hNFd1SWZPLU1YUjMtMjRhZ1F3cTVNOS0zcHBOZWxqTFVnVXVHaThlemFCOWpDMVdtUEdxYldkX2FPVEd4ak1EYUdGS25GeU4zUllPaEJORWNST3dDZVVqSEg0RkFySkdERnFsRE5UTTNYcFhjODNBRERDV3JsM0FxMHZrc0ttUWxmQmhCUGlEUFNMRTMyVnEwVVZhNmYtenhScFFnUl80TDhGX1hsa29pZlNNNHhxekpldVgzSFNZM3dEYTZsZ0dhRUNNcXlkYkxWQlliUTNWWHJNbmcybnluUVdhOG5yc1NUaHdfNF8xTktUUTZELTdiYWRQZUlMd3FoMEwwVmpMTFhFcElCeXBCTFdrNWdSVmdMV2JleVQ4OVJJOWUzVFRaeW8tNkJJUk5KaDA4MEJMNEY4LXVXQkFWNTJWNGxuc3pPMFFHVk1razNWUjJ4Z3ViUXQ3RVdQbGxBY1E0dVdEaE02N3E3M0ZrOXBwaUY1LUg0N2NmaWNsUWxsejQ1aFQ3QjdTbGVqak9RR3JoaDFCNzZ6T3M2OTBTNnQtTmwwdm9YazhmNUVhNjV4dGRuOGsxaVFBMnYteUkyUHJkcjNJVDUtVHBtUQ?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "https://finance.sina.cn"
     },
@@ -491,7 +515,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "四川发生地震 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGhXd2RLRENpTk92N1dIem1ON09hYkh2d01jZjBJRjVLQnJPWWRZVDNnOUxVMGJ3enExRm90LUtfamdGaS1VOGEyblBLaDdFR29YOVY1SXJZZ0EtLWI3SURtZmVmTzEwZjNlWFl5RFVHY3IzelUwd3lmR1VmYUtsNlNUU0g1R1RjdHRqODBFc1d1VFhhNFRyWW5ycHVOOHdmR1AxelcwMkpMSlZJbnhoVWg2Z2NHLWVYSVV6V3FMZzN0S1BtZEJJSG5GWUNoeVBRVHlpOW1vTnA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHd5MjBvSW5vcG0zQktwUGNNV2FoeTh3Nzh1TmZMOW9FaHpYQ0lydFkxWjVWX0I5cHowLWF5c1RGU29GcTE1ZG9RRE5IenNZTHpUQmdsUXh6VUZXaDBVQXpMZHVkTUQxY3Y4QlVSenNQNlFYR1dkNDVkdUtLbkU5NDlVUEpIdEJ2TzQyZjdEQkxZcC05S0lzWjhiT0FKZGJKNDhWcDI4VDFKN0gtWHdTNlRDUExPcHBObm5mX2pRUjJna25NazF6MTgtNjk3cm1iZVlzem5wWQ?oc=5",
       "site": "finance.sina.com.cn",
       "siteUrl": "http://finance.sina.cn"
     },
@@ -568,18 +592,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-c62402bb6f66",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:19:00 GMT",
-      "ts": 1790381940000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震 - Jstv.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1RE9vQ1ZOSks4Q2l1el8tU0RDNzZSV0dlVmJPVmxnT0pybl9tNWVqZUhlajlQdl9HaEFGQlpMYllkQXR6QzMxUk5RQ2d0NWtVYlZ1TnZRdEFhcUJGME1fTUd4VFMzUEZLLVE?oc=5",
-      "site": "Jstv.com",
-      "siteUrl": "https://m.jstv.com"
-    },
-    {
       "id": "FL-fb448a3e9124",
       "date": "2026-07-11",
       "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -616,16 +628,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d07942777a5d",
-      "date": "2026-09-25",
-      "dateISO": "Fri, 25 Sep 2026 23:57:00 GMT",
-      "ts": 1790380620000,
+      "id": "FL-e8a32a183e42",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市珙县附近发生4.4级左右地震 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ES3dJR1ZiYTQ0SW8wV01jMXdKcFZ1TGZkQ3RPODVFUzMyaXllWHI0WERPQmRsMVhvS2NxSExfRUZoNGhneEFxQTRSN2dqMjVOcy0zLTR6Rlo?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-0d88b448435c",
@@ -676,18 +688,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-561f7491661d",
-      "date": "2026-07-24",
-      "dateISO": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "ts": 1784876400000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "广东、福建多地停工停运停航 台风“红霞”最新影响→ - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wYjRQSE1EUDhxN2RKTWpDRzlDM1VKbFBoQmNjNDZKMUxfaFlZRXNpNlowSUMwLTBPUTJhSnNDWGNvc20td21kR2hhX1MxckFGT25JaklCVHI2elZYX1UxXzlvemNfdkg5V2NWNFdMSWI?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-4ee97473f1c9",
       "date": "2026-08-14",
       "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 7
     },
     {
       "id": "FL-74bfe6e1915a",
