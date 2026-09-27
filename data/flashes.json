@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:16:13.864Z",
+  "updated": "2026-09-27T00:46:05.656Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxNQTd2VUZ6cElZeXNvQjM0Qlk3NlYwVFNIYmxBeDItcnY1Y0ZGVXpiY2lReUgzSUVLZThiZmM1aFJBeTdDSXg3bldMeUxzTDd3VVNNOWUtejdYTXlKeHNheE9lYmZFdUZQOUMyWERGM25hS3ZEVGtSRXJzck5SaHVmUHloYlBUOElzNzFZYjI5T2szQ09SbXFDTmtOSFJuN0pieHhxM3N5SFZ4TEczMEtGMFNpeTRfc1ZRVHg2NmZqblFPT2JkalhwZ0lUa2F5WDIxV1Vzc01mNmV1X2ZRY3NHZ3lSQmczbEJzUmFpTTk2ZVg4cVdoTE1OZmN1SlZSc3FSUXUxSXNUcGFURXpyS0tfNE1KN19ESkwzSk1tbERQOGFrdHlVbDNIeDhJRUVOTXgwMGZLSmVaQ29JdjJtdWdlZG9tYmdlVjhsNmxKTjNFRXozYWpqQ1V3NVlHWENySGUwa1JUdmVTQ0NGMlp5VGkxaVlPMnhlTzJ2YzhFc042a1dyNzVsUGFGRG1Od1JfdlVheE9rNzg3Zi1KQ1FUNzlZQnZMSkoyRUgyUXpmVXlQVUNKLUVNejdlM25GMlI3dkVndkpGVEdBM2NWQ3RBd1VfZ0d3clV1Q3dXTTJfcFFJZjNVRTJ0TXRvc1pjY3FYaDd3M3NINHVyVHJLdw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-674383638b4c",
+      "date": "2026-09-02",
+      "dateISO": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "ts": 1788332400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfWmowNGIyc200QU1ESDVxbC1hdmdLWUlCQXNHazV6aVdvY1FYMGFySHFueG50UGc3Q2Z2ZUVXaWNtbUQtNlBMWkRDLU01T2R5blhnY2UtSUR5ZUdHaWt5YWszOFRFQdIBa0FVX3lxTE5ncUFxSTZyWVZGQ05yLWwtOGVLS01kb2lsNjY5cVNfU1VlN1hWSjFtUEx4eEpObTY3c3F5czNZeElUM01KaU5uVF9NQ2FDdGlMY29tbi16UFluSkVGSzFkNXJHZFFTOUU5eW80?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-e82ace8ff04b",
@@ -63,15 +75,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-0fa05aae3512",
+      "id": "FL-d6feb3148f89",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -99,15 +111,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-b1e667d4d15c",
+      "id": "FL-8ed23c09e627",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
       "ts": 1789644780000,
-      "scope": "dom",
+      "scope": "intl",
       "type": "geo",
-      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - au.china-embassy.gov.cn",
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
-      "site": "au.china-embassy.gov.cn",
+      "site": "中国驻澳大利亚大使馆",
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
@@ -121,6 +133,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-418eed2ca087",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 00:29:02 GMT",
+      "ts": 1790468942000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川发生地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTZCMnQxRmF3eDc4UkZ6MTFWWVpUeXpZR3FvU3BQTTE4ZHc5U2FQY3ZKVkhnSnluSm5FWW9PUGZELVIycURDSVFOMkkyaWVkdTdkZ3FnNjFsQWlwa3BENVhmY1AtcjhLVmtZNVNyREN2R1hxTHZMNWJramlHRGNhMld5eGNlMW5sbV9LLVdRQ0ZNMWpxWVNILUE5S25Vcm5yMk0wSEp1OTRkbWpURU9rVUROczRUX29iRVFtRlA5cDVnV1JyRTE1MWdYZTZwVmdaaHNpd1RFUHk?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-05871f720f25",
@@ -147,15 +171,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-50cd7b6888bb",
+      "id": "FL-91bdb2ea9dee",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - news.cn",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -171,30 +195,6 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-418eed2ca087",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 23:18:53 GMT",
-      "ts": 1790464733000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川发生地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2JfZVRrQ0VvMk9ZTXFRX3doQ0FSSDItUEp4MkhOZlpQbzR5MmZGWm5PMEtEd2lQc19OYUpuUjNzcElvMVJ4Q01tZ2hwblNSOUdvU2paN21IemRuSmd0Z2tIa0kweEU3dnNEZ3dwd0J5UzFtMnNiTGpfeUlRQ3JnZmtNaDVuaGN3N0VBOVZadEhWeGkwTzVrSWdOX211TDBPcWVFZkNaMUpKcU1IaHJKZGJXeW5SVjZwV2hTcXhsVEltQTlSbWh1anYzcHp3OVF2d1VZcjRaN0s?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
-      "id": "FL-f61c3dd05f0c",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 23:10:43 GMT",
-      "ts": 1790464243000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福建罗源发生一起滑坡泥石流险情 造成3人失联 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15RGxCQjRhWWpZdmFZSi0ySFR1R1dqbTkxR2x5QTJGcFFhZEl0aHJtTnhWZXhMOTJsSVdoNHp4V2luejRYVXNpVmdlTE5zbTlqV0tvSFJWUHlLZksxUWswNHhNNEU?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-7dc7817b6a3c",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 23:09:00 GMT",
@@ -203,30 +203,6 @@
       "type": "geo",
       "title": "福建罗源发生一起滑坡泥石流险情 造成3人失联 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1bFQtM0g4blFQb0JqeVFOMUFFZlB2QzJRc1U2a1BVbXNRbjlnSW5vQTBldC1YVDAwNTZRaW85X3NXSzZ2U1JidVU2U29qQjZselJBekdZRFVIOERoT2x5WGN3dmExYUJKODhaa0ZfTTVzazNYTmItUQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-d2167cf8573d",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 22:57:00 GMT",
-      "ts": 1790463420000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福建罗源县碧里乡发生滑坡泥石流险情，3人失联 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ycXhSam9SckRkMzZRcnBtTS1OYUNnWFhzR2FrUVRpY0NTSzNLY2lZNWVqTVBmMkJmWE5hdWh6a0tfeTJhWHFrVk90Q1VlX2Z6d0VzU21DeUJtTjhEZDZWVG1QWGtvbHQyc0hwYzhhdWx2TVZCaW1iMA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-415653aafa01",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 22:54:00 GMT",
-      "ts": 1790463240000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市长宁县发生3.9级地震，震源深度5千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kZWtLNkdGQ0l6Q0tDbkJWRFhxbG9hTjFzWURvQVJWRUpBVTZPNUw2dFRDVVpUWTdzWTk3WkZ2VUZvTGh1azQtS2NBdFNUU2VlMk9SckFTQVFGdURpcTU0QWoxWkczRWRlZWZVRGFVNXJQekIzNXA1TA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
@@ -303,6 +279,18 @@
       "siteUrl": "https://www.tdm.com.mo"
     },
     {
+      "id": "FL-9cc91aaabf0e",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:26:00 GMT",
+      "ts": 1790436360000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情 3人暂未联系上 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUbHBuQW5HR3l6eDh3d0JVRUd3UFJINFBlM0o4LXhwdXlfWjFpcnF5Y2lzenlUTGhzcV9OUzgxalp3VG5YOVYyQXdaRGxvLU5TejhxTkFZdmMzRlMtU05Vc1JKMnpmOGNHRTlPZm8xS3RURlFmbUo5OQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
       "id": "FL-88b75849c4bc",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 14:53:47 GMT",
@@ -327,15 +315,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e941471c1e2b",
+      "id": "FL-7f66430e0680",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 11:34:21 GMT",
       "ts": 1790422461000,
       "scope": "dom",
       "type": "geo",
-      "title": "四大AI预测圣何塞地震vs波特兰伐木者：三家看好主胜 - 懂球帝",
+      "title": "四大AI预测圣何塞地震vs波特兰伐木者：三家看好主胜 - dongqiudi.com",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTV3E3N2NvYV85cHNNNDdKZnBSVzRGRC15MTg2QUNlcHRUTFFKRjR0ZDl5dmdCdDgtMlJlZ1dfQ2F3RG83RHNjTGIxQ3pwMlY2VHJTd3dvZw?oc=5",
-      "site": "懂球帝",
+      "site": "dongqiudi.com",
       "siteUrl": "https://m.dongqiudi.com"
     },
     {
@@ -568,6 +556,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-749aed081520",
+      "date": "2026-09-19",
+      "dateISO": "Sat, 19 Sep 2026 15:51:18 GMT",
+      "ts": 1789833078000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流灾害遇难人数升至1436人 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aVE5oUFFzTTBXSEo4YjZTRHdyeWh3WGo2cy1fdlc0Q3dPQUdZaWR0Q1VMWjdGcG9mZnRWY28wRDQ1dmIyakNJcFlaWkpRbEtfY0t1cW5CcU5ON3ZGcXNBZUV4ZWN1bkR4?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-fb448a3e9124",
       "date": "2026-07-11",
       "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -580,15 +580,15 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 11:35:14 GMT",
       "ts": 1789990514000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -700,15 +700,15 @@
       "siteUrl": "https://news.hsw.cn"
     },
     {
-      "id": "FL-eaf1d904e975",
+      "id": "FL-4ee97473f1c9",
       "date": "2026-08-14",
       "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
       "ts": 1786690800000,
       "scope": "dom",
       "type": "geo",
-      "title": "浙江长兴突发山洪泥石流致1死3失联 - news.cn",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
