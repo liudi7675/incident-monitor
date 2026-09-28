@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-28T05:11:46.047Z",
+  "updated": "2026-09-28T05:42:29.636Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-255cd68102c5",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 00:27:00 GMT",
+      "ts": 1790036820000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "五大国产主流手机全部接入中国地震预警网 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWNVM2FBcWxTZE9Cd3U0TVJ2WWwtNHNqSWtScWxEUlgwdk9ZX2F4aWxYQU5tOUEwRllkRlRQNlZreG5lV3dlbE5iYjhMQVQ5a0FELThUOUZRLThyTlg0STQyQWhSdw?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
     {
       "id": "FL-89d6589d1504",
       "date": "2026-08-30",
@@ -39,15 +51,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-e51169e011ac",
+      "id": "FL-4e2fbeee9189",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 22:59:32 GMT",
       "ts": 1790549972000,
       "scope": "intl",
       "type": "weather",
-      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - app.dahecube.com",
+      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - 大河财立方",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1S2RqTEN1UFMzdmN3RTlaeXVkVUhvcWJjVkhsWEQ0NU9rZ09jTEpDVFhOOC1qZGhBUkoyV3NKRjJnZGZycjc2X3NnNDZSS2ZLV3gwQVp4WU1HLXlBSE44cWpDaHdFeWdpTXc?oc=5",
-      "site": "app.dahecube.com",
+      "site": "大河财立方",
       "siteUrl": "https://app.dahecube.com"
     },
     {
@@ -231,15 +243,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-30e112941f42",
+      "id": "FL-7b75c6905ae3",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 12:57:00 GMT",
       "ts": 1790513820000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽合肥发生3.1级地震 - 66wz.com",
+      "title": "安徽合肥发生3.1级地震 - 温州新闻",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51TG1veFZPNFlSOWhtU1BBMGJiZHVLLWh6UkZ3aEoyM2oyTVNGLUVZU2REbzJ2NnNGa1F4QldPOWdZall4UkZZNHFWc1cwUWhIbDA1RjBXQWc3bl92c2I0ZkxEa1F6eENsdGNPcg?oc=5",
-      "site": "66wz.com",
+      "site": "温州新闻",
       "siteUrl": "https://www.66wz.com"
     },
     {
@@ -315,27 +327,27 @@
       "siteUrl": "https://tidenews.com.cn"
     },
     {
-      "id": "FL-33cd43d2fc15",
+      "id": "FL-7a929a7cf211",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 05:23:46 GMT",
       "ts": 1790486626000,
       "scope": "dom",
       "type": "geo",
-      "title": "福建罗源发生滑坡泥石流险情 致3人失联 - cnr.cn",
+      "title": "福建罗源发生滑坡泥石流险情 致3人失联 - 央广网",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wd3hNVUw2TE1tVGpNd0hIXzVxc2ZoVy1KSkJUdVFERkI3YmpSTnlHaTRDSFZNbS1YbGFqRXJOM09tcHE4WFFmZjJXOVBkMWQzTjUzMkJWeXJ4MnhxQW9zS29XQWdDTHNIQ0tkS1FB?oc=5",
-      "site": "cnr.cn",
+      "site": "央广网",
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-beafeb16accd",
+      "id": "FL-2c12b6d9cbe3",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 04:52:05 GMT",
       "ts": 1790484725000,
       "scope": "dom",
       "type": "geo",
-      "title": "无人机抛投 + 北斗预警，长安大学破解高位滑坡监测难题 - news.sciencenet.cn",
+      "title": "无人机抛投 + 北斗预警，长安大学破解高位滑坡监测难题 - 科学网—新闻",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvNUd5d2Fpb3UzSm9HU2tJMnpkVEVRNU9xVU5PVFJYaDU5cHhrRHBvdndhYmpNbGR0NDAyTWRyMWhlbHNwdDR5M2Y5Wm5tUjNCeF9FOXBMcVNkTmZzSUZqdTc0c2g?oc=5",
-      "site": "news.sciencenet.cn",
+      "site": "科学网—新闻",
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
@@ -376,18 +388,6 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-b6332a013896",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 00:34:00 GMT",
-      "ts": 1790469240000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "福建罗源发生一起滑坡泥石流致3人失联，搜救工作正加紧进行，事故原因正在调查中 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UVk1Vm5LNGNxWXd0WHNTV2RIOC05LW9zTFk3eGV6Q1RMUy1IaFQ5QVdaY24zTlh1S1JaRWpZNEhXUFdyZ2tpR3dPeE9xdGI4UFU1WWJnOW11QQ?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
       "id": "FL-877d46e8bdb9",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 16:05:06 GMT",
@@ -400,15 +400,27 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-b68004800400",
+      "id": "FL-c3a728f02e04",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:45:00 GMT",
+      "ts": 1790437500000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情，3人失联 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41U0dreEs4V1dMRFltbE96VFg3UHJ5VjlSWUV5SENSa1p1LTVBSFozNFRJRE02RlVMekZlU3d0Y2RLdi1jdXFlbS1jOEl5NTR0dFFCaGYzWUtoT0NQcVE?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
+      "id": "FL-4d1da4f696d3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:46:54 GMT",
       "ts": 1790398014000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾高县9月26日连发多次地震 - 央广网",
+      "title": "四川宜宾高县9月26日连发多次地震 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnaWRhTmc4NTVQU0hjV1VwVGExZ3dHLVJUZjczcDNHcWFMZWN3eDBfNHEzUTBjY3JKZ2ZUUWdGOFIzcFRTUXJIMGIycFo4amc1RkJ5bE5UYzR1Z2hKcHZrMGRQRU9QRHZfa1RqQ2hB?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -482,18 +494,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
       "site": "suzhou.gov.cn",
       "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
-      "id": "FL-55d6c57ae661",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "苏州风力持续增大！国家防总已对江苏等地启动防汛防台风四级应急响应！ - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnhZbF9ocExyRHNScVJIM2VORjVQVXJfZ29pVlRJT1lEZjJHeEVJRnlCNDlQcHZsY1RyaGJoNjMwUlZaS3VXQ1I1U0NpdUNUdlI0cXc4U1VNN1BaZGx5Rk9HNy01RUhYTnFDblVIamhTYWJod2lIZHp2bGZzMWNva2JPYThWYzRhQ0RvWA?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "https://www.suzhou.gov.cn"
     },
     {
       "id": "FL-2316a8e7868b",
