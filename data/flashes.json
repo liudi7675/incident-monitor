@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T03:44:17.263Z",
+  "updated": "2026-09-28T04:12:05.840Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ydnVNSVdnVWVIeXNTN29qTVZqUVZCNkF3QlYwcDUyeW5KZnRHQ2xyLVVpcjNwRExpRzZJOWlyemRiWEZBTW5HRG9LRUlsZEFYNDNFY0RyWlk1RllEMVBnWFR3QktiZFhwVW1IV3VBR1UySFNrVEFv?oc=5",
       "site": "北京市人民政府门户网站",
       "siteUrl": "https://www.beijing.gov.cn"
-    },
-    {
-      "id": "FL-33c61a069546",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 08:19:09 GMT",
-      "ts": 1790065149000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-f7df76261340",
@@ -159,18 +147,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-e2d986b2be90",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 15:52:10 GMT",
-      "ts": 1790524330000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PS2pucnRrYllYbFB5U0duT0VTa1BHWnFnUjJ3bVp4T1BQNHBldllhZy1fNFZDdml2cHNXZjRPbERpZVQzZk9uQVlzZw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-2be2c0375b1c",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:26:53 GMT",
@@ -253,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ3lQdGdMU2xNSGVPRU44WUtsU19xYmlya1pOelBjZHBhYkNIRWdtZlRiaTc5M3RxSlgyd0tZZ01ZaTNRenRoWmt1M0taeC1SemJjeHl4aWt6dHI3YjZrTUh3cmRmUlJTSHYtTE1JYm8?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-424e42fc7deb",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 14:06:36 GMT",
-      "ts": 1790517996000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW9QelYxS1lVcTM0cFEzcVNCQTZodjRvR29Pbkh2cTc3X0UyNDRGYVJzc1hqbkZsZ1hhRXphRHJDcWFzY201dFpmeFNKOElZZTRHMV8xZjZ4MlVxYmVjZlRULVA3aE5LMGFUUDVySnhmUEdzMTVsVGYwTUhNWW5vUTJkbF9Wc2xR?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7b75c6905ae3",
@@ -385,7 +349,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56MkhkU0hxem9Hb2hsT2RqVk9vMkFsS2h2TXNuX0UzZmpqVktnOGtBajdkWHRrTC1xQVdNejZSdVBSZnNXbFh2ajJ0aXZka2lXTWVWSUhLbUEteC1NQXdHZWZjMlAwbHBTeWc?oc=5",
       "site": "tibet.cn",
       "siteUrl": "http://www.tibet.cn",
-      "related": 24
+      "related": 23
     },
     {
       "id": "FL-558ced244a4a",
@@ -412,6 +376,18 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
+      "id": "FL-b6332a013896",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 00:34:00 GMT",
+      "ts": 1790469240000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源发生一起滑坡泥石流致3人失联，搜救工作正加紧进行，事故原因正在调查中 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12UVk1Vm5LNGNxWXd0WHNTV2RIOC05LW9zTFk3eGV6Q1RMUy1IaFQ5QVdaY24zTlh1S1JaRWpZNEhXUFdyZ2tpR3dPeE9xdGI4UFU1WWJnOW11QQ?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
+    },
+    {
       "id": "FL-877d46e8bdb9",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 16:05:06 GMT",
@@ -424,6 +400,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-c3a728f02e04",
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 15:45:00 GMT",
+      "ts": 1790437500000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "福建罗源县碧里乡发生滑坡泥石流险情，3人失联 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41U0dreEs4V1dMRFltbE96VFg3UHJ5VjlSWUV5SENSa1p1LTVBSFozNFRJRE02RlVMekZlU3d0Y2RLdi1jdXFlbS1jOEl5NTR0dFFCaGYzWUtoT0NQcVE?oc=5",
+      "site": "thepaper.cn",
+      "siteUrl": "https://m.thepaper.cn"
+    },
+    {
       "id": "FL-b68004800400",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:46:54 GMT",
@@ -434,18 +422,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnaWRhTmc4NTVQU0hjV1VwVGExZ3dHLVJUZjczcDNHcWFMZWN3eDBfNHEzUTBjY3JKZ2ZUUWdGOFIzcFRTUXJIMGIycFo4amc1RkJ5bE5UYzR1Z2hKcHZrMGRQRU9QRHZfa1RqQ2hB?oc=5",
       "site": "央广网",
       "siteUrl": "https://sc.cnr.cn"
-    },
-    {
-      "id": "FL-8fbd52fb6902",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 04:43:52 GMT",
-      "ts": 1790397832000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川高县4.5级地震 中国地震局启动四级应急响应 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1obnJ5d3h3NjFtZk5sYXlBQkZTWS1Hc2x1UUdJYXAwbWtNMllkQWRmc2xLQjlrUG5sS09vSHhqNkI2ZmxjTFZValJrcG5zYTZzTng0elU5cXpuMFFSQ19rV1ZKd1F1UDFJ?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-a87c91d52036",
@@ -520,6 +496,18 @@
       "siteUrl": "https://www.suzhou.gov.cn"
     },
     {
+      "id": "FL-4063232d2c4f",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 03:54:00 GMT",
+      "ts": 1790567640000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风“杜鹃”致13人死亡2人失联 仍有逾4000户停电 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nc202dmJXTl9CbmdaUEJoeE1CMFdGMnRhdFVqcDZqeWRnTkxDZHpFbFhQTU41NzlndDdjU0U0UzlXZHh4U2hHWGgyYUtlUkZ3R2lOVTZ3bw?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
       "id": "FL-7bc75a34c21c",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 03:23:12 GMT",
@@ -566,6 +554,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QVNjTTBydE9jS0loZXZVaUU3MUxJV2E1cURRWWplTzVIWmhFNk45VU05d3pjRndBR210NFFvUk8wZnBQZVhlaERsVFl1SFV5aElCVXo1VUktaGVEUWhydDlZNlB4anNTc1JacmJqRTg?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-e3b808ab2665",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 02:33:00 GMT",
+      "ts": 1790562780000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：今天至明天， 湖北、陕西、安徽、江西、浙江、重庆、云南等地部分地区将有短时强降水天气 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeDU5TUpVOTJHXzZVM3EwdWUwYjlqWWF2Wnp4V2RWX2FXVW1lT0hGdS02RmZVUDJ2QjFxb3VmSkJXNUYzNmpCMHR6c2pKZEtQYXFLSDdlMHVpWUJxQ1JJM2tDcE56MkFJWnNoeEhLN3djdnk5OTh5a0FCTkRXTVVEbjI5bWVFSGkyMUNxcTR2aw?oc=5",
+      "site": "21财经",
+      "siteUrl": "https://www.21jingji.com"
     },
     {
       "id": "FL-a317c97d14c2",
@@ -616,15 +616,15 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-5d0568ad98c1",
+      "id": "FL-d4dca0919091",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 00:14:13 GMT",
       "ts": 1790554453000,
       "scope": "dom",
       "type": "geo",
-      "title": "数据异质性下可靠因子评估与滑坡滑程预测的选择性集成框架 - 生物通",
+      "title": "数据异质性下可靠因子评估与滑坡滑程预测的选择性集成框架 - ebiotrade.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tX3k2U3BuR193cVRsQ3ZkODctM1dhaUxnUDY5aVVyWUdic3B6aGstUjdvR2lnWWI2aWhPb2d5aVAxdmNpQ0plM0JUX2liRnZPRmNjMUhzU253amk5cVlMazZWVXVZOUVQU1RiOQ?oc=5",
-      "site": "生物通",
+      "site": "ebiotrade.com",
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-dd11f392f283",
+      "id": "FL-0d88b448435c",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
+      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "cztv.com",
+      "site": "新蓝网",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -710,7 +710,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 11
+      "related": 10
     },
     {
       "id": "FL-74bfe6e1915a",
