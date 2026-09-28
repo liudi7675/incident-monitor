@@ -1,7 +1,19 @@
 {
-  "updated": "2026-09-28T03:12:09.955Z",
+  "updated": "2026-09-28T03:44:17.263Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
+    {
+      "id": "FL-73b21980242c",
+      "date": "2026-08-12",
+      "dateISO": "Wed, 12 Aug 2026 07:00:00 GMT",
+      "ts": 1786518000000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "北京解除暴雨橙色预警、结束防汛二级应急响应 市防汛办感谢广大市民 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ydnVNSVdnVWVIeXNTN29qTVZqUVZCNkF3QlYwcDUyeW5KZnRHQ2xyLVVpcjNwRExpRzZJOWlyemRiWEZBTW5HRG9LRUlsZEFYNDNFY0RyWlk1RllEMVBnWFR3QktiZFhwVW1IV3VBR1UySFNrVEFv?oc=5",
+      "site": "北京市人民政府门户网站",
+      "siteUrl": "https://www.beijing.gov.cn"
+    },
     {
       "id": "FL-33c61a069546",
       "date": "2026-09-22",
@@ -15,27 +27,15 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-255cd68102c5",
-      "date": "2026-09-22",
-      "dateISO": "Tue, 22 Sep 2026 00:27:00 GMT",
-      "ts": 1790036820000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "五大国产主流手机全部接入中国地震预警网 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWWNVM2FBcWxTZE9Cd3U0TVJ2WWwtNHNqSWtScWxEUlgwdk9ZX2F4aWxYQU5tOUEwRllkRlRQNlZreG5lV3dlbE5iYjhMQVQ5a0FELThUOUZRLThyTlg0STQyQWhSdw?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-89d6589d1504",
+      "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
       "ts": 1788073200000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
+      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
+      "site": "bbc.com",
       "siteUrl": "https://www.bbc.com"
     },
     {
@@ -381,9 +381,9 @@
       "ts": 1790480010000,
       "scope": "dom",
       "type": "geo",
-      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（二）_独家采编 - 中国西藏网",
+      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众（二）_独家采编 - tibet.cn",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56MkhkU0hxem9Hb2hsT2RqVk9vMkFsS2h2TXNuX0UzZmpqVktnOGtBajdkWHRrTC1xQVdNejZSdVBSZnNXbFh2ajJ0aXZka2lXTWVWSUhLbUEteC1NQXdHZWZjMlAwbHBTeWc?oc=5",
-      "site": "中国西藏网",
+      "site": "tibet.cn",
       "siteUrl": "http://www.tibet.cn",
       "related": 24
     },
@@ -410,18 +410,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tbHR6a2Z1R2NDSzNvVnNZc2E5ejZPMVNYNDVoclhqbFF5S3hvcnJ6MUdrTnZwMngyWDdhbkp3WWxrem56M3d5TVByeGs1b2lVLTdfNHBhbGVpaFpKUTdzNko2LXFKaWVqV0lCdFNXeHdEZw?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-836b517667ee",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 18:31:00 GMT",
-      "ts": 1790447460000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNGNBanFjZUt6RXgyVlpPbWt3a29hNFd1SWZPLU1YUjMtMjRhZ1F3cTVNOS0zcHBOZWxqTFVnVXVHaThlemFCOWpDMVdtUEdxYldkX2FPVEd4ak1EYUdGS25GeU4zUllPaEJORWNST3dDZVVqSEg0RkFySkdERnFsRE5UTTNYcFhjODNBRERDV3JsM0FxMHZrc0ttUWxmQmhCUGlEUFNMRTMyVnEwVVZhNmYtenhScFFnUl80TDhGX1hsa29pZlNNNHhxekpldVgzSFNZM3dEYTZsZ0dhRUNNcXlkYkxWQlliUTNWWHJNbmcybnluUVdhOG5yc1NUaHdfNF8xTktUUTZELTdiYWRQZUlMd3FoMEwwVmpMTFhFcElCeXBCTFdrNWdSVmdMV2JleVQ4OVJJOWUzVFRaeW8tNkJJUk5KaDA4MEJMNEY4LXVXQkFWNTJWNGxuc3pPMFFHVk1razNWUjJ4Z3ViUXQ3RVdQbGxBY1E0dVdEaE02N3E3M0ZrOXBwaUY1LUg0N2NmaWNsUWxsejQ1aFQ3QjdTbGVqak9RR3JoaDFCNzZ6T3M2OTBTNnQtTmwwdm9YazhmNUVhNjV4dGRuOGsxaVFBMnYteUkyUHJkcjNJVDUtVHBtUQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-877d46e8bdb9",
@@ -460,15 +448,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-96d0c5cb8f5a",
+      "id": "FL-a87c91d52036",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:07:04 GMT",
       "ts": 1790395624000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生3.4级地震，震源深度5千米 - 央视网",
+      "title": "四川宜宾市高县发生3.4级地震，震源深度5千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRjZSZ0l3SWExOTF1S2VrWkpDVmNDU3lPSlQtQWZtYTNNcTl6NDludjlTS0NIZG10OEZFLWVMeW1zUEFxT0hOMzBOZ2VtRjBPc0ZyX0xrZTVBUkJTai1RNjI5MUdnWm45b1VqWlpYXzU5TGNoQUVGSA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -496,28 +484,16 @@
       "siteUrl": "https://m.bjnews.com.cn"
     },
     {
-      "id": "FL-b5297a5d627a",
+      "id": "FL-1a76fe42135e",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 01:13:17 GMT",
       "ts": 1790385197000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - 央视网",
+      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYbUJQSnh1bl9rd21oSjIxbDBkQUVUb3pReHZfaWx5MTN3MjAxaHZha2YzSjBpc0lkRXdMWnhuQUl6YzlvREhCcWJNeHhUSHRCNndzVnUxcWZsYnJ5Tmk4a3RQSVhlMFN0LXV3Ri1JNmhvazFXZC1yMA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-28902378f7f7",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 00:17:00 GMT",
-      "ts": 1790381820000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市今晨连发2次4级以上地震 - 新华报业网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oaTdIWlRCa3Q4YlUzOWp6VXZTMnAzbjMxSzlZTVR1b3JYVzJWYmZBeXFKMHZwM1d5dDRITTMyVHBqcEtyQ2w4MG9PbzVyaHZsc2dZY0dPUzY1SkY2ajg0RWZfZUtxTThQMkxF?oc=5",
-      "site": "新华报业网",
-      "siteUrl": "https://www.xhby.net"
     },
     {
       "id": "FL-fb448a3e9124",
@@ -532,16 +508,40 @@
       "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-4f7b94dacd62",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 03:04:35 GMT",
-      "ts": 1790564675000,
+      "id": "FL-55d6c57ae661",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
       "scope": "dom",
-      "type": "collapse",
-      "title": "拉夫罗夫联大甩出真相：欧洲安全崩塌，罪魁祸首竟是自己？ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNnFZV1g1eTBueEJLbzB5ZC1LSHZmSFJqNm5lXzV6dlJ2ZzRhcnJHRGppbF9CRUhSclM5NEt1N1hxVkJDUW9rWDgyWnNReF9adjRJTGFUNlRVbUpZaTNSNDc5bGh4OU9XbGtrNl93RWZ6TEQzVW0yU0E3R3FTRU1xSkNoSk1hWVlod3IzTA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "type": "weather",
+      "title": "苏州风力持续增大！国家防总已对江苏等地启动防汛防台风四级应急响应！ - suzhou.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnhZbF9ocExyRHNScVJIM2VORjVQVXJfZ29pVlRJT1lEZjJHeEVJRnlCNDlQcHZsY1RyaGJoNjMwUlZaS3VXQ1I1U0NpdUNUdlI0cXc4U1VNN1BaZGx5Rk9HNy01RUhYTnFDblVIamhTYWJod2lIZHp2bGZzMWNva2JPYThWYzRhQ0RvWA?oc=5",
+      "site": "suzhou.gov.cn",
+      "siteUrl": "https://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-7bc75a34c21c",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 03:23:12 GMT",
+      "ts": 1790565792000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "【视频】越野圈大地震！全球用户大会+三款车型齐发北京越野这波属实王炸 - chejiahao.autohome.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SYlRueWhvYUdfcHFMMUZ6Z1lWTDF6cG1NV3RBSkxjeDRFN1hPWFZnNnFDRFlYSzlmTUlZay12WTdEa29Yam44S25lR0VIREtSRTdxd2dob3FFVG83VVB3WFZSeEhXVzBoMnpZ?oc=5",
+      "site": "chejiahao.autohome.com.cn",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-4ee9b7f6df8b",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 03:09:15 GMT",
+      "ts": 1790564955000,
+      "scope": "intl",
+      "type": "fire",
+      "title": "日媒：台风“杜鹃”导致日本水坝决堤，被淹太阳能发电厂发生火灾 触电风险阻碍灭火 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMkxnQklOanVDOHpHRnVmbHJNWFZXZFlha3ZSZVRCTS1XTnItVDU3RDZmX2R5Y1BaS0M1MkRRX3pkM0pDOGhKU3p6UkdhZm0waTRBRHd2ZDZfdHp5TmVLZVlkay1UT2k1aEN6N1pJSFQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-97b3af45cf92",
@@ -616,18 +616,6 @@
       "siteUrl": "https://military.china.com"
     },
     {
-      "id": "FL-bb6405cecb5c",
-      "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 00:42:00 GMT",
-      "ts": 1790556120000,
-      "scope": "dom",
-      "type": "other",
-      "title": "東北風暴席捲美東 樹木倒塌致一人死亡 數萬用戶停電 - 大纪元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQcC00THVkRXFoWTFIUXZNdTd0MDk2aGp6azdiUUtxUW9OcFk2c0xCakpEdDJjYUFCY2luVVRCeUNkam5EaUtRaWlMZXJfTUpNQlp5SkJlY2tmdUxfbVZYatIBZkFVX3lxTE5OY3JrZkxoVGRkWUFSdm9kR0FpS01KZFc5bTk2aDBWWnpVdG03V0lLRWtqMm1zVFpEQ19UX2lreTBjMUluV3YyUW1rSkRkbUZLaXlhZG1Relc4ZG4tMW9PdEYyWHVDUQ?oc=5",
-      "site": "大纪元",
-      "siteUrl": "https://www.epochtimes.com"
-    },
-    {
       "id": "FL-5d0568ad98c1",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 00:14:13 GMT",
@@ -676,15 +664,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0d88b448435c",
+      "id": "FL-dd11f392f283",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
+      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
@@ -722,7 +710,19 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 10
+      "related": 11
+    },
+    {
+      "id": "FL-74bfe6e1915a",
+      "date": "2026-08-07",
+      "dateISO": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "ts": 1786086000000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "国家防总、应急管理部组织多部门联合会商调度部署台风“白海豚”防范应对工作国家防总提升防汛防台风应急响应至三级 - mem.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96S0Z6REh4NTJWMTI1dE9tMFRIYU5DdmdIbE9Sb3ZaZ3R6a3JMclp0Rl9YZ3A4NkVKUlZodHBNYmVYelVLbDdnZWYtZWdxbG1XUHZhTjdzUTMzLUNpVnVPTmIwdEkxTjU1ZFJnMQ?oc=5",
+      "site": "mem.gov.cn",
+      "siteUrl": "https://www.mem.gov.cn"
     }
   ]
 }
