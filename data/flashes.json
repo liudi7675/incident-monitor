@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:17:03.241Z",
+  "updated": "2026-09-28T00:46:56.788Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-d6feb3148f89",
+      "date": "2026-08-04",
+      "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "ts": 1785826800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-8ed23c09e627",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
@@ -51,15 +63,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-a56e47291af8",
+      "id": "FL-907371c5cbcf",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 23:51:27 GMT",
       "ts": 1790553087000,
       "scope": "dom",
       "type": "geo",
-      "title": "福州泥石流亲历者发声 村民紧急逃生经历 - 中华网",
+      "title": "福州泥石流亲历者发声 村民紧急逃生经历 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtOWRBVThKSDNsSlkzc2F1c1kxM2NlT1ZCWUFUOFFHOURWeVloMS1jYjU1UUJsTG03X1ZSVlhnR1VSOXhqeWZoelNGOHVHVzZCVVVwaGtrLUQ0bkpoNlcwSDZfbm5oa1BKRkVHd29pNGc?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -83,18 +95,6 @@
       "type": "geo",
       "title": "青海海南州兴海县发生4.8级地震，震源深度10千米 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SdHV3TTAxNXFrZzhnUlJSOUMzdGNnSXNZN3RGdlhuaE5ub2tTdHM0c0pXMkx1U09yRTlSSEFWUWRHZnVSbjF6RU9vcGJZV2RxZDMtNmg4ZUFhOUo4YVlTZDZwYlJUbVBwbndVcHVkWFp5ZmItOGE0cg?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
-    },
-    {
-      "id": "FL-f517332cca4c",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 23:00:00 GMT",
-      "ts": 1790550000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "克什米尔发生4.0级地震，震源深度10千米 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41M3ZCajNGWF9yWTkwM19RMURFblpYa0MySDFEVWQxbGJRc015WkNFNUFGZVY1cmxOMFlZR00tQ0c2aExSM01UdmxGQzZzV2sxZWRTNmpvUnk5SGlqS2JmSktTM0Vuc0s1OUFxdy1uTVFkMnNsZUhZRg?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
@@ -183,18 +183,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-51678e985862",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 16:57:55 GMT",
-      "ts": 1790528275000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZSkxQUnZBM2NxeVEzcGN2aGlWQ2dOTEt2S2xiREdwUlByUTc3cjJHVW8tU1JQN3pHYXRRX2szenBWR2wwYnhVV2I2VQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-eb0459a8e26e",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 16:49:49 GMT",
@@ -231,18 +219,6 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
-      "id": "FL-bde5ad51e9d7",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 15:18:58 GMT",
-      "ts": 1790522338000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "克什米尔发生4.0级地震 震源深度10千米 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91Unk2aURZU0tORXhlSnpRbGlRSzk2eXZuaGRydTZocmhrRjdoU0JQVlR3V3JXLXd5WUNJU1dPMWtNRzBNamV5NmFYdw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-86c48d8ae370",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 15:13:00 GMT",
@@ -267,6 +243,18 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
+      "id": "FL-b757beb5d537",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 15:00:00 GMT",
+      "ts": 1790521200000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "克什米尔发生4.0级地震，震源深度10千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SbWgxcEdiOHFnVEpDR3VEdjFHMXN5bXEwY1M4UkV5cGwyTEJ0U2FnZFlITTVKRjJKbGs3OTJsZ3kwTUR4VUJoRmlkMm9hLVpYb2RZT1RqVzQ?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
       "id": "FL-287db429fa96",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:42:25 GMT",
@@ -279,27 +267,27 @@
       "siteUrl": "https://www.ctdsb.net"
     },
     {
-      "id": "FL-70b1677aeaa8",
+      "id": "FL-9aaefdfcf586",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:18:40 GMT",
       "ts": 1790518720000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽肥东县发生3.1级地震 震源深度10公里 - 中华网",
+      "title": "安徽肥东县发生3.1级地震 震源深度10公里 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVWDdoN3JSLXh0M2FzWUNqc0psS2doQVBWeHdQRDRIQnJzb2x2eW8xa3JnWHhoQ2g1RHNUcXA5bTFCcFFENXRwUUxXdjJadlhqQmY3dUsyMEpSTkJ5bWVQZWJMN3hVclJGRXNjMm5sTXE?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-2f30f5b08dbf",
+      "id": "FL-a86ddf96f97f",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 14:14:34 GMT",
       "ts": 1790518474000,
       "scope": "dom",
       "type": "geo",
-      "title": "安徽合肥地震 3.1级地震震源深度10公里 - 中华网",
+      "title": "安徽合肥地震 3.1级地震震源深度10公里 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ3lQdGdMU2xNSGVPRU44WUtsU19xYmlya1pOelBjZHBhYkNIRWdtZlRiaTc5M3RxSlgyd0tZZ01ZaTNRenRoWmt1M0taeC1SemJjeHl4aWt6dHI3YjZrTUh3cmRmUlJTSHYtTE1JYm8?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -640,16 +628,28 @@
       "siteUrl": "https://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-05fa9b8ae3c5",
+      "id": "FL-28a7c73d19ce",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 00:11:59 GMT",
       "ts": 1790554319000,
       "scope": "intl",
       "type": "weather",
-      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - 中华网",
+      "title": "尼泊尔强降雨引发灾情 已致21人死亡 - news.china.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1icHZDRHhFdzhPN1B5QXJJWmpGaHYyLXRpM1lMOXIzT3czNUxac3RzLWdrNC14WWpiOXJXSlFNNWFQMnpyYTlOU0hFTWN3a3J4RWFLRUVQZlQ5TU1UZTF5SzVIVFdaOU00SlFna1UxN0l0dw?oc=5",
-      "site": "中华网",
+      "site": "news.china.com",
       "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-b42638400433",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 00:08:00 GMT",
+      "ts": 1790554080000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "云南发生3.4级地震 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa2dQRFRyZTQtbVEtV1VVRWxEZGlDcmNHanh5Y1NJcEJjSURlaWctMHh4U0dXYjNrY0JTN190Tk9SQzQ1WkZQM2djR1JuUVBoSUI3RUdBdE5EWEc5V3Z5a1RPTWtwWk1YNHBHM3lEb25YTmlJRTRiaGJMOUpzbXUwLS03SHdVNVV3VEFkeA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-98905528a23e",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 8
+      "related": 9
     }
   ]
 }
