@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T10:13:07.470Z",
+  "updated": "2026-09-28T10:42:37.463Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://www.guancha.cn"
     },
     {
+      "id": "FL-8ed23c09e627",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
+      "ts": 1789644780000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
+      "site": "中国驻澳大利亚大使馆",
+      "siteUrl": "https://au.china-embassy.gov.cn"
+    },
+    {
       "id": "FL-f7df76261340",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -27,15 +39,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-907371c5cbcf",
+      "id": "FL-a56e47291af8",
       "date": "2026-09-27",
       "dateISO": "Sun, 27 Sep 2026 23:51:27 GMT",
       "ts": 1790553087000,
       "scope": "dom",
       "type": "geo",
-      "title": "福州泥石流亲历者发声 村民紧急逃生经历 - news.china.com",
+      "title": "福州泥石流亲历者发声 村民紧急逃生经历 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtOWRBVThKSDNsSlkzc2F1c1kxM2NlT1ZCWUFUOFFHOURWeVloMS1jYjU1UUJsTG03X1ZSVlhnR1VSOXhqeWZoelNGOHVHVzZCVVVwaGtrLUQ0bkpoNlcwSDZfbm5oa1BKRkVHd29pNGc?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -49,18 +61,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YUkNVVW8xc0tsRTlvdldPUmtkSk9Wb2RURm8xT2RIN0xXN3p3TzlVaUdkRDNCODRUZmN1WXNDcTAzQ3RFTFNpTEpYNy16a0RWenRWeW4wWGU?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-aa61ffcce9a0",
-      "date": "2026-09-27",
-      "dateISO": "Sun, 27 Sep 2026 22:08:00 GMT",
-      "ts": 1790546880000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南丽江市宁蒗县发生3.4级地震，震源深度8公里 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Umw4QzhQbWt0MXdOUnJ1YmpfZGJuQjdjWXFtcTFTSlV5MmxWVnJIZlo5c0NHc0hvRGh1cEtjaVdfU0EzT29BWGU4aWF3TUJkXzlTTmF6RXN5WVBPVW5NRkdPNHdTSWNSQThpeEJVNUZjV0dRaTJWdw?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-9622ceaa6b6b",
@@ -375,15 +375,15 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-b68004800400",
+      "id": "FL-4d1da4f696d3",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 04:46:54 GMT",
       "ts": 1790398014000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾高县9月26日连发多次地震 - 央广网",
+      "title": "四川宜宾高县9月26日连发多次地震 - sc.cnr.cn",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnaWRhTmc4NTVQU0hjV1VwVGExZ3dHLVJUZjczcDNHcWFMZWN3eDBfNHEzUTBjY3JKZ2ZUUWdGOFIzcFRTUXJIMGIycFo4amc1RkJ5bE5UYzR1Z2hKcHZrMGRQRU9QRHZfa1RqQ2hB?oc=5",
-      "site": "央广网",
+      "site": "sc.cnr.cn",
       "siteUrl": "https://sc.cnr.cn"
     },
     {
@@ -435,26 +435,26 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-fb448a3e9124",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
+      "id": "FL-485e56116270",
+      "date": "2026-09-28",
+      "dateISO": "Mon, 28 Sep 2026 10:38:59 GMT",
+      "ts": 1790591939000,
       "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - suzhou.gov.cn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "suzhou.gov.cn",
-      "siteUrl": "http://www.suzhou.gov.cn"
+      "type": "collapse",
+      "title": "俄布良斯克州一处桥梁遭袭后坍塌，10节普通车厢与18节敞车脱轨 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS3Y3Q2s0MjlTVDQ3YW9WRlFKcm90YjNteVpxN2l1THdYVGRWZ2FxMXpYVzNyb2JxR0xKWHJCOVQ5UXJTTGpEd0Y5Z1FacUZBR2VLRlVsWDA2MVZUSDVQVGRzMUxPRlIteHJoNFQzaW1YRUZISzRkMDZZUVJOY280N3R6ZV9iZDNTQUN0UA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-1082d2a4d7a8",
+      "id": "FL-259c77f6c1f5",
       "date": "2026-09-28",
-      "dateISO": "Mon, 28 Sep 2026 09:57:00 GMT",
-      "ts": 1790589420000,
+      "dateISO": "Mon, 28 Sep 2026 10:08:33 GMT",
+      "ts": 1790590113000,
       "scope": "dom",
       "type": "weather",
-      "title": "受强降雨影响，重庆针对3区县启动水旱灾害防御Ⅳ级应急响应 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE5QYkpFU18ydnRsUjZqTVlwek5mNnRRRXptQTk3SEI1Q3lhQVlPbzJObHN2V3Vod2dCcEVzV3kxSk9hcDNBRkNMOF9WMm9LZ2dtM3dQeFRjeWhQQnV4enZob3NySHhpcTNwNTBncG5TTDBCejNpNVdPNDZ3YjRRVEJEcWh3LXRB?oc=5",
+      "title": "受强降雨影响 重庆针对3区县启动水旱灾害防御Ⅳ级应急响应 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXlFNWJOOGMtaVZteUJVbGhLUlZmT3Bsb0xRbWNpSzRpaUs5eWpmNUVjN2V4Qldtemc4SkozcVdjbXdjR2cxVkE5VF81Q0FrcGxsSTNtejZUTWpxcld3a2VaLVFjeG11RlYxQ093czhqREpXSXlfMUhHWXY1QjJZTjAtRnBYelJl?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -495,15 +495,15 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-c7d96b1186a2",
+      "id": "FL-1d5fd6fe20fe",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 07:55:00 GMT",
       "ts": 1790582100000,
       "scope": "intl",
       "type": "weather",
-      "title": "曼谷多地洪涝持续 学校停课政府居家办公 - news.china.com",
+      "title": "曼谷多地洪涝持续 学校停课政府居家办公 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aOTZDa082Zy0yMUFlandJbTRTUEQzZW5qYm1Kek5SenVfWjREVjBJVnhnWXItWkcxQ2dJTDdmVFRobVBUSXhCek5CNWRQdXRGZ3ZRX1FiRGRsS3BoTV9qRzRzb2ViX2ZnbXhZSmVTOVM?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -565,7 +565,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nNm1nVU5sTGxtb2lKX1hiMU5RckdHaUZ4M3RCcHZFdDBNTENqYWNXdmg1NXUyeEx6WUs3TlRMM3NnX180NXdrOF8xT3JJdlJLaVlRYUZUTWtzVEIxdXNoU3NvTGpNN1BkUUE?oc=5",
       "site": "中国西藏网",
       "siteUrl": "http://www.tibet.cn",
-      "related": 25
+      "related": 24
     },
     {
       "id": "FL-2316a8e7868b",
@@ -580,15 +580,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b283e7096fb5",
+      "id": "FL-4063232d2c4f",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 03:54:00 GMT",
       "ts": 1790567640000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风“杜鹃”致13人死亡2人失联 仍有逾4000户停电 - china.kyodonews.net",
+      "title": "台风“杜鹃”致13人死亡2人失联 仍有逾4000户停电 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nc202dmJXTl9CbmdaUEJoeE1CMFdGMnRhdFVqcDZqeWRnTkxDZHpFbFhQTU41NzlndDdjU0U0UzlXZHh4U2hHWGgyYUtlUkZ3R2lOVTZ3bw?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
     },
     {
@@ -604,15 +604,15 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-633d4ba4054e",
+      "id": "FL-4ee9b7f6df8b",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 03:09:15 GMT",
       "ts": 1790564955000,
       "scope": "intl",
       "type": "fire",
-      "title": "日媒：台风“杜鹃”导致日本水坝决堤，被淹太阳能发电厂发生火灾 触电风险阻碍灭火 - news.china.com",
+      "title": "日媒：台风“杜鹃”导致日本水坝决堤，被淹太阳能发电厂发生火灾 触电风险阻碍灭火 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XMkxnQklOanVDOHpHRnVmbHJNWFZXZFlha3ZSZVRCTS1XTnItVDU3RDZmX2R5Y1BaS0M1MkRRX3pkM0pDOGhKU3p6UkdhZm0waTRBRHd2ZDZfdHp5TmVLZVlkay1UT2k1aEN6N1pJSFQ?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -628,15 +628,15 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-cc6bee438d64",
+      "id": "FL-6276bfda71b4",
       "date": "2026-09-28",
       "dateISO": "Mon, 28 Sep 2026 02:34:43 GMT",
       "ts": 1790562883000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里 震中海拔约3749米 - news.china.com",
+      "title": "云南丽江市宁蒗县发生3.4级地震 震源深度8公里 震中海拔约3749米 - 中华网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QVNjTTBydE9jS0loZXZVaUU3MUxJV2E1cURRWWplTzVIWmhFNk45VU05d3pjRndBR210NFFvUk8wZnBQZVhlaERsVFl1SFV5aElCVXo1VUktaGVEUWhydDlZNlB4anNTc1JacmJqRTg?oc=5",
-      "site": "news.china.com",
+      "site": "中华网",
       "siteUrl": "https://news.china.com"
     },
     {
@@ -688,15 +688,15 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-0d88b448435c",
+      "id": "FL-dd11f392f283",
       "date": "2026-09-25",
       "dateISO": "Fri, 25 Sep 2026 23:51:00 GMT",
       "ts": 1790380260000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生4.5级地震 - 新蓝网",
+      "title": "四川宜宾市高县发生4.5级地震 - cztv.com",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96RzBPanhJOTMwWDhnTWNCejN4eGFhcGl3OTIwemdwbTNjaVRXR09LaDVUcENuRVdjdG43c0ZYY1RVbG1qdTBvLTB2cUlNeGc?oc=5",
-      "site": "新蓝网",
+      "site": "cztv.com",
       "siteUrl": "https://www.cztv.com"
     },
     {
