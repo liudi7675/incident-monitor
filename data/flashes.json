@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:40:40.142Z",
+  "updated": "2026-09-30T00:05:05.595Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,6 +27,54 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-fddedbc226ec",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 23:11:00 GMT",
+      "ts": 1790723460000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "复活节岛东南部海域发生5.0级地震 - 中安在线",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRlBERW9Wd2Z2WWR0OHJBeUNlZWowem1maEx2anhZSi1Kd2ctMVFMUWdCZ0FtaUZKQ1JHaTdoSVFlaWd1TUxlcGFzdUp2S1lDbVdvODBzWGp2T2d5bURBQnpSdm9sWUs2RVU0VjVR?oc=5",
+      "site": "中安在线",
+      "siteUrl": "http://news.anhuinews.com"
+    },
+    {
+      "id": "FL-2e23990d712c",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 22:56:16 GMT",
+      "ts": 1790722576000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本突发地震，东京震感明显 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDZHUnJUekczVUMxVlRWYVV2aDdrMHZqSFVfVmkyMmhQVlJ1bkNrQ0lrRmw2cVpMQUhzNVJELXlGNm1VMDBrTUJmNTdxMi1VQjBpT2VTNVdGaFRuM0xzWnIyajlnUFdldjNzd0lhbVY5SWJ1NFVLLWlDNFM0bXBmZHdDMG5Pdw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-36db297d1342",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 22:46:29 GMT",
+      "ts": 1790721989000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "泰国暴雨水灾增至23死 政府拨数十亿泰铢救灾 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX2V3VHFTdU1BUGw0d2Jub2dJWll2NVdkMEQ4VTg1aTJkSU1QQ3ZocFA5OExMVE1ZTHQyeGV0elV2MnNTNllhUTBXc2doRlRwVngyM3U5dDRVdWJuZU45V01NZFlYaDVWMXJYREVya0ZyUm1ON3NlMWJkUS1KLWNDM0dSbEtWVDRaOERTZW44TDVyMEhrLS1rdnZ2WjM4WXZBVkhpb1pZSnplUQ?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-6d194ec9ee2c",
+      "date": "2026-09-29",
+      "dateISO": "Tue, 29 Sep 2026 21:25:07 GMT",
+      "ts": 1790717107000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生3.1级地震 震源深度7千米 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmFKWFhDcElFRHNpQTJ6ZXVlQVlMX2xrLWJtXy1oejdtejhLTVZmTzF0bUJhd0FENU9LdmQ4ODFxQmc5YW8yQ0xNdU84UTVKTkE5a2ZRZmZHY1hsdGNXY1BqRGM1Ty1Vclp5YXdsWHY5eUxmaGVyemFVYWVYWTRzajFqT1lzU2x3UXl5VXBxM0FHdTZiOXF4OQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-d352b46fcb5d",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 18:27:44 GMT",
@@ -39,16 +87,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-7ef640adf242",
+      "id": "FL-218427895019",
       "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 17:53:39 GMT",
-      "ts": 1790704419000,
+      "dateISO": "Tue, 29 Sep 2026 17:57:05 GMT",
+      "ts": 1790704625000,
       "scope": "dom",
       "type": "geo",
-      "title": "复活节岛东南部海域发生5.0级地震 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qa09ycUw2UVU1MDlMYmNFY0tkYjkxTkJEa0VqUW5sZFBFaVNWdlRaZU81bm9KaElMUzRIczlQc1ZHZVBpMTZzUEZ5YTBod1U0OF9CUHAxQkZPVEhjd3RwV3ZBaw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://emwap.eastmoney.com"
+      "title": "复活节岛东南部海域发生5.0级地震 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aNVF0RHpvZDBLX2hYTnNZLW1HMmVQX09mSEItd2E3Um81aDEtckhnYlBvOHg4OUJ4dEJFckhGU1NzY3lWWjdfNHIzRkZWcGhJUVJubGxLNzlZYWt4dnpRejVvd2JQc2FsdDBJcnNFUQ?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-360a14306c95",
@@ -87,15 +135,15 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-bd25ccba6e63",
+      "id": "FL-102e5f8de2eb",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 15:40:00 GMT",
       "ts": 1790696400000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔再遇泥石流 房子瞬间“消失” - 联合早报",
+      "title": "尼泊尔再遇泥石流 房子瞬间“消失” - zaobao.com.sg",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OLVE3b2lyaUdZbkk5cDJ5enkyMzFKcXhKY1M4Zl83TkZ0cTZ3ZV9WaTlXVjlRbE54eFdVVWdNR0phVkx3anNiZXQxeEtXaDFfYWZlaXZuZFlQTjZsclQ4a3FuYXk?oc=5",
-      "site": "联合早报",
+      "site": "zaobao.com.sg",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -135,15 +183,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-e27bc18caa0a",
+      "id": "FL-04e0cecdac10",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 13:03:00 GMT",
       "ts": 1790686980000,
       "scope": "dom",
       "type": "geo",
-      "title": "国羽成绩滑坡，给队伍上了宝贵一课 - finance.sina.com.cn",
+      "title": "国羽成绩滑坡，给队伍上了宝贵一课 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRmNaVi02ay1TNXFJemMtd3Y2dE40bWZVcjQxWFRIY3lHMko1ZWhmaTNDY1Nld19YcE5FYmduSDBUMmgzOFRnSXg2bFFTTzhRUXlYcEJPUE1yMGozS2tLM0drR3N1UTUxY2EwSkQtMzczSWpBRlE?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
@@ -339,18 +387,6 @@
       "siteUrl": "https://www.qzwb.com"
     },
     {
-      "id": "FL-5ed09c65df13",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 02:11:00 GMT",
-      "ts": 1790647860000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本突发地震 - 新浪军事",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fc0pCNlgxMjBtcEdoMV8zVGtJT045eEI5eFdFd1lwaVk2NDdHTG56cmdUN0dWOE9JUnFBSnE0dE9jOGFabFZ6RFNXck5fZlkyaWIxMWxCX2c4ZWJlWF8wRmVBRUV3RjB4djZ2OXVhV1UxYjQ?oc=5",
-      "site": "新浪军事",
-      "siteUrl": "https://mil.news.sina.com.cn"
-    },
-    {
       "id": "FL-1c1de02e044e",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 01:10:37 GMT",
@@ -361,30 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CemVBaW1BVmk3eEFQbWtwcU5VLVFGTjFoWkc1MFRJYlBpYXNvMnpMSHhlTWZNYjFMTHhVZEJoSzdZQk9RY3dtdzhoV2RHUV9LZ1dvb2JZemNMaTZnaWFDY0I5Wl9hNE16ZjZaX3IySDV3Skp2V1VKUnNGU0I?oc=5",
       "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
-      "id": "FL-582a01f09faa",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 01:08:00 GMT",
-      "ts": 1790644080000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县南部发生4.9级地震 东京震感明显 - 川观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CdE44djJKN2dvVTFiVXlVYk1uajc4U0YtUmFSWG12Nmw2Rk5UR29RR2cxTXRHX0xEZjFoSnpEUHQ3T3Y1bmVmT3Vnamc1UQ?oc=5",
-      "site": "川观新闻",
-      "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-53ed1bed31a9",
-      "date": "2026-09-29",
-      "dateISO": "Tue, 29 Sep 2026 01:02:24 GMT",
-      "ts": 1790643744000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "台湾花莲县海域发生4.7级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUjJlNTRJRTNLZ1NWZHYyTk1PM1Z3S1R0djNfSlFaSHc3YTNFTTRULXpMUEY2TmZFd0JFTUh4WXBRQzRaZDYyYXhuNDRtYTk1UlhDdjhyb01SdEdvdVkySmhLanNQcDJOUmFMZGNNMURSY3diejJQemhJbDNKWnNPX3FDTThNcjN3?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-a8a9d7b92ff1",
@@ -495,6 +507,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-8b004576e6e6",
+      "date": "2026-09-27",
+      "dateISO": "Sun, 27 Sep 2026 12:02:00 GMT",
+      "ts": 1790510520000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "合肥市肥东县发生3.1级地震 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWQwUXJHSGhaUUhDRWxKVHJBQUZPT29ObTRJdkpjWW9teVljTmVRc3Jrczl6UzFtNmdCS0hJSjdVMUM5UFJzMklaQ2FDLTBoWmVEMTl3NnpsOVB3T1BFVWxUamstd19ianlkUUZUb1RJZ3R6NGY3TnlQRlVBUGRxTERZLURNQmt3ZGVfTG1LZFFya2J2aWZaOQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
       "id": "FL-91bdb2ea9dee",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
@@ -519,27 +543,27 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-8ee9e0f72d32",
+      "id": "FL-836b517667ee",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 18:31:00 GMT",
       "ts": 1790447460000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - finance.sina.com.cn",
+      "title": "四川宜宾市长宁县发生3.9级地震 震源深度5公里 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPNGNBanFjZUt6RXgyVlpPbWt3a29hNFd1SWZPLU1YUjMtMjRhZ1F3cTVNOS0zcHBOZWxqTFVnVXVHaThlemFCOWpDMVdtUEdxYldkX2FPVEd4ak1EYUdGS25GeU4zUllPaEJORWNST3dDZVVqSEg0RkFySkdERnFsRE5UTTNYcFhjODNBRERDV3JsM0FxMHZrc0ttUWxmQmhCUGlEUFNMRTMyVnEwVVZhNmYtenhScFFnUl80TDhGX1hsa29pZlNNNHhxekpldVgzSFNZM3dEYTZsZ0dhRUNNcXlkYkxWQlliUTNWWHJNbmcybnluUVdhOG5yc1NUaHdfNF8xTktUUTZELTdiYWRQZUlMd3FoMEwwVmpMTFhFcElCeXBCTFdrNWdSVmdMV2JleVQ4OVJJOWUzVFRaeW8tNkJJUk5KaDA4MEJMNEY4LXVXQkFWNTJWNGxuc3pPMFFHVk1razNWUjJ4Z3ViUXQ3RVdQbGxBY1E0dVdEaE02N3E3M0ZrOXBwaUY1LUg0N2NmaWNsUWxsejQ1aFQ3QjdTbGVqak9RR3JoaDFCNzZ6T3M2OTBTNnQtTmwwdm9YazhmNUVhNjV4dGRuOGsxaVFBMnYteUkyUHJkcjNJVDUtVHBtUQ?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-c41d1c719860",
+      "id": "FL-418eed2ca087",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
       "ts": 1790406000000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川发生地震 - finance.sina.com.cn",
+      "title": "四川发生地震 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNlpYWWtCLU9yZTNCYnVoOExkX0h4NUF2ZmNnTm9fVFdxNVpLM2VKQjdqdTltVkRhZVBIeS04QWIwRmY1VmVrcFFBYnItcWVPUC1pbm02NTVrTzhTc0tUZWJyT2tmTFBQS2UyZVVabHhDdkdQYloyd3cyMk5vN3RCbWtHQXBnZDlIMWNRY3lJVmlzeW5JT20tUk01YnJEZTdocFRuN1lhXzBpU0tNYk9PaHBLS0tTOGRaMW00YkNQU1RHMzQ3RGpZRzhTdXdJX3dpWWFyYUJHZw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -553,30 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRjZSZ0l3SWExOTF1S2VrWkpDVmNDU3lPSlQtQWZtYTNNcTl6NDludjlTS0NIZG10OEZFLWVMeW1zUEFxT0hOMzBOZ2VtRjBPc0ZyX0xrZTVBUkJTai1RNjI5MUdnWm45b1VqWlpYXzU5TGNoQUVGSA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-b5297a5d627a",
-      "date": "2026-09-26",
-      "dateISO": "Sat, 26 Sep 2026 01:13:17 GMT",
-      "ts": 1790385197000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生4.4级地震，震源深度5千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYbUJQSnh1bl9rd21oSjIxbDBkQUVUb3pReHZfaWx5MTN3MjAxaHZha2YzSjBpc0lkRXdMWnhuQUl6YzlvREhCcWJNeHhUSHRCNndzVnUxcWZsYnJ5Tmk4a3RQSVhlMFN0LXV3Ri1JNmhvazFXZC1yMA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-d6d4953b7e2e",
-      "date": "2026-06-29",
-      "dateISO": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "ts": 1782716400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾高县5.5级地震致13人受轻微伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FU1liUWhIa0wzb0pVaEdjSWxEVjFxdDJnLUw2aENqNUt1a3hFSmdsQWVic19DMDdfTGZIVmo4VG1PcWxaX09hTHlWUzVsVGxJTGJSM1p4OE5sZHV1dG9RN2EwSHY5Q3JVVWtnT0xmUGtodTg0LWUtczJQQ0NMTUU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-96d59ed896b3",
@@ -621,9 +621,9 @@
       "ts": 1790588046000,
       "scope": "dom",
       "type": "geo",
-      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众 - finance.sina.com.cn",
+      "title": "多家海外侨团致信慰问吉隆泥石流受灾群众 - 新浪财经",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTN0Qm5SN0d1MTJFTjctNTBKektiZEVUU0hrMEc5SFAzLUxkVzdkeFB0TFZhZmpIanBYWVUzRkIxNmlpcDROWkQ2ZUtjYThmanFLWk9zRkMxN2ZtekpjYzFKS0hfT1MtV3l6ZENZSGc3cFJtbEVLNUVhZG81UjB0WHJ0cHJNZw?oc=5",
-      "site": "finance.sina.com.cn",
+      "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn",
       "related": 29
     },
