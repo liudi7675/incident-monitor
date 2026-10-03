@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T18:47:02.389Z",
+  "updated": "2026-10-03T22:00:11.675Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zN1l2ZC0zc2Rib3E1dmNiRWtyTWE5bHNsNUFNM2lDTzhQVlRjSG1vbklpQkJfZ3kzZVg0YWFlSE5pNjVKcEZDNTlsN1pEdmVSejlrcmg4VTE?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-1191b8cf166f",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 15:37:28 GMT",
-      "ts": 1790782648000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "昆明4.3级地震为正常地震活动 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85VDI1MkNTTU42NzJjcnhsMW9ZTEZ2MVBwUkNOa0ExUHRoaXAya3lfTUhjYTctZ1Y1UzFfeXVWaVRudXJLcFpPVm5idkQ5UGVqZzM1eEZrZmxXQTdCcFgwSVJHTWw3UFVo?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-34225c2d66f1",
@@ -51,6 +39,18 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
+      "id": "FL-351a300b324b",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 12:19:00 GMT",
+      "ts": 1790770740000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "受地震影响 到发昆明列车扣停 - bjnews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuT1FSbHdvVGhEZ2J0cWVMVVUtY1JCbTFIcE1TUDgxZzhPSmZmZm9EdjV3WUN5MGluV2wwbWdMYmtTTVVZd2cxQlVLU0ozQ0NKaEZwTEllenlpUjVldS12TnZB?oc=5",
+      "site": "bjnews.com.cn",
+      "siteUrl": "https://m.bjnews.com.cn"
+    },
+    {
       "id": "FL-a055f3b02493",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:46:25 GMT",
@@ -63,28 +63,16 @@
       "siteUrl": "https://stock.stockstar.com"
     },
     {
-      "id": "FL-df56ef645bc5",
+      "id": "FL-a6fcbcf86c3f",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:34:00 GMT",
       "ts": 1790768040000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本天皇夫妇赴熊本地震灾区慰问灾民 - china.kyodonews.net",
+      "title": "日本天皇夫妇赴熊本地震灾区慰问灾民 - 共同网",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oUy1STkk0dmFWNGlybk5kOU8tMEpCb2gxcmJNVlpVRU5KdjRDb2pRMk9LWnozYUNrajV3UFoxYlV1RV9KQWwxV0hhQ0Zhd0JiUWFxa3NaRQ?oc=5",
-      "site": "china.kyodonews.net",
+      "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-ce4cd101a51d",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 11:14:00 GMT",
-      "ts": 1790766840000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南昆明发生4.3级地震 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVUJxRWU4cjhxLXRGaTNPNkVmbnJtdGRHWmpwWUxieDVZWXAtZWNLcVhQZEtOWVI4NE54RzlyUkxYbktpMkRSWlc3ckFjQ1BXNUNmZk14cld1cW5hNURCdGtTVi1pdw?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
     },
     {
       "id": "FL-bd31285109e2",
@@ -99,15 +87,15 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-444274803348",
+      "id": "FL-500bea8de1ad",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 10:43:00 GMT",
       "ts": 1790764980000,
       "scope": "dom",
       "type": "geo",
-      "title": "昆明市盘龙区发生4.3级地震，震源深度10千米 - 新京报",
+      "title": "昆明市盘龙区发生4.3级地震，震源深度10千米 - bjnews.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hRXJ5MEhhamkwOXRUbzJEYXFfeWVmX1E1R295SXlUajNEQ3g0UmRMd2syb1VaN0dkOEI2Uzk2Qy1uYTZRWXhVNVY5ZkN2elBRM3NDaXc0Tlg3UHUwMm5PN0FwT18?oc=5",
-      "site": "新京报",
+      "site": "bjnews.com.cn",
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
@@ -135,29 +123,29 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-bb8a24ef4505",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 02:18:36 GMT",
-      "ts": 1790734716000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国台湾省周边海域发生5.7级地震 预计不会引发海啸 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SVDFMLWgzZEktZk1NM0ZRSWk4dG4xYTFJaXVSZmhvemkzb01xVXZtZmh1ZW9VU3lRSm03eHA5aXZGNS1CbzVBRUhYZmVUTFFvU0hyUUMyNUlTbFA4VDM3dUZfOWkydw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://finance.eastmoney.com"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-15",
       "dateISO": "Tue, 15 Sep 2026 07:00:00 GMT",
       "ts": 1789455600000,
       "scope": "dom",
       "type": "geo",
-      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - rfi.fr",
+      "title": "尼泊尔泥石流： 灾害到底发生在什么时间？谁上传了吉隆口岸的视频？ - RFI",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
-      "site": "rfi.fr",
+      "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
       "related": 21
+    },
+    {
+      "id": "FL-8ed23c09e627",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
+      "ts": 1789644780000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
+      "site": "中国驻澳大利亚大使馆",
+      "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
       "id": "FL-ca47c5e94270",
@@ -208,15 +196,15 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-67bca08643aa",
+      "id": "FL-09d9e7f5153d",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 12:40:00 GMT",
       "ts": 1790858400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本千叶县发生5.1级地震，首都东京有震感 - cbgc.scol.com.cn",
+      "title": "日本千叶县发生5.1级地震，首都东京有震感 - 川观新闻",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45ejJzSnJOTEJqMEZrdE94bGp0Z2lWb3pRR1JONHoyRkpiSHNBS2VScDZJMWtXNU9uQ1ptQXFXeDNZcUlIX1BTTlhDbzMzUQ?oc=5",
-      "site": "cbgc.scol.com.cn",
+      "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
@@ -266,6 +254,30 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNWl1WDlzMXoyX0d4RFRuRk83dEhLZmxtUjE3QXVZa3pvMk5BaVZ6Y3p2NUhIOExBQjBELW5wdkhGS0tUTlFxZHNxY1BJLXFla09DODJaQ0lubXE2ZURmcExNMlJvT3NXeHI0dnJsQU1iQjV2dlJfbw?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-03e1c60639f5",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-b5b47dde0925",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 21:36:29 GMT",
+      "ts": 1791063389000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "2026年甘南迭部Ms5.5地震地形放大效应与地震灾害空间分布机制研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1V0tESUR3YlpkWTltWmtBUHBlbkY2MkFkLUplYU1rbTNkNTd1dWhsZnVUYjJ2eGRka3l0N0plVjktcmNadVZ3NUhkT1ZiT3J0RWdEcnZ2cm1TOUF4ZjMwRnJYeHF2VWFoX1prd3p3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-f077a41b5724",
@@ -436,27 +448,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-75e5203ca876",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 08:01:17 GMT",
-      "ts": 1791014477000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海海南州兴海县发生3.1级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeE1wdEFEWTk3eE5YTEtxV3RHTnF2ZldyWkVMN1YxbDB1T0IxUXRzb1U5UXhobXNvNkVhSXB5NFkzZ21Rc085M3ZPV0gwQ2tCVkRGYXJOQnlNZ2Q4OHBpVE8ybkxSNkhKSzQzN0Z2ZHhDWGUzYm1RU1J0V25lZlBxUW9XNnRXYU1S?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-1ca827815743",
+      "id": "FL-9d49e90cff24",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 07:36:40 GMT",
       "ts": 1791013000000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.1级地震 震源深度10公里 - cn.chinadaily.com.cn",
+      "title": "青海海南州兴海县发生3.1级地震 震源深度10公里 - 中国日报网",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NcXRJcC1xX0hrbFRNTEY4eHNnb0EyX05wM1RCZXlJMmI5dFN5TjFjMHhNbzlQQllqaFJQZDlnYWEzZEFqTmxEZy0yeDBld2lqYl95eWJrZGwwbkR1M3hlNnEwbmRfUnEtMEhTZjhoV05zRkl3WDFSQWFXTTM?oc=5",
-      "site": "cn.chinadaily.com.cn",
+      "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
     },
     {
@@ -650,7 +650,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 8
+      "related": 10
     },
     {
       "id": "FL-3d33d560372d",
