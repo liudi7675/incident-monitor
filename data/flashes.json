@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:37:20.527Z",
+  "updated": "2026-10-03T06:04:00.394Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,28 +51,16 @@
       "siteUrl": "http://www.yn.xinhuanet.com"
     },
     {
-      "id": "FL-268389f29693",
+      "id": "FL-82569c6ddba3",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 13:41:21 GMT",
       "ts": 1790775681000,
       "scope": "dom",
       "type": "geo",
-      "title": "昆明市盘龙区发生4.3级地震 主城区震感明显暂无伤亡报告 - stdaily.com",
+      "title": "昆明市盘龙区发生4.3级地震 主城区震感明显暂无伤亡报告 - 中国科技网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqcFc5eXBIVlRISFEwMENjdkJRVEJ0RWpXS21OUnJRN2tqeG1wUGRFZmdIajFDVnNVNnlZdWpuS3UwRXRxYk1zXzloX3ZsRDNCMHM3UjdySlZjTDJiOEplQllJU1kwN3dhUXN4SWZkMTY?oc=5",
-      "site": "stdaily.com",
+      "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-fe2459df582d",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 13:39:09 GMT",
-      "ts": 1790775549000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ETEY1ZEY5VElrTllxbGQ3SkxBZjNlX05FTklFUE1LcEY2d1J2QnpTdkpMeWdqMUZGWXBYdndYTENCNk13Sm9DLWZ6TjdhbFlNYVA1M2ZnRWNpaGtSZzdCZlNxYWdQQnZT?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-80088d3499d3",
@@ -87,27 +75,27 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-f941cfb00d65",
+      "id": "FL-bb3ec899fbd6",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 12:13:16 GMT",
       "ts": 1790770396000,
       "scope": "dom",
       "type": "geo",
-      "title": "昆明4.3级地震，暂无人员伤亡情况报告，电力、交通、通信正常 - kunming.cn",
+      "title": "昆明4.3级地震，暂无人员伤亡情况报告，电力、交通、通信正常 - 昆明信息港",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QNmxWNVlLUThiYVZ6ZTlheUh3dTlGZEpDUDVocDRlR1pRUUlpOU5fbHd6OWtYUG9Zc2thVmNjVVZFSFB0SUFJUEZzazd4MXBLbHJtQzFDV3d3WHdyWlB6c0h1MnRwUQ?oc=5",
-      "site": "kunming.cn",
+      "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-1b451e4aa199",
+      "id": "FL-772eabbd01ff",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 12:07:19 GMT",
       "ts": 1790770039000,
       "scope": "dom",
       "type": "geo",
-      "title": "云南昆明发生4.3级地震，网友：震感明显 - huacheng.gz-cmc.com",
+      "title": "云南昆明发生4.3级地震，网友：震感明显 - 广州日报新花城",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3g3OUlHb1d5TDZtTmFwM2hiZjhDbFM1WkFfQlVhTVNfRGM4SHFoeUdZQUI2OXBYZEtOTDFkUW9EY0Y4N2Q3TjZ1MWFjcTRXWUlrZENRMUdiZFRwWkZoWDU5V2tTYTZZRTd6NURoalkwNjI5OU1jX1p6T2tQb3hZNXRSV0p5QlpkU3c?oc=5",
-      "site": "huacheng.gz-cmc.com",
+      "site": "广州日报新花城",
       "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
@@ -123,6 +111,18 @@
       "siteUrl": "https://stock.stockstar.com"
     },
     {
+      "id": "FL-a6fcbcf86c3f",
+      "date": "2026-09-30",
+      "dateISO": "Wed, 30 Sep 2026 11:34:00 GMT",
+      "ts": 1790768040000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本天皇夫妇赴熊本地震灾区慰问灾民 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oUy1STkk0dmFWNGlybk5kOU8tMEpCb2gxcmJNVlpVRU5KdjRDb2pRMk9LWnozYUNrajV3UFoxYlV1RV9KQWwxV0hhQ0Zhd0JiUWFxa3NaRQ?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
       "id": "FL-ce4cd101a51d",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 11:14:00 GMT",
@@ -133,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVUJxRWU4cjhxLXRGaTNPNkVmbnJtdGRHWmpwWUxieDVZWXAtZWNLcVhQZEtOWVI4NE54RzlyUkxYbktpMkRSWlc3ckFjQ1BXNUNmZk14cld1cW5hNURCdGtTVi1pdw?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-e4ccea4eafb3",
-      "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 11:12:34 GMT",
-      "ts": 1790766754000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南昆明发生4.3级地震 市民有序避险 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41NGtwZ01zMFZIeVVtOWd0cGwta0pDWGUwZUdLVndYZ045c2l2R0pSa3ppd0xYc3lUU1hpU2NLSEtwWndHXzlzcTVpN2lwRVRWZk01RTR3d09TODBURFM4b042RUw5MjMw?oc=5",
-      "site": "chinanews.com.cn",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-2fc3f89c2efe",
@@ -171,28 +159,28 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-a1cfb2b873f9",
+      "id": "FL-9e924df27e11",
       "date": "2026-09-30",
       "dateISO": "Wed, 30 Sep 2026 10:47:53 GMT",
       "ts": 1790765273000,
       "scope": "dom",
       "type": "geo",
-      "title": "震感强烈！昆明市盘龙区发生4.3级地震 - kunming.cn",
+      "title": "震感强烈！昆明市盘龙区发生4.3级地震 - 昆明信息港",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qMkFjMkNDdzNTNmJxMDFaSmxTNU9Yd2MtZ0dzYUpJRkI4TnVhalFLNXlYZG54UE1CbkdiakNtWG9seGVHbDBOanB6UUJYMzhPaV9fVDJMclF6bWNIalRIekVnRG1wUQ?oc=5",
-      "site": "kunming.cn",
+      "site": "昆明信息港",
       "siteUrl": "https://www.kunming.cn"
     },
     {
-      "id": "FL-f8bc043216cf",
+      "id": "FL-db21d1d256aa",
       "date": "2026-09-30",
-      "dateISO": "Wed, 30 Sep 2026 05:22:58 GMT",
-      "ts": 1790745778000,
+      "dateISO": "Wed, 30 Sep 2026 07:00:00 GMT",
+      "ts": 1790751600000,
       "scope": "dom",
       "type": "geo",
-      "title": "台湾以东海域发生5.5级地震，震源深度10千米 - 四川在线",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tcFExT3YtYTZrNE5GQy03UDQyaWhrTGs2dXpKQ0x0X3c3bnduMmc4Q2Q1ekdGS3VPLWpqQ1FaZXpuaTU4b1Y4RUlBUzhaUl91R1dTMjdDT3Q0a2FGc3VZUg?oc=5",
-      "site": "四川在线",
-      "siteUrl": "https://focus.scol.com.cn"
+      "title": "云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56d0wxejRWOWxQX2Iwb2Vxc19LWDVXWDBtWnFiemFQN2lDbjVaZWZXOU1VUXk0bG02bk02M0RxczRBOHViSzdaVm9BdWpWNTRHbDUxanpOcXFqUTJmZTJtRVF4SDI2WU5rVUdpV0ExU1lGVkJHUUh1aQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-4ec342207f1c",
@@ -253,7 +241,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNRjk4N3JrOTBNMFFSY0tGZ3ZFaHoyTGxLMDN0cmduNUJKTnhTb3Z1X2t4aUVrR3ZGTmxUdjhYREh2eEYtbE1CZWlJYndfWFB4b3JiOTBmczJjNllrQm43aVllMzRlczRpUzh3a1A1X0xka3RhWDZOanRQeEt4VGtKdjBQcFVBRmRWcHNRYWdDandVWFBkbTFZUW96VzZCVHhsdlNsUHc2MF81SmNNdW9mOVZqZHcxdlItN3U2SnRmS0dKRlZNRE95Z3JPRngtMnBsM3loVW5NOE90Wm1HREEwbmYwSk9CZXNqSnZLbFpyUndhRmdBS2FTbGFOOGtLSS1iWVdkOXVGTExxUmFwZ0VDMThYMlV0NTI4MDZDNmpkVWh1T3c2dUxEWExSVUtTZFYxQXZ1aF9ZcV9JVUJzWENzM015bzVOVzUtb3JLdnBQUWZtYmpLOGVPeTBVaFlkN3JtREZNR3N4Wkpmb0k2VWtvSlFHemZMaHJXSEVNSnVEUzc2NWh3aldDNDNqeWlHYjFZYmpiZ1EtekYzQmNEaHdZc0pudEMtR2RLR0sxNmk3VC1OZw?oc=5",
       "site": "RFI",
       "siteUrl": "https://www.rfi.fr",
-      "related": 21
+      "related": 20
     },
     {
       "id": "FL-8ed23c09e627",
@@ -280,18 +268,6 @@
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-4f0408334977",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
-      "ts": 1789628400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际研究机构：尼泊尔泥石流灾害与气候变化密切相关 - 封面新闻",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01cnhyZTlXMEdzeGhtUW5NaEROMmVubm9PS2hZZXlXbi1DVHJoc0EtZXFwMjBpQ28zYmpRYWdoSmtzVGQ0SlNoaTl1QVFvUktGbjdReDZfaEtsTDdUUFdKd2syRnNnelNoZlhfVE5pRjBYQ0Qzdjk4?oc=5",
-      "site": "封面新闻",
-      "siteUrl": "https://m.thecover.cn"
-    },
-    {
       "id": "FL-f36723e741d2",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 21:49:18 GMT",
@@ -316,27 +292,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-78e9f53f1dcc",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 12:48:28 GMT",
-      "ts": 1790858908000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震瞬间 昆明孕37周护士抱起新生儿就跑 - kunming.cn",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkbHNWMTdCUmpOZmVYLUt6alN5UFhZZ2F6eWVVcnU0M3UxRGFTeE1RNnRDTE1QdzZtbUZtMjJhN0NieTVhR096Y1dYOHNDXzZ4RGxyc2hjcWhsREQ4M1FOVGU2dl9xQQ?oc=5",
-      "site": "kunming.cn",
-      "siteUrl": "https://www.kunming.cn"
-    },
-    {
-      "id": "FL-22bbb87e32b3",
+      "id": "FL-20ae5d9bb89e",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 12:41:13 GMT",
       "ts": 1790858473000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本千叶县发生5.1级地震 - 京报网",
+      "title": "日本千叶县发生5.1级地震 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JNmFLS0IyWUw1dF9vZnlTbnVXb2h5eTVBWURWb1FLVUVmWE1pd1JhZFFxRU9LSVl3MDdnaWlSb2tONkNhNHBFbDA2aWhUeTQxbnhJWmpiVU1IVEwyZGc?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -354,38 +318,26 @@
     {
       "id": "FL-e1bbe313b51e",
       "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 08:54:08 GMT",
-      "ts": 1790844848000,
+      "dateISO": "Thu, 01 Oct 2026 09:29:15 GMT",
+      "ts": 1790846955000,
       "scope": "dom",
       "type": "geo",
       "title": "受山体滑坡影响，福建仙游一路段禁止通行！ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMWNOVFUtb29uc05yMXRLRFdGdEVqWjJqNmxWUjRFZGc4b2hHaEQ3RW1JWGhWQ1VKNjFUQ3ZJb1lPdTB0US03cUN1NE5EaDBVTDVJUVBia0xRYzZNOXhtTUpkRV9oWmgwS0YyUDdXcW5ZZTh6Wml2R3BrelNacnNmR3JVTXZXZzVSQVpUckRTMHdWeTgtcnc5dXh5ZXBxY0RXSG1PdnhDV3lkNWdpeGNmQXZTLW90UGpZMFpiaWo1bHBjMEx0U3JFVElvYm81NTNsTDM3VDFUQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWdtRkJWNzhyaVgyYkdiSUpJcEhOb0stY0dfMWpVOWdmc3VKSWpYYkR4TzR4S3NoTzVzMnNmZ3EwMWNfaVJvNXk4cGlaRFMzd0NEbEluZlNDTURIaVhLMFZSci1aNFN5X0ZybFNZX25wVVUtMnlRVkNIbFhHQUUxZlc4X3VuLTdLZ3B0cWNQT0NjaGliVFhCTk1vWnl5N0E4YWluZTZRbUpucThHSXpxWUpoZGM5UUw0WkpfRTJsVFVwY0NDUTVZZmRkZEVGaFNTcWg4TEo1QQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-b9f6c3434091",
+      "id": "FL-abd60cf54817",
       "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 08:31:20 GMT",
-      "ts": 1790843480000,
+      "dateISO": "Thu, 01 Oct 2026 08:39:35 GMT",
+      "ts": 1790843975000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海西州都兰县发生3.2级地震，震源深度10千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52SHdDRmItdnp2d0IxVkNHNzR6ZlcxUEFvSlZSUm5la0o1YnlsMDJqU2Z4UmlTcU42Y0VQTXgxbjgwNS1NTm5mMUpnVUVxc0ZoS0FxOGZCd1dOd3dQb0FGSWVnYVJadE5VVnJrV1d2Zmc0QmJQTGtvMA?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-22b6017e4b53",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 07:41:21 GMT",
-      "ts": 1790840481000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔再遭暴雨和山体滑坡，数百名徒步游客乘直升机撤离 - jpchinapress.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmUwWEM4R1IzR21fekFjY1VEQ0cwV3RkckMtdUtoREpKbnNSWWZRekNaNVBhVGQ2Q2lDT2NmRUxGbmVJREtSMWRvSzRqeE1fSUU2NW9qWl83RHdnemRnSkJkZWNhX2FwdzU1aDJ2ZlpXbjJzdUlPaV82UUQ4OHEzNUxOd3JRN0xZYnc?oc=5",
-      "site": "jpchinapress.com",
-      "siteUrl": "https://www.jpchinapress.com"
+      "title": "云南省抗震救灾指挥部办公室终止对昆明市地震四级应急响应 - chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JOFdRYnZ2R3IwUzVzNGE3cFhQNTdHYXE0blN5emNjTmdhUndDU3JMNDFNY2FkY28ycHAyckRZSWx3NEJoT1hWaWtuYXZCR1BXTHFfVWs3bFRJa2h5RUFMaWpLVFdRUlBt?oc=5",
+      "site": "chinanews.com.cn",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-41b2bc7dbef5",
@@ -398,18 +350,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWExMdXZoZWZIM0hMZ1IyRmtQNFpJZzA1VTQ0MDZJWnVUbFExUTlHT29HQWFLWG4tLXNlTVdJYjRuaTB0OF9PcktfVU5NY1ZIQzdnbEhYdnVKSEJUcVgwNm8tdHNQRW9iTHBLSnM0Z1pIWEdzQnJQbw?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-c520642c15e8",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 01:42:51 GMT",
-      "ts": 1790818971000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "云南地震台专家解读昆明4.3级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjVOaVF4WFNjTGl3aGhicjhyVGlKdlpQZE1vUXBScG05UWktNG04aEtrZFhkdEI0eHVrUWVZOUUzMF9ObndUeW5QSENUR0FyeGVNejY1X1NERnNldXQ1MWtLbkk0cFZ0bThmeVRTNC1ZSU1JNWJSOFZPVExLWjZrRU9mZXZsUQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-7075d3024880",
@@ -436,6 +376,114 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-75d4242ac43d",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 05:30:00 GMT",
+      "ts": 1791005400000,
+      "scope": "dom",
+      "type": "other",
+      "title": "海南省省长调研灾后恢复重建工作，查看道路塌方、房屋损毁等情况，以“四不两直”方式检查安全生产 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzVHUlBfelVWLUZPdmRkUm1zd3ZJWktId3FBLVlpTmNJVzE1LTFCSjktS1JZWUhyUUwwUWtBQlcyazhndUd2NE13VWU3c1NvNEZYSlU5bGxMZ1BGM1VLSEd3dEZPb1NZSlhHclRNcloyam53dzVBLTkzZVhoNUtVU3JpNDllMG5n?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-13d2e4b98c0f",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 05:28:40 GMT",
+      "ts": 1791005320000,
+      "scope": "dom",
+      "type": "other",
+      "title": "他刚劝返车辆，下一秒山体瞬间塌方 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUnlzNjRZdW5XVkZOUFRHTTFhYVlzTTZodnlPSzV4NERxZm1fMUNIOF9sRnFaRmpUYy1fY3E2V3N3RFhMX2tFZ292eFdPbmxPMDk0cUxkWW1uWXM?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
+    },
+    {
+      "id": "FL-f03628ee23a1",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 04:39:10 GMT",
+      "ts": 1791002350000,
+      "scope": "dom",
+      "type": "blast",
+      "title": "AI引发论文大爆炸，审稿体系濒临崩塌：arXiv也开始最严限流了 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IVzR1NE9YVjhJcV8yQWFMRXdyNkRzZXVOZGpybWo4czJGVkw4b0JBRF9TdGZCVENITjBURlhUd2VPR2lxQkpjZFduSHBGLXFFVnRmNnZ1UXJqRHBpd0xqXzA2UEFPeHVPSGNWM0QyNnlPQWxjOWY1MGtIb3hkQQ?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-6489457b5cf6",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 03:48:20 GMT",
+      "ts": 1790999300000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "夏威夷“霍莱海蚀拱门”崩塌 消失在太平洋 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QUUp5OVo1Y1dKb2hZSXlLX29fMmVReDRQa1JrUFpqVFRhX0lPN0EzRFZzWFhQZ0NRQ2xNR1FuVkYyOEFWZ0JxSUpMSlF6aW5La3gyNmcxT1JwMUU0VjFjbkI5NW5BSlMyVjJJcjZCRnREdW9OU0tB?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-e6a9c5fa9072",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 03:36:33 GMT",
+      "ts": 1790998593000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDdrT1ctVFZobTAxbmlzSHVSc1VSWHhjUnVKZy1waXRLSmkyYkpKSEppQlctRFlpU043b2RqX2VpUVJNMEFCZzJyR3I1V0ZKSk9BQUNybVZuSEZIQTZYb2xZeldxSmpydGplcE9uN1VvODJhY1NsTEhmVjdKaVZCd001YjRPZkEy?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-dfb4b4572ddc",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 03:22:04 GMT",
+      "ts": 1790997724000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "地震瞬间 昆明孕37周护士抱起新生儿就跑 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWS1TcEthQ0M3YmM1eS15UG5MS1ctendEYkthX3RGb0NoeVQxVkJrRnlManRGd2lsXzNTb0NidnJaTDJWWURlM0VEMUVTclBHMzZTRGU3ajdTa3d4czdFZ3NyOHFlV3l1V2h0Y1JhMWtyakxIbWhiYzV5RGYwUTNreGFXeTBDZGhGSF9acg?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-ebe490af3784",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 02:34:40 GMT",
+      "ts": 1790994880000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "（外代一线）土耳其西部煤矿坍塌事故致5人死亡 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0ZnRVNFbDBGSHlBdXZpMkp4dDJrc05uMl9weFZlaGhHOGFlQms2ODBjOGZiRHJPT015TjRXbWtsT0MyR3FZV0Y0SjJFVHRqd3dGMkpkd1VwS0VkM2VlV2EwdXlBNlIyaTNUSDVnblN5WlM4RFF4M2QzSnFvLVRxWkljWXlTNl9V?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c6ae2e466c40",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 01:03:14 GMT",
+      "ts": 1790989394000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "预警比震感慢一步？昆明4.3级地震背后的“盲区”真相 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORENSTWZrcjczRUh4bzdrUkc3QVJMaHRsWXpLSjdZN2RyVkZpSnN1YUlrcVNENm00LXh2OTNQR0dfVnh0dDlXUDU1c19Yc3dmX3A4Nk5QbmtMNTg5cUpaRXE4X1o3ZUs5dXEyaU9MNW9iNkZ6UFAxVFVyTmVNVUt0Y2g1S0Q1UQ?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-396d489b6d29",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 00:59:10 GMT",
+      "ts": 1790989150000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔泥石流中一失联马国公民生还 已平安归国 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVWQzVlRXNEFGSTFmN2NNOGZ6SjhTXzdmRFpFTllBOVZxRjVsZkZRS2ZydXdrNXhfLXAwVjJJZzdBMC1DejBidi1XV0otdTdOLWdEMjFQbWJLZEZWcmVKMEFiTGV5OE0?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-bcf2de3beb13",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:16:50 GMT",
@@ -448,15 +496,15 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-e66b8fc7e91d",
+      "id": "FL-7af9f9d47ba5",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 00:07:00 GMT",
       "ts": 1790986020000,
       "scope": "dom",
       "type": "geo",
-      "title": "維州發生規模4.8地震 墨爾本震感強烈 - 大紀元新聞網",
+      "title": "維州發生規模4.8地震 墨爾本震感強烈 - 大紀元",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGV3VVSDV2ZExiVDlJVmx2UWlaVnNCcVgwRFNiTlZMamFLVXZLalR6OGZwaHBpQjU4VExGSmxRWi1qbnlPUWhuWmNackxaUURZRmVPOGJsZnIxUjI0bmRnb9IBZkFVX3lxTFBVTmdlODRockZ0ZUJaZF91d0ZUMWNhZWxLMDJ1VUFhQk9UTlJWX0d1TjdtbjdjT0JXWFQ3eDJZSThmRm53X25NcW9mejBRenpDcjY3cHQ4dmdLRV9FWGlRWjFzZjlpUQ?oc=5",
-      "site": "大紀元新聞網",
+      "site": "大紀元",
       "siteUrl": "https://www.epochtimes.com"
     },
     {
@@ -496,18 +544,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8fe9ef97ca8c",
-      "date": "2026-09-21",
-      "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "ts": 1789974000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVFxMFZwSHBJRGhoVllvUlRZcElTeFRnUUVLaVJiYVJIQTBJbDkyVTEtV1BpcFVub2pncTN4em9wbGNLRDhOb0NCOVFUeUNPcFRiNmg3aEQxdW5JZHY0QVhkdGhzaVhjQXJBc3YtTkY5N21qX2xVNVRGX2xLSnJtVzNhODNGVkU2MEhfM09ZVk5HNFhQTHVuWWtn?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-11",
       "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
@@ -521,15 +557,39 @@
       "related": 11
     },
     {
-      "id": "FL-9591b5b5cd21",
+      "id": "FL-3f679efef255",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 23:22:17 GMT",
+      "ts": 1790983337000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛东部附近海域发生5.8级地震 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1dGV2WGJTU0VRaE9weU1SY1JzUUM3azVHMDI4dkZwbXNTaUJkUmFOWHIyNTZxOURQeDFWQk5pN1R0THU3NzgtNC1ncExYVHZ5amdPNE0zdXdPQUpRMGk2RnJ4RzEtbThR?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
+      "id": "FL-be4695f9ffb5",
+      "date": "2026-10-02",
+      "dateISO": "Fri, 02 Oct 2026 23:14:00 GMT",
+      "ts": 1790982840000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛东部附近海域发生5.8级地震 震源深度10公里 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbU92cXQ0cm5jVkFLa0tCRTEzSngwbFo1RnRwM0pVNUhHRWE3cGRwUmNWS3pvanRKcUxsXzBtUHVFTm41MzkzVzhkdzlFN25aRlR3cmJQMVdOR3Y1QmhNQzhMNmhscEtKYkZ3T3B0ZEpFZ2RCa1RRci11S1NrWVlKNmZHOTVKSGh5SU41dA?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-e7132540733d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 22:08:38 GMT",
       "ts": 1790978918000,
       "scope": "intl",
       "type": "geo",
-      "title": "俄罗斯堪察加半岛东部附近海域发生5.8级地震 震源深度10公里 - xinouzhou.com",
+      "title": "俄罗斯堪察加半岛东部附近海域发生5.8级地震 震源深度10公里 - 欧洲头条",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMTM1Z2J6T29uTGEyNlVOX05TSEc4UDJsdFZnNU1JcURlaERrV3BxbjEyWHBoTms4NUZkTWQ2MUVNNmJnZHJaZzBSdllTbjJHTjRrRWpMMXpaWV9iMUY1Z1ZEQ29CWjlpQm5QdTNDTHJZcUxhZDh5enhwTDY1OGMyeVVPVGFmeU9TZW5sVkRkN2pJM1NJaHJiZUJkOEY1bzVRbG9qcUVvR2lidUNrc1hYT1ZyaFZMVjExM1hhb2czZDN0N0V3aXhyNUNxbmtKQ1pmSkE5dVlBMG8?oc=5",
-      "site": "xinouzhou.com",
+      "site": "欧洲头条",
       "siteUrl": "https://www.xinouzhou.com"
     },
     {
@@ -557,39 +617,39 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-f53bd711194a",
+      "id": "FL-a1625e58e48d",
       "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 16:48:36 GMT",
-      "ts": 1790959716000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HcWcxNXE4dlFsekRaSG1iak9NV1ZjbmhTbWdIMXF0OTJZaTBieUxZbUM3dXZ4a1Q0bTRfYW5zcklNdmlhcDNnWDBRWQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "dateISO": "Fri, 02 Oct 2026 18:00:08 GMT",
+      "ts": 1790964008000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "美提升核爆炸探测能力，中共秘密核试验和陈友麟案件再引关注 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1gtb1drX1hWS3NBMzU4MlNRVEJ1TkUzQmJCR1B0a3VFS2MxU05ZTTZ1UjlmZnJZU2JYNHgyOGVwZ1dUZjdIZ3hxaWlPNGZsQTc3VjRlRTlPd3hlR1d2b3RVVE92dUwzMTlwVVB1TmphZUN1OG5iTU5WYU5EZjJmM3BpNHctZ3ljVTgtTXJuX1YzeVM2bmVmTkEzZzBnczIzSFFRWmxHRGd2SUdVb01wNGZsSmVVOWlYcG1LZHZYWk1BQU9wcnhhb3Q2dVZXaDlUSHNqZ9IB1wFBVV95cUxNWnRiOWpoQ21MQ0tYTkh0c3hWVTFSbV9ZQlcxWUF4SmtBanZHZmNIc296ZkJUcjBIVnZlTmZDZXY3WnlfWXJPWmU0WHYxa1F4RlFxWDlaMjlaRGtCYTdTVU9fa3JaMkVlSllKZWVObWpKS1o3ZVZlNTk3RGN6ejJGSTFCbTd2RFVYM2FfQk5heEcxWDYtc0Q3bDl4Wnp5em1ZdE9WZi11VTd6bi1TWnlycUc2VmR5eUJ6Mk15Y1ZCQlhrc2tmcWpKTVpRZlpEbjFYU1JhTWZBOA?oc=5",
+      "site": "美国之音",
+      "siteUrl": "https://www.voachinese.com"
     },
     {
-      "id": "FL-ebe807016e75",
+      "id": "FL-81a76d1b46b3",
       "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 16:07:30 GMT",
-      "ts": 1790957250000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "2天7地震！全民大恐慌！（视频） - 人民报手机版",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1bTk1ZTNSRjJCV2hYQXhScHNHcjdhNHhtVnZTb2YtZWtPcmNITDVHYk5jZDR1U2xSeWRsY1FSb1N2MGhIXzg3VmxSRFBFN0dBSUttLXJXUURIeTdLd0VIaklVV2VDUQ?oc=5",
-      "site": "人民报手机版",
-      "siteUrl": "https://renminbao.com"
+      "dateISO": "Fri, 02 Oct 2026 17:42:00 GMT",
+      "ts": 1790962920000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "土耳其西部一个煤矿发生坍塌事故 造成5死2伤 - gbcode.rthk.hk",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjVqT1FhcURMMWdhUTVkb2ZYMFVtUDZfbktqRzhrNGpvSVRDd1FKY0p1TW55bFpJWll5YzNiRGdDVUFOUExBNW95aFFKOGVfUl81aTFJa3FTS2tuSjhCRWVBUDhGWmhDckdjMWdxM3BmcDNHd3RTS202cXB2ZjBDWXhGVkQ3UGV0aEFqVWdJRHhKamFVZ1dUNHo1TEt1REo4ajV3?oc=5",
+      "site": "gbcode.rthk.hk",
+      "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-53c66619c6b4",
+      "id": "FL-27d1921c484d",
       "date": "2026-10-02",
       "dateISO": "Fri, 02 Oct 2026 15:01:32 GMT",
       "ts": 1790953292000,
       "scope": "intl",
       "type": "collapse",
-      "title": "土耳其西部煤矿坍塌事故致5人死亡 - 京报网",
+      "title": "土耳其西部煤矿坍塌事故致5人死亡 - news.bjd.com.cn",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IWWdpSEVLQ0FIOFlNRDVlVy1ac1B3Rk85YU4tUjJCQ2NBd0tHNm5HYml4STlQd0ZsYmplbkFYVUFaekIzdmVMSzEwUlBwMlNma3Y3cmttMndKcGl3T0E?oc=5",
-      "site": "京报网",
+      "site": "news.bjd.com.cn",
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
@@ -605,40 +665,16 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-bf332c855f65",
+      "id": "FL-6b43c194a530",
       "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 12:01:34 GMT",
-      "ts": 1790942494000,
+      "dateISO": "Fri, 02 Oct 2026 10:03:00 GMT",
+      "ts": 1790935380000,
       "scope": "dom",
       "type": "geo",
-      "title": "【视频】2026年中国汽车市场最大的一场地震居然是因为一个门把手 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxYlFGQmNYTGdtOU5FRGRMTlJidWx4WFozRmZORnFWSC1aNHhsdTFNd0pST3pCNE1SNHl1c1lILVQ2T0NtQlpiVk82QXNMMS1VQW8yWklVRk9kd2M?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-59e2932a6d16",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 10:33:20 GMT",
-      "ts": 1790937200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "昆明发生4.3级地震，监控记录下地震瞬间：怀孕护士抱俩婴儿冲出病房；当事人回应：整个楼层都在晃，根本来不及多想，只想尽快抱宝宝撤离 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnB0Y0xNZVJNZ1oyWmJfZTByQlJpTFFrUHNDbndDV0ZSQ1EtaEtVaTJleHM1cVlOYlBYMktlbHRGZE5FaElNWTJWSEpCOE1iM29ZOWthZmhtZ3F6TEFqT2otdUJROUEyNmpubGVubTgzbUs3bWZCcWotM3BoNWpXaERPVGo4QlFpOGZWTQ?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-bb0be0a5f4af",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 10:29:52 GMT",
-      "ts": 1790936992000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "【视频】电车的诱惑，燃油跑车信仰崩塌？ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Fb2dzMFYwYWp2d2hKZFdOTVE0TFhXRlc0ZkY4RGlIN0g0QUtteks5TjdPUmJCQ1RwaU9RUFRUNDJXZFp3ckoyMFhnNEFqU2x6X1JxMHJkQ01zUlE?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
+      "title": "预警比震感慢一步？昆明4.3级地震背后的“盲区”真相 - 环球网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80aHFwRms0cHVvNEczOFNWMk9jQVhoN0Y5a2x3dzRIWklXQ2U2SUUtY29WeWxaMmV4dm1rYXZxN3pDbno1Q1lDbkdPS3V4SWpMaExhX1pTUzQ?oc=5",
+      "site": "环球网",
+      "siteUrl": "https://china.huanqiu.com"
     },
     {
       "id": "FL-16a4073732e0",
@@ -687,42 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YVXVkMTFjQmNBMFNjeUdWVWxpcDRHbGRPMXllejFuQWJVNFhzWTdSV0t6aUFiOHQ4d3hrdFlkRXdtVzFGb3Y2ZA?oc=5",
       "site": "智源社区",
       "siteUrl": "https://hub.baai.ac.cn"
-    },
-    {
-      "id": "FL-3e7d7d5fc747",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 07:26:57 GMT",
-      "ts": 1790926017000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "【尼泊尔山洪】奇迹还在！一失踪者今确认安全回国 - mediaselangor.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xSng4ekw3dkt3UmcwVHNpU3JwdGFERG5OWVFtaENNOVJvWGdHdV9BdkgwV3FDOXNHSXZDa1RoVDdjbkVjR3pucWFSMTM3YUNFcGxOQkln?oc=5",
-      "site": "mediaselangor.com",
-      "siteUrl": "https://mediaselangor.com"
-    },
-    {
-      "id": "FL-3e7e001e24d3",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 05:26:03 GMT",
-      "ts": 1790918763000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震瞬间，她顾不上孕37周的笨重身体，抱起两个新生儿就往外跑…… - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnJrNjhTb0gxRW1UV3Q5aWd1c3FjamR3enp6VDJtS1dKUGFYQjJoZzIwYmNyaVBONVBjSWhJMXZweHJadjFnTnpqN0c4VTB6TEtMSDEteUhKbjNBVHoxOEUyTHBIbERqTzNYMWlsc3pJQWVPb0ExdlhKbGlubjg5NVVGbkwxcnZUVWxWQg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-4d79f54698b2",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 02:45:21 GMT",
-      "ts": 1790909121000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：天 气 公 报（2026年10月02日） - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNQk5kWXFuTXBIU3c4RzRURmZvNGN0TEVKZ0k2aUpvcVJZSzRaTFJvZWpMdDBqbkUydVRYZEwwLWl0aFo3c1g1cFNMUzU1bmRSWDUzRzF3RmhRRmJkRVNudkp4WkM1eTdlUUZFcXZFRUlzZw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     }
   ]
 }
