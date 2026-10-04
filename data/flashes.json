@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:18:58.899Z",
+  "updated": "2026-10-04T20:21:08.816Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,39 +15,51 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
-      "id": "FL-36b5a3811114",
+      "id": "FL-c52e6f56b224",
       "date": "2026-09-09",
       "dateISO": "Wed, 09 Sep 2026 07:00:00 GMT",
       "ts": 1788937200000,
       "scope": "dom",
       "type": "geo",
-      "title": "河南济源市发生3.6级地震 震源深度9千米 - 央视网",
+      "title": "河南济源市发生3.6级地震 震源深度9千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yX0Z0Xy12dHZYMGNsdkdjcnNVSmNNc1FESVRQOUJ1SkJHMktZdUJWV0RkWjdCLW5WSW4zbEVpVVdoczBGUFZKSkRSbHhoU2toVVMtU2RSU3lGUHFrQUR3dnRUWDctWjBhdGRTMDM0cDYtWU1ydjVBLQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-35e0a3124cf4",
+      "id": "FL-0834097bafea",
       "date": "2026-09-29",
       "dateISO": "Tue, 29 Sep 2026 09:47:28 GMT",
       "ts": 1790675248000,
       "scope": "dom",
       "type": "geo",
-      "title": "河北廊坊市大城县发生2.2级地震，震源深度9千米 - 央视网",
+      "title": "河北廊坊市大城县发生2.2级地震，震源深度9千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uNkJlTlBubDZYN1lCTDdPeDdvTVJsUG1FN2hVa1NSSlMwZTdTRlB2Mk9hWW5aSFdOZWl1RWx3Y2hGMWlldmRPdmtQYkVPRnp3eEYzU0JDSGRqSWZOUDc5UGxYek1EMEFvRm81VmVJWnhVZGR4MHdQaA?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-0fa05aae3512",
+      "id": "FL-33c61a069546",
+      "date": "2026-09-22",
+      "dateISO": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "ts": 1790060400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "泥石流来袭，如何科学避险？——来自中国科学技术馆科普大篷车的避险知识 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1lCQ2RSNU9QMUpFcVQ2cE1oV2RrT09mNkpXMUtMTFEzcDgyS3VKMk5WMHhocW5FVXE2RGtzRnVIekFxam8wLUs3N2FmcjI3TmtBMmN3VTFGcUNLWEJyeE1PSVkwWVhXU3hFS1NyZHlUX21QZEpxX2w3bWE3dGx0QkdzLUNWTHY1Zkk2UzgzejhVMFNLNXNBTzNR?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-d6feb3148f89",
       "date": "2026-08-04",
       "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
       "ts": 1785826800000,
       "scope": "intl",
       "type": "geo",
-      "title": "委内瑞拉地震遇难人数超过6000 - news.cn",
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -75,39 +87,27 @@
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
-      "id": "FL-549cf98ba21f",
+      "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
       "ts": 1789628400000,
       "scope": "intl",
       "type": "geo",
-      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - news.cn",
+      "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RNW1xcUZIejhkZm1aS3N5ZGxzYkJNQjFhLVdJWE1VY012NDdXZWR2X2RQMlRVM2xKX0hmWlAyUjlLOFNqQ3R4b3dhVXR1VTY3TDRxQ19uVUV4RDBzMzV2QXhDZmp5eF9CVDc0bEd3LXBzbDhROFBlM09sLUwwdw?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "http://www.news.cn"
     },
     {
-      "id": "FL-e1bbe313b51e",
-      "date": "2026-10-01",
-      "dateISO": "Thu, 01 Oct 2026 08:54:08 GMT",
-      "ts": 1790844848000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受山体滑坡影响，福建仙游一路段禁止通行！ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMWNOVFUtb29uc05yMXRLRFdGdEVqWjJqNmxWUjRFZGc4b2hHaEQ3RW1JWGhWQ1VKNjFUQ3ZJb1lPdTB0US03cUN1NE5EaDBVTDVJUVBia0xRYzZNOXhtTUpkRV9oWmgwS0YyUDdXcW5ZZTh6Wml2R3BrelNacnNmR3JVTXZXZzVSQVpUckRTMHdWeTgtcnc5dXh5ZXBxY0RXSG1PdnhDV3lkNWdpeGNmQXZTLW90UGpZMFpiaWo1bHBjMEx0U3JFVElvYm81NTNsTDM3VDFUQQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
-    },
-    {
-      "id": "FL-41b2bc7dbef5",
+      "id": "FL-4b4777637161",
       "date": "2026-10-01",
       "dateISO": "Thu, 01 Oct 2026 05:44:57 GMT",
       "ts": 1790833497000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生3.9级地震 震源深度7千米 - 央视网",
+      "title": "四川宜宾市高县发生3.9级地震 震源深度7千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GWExMdXZoZWZIM0hMZ1IyRmtQNFpJZzA1VTQ0MDZJWnVUbFExUTlHT29HQWFLWG4tLXNlTVdJYjRuaTB0OF9PcktfVU5NY1ZIQzdnbEhYdnVKSEJUcVgwNm8tdHNQRW9iTHBLSnM0Z1pIWEdzQnJQbw?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -123,15 +123,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-50cd7b6888bb",
+      "id": "FL-91bdb2ea9dee",
       "date": "2026-08-23",
       "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
       "ts": 1787468400000,
       "scope": "intl",
       "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - news.cn",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -149,14 +149,86 @@
     {
       "id": "FL-a6d6e370f9ce",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 17:07:00 GMT",
-      "ts": 1791133620000,
+      "dateISO": "Sun, 04 Oct 2026 20:05:00 GMT",
+      "ts": 1791144300000,
       "scope": "intl",
       "type": "collapse",
       "title": "知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋” - 新浪新闻_手机新浪网",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQ1lzeEw1QVpPOW54SzJYbDRXZWFhemI4b1RucmZxWmdPVUhWR3pUanY5cTJZSFNMTm9QRWpudHpob2pjb0ZhSDFtS2ViTTB2dWtxLWRlVFRDc0hkY3J6cGc1WmhZN2Z0cHh2c256NG8?oc=5",
       "site": "新浪新闻_手机新浪网",
       "siteUrl": "https://news.sina.com.cn"
+    },
+    {
+      "id": "FL-c528b68b9b8e",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 17:59:12 GMT",
+      "ts": 1791136752000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生3.8级地震 震源深度5公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNeHVpSlNoYW4zV3RGOUwzSFdEMFlvVHh4TUtid0EwVFJVbkg0OWNCZzBoa0FsUHhiZGxwVUxLb0dvYnMxZjZEbjBjYUc3YTAyQXh2eUduVDFNa1NBeDZpZE04U0h1cjM1cWJqUFFwOHZTaEYzbkpUbGp6TjZmd3NteWFuYXVjYWd5T0Q2aHFoZzFtQWlPV2RiT0dVNVFVT3kyVmRYTGVwd28tWGxseXdBV3RIU0c2b2x4VFVxQ2lfOFhPTFY2N09rT0VKMkNseG1QenI1UmRMalFWNEJzekFvc3JDUEJLVG8ybUdBOFBnZjBjczdUbEJRQkdiYTJ6TENtTHlRRUtVWXlmLXVrTnZCMmFfVkFtcXFiaVVZTkRqcWdkMmJ1TVJJWlJvVWxwaTYzdlBFay15RkFEbGdwcExabzFzUkJiOThMdkx0emp1X21zbUE0T1hvMjlEdjBSbm1lTkl0c2Rtdm1jbTRnNzZHdUZJTFczWUt4SkozMTAxRUE3SmxVX0hVQVZ6LUU1YkZxYm9MUDJCZGd1cS15S3lNRFo5Y1g2V0tCUFg1clRtQ2JyRGQwOHRORi1fdVdXMmFzaTVZVS1aXzc1d3RiYnhLUEdHUG90bG02MkdIcmZtRVZaQQ?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-f4261db6fe9e",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 17:45:41 GMT",
+      "ts": 1791135941000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生3.8级地震 震源深度5公里 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTNPclBTWTlkYjRPVDgzZzczaHpaNVd6VkoyY0pPNjduUDN0QnNMd0RuR21NZVRVNUdJWVNkMDZoN283WXZGbkFIVjVVb3JTWlJTc1ZVdGtlelZRcVR1WjROUVhHZ0lFRlBTbXFranc4NFRFM1p2WXcyN3ZJUFc4QXItX1AxUDhh?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-f53bd711194a",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 17:22:03 GMT",
+      "ts": 1791134523000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CQU9HVGdhQ2g5ZHAxZjEybVY3c1QxQkZ6VC1pa05JX0RoY3FTVzROSHZ4bmVOVk1Mdy0yTjhIQnZfdFV2SldsZVV6V2djZmc?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-a38c849d27d9",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 16:44:03 GMT",
+      "ts": 1791132243000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "地下储气库循环注气作业对地震活动的时序影响研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQUdSY0RQVEVINHBGRlRVb2JlYW5lWkRpMGR5cHZ4REthcEZtdS0xYW91VXk3MXVvS3hBS3NMb3RFeS1VWkJucEpPSk9oSm5nUnZtTjlqalkzbjRaLU51VlNfdXYxaG5ibkIyeElB?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-186801b61841",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 16:44:03 GMT",
+      "ts": 1791132243000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "山地斜坡频率相关地震响应的野外观测分析——PGA可能严重低估弹性放大效应 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcjRrdHcxRFJhblJjZi1oU3oxbGR2bUVHWTkyUlhtdmVHclJiSVJYR3BCMHZRajYzSkFVNlRTcW9fQ3pzaGotNlVLTjNicWhKMlpGeDVjdGMyZTBHQVh3bGZpY3hBLVE1NFNHOTRB?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-3cfb8d8ae753",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 16:44:03 GMT",
+      "ts": 1791132243000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "黄土后缘退移型滑坡滑动扰动区土体力学弱化与孔隙水响应特征 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oVHdhN0tKRHV1U0RreGljTGotMWhESmNieV9rWFBTVmI0S2ZVTlFVeG9DbllDVTdibS00NTBsY0ZsTjhsUC13VGdrVVRNejVEQWwxMVN6bVVHQmFJT2NZZVpYdS1HelloazVueEpR?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-e8c7f14b9db5",
@@ -183,16 +255,28 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-9d4050023e4e",
+      "id": "FL-01f953c3980e",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 13:07:50 GMT",
       "ts": 1791119270000,
       "scope": "intl",
       "type": "collapse",
-      "title": "阿富汗北部金矿坍塌，致5人遇难 - 搜狐网",
+      "title": "阿富汗北部金矿坍塌，致5人遇难 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFNkNjFqY3RGckNLNHNoeWh5d182dmJwdUZGVEhEM25WS3RkWjZjbWpQWjBqS3pzMWdmaFkySTBZc2l5ZE0ySVQwRHRydzJyc1RMc3RTcVJWSzVtNXB3aU9WWlYtc2RuV2tBU0stQVVpVmxEVW03dGJBTTRkQjBrZVFkWHhLZ2xS?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-afa161ceafea",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 13:02:35 GMT",
+      "ts": 1791118955000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "19:31:35【美国夏威夷地标霍莱海蚀拱门坍塌】 - cls.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZEhjV2pRT2VTNHdFdG5JVXRDN0hVdEZtOGNQVDZEc08xOC1Ja2JiNVlpcS1vY2ZaOGVELWdIa0lzYmVrM2k1TA?oc=5",
+      "site": "cls.cn",
+      "siteUrl": "https://www.cls.cn"
     },
     {
       "id": "FL-d6333cde552c",
@@ -231,52 +315,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-3cfb8d8ae753",
+      "id": "FL-2d19e6bfe440",
       "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 12:00:00 GMT",
-      "ts": 1791115200000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "黄土后缘退移型滑坡滑动扰动区土体力学弱化与孔隙水响应特征 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oVHdhN0tKRHV1U0RreGljTGotMWhESmNieV9rWFBTVmI0S2ZVTlFVeG9DbllDVTdibS00NTBsY0ZsTjhsUC13VGdrVVRNejVEQWwxMVN6bVVHQmFJT2NZZVpYdS1HelloazVueEpR?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-a38c849d27d9",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 11:43:44 GMT",
-      "ts": 1791114224000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地下储气库循环注气作业对地震活动的时序影响研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGQUdSY0RQVEVINHBGRlRVb2JlYW5lWkRpMGR5cHZ4REthcEZtdS0xYW91VXk3MXVvS3hBS3NMb3RFeS1VWkJucEpPSk9oSm5nUnZtTjlqalkzbjRaLU51VlNfdXYxaG5ibkIyeElB?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-186801b61841",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 11:43:44 GMT",
-      "ts": 1791114224000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "山地斜坡频率相关地震响应的野外观测分析——PGA可能严重低估弹性放大效应 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcjRrdHcxRFJhblJjZi1oU3oxbGR2bUVHWTkyUlhtdmVHclJiSVJYR3BCMHZRajYzSkFVNlRTcW9fQ3pzaGotNlVLTjNicWhKMlpGeDVjdGMyZTBHQVh3bGZpY3hBLVE1NFNHOTRB?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-e3aa11524944",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 11:06:00 GMT",
-      "ts": 1791111960000,
+      "dateISO": "Sun, 04 Oct 2026 12:21:18 GMT",
+      "ts": 1791116478000,
       "scope": "intl",
       "type": "collapse",
-      "title": "美国夏威夷地标霍莱海蚀拱门坍塌 - 新蓝网",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xb3dacFdWUHNDTVJ5a2Z1YzlTeXVQN2tKblRGUWtwRGhZY3YxRE8zR2R1bzg5bFk0a1RjYWRYTWNQempNdzdrbV9RbGhVUXc?oc=5",
-      "site": "新蓝网",
-      "siteUrl": "https://www.cztv.com"
+      "title": "夏威夷地标霍莱海蚀拱门坍塌 - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdGc3SWpGOE5LbkhvbkR1TXRONm5XRUVJUXRPU1FYNUxtM0E1RVVWbFd0QUhCQ015Mi1wRkM4LVFjVFFPaFVlYkpyMmpqZ1E3c3BHME9KaXVoWENHWVFkLS0tN293Uk05dkZvUDIxUWtzVVpRYmpPXy1QY1A1OWRUc3hGb2VaREQt?oc=5",
+      "site": "sohu.com",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-709a2dc6ca34",
@@ -303,15 +351,15 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-8f488711190d",
+      "id": "FL-b19017df70b8",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 09:16:37 GMT",
       "ts": 1791105397000,
       "scope": "intl",
       "type": "collapse",
-      "title": "夏威夷550年标志性奇景“霍雷海蚀拱门”坍塌坠海 - zaobao.com.sg",
+      "title": "夏威夷550年标志性奇景“霍雷海蚀拱门”坍塌坠海 - 联合早报",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYajhEVmpTeGhSZ3ZsT21RWGRyM21IRFlQWmVSVEFlVkJSdzhONXhKdUJmTUlTRUpXTWdyMFh4NTZaUW52MFpxN1N6ZkFleEwzdTJYSUlpYUJMWmE3LVVGTlJDU3AteUxLdVE?oc=5",
-      "site": "zaobao.com.sg",
+      "site": "联合早报",
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
@@ -375,27 +423,27 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-4b61440ea655",
+      "id": "FL-64bd5982128a",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 01:52:26 GMT",
       "ts": 1791078746000,
       "scope": "intl",
       "type": "collapse",
-      "title": "尼泊尔冰川崩塌致数千人伤亡，国际气候补偿机制面临考验 - huxiu.com",
+      "title": "尼泊尔冰川崩塌致数千人伤亡，国际气候补偿机制面临考验 - 虎嗅网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93TkI1ckJzQzZDVlE3dzh1NkVhYXBCNWh6SGs3RG9GZHRqMHFpVjczUkNXZVZHV3VFckhmYWRMSXFPMENydUViNVNQOWRFVHdLQzhIQy13UWpwYk1ZbTBN?oc=5",
-      "site": "huxiu.com",
+      "site": "虎嗅网",
       "siteUrl": "https://m.huxiu.com"
     },
     {
-      "id": "FL-a0e18baa4518",
+      "id": "FL-ab6238340538",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 01:43:12 GMT",
       "ts": 1791078192000,
       "scope": "dom",
       "type": "geo",
-      "title": "贵州毕节市威宁县发生3.4级地震，震源深度9千米 - 央视网",
+      "title": "贵州毕节市威宁县发生3.4级地震，震源深度9千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xcll2MXdGcjUzcWZ5OVFMOTAyd1lCRl9YbDVYVlJNc3g2SnlDMTBKemYtWnFoVGptTlo1dV9IZmRYcTZpelhxWnVzOTBJUkoyVW96RWgtb1g3QnJzN2hSaWI3MzdseXBTWjNEZVdhcWlUYkdsRXZsTQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -411,15 +459,15 @@
       "siteUrl": "https://mil.news.sina.com.cn"
     },
     {
-      "id": "FL-d58bb08ae7fc",
+      "id": "FL-f3b2b4bebdef",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 01:10:39 GMT",
       "ts": 1791076239000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼松巴哇岛南部海域发生5.8级地震，震源深度50千米 - 央视网",
+      "title": "印尼松巴哇岛南部海域发生5.8级地震，震源深度50千米 - news.cctv.com",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2ZTdBOUdSYkcxanRUNHZWb1FoMU9STzBFTUJGeTlUOHRPLVZTSWFIMkF5c2g0aFdsdXN4eFNzNThvZWZ5RUltRGNrTjRXR1gyYU5qN3BmUjNrazFuREt3WlRIaFMybUx2YXJIV1M2UUFLRUxtejRwcQ?oc=5",
-      "site": "央视网",
+      "site": "news.cctv.com",
       "siteUrl": "https://news.cctv.com"
     },
     {
@@ -469,7 +517,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSi01QUdYV19RRGFlNWJaNFVxS3ZOWnpxNDRCUXFvaTFKbGhseWdBTUxWbkUyVjFUZC1HeTVldDE1RklLZVVhY2tYNVRGWTFieDBtWmxvbDZDZE1EWVdaWVBydnp3Q3NoVXg3OE03aUdnNW44WHc?oc=5",
       "site": "西藏自治区文化和旅游厅",
       "siteUrl": "https://wlt.xizang.gov.cn",
-      "related": 26
+      "related": 30
     },
     {
       "id": "FL-55d6c57ae661",
@@ -484,15 +532,15 @@
       "siteUrl": "https://www.suzhou.gov.cn"
     },
     {
-      "id": "FL-d82481f12f5a",
+      "id": "FL-35e97761fe56",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 23:42:30 GMT",
       "ts": 1791070950000,
       "scope": "intl",
       "type": "geo",
-      "title": "印尼东努沙登加拉省发生6.1级地震，震源深度10公里 - 搜狐网",
+      "title": "印尼东努沙登加拉省发生6.1级地震，震源深度10公里 - sohu.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUTVmLU9FZ2FjRHNBTkYybkV4UjE0R2VoUzB4Q2hSOGdqNWlxLXo0NWxNNF9GakVmT0d6TmYyR3Y0R3JOeTRpNXFjU1gwZ2dCeUZ4WnFNcFdJbnlfbzd0ckk1aEhQbEFpa3U2Z3hId05uWHFUUTAyaTUtaXlWTjBkTlRYQnM5Tjd4cUFvNQ?oc=5",
-      "site": "搜狐网",
+      "site": "sohu.com",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -508,18 +556,6 @@
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-5310ca68b119",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 23:34:31 GMT",
-      "ts": 1791070471000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼松巴哇岛发生5.8级地震，震源深度50千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0VfODNIRzJwYzhtSG51a0ZzSzdSTmtzTm1Xbnl6SjhVXzN2YVlvX1VQQm1nM2RjVHE4T191N1hVOEpkZTJ3RDF5Z0s4WkdONmpjM09fdlVPWV9fODJ5Tm11cnJtWkhmbHozM3hoRk84S1ZkSjdJd200ZGI5dHVCS19zWDFwSjl5Y1VodGViNA?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
-    },
-    {
       "id": "FL-582e64c4ed8b",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 23:29:40 GMT",
@@ -530,30 +566,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zSHZrbEdfVUhRZjFPT0NWR0x1dmUyTlc1c0NDSEM5VHU5V2RpcERIOHc3UTQ5Z181Zmhlc1NqaGphT0EzVGFLVEVncDJKZ0ZTYWwtVlJjc3JacGtZNXJxM29CTUZZWmVl?oc=5",
       "site": "chinanews.com.cn",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-f077a41b5724",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 16:15:10 GMT",
-      "ts": 1791044110000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "美内政部证实：霍莱海蚀拱门坍塌 - 新浪军事",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IdHdoaHJSYTF4YU9aWDVCQ0tPWklOUGo1NmowV3E4bXVZNnZaNENJSlo3aEo5MFpwSHBjWC1tSzI1N254aGZYbVk4X3piSWVfdXhWS3RjVU0zUjBva3N6U1pnT0VqZExYenh0MnZqYTNHcWc?oc=5",
-      "site": "新浪军事",
-      "siteUrl": "https://mil.news.sina.com.cn"
-    },
-    {
-      "id": "FL-eebfe2f40291",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 15:40:00 GMT",
-      "ts": 1791042000000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "美内政部证实：霍莱海蚀拱门坍塌 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wU1BQZndvTTdHUjVFdGJHZDVSeHphOFRPczBSbnRITzUtMGdzQjktZkFFOU1uQTNCd09VbUNKNktkQ2xrTFRycTNYNnVLNGZRTEVhT3AtVE1meUJVRVdnZzQ2TTA3WkFGWExzUngxQzY2Vms3WkE?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-c0276181d82d",
@@ -568,6 +580,18 @@
       "siteUrl": "https://sichuan.scol.com.cn"
     },
     {
+      "id": "FL-c46b43ab2a5c",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 11:28:56 GMT",
+      "ts": 1791026936000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "昆明4.3级地震背后的“盲区”真相 预警系统的物理局限与优化方向 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KaUdSb201c09TdmN0djkxa05Xc0NtMlJlbjRkeHh1dlI5NEVJLTNMYW5iTzd2X1RoNXFWR2RGRnk4bTcyMVlTUDFaN09sblpmNXFoVWx4RmQybWRNNTdVNGtmRVNyWVVZWFB3b2FqZVI?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
       "id": "FL-b6047feaba9e",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:06:00 GMT",
@@ -580,28 +604,16 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-9d49e90cff24",
+      "id": "FL-1ca827815743",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 07:36:40 GMT",
       "ts": 1791013000000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海海南州兴海县发生3.1级地震 震源深度10公里 - 中国日报网",
+      "title": "青海海南州兴海县发生3.1级地震 震源深度10公里 - cn.chinadaily.com.cn",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NcXRJcC1xX0hrbFRNTEY4eHNnb0EyX05wM1RCZXlJMmI5dFN5TjFjMHhNbzlQQllqaFJQZDlnYWEzZEFqTmxEZy0yeDBld2lqYl95eWJrZGwwbkR1M3hlNnEwbmRfUnEtMEhTZjhoV05zRkl3WDFSQWFXTTM?oc=5",
-      "site": "中国日报网",
+      "site": "cn.chinadaily.com.cn",
       "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
-      "id": "FL-20eba9e2c572",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 07:11:00 GMT",
-      "ts": 1791011460000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海海南州兴海县发生3.1级地震 震源深度10公里 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2RLeVEtOUNna1V4S1I3ZEdhRjJmdDNvdnhmRnM3cF80N3dGdzdURDBwZU1nZ1JyRUNHU1labGtDaG5XbEF0WW44UEM4Y0J5TC1CZmZ3RHVKc0lNLUdMaTV6SHRaaHlqZGdoN0VwMUVPZXUySEliTjV4Y3JmY0ZvWUVhRlJUZUNzZmdXSlM2YUI3NWpXMG8tZA?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
     },
     {
       "id": "FL-13d2e4b98c0f",
@@ -628,27 +640,15 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-d0772b103c65",
-      "date": "2026-10-03",
-      "dateISO": "Sat, 03 Oct 2026 00:59:10 GMT",
-      "ts": 1790989150000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔泥石流中一失联马国公民生还 已平安归国 - zaobao.com.sg",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vVWQzVlRXNEFGSTFmN2NNOGZ6SjhTXzdmRFpFTllBOVZxRjVsZkZRS2ZydXdrNXhfLXAwVjJJZzdBMC1DejBidi1XV0otdTdOLWdEMjFQbWJLZEZWcmVKMEFiTGV5OE0?oc=5",
-      "site": "zaobao.com.sg",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
-      "id": "FL-123f36a2c22b",
+      "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
       "ts": 1789974000000,
       "scope": "intl",
       "type": "geo",
-      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - news.cn",
+      "title": "台风“杜鹃”带来暴雨 日本关东地区发生山体滑坡 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -664,15 +664,15 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-eaf1d904e975",
+      "id": "FL-4ee97473f1c9",
       "date": "2026-08-14",
       "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
       "ts": 1786690800000,
       "scope": "dom",
       "type": "geo",
-      "title": "浙江长兴突发山洪泥石流致1死3失联 - news.cn",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
-      "site": "news.cn",
+      "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
     {
@@ -686,7 +686,19 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 9
+      "related": 11
+    },
+    {
+      "id": "FL-74bfe6e1915a",
+      "date": "2026-08-07",
+      "dateISO": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "ts": 1786086000000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "国家防总、应急管理部组织多部门联合会商调度部署台风“白海豚”防范应对工作国家防总提升防汛防台风应急响应至三级 - mem.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96S0Z6REh4NTJWMTI1dE9tMFRIYU5DdmdIbE9Sb3ZaZ3R6a3JMclp0Rl9YZ3A4NkVKUlZodHBNYmVYelVLbDdnZWYtZWdxbG1XUHZhTjdzUTMzLUNpVnVPTmIwdEkxTjU1ZFJnMQ?oc=5",
+      "site": "mem.gov.cn",
+      "siteUrl": "https://www.mem.gov.cn"
     },
     {
       "id": "FL-3f679efef255",
@@ -711,18 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mT2JseWhONTFXZ2hlc0xsQ1UyVHpqX2R5OVFZUGNvRVkyWFBEQjJ4UlFvR3FXSU83enZpX3hoTFVVT0ZPVWllVC1CNV9wR3RzU3lJSVI4X2VjWklnSFhDd3pvMkZ2TVFwaFkxT2M5a0VHRUpDWHVVUVR3?oc=5",
       "site": "国际在线",
       "siteUrl": "https://news.cri.cn"
-    },
-    {
-      "id": "FL-286eadbbe480",
-      "date": "2026-10-02",
-      "dateISO": "Fri, 02 Oct 2026 13:18:48 GMT",
-      "ts": 1790947128000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "“肚里的宝宝也在陪我救人！” 昆明地震感人瞬间 孕晚期护士抱起孩子飞奔 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rMjd2dS1yR3hfZlQzdUZQNU1aUzFQZ2hqYTlSeHJETS1YSHo3d0VRS3prQWlhQk1IbXR3ak9NVkF6Y0hSYnFzM2pWU21ETUp1RmppcXpCa184blhiZ1ZTcFlQS1NnUFgxUGtNYzFjc3M?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
     }
   ]
 }
