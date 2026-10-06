@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:44:15.366Z",
+  "updated": "2026-10-06T00:36:50.851Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,15 +63,15 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-b1e667d4d15c",
+      "id": "FL-8ed23c09e627",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
       "ts": 1789644780000,
-      "scope": "dom",
+      "scope": "intl",
       "type": "geo",
-      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - au.china-embassy.gov.cn",
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
-      "site": "au.china-embassy.gov.cn",
+      "site": "中国驻澳大利亚大使馆",
       "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
@@ -243,42 +243,6 @@
       "siteUrl": "https://www.archdaily.com"
     },
     {
-      "id": "FL-5034df7b59cf",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 13:48:00 GMT",
-      "ts": 1791121680000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "19:31:35【美国夏威夷地标霍莱海蚀拱门坍塌】 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYZEhjV2pRT2VTNHdFdG5JVXRDN0hVdEZtOGNQVDZEc08xOC1Ja2JiNVlpcS1vY2ZaOGVELWdIa0lzYmVrM2k1TA?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-d6333cde552c",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 12:42:20 GMT",
-      "ts": 1791117740000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "土耳其奥斯曼尼耶省发生5.2级地震 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkRvTU5lTEpNc0d3Z3pwc212RUMtdzhoRmJ6Sk1mY0pYZm5HcGVuRkNKMHVPdWFSLXJnTV91dHBwODZ3VG9ZRzh1RzNWSXhCUWlGQUt1ZjBYNGVrV1d6aElKRDlxS1pTaDFWczZ3TVBKNVVYZjRtV0RRWnljOEYxcm9tVWp2WTlCYkx3cUdDdTYyeUszcTQ1VXN3Smsxd1FF?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-284742a27cbc",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 12:37:00 GMT",
-      "ts": 1791117420000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "土耳其奥斯曼尼耶省发生5.2级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82a3RJcmRMZm9wMEY0ZklUMVByWi1uQ3AzbEdXQkdzQ3VuSG9kSk8ySUVFb3NSUkJpMWVyRFl2WUw1VTBxN3NWWUZ2Tk9MZkZ0cUZld3lsb2FjQXE2ZXc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-dbacec86a30d",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 12:26:23 GMT",
@@ -327,18 +291,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-05f7c273792e",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 00:05:36 GMT",
-      "ts": 1791072336000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼松巴哇岛发生5.8级地震 震源深度50千米 - news.cnr.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MWWw3QUZDd0dIY0NUSmJPbGttNklFOWF4QXg5RXQtSjJqMFVnd2FnVS1IYzluS0VGS2dSUldnOXY4UHhfcFNDMjNNcWhXelI3RTNXS2pEaVg3RlhqWktyaEwxVXFIRFo5?oc=5",
-      "site": "news.cnr.cn",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -349,7 +301,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSi01QUdYV19RRGFlNWJaNFVxS3ZOWnpxNDRCUXFvaTFKbGhseWdBTUxWbkUyVjFUZC1HeTVldDE1RklLZVVhY2tYNVRGWTFieDBtWmxvbDZDZE1EWVdaWVBydnp3Q3NoVXg3OE03aUdnNW44WHc?oc=5",
       "site": "西藏自治区文化和旅游厅",
       "siteUrl": "https://wlt.xizang.gov.cn",
-      "related": 33
+      "related": 32
     },
     {
       "id": "FL-fb448a3e9124",
@@ -388,15 +340,15 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-14b18e094c83",
+      "id": "FL-b6047feaba9e",
       "date": "2026-10-03",
       "dateISO": "Sat, 03 Oct 2026 09:06:00 GMT",
       "ts": 1791018360000,
       "scope": "intl",
       "type": "fire",
-      "title": "夏威夷火山国家公园标志性的霍莱海蚀拱门坍塌，坠入太平洋 - xinwen.bjd.com.cn",
+      "title": "夏威夷火山国家公园标志性的霍莱海蚀拱门坍塌，坠入太平洋 - 京报网",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wVWtRcl84OVE1MXFST3lQcXhtZlVlUjk4a2paOWhHM3Q5eS1kM3BvYklWVzh0SFFUNE9kZVMwbUg2U0F6VmEzSFpaV1dCcVBhVXJ2dVZXSlNBZUpJSlRKU3h4TjFMX3VRalhGTnlWdkVmdw?oc=5",
-      "site": "xinwen.bjd.com.cn",
+      "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
@@ -410,6 +362,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NcXRJcC1xX0hrbFRNTEY4eHNnb0EyX05wM1RCZXlJMmI5dFN5TjFjMHhNbzlQQllqaFJQZDlnYWEzZEFqTmxEZy0yeDBld2lqYl95eWJrZGwwbkR1M3hlNnEwbmRfUnEtMEhTZjhoV05zRkl3WDFSQWFXTTM?oc=5",
       "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
+    },
+    {
+      "id": "FL-13d2e4b98c0f",
+      "date": "2026-10-03",
+      "dateISO": "Sat, 03 Oct 2026 05:28:40 GMT",
+      "ts": 1791005320000,
+      "scope": "dom",
+      "type": "other",
+      "title": "他刚劝返车辆，下一秒山体瞬间塌方 - 极目新闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wUnlzNjRZdW5XVkZOUFRHTTFhYVlzTTZodnlPSzV4NERxZm1fMUNIOF9sRnFaRmpUYy1fY3E2V3N3RFhMX2tFZ292eFdPbmxPMDk0cUxkWW1uWXM?oc=5",
+      "site": "极目新闻",
+      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-ab0d9b70f2c4",
@@ -436,6 +400,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a1805c3b6467",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 22:51:12 GMT",
+      "ts": 1791240672000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "缅甸发生3.9级地震，震源深度10千米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkFreDhqclFqd08tTlIyWE1SdGNlX2RISThhdmk3ZzdObkpoQUpKeGJWckM2aXBSeHdTd2t3M0FYbXYtYnRySG9TUzdWTllha1VuNWUzUzEzNEJtZ3U1akM5OW9kTnY1TERQcW5jNE9OdlJyV05pUy15MWZIeW11Y3Nad0NhNkNO?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-34bac7f6aae1",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 15:48:24 GMT",
@@ -446,6 +422,30 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2cxQWZVSGR0QUJPRDA3b1FEeVJjTjdmRkY4WXo2a2gtdVFjVlN6SFRtSWEydWpSakpHclI0N290Mk90Nnp4aHFLdnVhdHBRQjA1TmZQa3V6Y1B1WjhaaGR4TjYxRGRhU1UtV0dyTTM5alcwUHFkUEtKclJkQ01sUHZ5dTRSLUN6eWxvdHFoQkJ5dElhRkZ0VlJrVmJKWFhrMFBNWDh6QWdfaXgzY3JCNE1tVWEtNms?oc=5",
       "site": "富途牛牛",
       "siteUrl": "https://news.futunn.com"
+    },
+    {
+      "id": "FL-f53bd711194a",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 15:40:50 GMT",
+      "ts": 1791214850000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测定......_7x24快讯_新浪财经 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94VU8zY1Y5Zl94VXJobmxqNS1HMUc1SnJKSG5BNGpJQ2RjTmw2WlFBZHNua3NLZzVGbm9NSzdSZmpMRnc0WThOaTZXMHZKaHM?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-1559b01c0082",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 15:38:00 GMT",
+      "ts": 1791214680000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "财联社10月5日电，中国地震台网自动测定：10月05日23时38分在云南德宏州盈江县附近（北纬24.58度，东经97.58度）发生4.0级左右地震，最终结果以正式速报为准。 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMbUNUUW1OX2NnLUE4RmZBNGo4S25xWkJNM2RRQ1FUeXJMNFRQWmVBbTZwWmVhSHdrT2ZzVjhTWHJ3YW1WNFE?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://m.cls.cn"
     },
     {
       "id": "FL-99631a9ce01b",
@@ -460,16 +460,16 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-aebb18c9ae18",
+      "id": "FL-09fcd5901f56",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 14:37:00 GMT",
       "ts": 1791211020000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏那曲市申扎县发生3.6级地震 - finance.eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Qk9MOF9kZVgzSU9wZ242Ym8tSTc4SUE5WG5aaXlXWWJ5aExuTUQwUllKTmd4M0l0aHd6MHNaR2RSdmR6ZnAtUDg3eW91dDRfemhoQVgxc2E0T1BqSFVIZTgwbnM?oc=5",
-      "site": "finance.eastmoney.com",
-      "siteUrl": "http://finance.eastmoney.com"
+      "title": "西藏那曲市申扎县发生3.6级地震 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iTmRVU2hKNlJZdWh0MjdFSTdtQ1NCSVctSHdFcER0YkVWVDhWSGZJcUxVa25adHhZcldmNU5ZLV9qMkNZWDBYMGItc2xNTTVmTVRwWW9McVdmazBma1VCNEhWcHNDZw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://finance.eastmoney.com"
     },
     {
       "id": "FL-05b6d51ff290",
@@ -494,6 +494,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pOUJlNjVQTFBoYklMcUFCNGpjQVB6dzdDbVVSYkQ5WUFENGM5LTd4bE94SGJRMGg3MzZBZ3hCbXMybzN3UU9lMmxienBvRlJ6NHN3M1VDOUdnUmlzaEFWRGZNZkVJajZfeGFqRVpodzJuQQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-0401b7dcdfb8",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 12:54:36 GMT",
+      "ts": 1791204876000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测定：10月05日23时38分在云南德宏州盈江县附近发生4.0级左右地震最终结果以正式速报为准 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KOXNoelVZMnk5VUw2bERCa204Nm5LY2ktVGE5NVVhb18wVzhWcjFybXJfSjRkSE1POFFoTHJES1pBazlIRXRDRXM1R2Zvcm5IYjFpMEFKanNaQmp2eEp3TEt5UQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-8afa1f1dbc2f",
@@ -539,7 +551,7 @@
       "scope": "dom",
       "type": "geo",
       "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRMFV5UHlMX0lYb1hBeWtIOTdHdlF5WnhOSkw1ZU1PZFJGdGdCT3h5emZxZUdKRG5PTUFpNzNXRlVLMEJTMTBQSko3TQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZUmp5MnJuOHE1ZWkwTWpOUVJhTEEwSHhkbmtUMldDTDlaalJ6YXpnNDhFbXpIb0VIeDluMnlOWmJzY0F6cVJta3QxTWlkV28?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://wap.cj.sina.cn"
     },
@@ -566,18 +578,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCMkh1eE5meGl3MHYzVUgyMUZxRkJCUllvUmg1Mk15bXFNSmsxZDVjSHdHRWVXeDFoV0VqTDk3S0pSTU1rd0xBaEx0aFBpNS1CQzdlbGpEcGhsMmhudklvTWJsa3UtYk9pZ0tPS0Jqd3Z6ZXhYUTdEWQ?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-5461ca105972",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 08:11:38 GMT",
-      "ts": 1791187898000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川小金发生山体滑坡，当地回应 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWR1NU5rdUdmMmlVRURnUEJyR1FsNzkteXFxeG04a1ZYQW5KM2R0UTN2NzkwSmtrdzFPd3pUMHM5bEdnRXZTVFMwcm5ZWWZaTV8zWHpsVWgzNTczNjNPa29BdGhhVWpHN2o4UXNmR2hlSlo3YjA5RjA5XzBXdUNOankwb09jOHZF?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-5dcd8815f63f",
@@ -664,28 +664,28 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-ec0773bdc460",
+      "id": "FL-8f30f5912b9c",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 00:59:00 GMT",
       "ts": 1791161940000,
       "scope": "intl",
       "type": "fire",
-      "title": "知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”(含视频)|夏威夷火山国家公园|国家公园管理局|内政部|热带风暴|社交媒体 - 新浪新闻_手机新浪网",
+      "title": "知名地标霍莱海蚀拱门，确认坍塌，“已沉入太平洋”(含视频)|夏威夷火山国家公园|国家公园管理局|内政部|热带风暴|社交媒体 - 新浪新闻",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VQ1lzeEw1QVpPOW54SzJYbDRXZWFhemI4b1RucmZxWmdPVUhWR3pUanY5cTJZSFNMTm9QRWpudHpob2pjb0ZhSDFtS2ViTTB2dWtxLWRlVFRDc0hkY3J6cGc1WmhZN2Z0cHh2c256NG8?oc=5",
-      "site": "新浪新闻_手机新浪网",
+      "site": "新浪新闻",
       "siteUrl": "https://news.sina.com.cn"
     },
     {
-      "id": "FL-0401b7dcdfb8",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 00:55:08 GMT",
-      "ts": 1791161708000,
+      "id": "FL-e8a32a183e42",
+      "date": "2026-08-28",
+      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "ts": 1787900400000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网自动测定：10月05日23时38分在云南德宏州盈江县附近发生4.0级左右地震最终结果以正式速报为准 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SeWR6U3VtNU1SZkdmaXBzdF9wNEczMkxDcnd6SXRfbWI3aUNCejVDblRHT1p6aXNGWm9mSEV5MTBvSVktVlh6cmRQcHd0OTdISlBGbWhqby1YYVZMX0xwaw?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
+      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4ee97473f1c9",
