@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:43:39.155Z",
+  "updated": "2026-10-06T23:35:51.559Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,16 +39,52 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
-      "id": "FL-e3139c0b74cc",
+      "id": "FL-0ec45171b832",
       "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 19:19:00 GMT",
-      "ts": 1791314340000,
+      "dateISO": "Tue, 06 Oct 2026 23:23:14 GMT",
+      "ts": 1791328994000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆吐鲁番市托克逊县发生4.4级地震，救援先遣队赶赴震中 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBbkNESE5EeEVzUDZiTGtwS2JNVkhqRjNGaDBTVF9ZWGhqclFxU2FEenczeDllSHhfbEtlbzRZRXJHNnBqVDhFUExNR28zSUxhbjJtbVVLdXFiM3hwOHdfNQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "新疆吐鲁番市托克逊县发生4.4级地震 震源深度20千米 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY19maU1FMVJ6NjAxRHpqZ0p4aDJMRzFCRWh4YWRCeTZpcXBJNHpMU0d5SzlJeFVXV1lrOVlGcDBHeEZHY1VxVmdMeDlrQkM3MVhWeDFMTnhESWphSlFMZWhFZk0xTEFlVm5rbjZxSWNJM1Y4ZUd4WEZ1MWhxbUVYb0hiRV9IcFMtU2FWcg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-85e4f830bd90",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 22:56:58 GMT",
+      "ts": 1791327418000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国阿拉斯加州发生5.5级地震，震源深度80千米 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3RVZ1gtMnZ6bVlUNzV4WlRIdHdzYVQxQUYtYkI4TEpSR0lOQ04xZDNJcjViY1B4SEJGRmxUTHlQQXcwZnVLYmh5T28tMzg5a0p2VW5nUWhMTlpmSVUwR2R2QW5ndDVKd2dIVERLenVvSUpldF92YU1nZUdXVTNBQ2Y1YmhodmFi?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c83792be8b73",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 22:27:00 GMT",
+      "ts": 1791325620000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国阿拉斯加州发生5.5级地震，震源深度80公里 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kV0MxVzFJem5EUEpRODJ6RXprZGZEdGZSUGJ1R1FONFVuOVpyd2FwR0J3MGZmYTNVYkpjeWdnejJGWDZEaE1BT3J4c0dsaGhiLWpWakp2Z1V3UTJ3TDMzUXhVMWxXWHd2V0pvUlV5eGZGTjFBVmFuQw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
+    },
+    {
+      "id": "FL-c7da54e8499e",
+      "date": "2026-10-06",
+      "dateISO": "Tue, 06 Oct 2026 22:25:00 GMT",
+      "ts": 1791325500000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆吐鲁番市托克逊县发生4.4级地震 救援先遣队赶赴震中 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zaXQ1T3FxTnh2b3RzcXhpUTg1RnFwSFlVT19IWjdpLUVEbkQ4YlRWamc1d0ppREloS2ZYUG41NFZiaThFbXhyNHB2MHB0ck5MVjNwRy1hWEpvVnNwVXA3WUhtYWRTc0lFRTE1RGI1SVJNaUh1ZFZnMA?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "https://finance.sina.com.cn"
     },
     {
       "id": "FL-9ad6300acef4",
@@ -85,18 +121,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DVG5wekx2MjFiNUdKa0taVWRTNnFNVlpveVVSd3VPY2ZUcm5UVEVIMEY5T2d2T1lzcDdndEJSU1NleklWSVlUcFQteS1tb3Q5WGN0UW1UaE1lVmdwNjk2ZQ?oc=5",
       "site": "东方财富",
       "siteUrl": "https://wap.eastmoney.com"
-    },
-    {
-      "id": "FL-f29d69b5ef7a",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 15:32:11 GMT",
-      "ts": 1791300731000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "蔡康永双面人设崩塌，官媒下场痛批！ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdDJvMGpCdE00VXhnNmE4SXN6ejhFWW9kV1hRT3RFTmtkbko1MG5OLThobTMxV3ZpbFVHZ0dwNUU0UXE0TjR0aGlJNWtkQk8yOVI1YlhwdVk1c1NrdEtpcE5XZWdzd2pNVlNzWXZBSTZjUUdERDV2NDBWOEJEQm1HZ3Z6X1BvM2VsY09pVw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-42fba8a8b934",
@@ -267,18 +291,6 @@
       "siteUrl": "https://news.un.org"
     },
     {
-      "id": "FL-8ed23c09e627",
-      "date": "2026-09-17",
-      "dateISO": "Thu, 17 Sep 2026 11:33:00 GMT",
-      "ts": 1789644780000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
-      "site": "中国驻澳大利亚大使馆",
-      "siteUrl": "https://au.china-embassy.gov.cn"
-    },
-    {
       "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
@@ -291,16 +303,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-89d6589d1504",
-      "date": "2026-08-30",
-      "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
-      "ts": 1788073200000,
-      "scope": "dom",
+      "id": "FL-8ed23c09e627",
+      "date": "2026-09-17",
+      "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "ts": 1789628400000,
+      "scope": "intl",
       "type": "geo",
-      "title": "西藏泥石流：中国审查洪灾冲击口岸画面，当地灾民情况我们所知甚少 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "title": "刘劲松大使就中尼边境泥石流灾害在《澳金融评论报》发表署名文章 - 中国驻澳大利亚大使馆",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
+      "site": "中国驻澳大利亚大使馆",
+      "siteUrl": "https://au.china-embassy.gov.cn"
     },
     {
       "id": "FL-03e1c60639f5",
@@ -313,18 +325,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-3162c92b134a",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 23:38:00 GMT",
-      "ts": 1791157080000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市高县发生3.8级地震 震源深度5公里 - 新蓝网",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rWlNXLUF1dXUza09jUEtEY2NFejZaNkdVU08xSzZOSHh6dGo2d1E3d3pFbVR2RjZxcmNvWmh5QUQydml5d2k1bTBGSUl5bnc?oc=5",
-      "site": "新蓝网",
-      "siteUrl": "https://www.cztv.com"
     },
     {
       "id": "FL-aefe1e4523ac",
@@ -351,6 +351,18 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
+      "id": "FL-b46f69e9600a",
+      "date": "2026-10-04",
+      "dateISO": "Sun, 04 Oct 2026 17:45:41 GMT",
+      "ts": 1791135941000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生3.8级地震 震源深度5公里 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObUdZM2s3NkdQTkczTDdWejBmVTh6eGFZM2JvM3BseC1SQzIyQnB5cFpPRUxDckt5RVk4NktZdG1EOEhMWDBqS0owUkV2bjlSNEtqVUw2bjVfanJZM1FEYk5uUTdlV2tTYWRUbWVDZ3dXa0VaOHI2Y1NKS3RkZFNNOWx2VQ?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://www.cnr.cn"
+    },
+    {
       "id": "FL-faf32a0f7198",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 16:55:41 GMT",
@@ -373,18 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Zb3JGR1ZsTEFDYzh0cXd5Y1BLUk1saGQxVDFrOUhveW5GcGdteXZ1WXpLMFV0WjQtdlpueVpIZDE4QnRWRlhUQkxXZGlkYk9wVWViek1qSENJUV9JMkRKd2dEZ1RCSkNl?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-e3aa11524944",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 11:06:00 GMT",
-      "ts": 1791111960000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "美国夏威夷地标霍莱海蚀拱门坍塌 - 新蓝网",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xb3dacFdWUHNDTVJ5a2Z1YzlTeXVQN2tKblRGUWtwRGhZY3YxRE8zR2R1bzg5bFk0a1RjYWRYTWNQempNdzdrbV9RbGhVUXc?oc=5",
-      "site": "新蓝网",
-      "siteUrl": "https://www.cztv.com"
     },
     {
       "id": "FL-a0e18baa4518",
@@ -433,7 +433,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSi01QUdYV19RRGFlNWJaNFVxS3ZOWnpxNDRCUXFvaTFKbGhseWdBTUxWbkUyVjFUZC1HeTVldDE1RklLZVVhY2tYNVRGWTFieDBtWmxvbDZDZE1EWVdaWVBydnp3Q3NoVXg3OE03aUdnNW44WHc?oc=5",
       "site": "西藏自治区文化和旅游厅",
       "siteUrl": "https://wlt.xizang.gov.cn",
-      "related": 30
+      "related": 31
     },
     {
       "id": "FL-676735fca8f3",
@@ -604,18 +604,6 @@
       "siteUrl": "https://finance.sina.cn"
     },
     {
-      "id": "FL-03480f8bc3e0",
-      "date": "2026-10-05",
-      "dateISO": "Mon, 05 Oct 2026 07:58:20 GMT",
-      "ts": 1791187100000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川小金发生山体滑坡，事发时一辆面包车正经过，当地回应：无人员伤亡，降雨较多导致400方山体滑坡 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0dKbVJyQm5oSW9XdHRBU1U4dW1fampFd2xLWGNtdGhHNUg3ZDI4eDdseURZRnM2aXNtUXZXbHZqQ25wZk1nQXFfOE83dFVGdEg1b0dxRlNYRThGUTBlM3FDTV9fOUdPZFI5VW0wUm1fN1NlWnJEVWpxelZReEdzWlltLUFqM2ty?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-4c2ea0b6949f",
       "date": "2026-10-05",
       "dateISO": "Mon, 05 Oct 2026 02:33:46 GMT",
@@ -662,6 +650,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iMkNDYmNuWDZPeTJOYkNaaFpfeUtuUXdsMUFSQ3JHc0JWT0JLRU1TNEZZcEd6Z2t3aUQzRXo1N0JHenU5ZjBLTEtFZUJlOVFWaEdUb081NldSVDg?oc=5",
       "site": "风闻",
       "siteUrl": "https://user.guancha.cn"
+    },
+    {
+      "id": "FL-205f80d4c6a9",
+      "date": "2026-10-05",
+      "dateISO": "Mon, 05 Oct 2026 01:00:05 GMT",
+      "ts": 1791162005000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "美国夏威夷地标霍莱海蚀拱门坍塌 - 红网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90amdnLTFROWgtX0p6OGtROFdDSFU0TE9GZlNLYV9WUjFJX25GcGd1RkdKZm1FdHd4emZsYnFISmRmNm5fRXZyUzFOLXFYXzJwQVpaOExMaDI4dkdUS3lPMWZrelM?oc=5",
+      "site": "红网",
+      "siteUrl": "https://news.rednet.cn"
     },
     {
       "id": "FL-0401b7dcdfb8",
@@ -722,7 +722,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
       "site": "人民日报",
       "siteUrl": "http://paper.people.com.cn",
-      "related": 6
+      "related": 8
     }
   ]
 }
