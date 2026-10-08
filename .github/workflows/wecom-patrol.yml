@@ -27,7 +27,7 @@ jobs:
       - name: Patrol & push WeCom
         env:
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
-          PATROL_DRY_RUN: '0'   # 正式推送模式（每小时整点，推上一小时内重大事件）
+          PATROL_DRY_RUN: '1'   # 临时干跑验证（新信源+自适应时间窗），验证后改回 '0'
         run: node scripts/wecom-patrol.mjs
 
       - name: Commit patrol state
