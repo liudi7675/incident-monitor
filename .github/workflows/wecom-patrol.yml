@@ -32,16 +32,29 @@ jobs:
 
       - name: Commit patrol state
         run: |
+          STATE=data/wecom-patrol-state.json
           if [ -z "$(git status --porcelain)" ]; then
             echo "no state change, skip commit"
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add -f data/wecom-patrol-state.json
-            git commit -m "chore(data): update wecom patrol state $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "nothing to commit"
-            for i in 1 2 3; do
-              git pull --rebase origin main && git push && break
-              echo "push retry $i..."
-              sleep 10
-            done
+            exit 0
           fi
+          # 外部定时器每 15 分钟触发一次，而每轮运行都会刷新 lastRunTs。
+          # 若无条件提交，会产生每天约 96 次 bot 提交并连带触发同样次数的 Pages 部署。
+          # 因此只在「确实推送了新事件」或「距上次状态提交已超过 6 小时」时才提交。
+          OLD_PUSHED=$(git show HEAD:$STATE 2>/dev/null | python3 -c "import sys,json;print(json.dumps(json.load(sys.stdin).get('pushed',{}),sort_keys=True))" 2>/dev/null || echo '{}')
+          NEW_PUSHED=$(python3 -c "import json;print(json.dumps(json.load(open('$STATE')).get('pushed',{}),sort_keys=True))")
+          OLD_UPDATED=$(git show HEAD:$STATE 2>/dev/null | python3 -c "import sys,json;print(json.load(sys.stdin).get('updated',''))" 2>/dev/null || echo '')
+          OLD_TS=$(date -d "$OLD_UPDATED" +%s 2>/dev/null || echo 0)
+          AGE=$(( $(date +%s) - OLD_TS ))
+          if [ "$OLD_PUSHED" = "$NEW_PUSHED" ] && [ "$AGE" -lt 21600 ]; then
+            echo "本轮无新推送且上次状态提交在 $((AGE / 60)) 分钟前（<6h），跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f "$STATE"
+          git commit -m "chore(data): update wecom patrol state $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "nothing to commit"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push retry $i..."
+            sleep 10
+          done
