@@ -1,11 +1,14 @@
 /**
  * wecom-patrol.mjs —— 纯云端重大事件巡检推送（GitHub Actions 定时运行，不依赖本机）
  *
- * 逻辑（2026-09-21 用户规则收紧）：
- *  1. 信源只收官方：谷歌新闻 RSS 限定 site:news.cn(新华网) / site:gov.cn(政府网) / site:mem.gov.cn(应急部)
+ * 逻辑（2026-10-08 修订）：
+ *  1. 信源：新闻站优先（site:news.cn / xinhuanet.com / mem.gov.cn）；gov.cn 单独查询且必须与伤亡词共现
  *  2. 重点关键词：X死、X伤、X失联、火灾、爆炸、重大灾害、中央领导批示指示
  *  3. 推送门槛：死亡+受伤+失联 合计 ≥2 人；批示/指示/重大事故不论伤亡
- *  4. 过程报道/科普/救援进展类（无伤亡数字）一律不推；同事件伤亡数字无变化不重推
+ *  4. 排除：过程报道/科普/评论/演练、政府公文公示（隐患清单、调查报告、公示公告）、老事件后续报道
+ *  5. 时间窗自适应：回看"自上次运行以来"发布的消息（下限3h/上限24h），
+ *     因为 GitHub 会把高频 cron 降频（实测每天仅运行 4-5 次），固定窗口会整批漏抓
+ *  6. 去重：同一事件伤亡数字无变化不重推，数字增加才推进展
  *
  * 消息五要素：标题 + 伤亡统计 + 发布时间 + 地址（从标题提取省市县）+ 来源渠道。
  * 运行：node scripts/wecom-patrol.mjs （需环境变量 WECOM_WEBHOOK）
@@ -20,7 +23,12 @@ const STATE_FILE = join(__dirname, '..', 'data', 'wecom-patrol-state.json');
 const WEBHOOK = (process.env.WECOM_WEBHOOK || '').trim();
 const DRY_RUN = process.env.PATROL_DRY_RUN === '1'; // 干跑模式：只打日志不发群（测试期用）
 const MAX_PUSH = 3;          // 每轮最多推送条数（防刷屏）
-const FRESH_HOURS = 2;       // 只推最近 N 小时内发布的消息（覆盖上一小时 + 冗余，去重保证不重推）
+/* 时间窗（2026-10-08 改为自适应）：GitHub 会把高频 cron 降频到每天只有几次，
+ * 固定 2 小时窗口会导致"运行间隔 > 窗口"时整批漏抓 → 改为回看"自上次成功运行以来"
+ * 发布的消息，下限 3 小时、上限 24 小时，配合状态去重保证既不漏推也不重推。 */
+const WIN_MIN_H = 3;         // 最小回看窗口（小时）
+const WIN_MAX_H = 24;        // 最大回看窗口（小时，防首次运行灌入大量旧闻）
+const WIN_PAD_MS = 30 * 60000; // 上次运行时间往前留 30 分钟缓冲
 const STATE_TTL_MS = 7 * 86400000; // 去重状态保留7天
 
 if (!WEBHOOK) {
@@ -28,14 +36,18 @@ if (!WEBHOOK) {
   process.exit(0);
 }
 
-/* ---------------- 数据源（只收官方：新华网 / 政府网 / 应急管理部） ---------------- */
+/* ---------------- 数据源（新闻站优先：新华网/应急部；gov.cn 需与伤亡词共现） ----------------
+ * 2026-10-08 修复：原先 site:gov.cn 混入大量"消防宣传/检查/会议/公示"公文页（24h 内 189 条中
+ * 157 条非事件），真正的事故报道几乎抓不到 → 改为新闻站为主、gov 站查询强制绑定伤亡词。 */
 const Q = (q) => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q);
 const CN = '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans';
-const SITE_LIMIT = '(site:news.cn OR site:xinhuanet.com OR site:gov.cn OR site:mem.gov.cn)';
+const SITE_NEWS = '(site:news.cn OR site:xinhuanet.com OR site:mem.gov.cn)';
 const SOURCES = [
-  { name: 'fire-blast', url: Q(`火灾 OR 爆炸 OR 起火 OR 燃爆 OR 坍塌 OR 塌方 when:2d ${SITE_LIMIT}`) + CN },
-  { name: 'casualty', url: Q(`死亡 OR 遇难 OR 失联 OR 失踪 OR 伤亡 OR 被困 when:2d ${SITE_LIMIT}`) + CN },
-  { name: 'leader-response', url: Q(`批示 OR 重要指示 OR 重大事故 OR 特别重大 OR 国务院工作组 OR 应急响应 when:2d ${SITE_LIMIT}`) + CN },
+  { name: 'casualty', url: Q(`("遇难" OR "死亡" OR "失联" OR "受伤" OR "被困") (事故 OR 火灾 OR 爆炸 OR 泥石流 OR 滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 坍塌) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'accident', url: Q(`(火灾 OR 爆炸 OR 燃爆 OR 坍塌 OR 塌方 OR 矿难 OR 透水 OR 沉船 OR 坠机 OR 事故) (致|造成|已致|伤亡) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'disaster', url: Q(`(泥石流 OR 山体滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 溃坝 OR 龙卷风) (遇难 OR 死亡 OR 失联 OR 受伤 OR 转移 OR 救援) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'leader', url: Q(`(习近平 OR 李强 OR 张国清 OR 国务院安委会 OR 应急管理部) (批示 OR 重要指示 OR 作出指示 OR 挂牌督办 OR 提级调查) (事故 OR 灾害 OR 救援) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'gov-notice', url: Q(`(事故 OR 灾害) ("遇难" OR "死亡" OR "失联" OR "受伤") when:3d site:gov.cn`) + CN },
 ];
 
 /* ---------------- 过滤规则 ---------------- */
@@ -65,7 +77,14 @@ const CASUALTY_WORD_RE = /(遇难|失联|失踪|死亡|罹难|伤亡|被困|牺�
 /* 评论/过程报道/科普类排除（用户点名：救援过程、"跑赢泥石流的23分钟"类特写、科普等不推） */
 const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|记者走进|追忆|缅怀|亲历者|讲述|逃生者|之问|如何看|为何|说明了什么|背后|23分钟|特写|侧记|手记|日记|现场直击)/i;
 /* 非事件活动类排除（演练/科普/培训/预警/会议等） */
-const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|安全知识|防范|避险|自救|逃生技巧|宣传|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|常委会|政治局|党组会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|安全知识|防范|避险|自救|逃生技巧|宣传|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+
+/* 政府公文/公示类排除（2026-10-08 新增）：隐患清单、事故调查报告、公示通告等不是"新发生的事件"，
+ * 但常因含"事故/重大事故"字样而误过门槛（诊断中出现的"重大事故隐患正在整改清单"即属此类）。 */
+const DOC_RE = /(隐患|整改|清单|公示|公告|公开目录|调查报告|回溯调查|事故认定|批复|招标|采购|中标|考核|表彰|评选|问责情况|处理结果|宣判|起诉|判决|工作方案|实施方案|应急预案|条例|办法|标准|规划|通知|通报制度|检查计划|双随机)/i;
+
+/* 老事件后续报道排除（事故调查报告/回溯/纪念/回顾等，避免把已推事件的后续文推一遍） */
+const FOLLOWUP_RE = /(调查报告|回溯|追忆|回顾|纪念|一周年|两周年|警示录|以案促改|举一反三)/i;
 
 /* 标题清洗：去掉谷歌新闻的"XXX消息丨"前缀和结尾" - 来源" */
 function cleanTitle(t) {
@@ -223,16 +242,30 @@ async function main() {
     await new Promise(r => setTimeout(r, 1200));
   }
 
-  // 2. 逐条过滤：国内 + 事件类型 + 伤亡门槛 + 非过程/科普 + 时效
-  const minTs = Date.now() - FRESH_HOURS * 3600000;
+  // 2. 读取去重状态（提前读取，用于计算自适应时间窗）
+  mkdirSync(dirname(STATE_FILE), { recursive: true });
+  let state = { updated: '', pushed: {} };
+  try { state = { ...state, ...JSON.parse(readFileSync(STATE_FILE, 'utf8')) }; } catch { /* 首次运行 */ }
+  const now = Date.now();
+
+  /* 自适应时间窗：回看"自上次运行以来"发布的消息（下限3h、上限24h） */
+  const lastRun = Number(state.lastRunTs) || 0;
+  const winStart = Math.min(
+    now - WIN_MIN_H * 3600000,                                            // 至少回看 3 小时
+    Math.max(now - WIN_MAX_H * 3600000, lastRun ? lastRun - WIN_PAD_MS : now - WIN_MIN_H * 3600000),
+  );
+  console.log(`时间窗: ${((now - winStart) / 3600000).toFixed(1)} 小时（上次运行 ${lastRun ? ((now - lastRun) / 3600000).toFixed(1) + 'h 前' : '无记录'}）`);
+
+  // 3. 逐条过滤：国内 + 事件类型 + 伤亡门槛 + 非过程/科普 + 时效
   const candidates = [];
   const seenTitle = new Set();
   for (const it of all) {
     if (seenTitle.has(it.title)) continue;
     seenTitle.add(it.title);
-    if (!it.ts || it.ts < minTs) continue;                    // 超过时间窗的旧闻不推
+    if (!it.ts || it.ts < winStart) continue;                 // 时间窗外
     if (COMMENT_RE.test(it.title)) continue;                  // 评论/过程报道/特写类
     if (ROUTINE_RE.test(it.title)) continue;                  // 例行预报
+    if (DOC_RE.test(it.title) || FOLLOWUP_RE.test(it.title)) continue; // 公文公示 / 老事件后续报道
     if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) continue; // 国外事件
     if (!EV_TYPE_RE2.test(it.title)) continue;                // 必须是事故/灾害类
     if (NON_EVENT_RE.test(it.title)) continue;                // 演练/科普/预警/培训类
@@ -245,7 +278,7 @@ async function main() {
   }
   console.log(`候选重大事件: ${candidates.length} 条`);
 
-  // 3. 可信度把关：信源已限定官方站点，仍按域名/媒体名双判，非官方来源一律不推
+  // 4. 可信度把关：信源已限定官方站点，仍按域名/媒体名双判，非官方来源一律不推
   const trusted = candidates.filter(c => {
     c.official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
     return c.official;
@@ -255,11 +288,7 @@ async function main() {
     console.log(`[候选] ${c.official ? '官方源' : '非官方'}|死${c.deaths}伤${c.injured}失联${c.missing}|${c.title.slice(0, 45)}`);
   }
 
-  // 5. 去重状态
-  mkdirSync(dirname(STATE_FILE), { recursive: true });
-  let state = { updated: '', pushed: {} };
-  try { state = { ...state, ...JSON.parse(readFileSync(STATE_FILE, 'utf8')) }; } catch { /* 首次运行 */ }
-  const now = Date.now();
+  // 5. 清理过期去重记录
   for (const [id, info] of Object.entries(state.pushed)) {
     if (now - info.ts > STATE_TTL_MS) delete state.pushed[id];
   }
@@ -305,6 +334,7 @@ async function main() {
 
   // 7. 写状态（无论是否推送都更新，供工作流 commit 去重持久化）
   state.updated = new Date().toISOString();
+  state.lastRunTs = now;   // 自适应时间窗的下次起点
   writeFileSync(STATE_FILE, JSON.stringify(state, null, 2), 'utf8');
   console.log(`状态已写入，累计已推 ${Object.keys(state.pushed).length} 个事件`);
 }
