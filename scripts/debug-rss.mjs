@@ -72,10 +72,10 @@ for (const src of SOURCES) {
   await new Promise(r => setTimeout(r, 1500));
 }
 
-console.log('\n############ 漏斗诊断（24h 内条目逐条判定）############');
+console.log('\n############ 漏斗诊断（24h 内条目逐条判定，不计时间窗）############');
 const seen = new Set();
 let n24 = 0;
-const stage = { 时间窗: 0, 评论过程: 0, 例行预报: 0, 境外: 0, 非事件类型: 0, 演练科普: 0, 门槛不足: 0 };
+const stage = { 评论过程: 0, 例行预报: 0, 境外: 0, 非事件类型: 0, 演练科普: 0, 门槛不足: 0 };
 const survivors = [];
 for (const it of all) {
   if (seen.has(it.title)) continue;
@@ -84,8 +84,7 @@ for (const it of all) {
   if (ageH > 24 || ageH < 0) continue;
   n24++;
   let verdict = null;
-  if (ageH > 2) { stage.时间窗++; verdict = `时间窗外(${ageH.toFixed(1)}h)`; }
-  else if (COMMENT_RE.test(it.title)) { stage.评论过程++; verdict = '评论/过程报道'; }
+  if (COMMENT_RE.test(it.title)) { stage.评论过程++; verdict = '评论/过程报道'; }
   else if (ROUTINE_RE.test(it.title)) { stage.例行预报++; verdict = '例行预报'; }
   else if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) { stage.境外++; verdict = '境外事件'; }
   else if (!EV_TYPE_RE2.test(it.title)) { stage.非事件类型++; verdict = '非事故/灾害类型'; }
@@ -97,11 +96,11 @@ for (const it of all) {
     if (!major) { stage.门槛不足++; verdict = `门槛不足(死${deaths}伤${injured}失联${missing})`; }
     else {
       const official = (it.siteUrl && OFFICIAL_DOMAINS.test(it.siteUrl)) || OFFICIAL_NAME_RE.test(it.site);
-      verdict = `✅通过(死${deaths}伤${injured}失联${missing}) 官方源=${official}`;
-      survivors.push({ ...it, deaths, missing, injured, official });
+      verdict = `✅可推(死${deaths}伤${injured}失联${missing}) 官方源=${official}`;
+      survivors.push({ ...it, deaths, missing, injured, official, ageH });
     }
   }
-  console.log(`  [${ageH.toFixed(1)}h][${it.src}] ${verdict} | ${it.title.slice(0, 55)}`);
+  if (verdict.startsWith('✅') || verdict.startsWith('门槛')) console.log(`  [${ageH.toFixed(1)}h][${it.src}] ${verdict} | ${it.title.slice(0, 55)}`);
 }
 console.log(`\n24h 内条目: ${n24} 条`);
 console.log('各层丢弃统计:', JSON.stringify(stage, null, 0));
