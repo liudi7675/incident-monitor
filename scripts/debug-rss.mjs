@@ -6,13 +6,15 @@
  */
 const Q = (q) => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q);
 const CN = '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans';
-const SITE_LIMIT = '(site:news.cn OR site:xinhuanet.com OR site:gov.cn OR site:mem.gov.cn)';
+const SITE_NEWS = '(site:news.cn OR site:xinhuanet.com OR site:mem.gov.cn)';
 
-/* 与线上巡检完全一致的 3 个信源 */
+/* 与线上巡检完全一致的 5 个信源（2026-10-08 版） */
 const SOURCES = [
-  { name: 'fire-blast', url: Q(`火灾 OR 爆炸 OR 起火 OR 燃爆 OR 坍塌 OR 塌方 when:2d ${SITE_LIMIT}`) + CN },
-  { name: 'casualty', url: Q(`死亡 OR 遇难 OR 失联 OR 失踪 OR 伤亡 OR 被困 when:2d ${SITE_LIMIT}`) + CN },
-  { name: 'leader-response', url: Q(`批示 OR 重要指示 OR 重大事故 OR 特别重大 OR 国务院工作组 OR 应急响应 when:2d ${SITE_LIMIT}`) + CN },
+  { name: 'casualty', url: Q(`("遇难" OR "死亡" OR "失联" OR "受伤" OR "被困") (事故 OR 火灾 OR 爆炸 OR 泥石流 OR 滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 坍塌) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'accident', url: Q(`(火灾 OR 爆炸 OR 燃爆 OR 坍塌 OR 塌方 OR 矿难 OR 透水 OR 沉船 OR 坠机 OR 事故) (致|造成|已致|伤亡) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'disaster', url: Q(`(泥石流 OR 山体滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 溃坝 OR 龙卷风) (遇难 OR 死亡 OR 失联 OR 受伤 OR 转移 OR 救援) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'leader', url: Q(`(习近平 OR 李强 OR 张国清 OR 国务院安委会 OR 应急管理部) (批示 OR 重要指示 OR 作出指示 OR 挂牌督办 OR 提级调查) (事故 OR 灾害 OR 救援) when:3d ${SITE_NEWS}`) + CN },
+  { name: 'gov-notice', url: Q(`(事故 OR 灾害) ("遇难" OR "死亡" OR "失联" OR "受伤") when:3d site:gov.cn`) + CN },
 ];
 
 /* 与线上一致的过滤规则（只做诊断，不参与推送） */
@@ -24,7 +26,9 @@ const NUM_MISSING_RE = [/(\d+)\s*人?(?:仍然)?失联/, /失联\s*(\d+)\s*人/,
 const NUM_INJURED_RE = [/(\d+)\s*人(?:受|轻|重)伤/, /(?:受|轻|重)伤\s*(\d+)\s*人/, /(\d+)\s*伤/];
 const MAJOR_WORD_RE = /(特别重大|重大(事故|灾害|火灾|爆炸|交通事故|生产安全事故)|较大事故|Ⅰ级响应|Ⅱ级响应|国家防总|国务院(工作组|调查组|安委会)|国家消防救援局|应急管理部(工作组|启动)|习近平|李强|批示|重要指示|提级调查|挂牌督办)/i;
 const COMMENT_RE = /(视频｜|视频\||评论|警示|启示|盘点|解读|综述|一周|回眸|回顾|观察|思考|反思|探访|记者走进|追忆|缅怀|亲历者|讲述|逃生者|之问|如何看|为何|说明了什么|背后|23分钟|特写|侧记|手记|日记|现场直击)/i;
-const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|安全知识|防范|避险|自救|逃生技巧|宣传|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+const NON_EVENT_RE = /(演练|演习|科普|培训|动员|部署会|工作会议|推进会|常委会|政治局|党组会|直播丨|直播\||专栏|访谈|百日攻坚|群防群治|气象(灾害)?(风险)?预警|预警发布|风险提示|紧急提示|安全知识|防范|避险|自救|逃生技巧|宣传|王維洛|大纪元|通话|慰问|回应|表态|的可能性|或将)/i;
+const DOC_RE = /(隐患|整改|清单|公示|公告|公开目录|调查报告|回溯调查|事故认定|批复|招标|采购|中标|考核|表彰|评选|问责情况|处理结果|宣判|起诉|判决|工作方案|实施方案|应急预案|条例|办法|标准|规划|通知|通报制度|检查计划|双随机)/i;
+const FOLLOWUP_RE = /(调查报告|回溯|追忆|回顾|纪念|一周年|两周年|警示录|以案促改|举一反三)/i;
 const ROUTINE_RE = /(天气预报|天气趋势|未来三天|未来几日|未来十天|蓝色预警|黄色预警|橙色预警|红色预警|发布预警|预警发布|预计.{0,6}(有|出现)|气温)/i;
 const OFFICIAL_DOMAINS = /(cctv\.com|cntv\.cn|news\.cn|xinhuanet\.com|people\.com\.cn|gov\.cn|chinanews\.com\.cn|gmw\.cn|mem\.gov\.cn|cneb\.gov\.cn|china\.com\.cn|cnr\.cn|legaldaily\.com\.cn|chinawater\.com\.cn|cma\.gov\.cn|cea\.gov\.cn|xhby\.net|yicai\.com$)/i;
 const OFFICIAL_NAME_RE = /(央视|新华|人民网|人民日报|中国政府网|中国新闻网|中新网|光明|应急管理部|央广|经济日报|法治日报|环球时报|中国应急管理|央视新闻|新华社)/i;
@@ -75,7 +79,7 @@ for (const src of SOURCES) {
 console.log('\n############ 漏斗诊断（24h 内条目逐条判定，不计时间窗）############');
 const seen = new Set();
 let n24 = 0;
-const stage = { 评论过程: 0, 例行预报: 0, 境外: 0, 非事件类型: 0, 演练科普: 0, 门槛不足: 0 };
+const stage = { 评论过程: 0, 例行预报: 0, 公文后续: 0, 境外: 0, 非事件类型: 0, 演练科普: 0, 门槛不足: 0 };
 const survivors = [];
 for (const it of all) {
   if (seen.has(it.title)) continue;
@@ -86,6 +90,7 @@ for (const it of all) {
   let verdict = null;
   if (COMMENT_RE.test(it.title)) { stage.评论过程++; verdict = '评论/过程报道'; }
   else if (ROUTINE_RE.test(it.title)) { stage.例行预报++; verdict = '例行预报'; }
+  else if (DOC_RE.test(it.title) || FOLLOWUP_RE.test(it.title)) { stage.公文后续++; verdict = '公文/后续报道'; }
   else if (FOREIGN_RE.test(it.title) && !CHINA_BORDER_EV_RE.test(it.title)) { stage.境外++; verdict = '境外事件'; }
   else if (!EV_TYPE_RE2.test(it.title)) { stage.非事件类型++; verdict = '非事故/灾害类型'; }
   else if (NON_EVENT_RE.test(it.title)) { stage.演练科普++; verdict = '演练/科普/预警'; }
