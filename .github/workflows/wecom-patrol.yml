@@ -28,6 +28,7 @@ jobs:
         env:
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
           PATROL_DRY_RUN: '1'   # 临时干跑验证（新信源+自适应时间窗），验证后改回 '0'
+          PATROL_WIN_H: '24'    # 临时把回看窗口放到 24 小时，验证召回率（正式运行不设此项）
         run: node scripts/wecom-patrol.mjs
 
       - name: Commit patrol state
