@@ -36,18 +36,20 @@ if (!WEBHOOK) {
   process.exit(0);
 }
 
-/* ---------------- 数据源（新闻站优先：新华网/应急部；gov.cn 需与伤亡词共现） ----------------
- * 2026-10-08 修复：原先 site:gov.cn 混入大量"消防宣传/检查/会议/公示"公文页（24h 内 189 条中
- * 157 条非事件），真正的事故报道几乎抓不到 → 改为新闻站为主、gov 站查询强制绑定伤亡词。 */
+/* ---------------- 数据源 ----------------
+ * 2026-10-08 修复：原先用 site:news.cn/gov.cn 限定抓取，实测召回率几乎为零——官方站点的
+ * 谷歌索引里国内事故报道极少（24h 内仅 34 条，且多为外媒转稿/公文），顺德火灾这类事件
+ * 反倒全部出现在综合新闻源里。改为：①综合新闻源抓取（事件+伤亡词强锚定）②仍保留一个
+ * 官方站点查询兜底；③真实性把关层只信官方媒体（或≥2家媒体交叉印证）。 */
 const Q = (q) => 'https://news.google.com/rss/search?q=' + encodeURIComponent(q);
 const CN = '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans';
-const SITE_NEWS = '(site:news.cn OR site:xinhuanet.com OR site:mem.gov.cn)';
+const SITE_NEWS = '(site:news.cn OR site:xinhuanet.com OR site:gov.cn OR site:mem.gov.cn)';
 const SOURCES = [
-  { name: 'casualty', url: Q(`("遇难" OR "死亡" OR "失联" OR "受伤" OR "被困") (事故 OR 火灾 OR 爆炸 OR 泥石流 OR 滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 坍塌) when:3d ${SITE_NEWS}`) + CN },
-  { name: 'accident', url: Q(`(火灾 OR 爆炸 OR 燃爆 OR 坍塌 OR 塌方 OR 矿难 OR 透水 OR 沉船 OR 坠机 OR 事故) (致|造成|已致|伤亡) when:3d ${SITE_NEWS}`) + CN },
-  { name: 'disaster', url: Q(`(泥石流 OR 山体滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 溃坝 OR 龙卷风) (遇难 OR 死亡 OR 失联 OR 受伤 OR 转移 OR 救援) when:3d ${SITE_NEWS}`) + CN },
-  { name: 'leader', url: Q(`(习近平 OR 李强 OR 张国清 OR 国务院安委会 OR 应急管理部) (批示 OR 重要指示 OR 作出指示 OR 挂牌督办 OR 提级调查) (事故 OR 灾害 OR 救援) when:3d ${SITE_NEWS}`) + CN },
-  { name: 'gov-notice', url: Q(`(事故 OR 灾害) ("遇难" OR "死亡" OR "失联" OR "受伤") when:3d site:gov.cn`) + CN },
+  { name: 'casualty', url: Q('("遇难" OR "死亡" OR "失联" OR "受伤" OR "被困") (事故 OR 火灾 OR 爆炸 OR 泥石流 OR 滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 坍塌) when:1d') + CN },
+  { name: 'accident', url: Q('(火灾 OR 爆炸 OR 燃爆 OR 坍塌 OR 矿难 OR 透水 OR 沉船 OR 坠机 OR 侧翻 OR 交通事故) (已致 OR 造成 OR 致) (死亡 OR 遇难 OR 失联 OR 受伤) when:1d') + CN },
+  { name: 'disaster', url: Q('(泥石流 OR 山体滑坡 OR 山洪 OR 洪水 OR 台风 OR 地震 OR 溃坝) (遇难 OR 死亡 OR 失联 OR 受灾 OR 转移) when:1d') + CN },
+  { name: 'leader', url: Q('(习近平 OR 李强 OR 张国清 OR 国务院安委会 OR 应急管理部) (批示 OR 重要指示 OR 作出指示 OR 挂牌督办 OR 提级调查) (事故 OR 灾害) when:1d') + CN },
+  { name: 'official', url: Q(`(事故 OR 灾害) (遇难 OR 死亡 OR 失联 OR 受伤) when:3d ${SITE_NEWS}`) + CN },
 ];
 
 /* ---------------- 过滤规则 ---------------- */
@@ -278,14 +280,23 @@ async function main() {
   }
   console.log(`候选重大事件: ${candidates.length} 条`);
 
-  // 4. 可信度把关：信源已限定官方站点，仍按域名/媒体名双判，非官方来源一律不推
+  // 4. 可信度把关（两层）：官方媒体域名/名号直接放行；非官方来源需 ≥2 家不同媒体交叉印证
+  //    （2026-10-08 恢复多源印证通道：改回综合抓取后，仅官方来源会漏掉先被地方媒体报出的事件）
+  const keySources = new Map();
+  for (const c of candidates) {
+    if (!keySources.has(c.key)) keySources.set(c.key, new Set());
+    if (c.site) keySources.get(c.key).add(c.site);
+  }
   const trusted = candidates.filter(c => {
     c.official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
-    return c.official;
+    c.multi = (keySources.get(c.key)?.size || 0) >= 2;
+    return c.official || c.multi;
   });
-  console.log(`通过真实性把关: ${trusted.length} 条`);
+  console.log(`通过真实性把关: ${trusted.length} 条（候选 ${candidates.length} 条）`);
   for (const c of candidates) {
-    console.log(`[候选] ${c.official ? '官方源' : '非官方'}|死${c.deaths}伤${c.injured}失联${c.missing}|${c.title.slice(0, 45)}`);
+    const official = (c.siteUrl && OFFICIAL_DOMAINS.test(c.siteUrl)) || OFFICIAL_NAME_RE.test(c.site || '');
+    const n = keySources.get(c.key)?.size || 1;
+    console.log(`[候选] ${official ? '官方源' : (n >= 2 ? `多源${n}家` : '单源非官方')}|死${c.deaths}伤${c.injured}失联${c.missing}|${c.title.slice(0, 45)}`);
   }
 
   // 5. 清理过期去重记录
