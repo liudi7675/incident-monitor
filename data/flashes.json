@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:50:43.352Z",
+  "updated": "2026-10-09T01:45:42.227Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -87,16 +87,16 @@
       "siteUrl": "https://www.qzwb.com"
     },
     {
-      "id": "FL-6429be7ef993",
+      "id": "FL-94a3cd7a6ca6",
       "date": "2026-10-07",
       "dateISO": "Wed, 07 Oct 2026 06:41:00 GMT",
       "ts": 1791355260000,
       "scope": "dom",
       "type": "geo",
-      "title": "刚刚！福建漳州地震 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9INVNSY2w5VWdrZ2k2cHdiOWFHVnIyS3B2el9pZnEzdThQSTN5cGNjLTFwRklmcGUwRzFpRS1hNGxxWE9NNzVJc0lqQ3YwcFZFUURHZUQyRnk2QjVja2c?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://m.thepaper.cn"
+      "title": "福建漳州发生地震 - 温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZUllYSXRfVmRfYmpjdGt6QUlzYTdJd2xvQ3J2bkNmM2xsd2JqTkI4bFR5ZUMtampwUW9TanFwbm9OTU9PeE1FVzRXQUNGaDFXdXlZaTIwc0JXc2RyNGxkREZvS0h4eGNRWnlHRg?oc=5",
+      "site": "温州新闻",
+      "siteUrl": "https://www.66wz.com"
     },
     {
       "id": "FL-4b3b34fbfa70",
@@ -123,18 +123,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-9f34e8d61f12",
-      "date": "2026-10-07",
-      "dateISO": "Wed, 07 Oct 2026 01:57:00 GMT",
-      "ts": 1791338220000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：全国大部天气晴好 海南岛有较强降水 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NR3dqVDJSNDZQZnVUZDdxSUhTOV9TeENqX2F6ZW9rRE5xR3BzdzlWeFpnT2RJWTRhOWlZNTBKNWpldlhrRGZYNk5PTkItcWZZTGJtUmpvc0xXbXJQR0ozQlRTcm5kaWh1Vi1fRw?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.hi.chinanews.com.cn"
-    },
-    {
       "id": "FL-e82ace8ff04b",
       "date": "2026-07-28",
       "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
@@ -157,18 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSV2p2T09iTl94RzU1TU1LMDJoRFFMS2NJOC1tQS12Q25JQnZKWm1aNk82OXFZZzVWTXQ4ZXFmSXdWMXRLODFFZQ?oc=5",
       "site": "财联社",
       "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-42fba8a8b934",
-      "date": "2026-10-06",
-      "dateISO": "Tue, 06 Oct 2026 15:29:32 GMT",
-      "ts": 1791300572000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "沙巴海域5级地震 暂无伤亡 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ydk9sWnc3eFZRR3AwYXJDNkpmU2o1NkxMYVZ3VzJtR29FWjdxTHdPZmhuZnE3anZ3Y3pmZWZXMjU1bnVKV0dDT2RVWThTbjZfeXVEdEJvRWpjU2p4ZXVidGlscmhSRGM?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-e19397378ee7",
@@ -219,6 +195,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-44b48d344670",
+      "date": "2026-06-25",
+      "dateISO": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "ts": 1782370800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本岩手县附近海域7.2级地震已致至少4人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQnpBTVd0QWlXRm9ORWFFdjkwY2Z2VlFnYnRMQnhpS0ZDNV9FOVR6blRNeGEtbTg3WWsxOHo5SG9lYW1KTFByNk5hV2F0VExYMk5YMWUwUzdLTlZubzZSakpwZlhWMm13SXdOWVBFSEFnOUl6U3pvOThsUXZqUUk?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -253,6 +241,30 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XVlNTMDBwaFpQbTNSRDdfM0w0UFdLNllaUjB0SHV2MEhzUzA1WFpfSk1Hd1RnLXIxSjZDd2tGaVVHVGVCcW0zSlVOM0c3cUYxYUpOZnUyUjZ3SDA3OEg3dERxVXJETXlCcEJ4cVRDSWQ1dmFV?oc=5",
       "site": "中国驻澳大利亚大使馆",
       "siteUrl": "https://au.china-embassy.gov.cn"
+    },
+    {
+      "id": "FL-f192cbac71d7",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 23:58:40 GMT",
+      "ts": 1791503920000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于分形与多分形方法的泥石流堆积物粒径分布特征研究——以云南家村沟为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xdS0waHBoanhXOXdYcVpGWGpHY0VWdkM1dHZYOTI1a0R6R1JqMnRteDFTWTBaT19DNDhOb1VrQndMd0UzVW8yYV9Vc1Y0MEd0VGdQWmdBSzRZQkhCY2R5UENVN3BhMEN6dXU0dVRn?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-8d57f0823995",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 23:49:52 GMT",
+      "ts": 1791503392000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "通报表扬！12天内两次精准预警，他让700多人躲过泥石流…… - 潮新闻客户端",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeUEwYS16RmZVclF1d2NCVC1zVHozSi0yeEdjVWdXbEEtUXdybGZfLWxqR2dsZG91ME9OOXdlcS1KNkUyNnpqMFgxZTZvTWpMdjBhelhYUktrWV9TNDBKMjJwZVU1ekVrOHM0OG93TkZfWDA?oc=5",
+      "site": "潮新闻客户端",
+      "siteUrl": "https://tidenews.com.cn"
     },
     {
       "id": "FL-5ad8af4aa644",
@@ -291,18 +303,6 @@
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
-      "id": "FL-95348811e816",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 11:40:16 GMT",
-      "ts": 1791459616000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "瓦努阿图群岛发生6.1级地震 震源深度10公里 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmwyRmdXdjZhTnA2cS13MW1rYXY1YllHeTRaOW9vWkpXVVpEcHZJOWdaOU9YN041S3RPNUd3dUl6LS1rUzkyU0NrdEJSNkdWWXB0ZFRrVUxNdEstZHVWQTg3LXJiRTRkeXdxTkZyUE5QU1RRVHk0MV9QOTlEc3Q1a01nM3N2NmtB?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-170ec24f9725",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 10:59:57 GMT",
@@ -327,14 +327,14 @@
       "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
-      "id": "FL-a8f79f9654d2",
+      "id": "FL-277a3ba55b2e",
       "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 10:22:50 GMT",
-      "ts": 1791454970000,
+      "dateISO": "Thu, 08 Oct 2026 10:18:00 GMT",
+      "ts": 1791454680000,
       "scope": "dom",
       "type": "geo",
-      "title": "（图表）瓦努阿图群岛发生6.1级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU0xcVRJa3VFSFBCN3ozR2R5QWlEaXNlWTVxcnFXM1RZV0xiRXlVZVNXQ0xFV0hhZnlzcVRuOXZ5MlhzSHlpSEpHUERWazh4NGtWN2ljNnBNQXdtX0FDaHlITnpuZnFQV1RDWEprWnRiZzFfdndFRDc0OVhVZ3lzUFhaRWIzcnpl?oc=5",
+      "title": "瓦努阿图群岛发生6.1级地震，震源深度10公里 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3RZSlp3cFJpVnktU3lBSFIyaWV4RXc5QkpWTVJMRmhlSHJ2Zlg0Njd6eFRPVUUwWGd6c2tFb0t0Q3pKaHlET3EzN1Q0MEkxQ1NSY1N1Nml0SjlTbVgxTUR0X1U4dUM1TjBtalNpa013MnBqTVR0bDBKS2FNTDF4dEpjLWpDclVE?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
@@ -361,6 +361,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSHB2d213Q21odHB0TzFfV1R5T0ZZbTdLeFo5QmdYa2c1OHdHOXZ3VWdHN2NuVUFIUDZiZ2w4UnJOLUVmSkt1cWk1UnF4V1RUNVFpMkRBNjl5R21yRVN1T3EwYnVhaFlacmVGUTV4YkpzczlFT1Jrdk9VaEhFb2E3Nmo3dUM2eDJK?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-4ff1c1b47b63",
+      "date": "2026-10-08",
+      "dateISO": "Thu, 08 Oct 2026 09:47:29 GMT",
+      "ts": 1791452849000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "瓦努阿图附近海域发生6.6级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wZ2hsM2hIZkJtZ0htc2hna2gtWks5azFfb3NSZFVwSS1OSG8zd1VSeDk5Wno3OGdlLXdSS2ZOX1ViTVJ3NVh2bTNWSnZaaVFCUlowd2FJaEFSOUZVWVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-062d5bcdf634",
@@ -435,18 +447,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-90e30274ffa0",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 08:37:53 GMT",
-      "ts": 1791448673000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "应急科普丨暴雨天，转移避险时重点做好这几点→ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZThYaGdDb3Y2eGFLWjQ4bzRsbFByeFRUUi1mN1h4UU9qY3hmT3FKS1IwcFVGcU5HZlJPZ0laSWUyLVV1UFE2T092MmZCX3JLd0VFVHVxcEk3Tm9uakJGNmVNYmI3VDBBTFRJUHRFeld3cXRnM3hPdFBOUkVHaEdDRG1DWlk0YzY1YzBWbg?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-ade2e64f34b7",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 08:20:41 GMT",
@@ -507,18 +507,6 @@
       "siteUrl": "https://jx.ifeng.com"
     },
     {
-      "id": "FL-70536f2f6958",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 02:32:05 GMT",
-      "ts": 1791426725000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县北部发生4.0级地震 震源深度60公里 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eC1PRzJRdmlKMWdjYW5JeWlZX3YyZE1iNXVQYmM3SUJYMVNpNUhlakRMSEVySGtpLWIwNF9sMHZjeUJfYUl5dlFfY2pGUlNyMU8ycHFWbFpzSE1HbXpEQ2x0SFdBZkl2NGJVaFBZOGo?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-38528eeb112c",
       "date": "2026-10-08",
       "dateISO": "Thu, 08 Oct 2026 02:08:36 GMT",
@@ -529,18 +517,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LZmpiSkpJdy1xZXRZODNxZlIwckZ4VWxrWEFQVDdOelhUMzJvSXFpc2VDWTcwenB2YmhBNEdmc0N1SVFIMkNPZmRVaFVwRV9fUG5sYzNOWQ?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-31f6b8f59322",
-      "date": "2026-10-08",
-      "dateISO": "Thu, 08 Oct 2026 01:36:32 GMT",
-      "ts": 1791423392000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "今早，日本接连地震；东京有震感 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnl5LVdibm5RdXF1Vlhfc21XdVZ5bDlUSlRkTHRnbm92cTk1cW01WnJvM1BxM1J2SVgyclRFdFo4Y2VtWERXM09BNU1QSGFaSWtVRzVfX0VVdTYxRi1xd2ZoV05lQmY3N2ZzcVBiemotNnFELThWTFBlV25mblZ3SUdOaGlrLVl1?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4538f63b9e49",
@@ -565,18 +541,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rWlBVcnZhd0NVTDlFZ3hVN3BYR3RLUFpMZEM0eVkwN2JkRXIzM0V0REJXR2FjeDRxUUVqeDBvMUtKU25TUFNDMzJYdHNucTZ4bDBEWkFjazFwZGZEOVJzVlZyNGtiZ9IBa0FVX3lxTFBOT0pTWlZHV0dDQTNJRFExWFdZcGJDZTI3aDVxeDJQNGk4WldjSzRwa1lJRXF3aW1Id1QwVHM0TlNoRWp2SmtvMURjcEZoTG5kaVlSOTlHcFpVMFpxSkp0MnVUX2NGZWZYZk5N?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-91bdb2ea9dee",
-      "date": "2026-08-23",
-      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
-      "ts": 1787468400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本茨城县地震致37人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-e44bfae95a64",
@@ -625,7 +589,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlSi01QUdYV19RRGFlNWJaNFVxS3ZOWnpxNDRCUXFvaTFKbGhseWdBTUxWbkUyVjFUZC1HeTVldDE1RklLZVVhY2tYNVRGWTFieDBtWmxvbDZDZE1EWVdaWVBydnp3Q3NoVXg3OE03aUdnNW44WHc?oc=5",
       "site": "西藏自治区文化和旅游厅",
       "siteUrl": "https://wlt.xizang.gov.cn",
-      "related": 37
+      "related": 36
     },
     {
       "id": "FL-f43d39cb457e",
@@ -713,16 +677,52 @@
       "related": 7
     },
     {
-      "id": "FL-078eae354b2f",
-      "date": "2026-08-07",
-      "dateISO": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "ts": 1786086000000,
+      "id": "FL-3399cf379a49",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 01:29:39 GMT",
+      "ts": 1791509379000,
       "scope": "dom",
+      "type": "geo",
+      "title": "通报表扬！12天内两次精准预警，他让700多人躲过泥石流……|应急管理部|江西省|五指峰乡|强降雨|赣州市 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV0RZQWphaTRpY3pQelJidy1Dcm1vcXBNT3FjdGQ0dWktYUM4VVBfM19LSzQydVAtSTVOeWhRdjR6eE4wVi1lZXVQYkpiOEZ0U0YwdUVFa05MOTZfN2xVa2I0MGI0dWtWeFoyQUhJRmIwRVFKZEtCbFkyaXNuQVBuUTM5MmtrbVBBTmNzZTJlX3dVWl9JalN1TXMzZVZBaTJta1ZGZ1dTdTRjY082Sll4OHZ1R0JlWmZjRUVyVkFLVFk3djh6UGs2NDRyR25RdTNrZ2I0cENXdw?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-7e0d40cbde10",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 01:27:56 GMT",
+      "ts": 1791509276000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "关注江西遂川泥石流灾害，中午用餐时间，记者再次探访受灾群众安置点 - 九江新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BMlVpWU9IVHA0S0QwOTJ6Yng0TXBjSEd3Rk5QNWxqSWMzMWs3UEJtTkVDSkZwOGUzdloxbHZPZHpVTFFQYjI5R0N5SHpHdHFVRnVZaU1ZZXJGT0l6YTdF?oc=5",
+      "site": "九江新闻网",
+      "siteUrl": "https://www.jjxw.cn"
+    },
+    {
+      "id": "FL-f58e165bae93",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 00:53:59 GMT",
+      "ts": 1791507239000,
+      "scope": "intl",
       "type": "weather",
-      "title": "国家防总、应急管理部组织多部门联合会商调度部署台风“白海豚”防范应对工作国家防总提升防汛防台风应急响应至三级 - 中华人民共和国应急管理部",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96S0Z6REh4NTJWMTI1dE9tMFRIYU5DdmdIbE9Sb3ZaZ3R6a3JMclp0Rl9YZ3A4NkVKUlZodHBNYmVYelVLbDdnZWYtZWdxbG1XUHZhTjdzUTMzLUNpVnVPTmIwdEkxTjU1ZFJnMQ?oc=5",
-      "site": "中华人民共和国应急管理部",
-      "siteUrl": "https://www.mem.gov.cn"
+      "title": "智利首都圣地亚哥暴发山洪 6人受伤多处受损 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxenA1THVRclVZOVc3SFVVRHBBS2NQZ3VXLS1hNkNIWFNMMEk3OG1fUU9vSi12ZzM0UlF3T0M5X3hDVm1rdGpEVGpiTW51dF96dkJCekNqbmxYMWVnZVZiRVpzTS1XX21LRTk1QnpGdi0?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-dc1d6d0bc4d8",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 00:40:55 GMT",
+      "ts": 1791506455000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "断裂相关碳酸盐岩作为第四纪地震构造与古气候档案：以意大利中部亚平宁山脉Monte Marine正断层为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTFNhWU9jaE8zOWswZ0xGRTVUc05vdzViQW9uM29DaFFnTkRCMFZJdUpEREU4aC1DSHgtd05ONEtTVkdOM0JENGF1SjdDSUxFanBhdTItZ3dqeWlFV2tjcFBVcDJwb290cjFiWmJR?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     }
   ]
 }
