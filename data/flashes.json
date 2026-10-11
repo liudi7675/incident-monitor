@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T21:14:02.759Z",
+  "updated": "2026-10-11T00:20:48.071Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -63,6 +63,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-03e1c60639f5",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-10-04",
       "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
@@ -73,7 +85,43 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOY2VSejgwSF85cXdfd0JSTDhyMU5JSFFGdVZIbDlBRUtmaF9LNjZZV0dfR0pXc3d1dl9JSGRabm5YT05IN0gzZ1c2djd3bVY1cjFzRy1VWWdZYlN2SmlYRldRREh4VmtxVHpYRDA5UmFOY3Mwb2Fr?oc=5",
       "site": "北京师范大学新闻网",
       "siteUrl": "https://news.bnu.edu.cn",
-      "related": 37
+      "related": 35
+    },
+    {
+      "id": "FL-c4c37b654499",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 23:58:23 GMT",
+      "ts": 1791676703000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "并行水库群溃坝洪水风险的主控属性演化与组成重构：从局部失事到系统极限失效 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qRnFSM2hEdGN2MF9aa1FxYWwzWWowUE9BbFZlVDYwYk13OFlKWkVGZWJvTVlES0J0aFNMQ0xHbVJueU8zQTQ1ekg2X1UwNExxYVF2em5vU2pDY2lyYU5TNDFCaGg3bHJXZXpYYi13?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-631530184d15",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 23:58:23 GMT",
+      "ts": 1791676703000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于时程分析的边坡—建筑体系地震易损性三维非线性数值评估研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WSUtKbmJCYXZod1F6RHM2VXNtQkxkMkRCa3NySXFIMm9QTFdsZFJTWXp4Y3BESXQ3c0pjeHJXbVc4ZkhtMEJlTXNQR3oxZHNkeTR0UjFZdno0YUJhblVpaGpxWU1EeElxYVdHTWR3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-064019a096bf",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 23:04:54 GMT",
+      "ts": 1791673494000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区沙雅县发生3.3级地震，震源深度21千米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmptaXEwTjIzUHRMa3l1RUJEYVF3ZkJodXc1T25BQXdiZ3hkZFdtaXNpVWV6MUtVWGpnMUhyWVdVUTlQZkd0ZDg1dzZlRWZoMVdqRnZuNnk2WlRjZ3ZKamJYZ2QyVndidXcyZE5pQlMyM3FTYU5peFNucFhqSm1KZVZ5SmZQSFlh?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-4d5e643e38ee",
@@ -83,33 +131,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "巴拿马政府宣布进入紧急状态以应对强烈地震 - RTHK",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTQ0SGUwbksxWkl6WEg2MGtITG9IX0hNUU92RmRnY1kySElLM3F0amh2SE1YeXJUdVNWbkZ0eEJhb3QxZHNOemFCOFM5UWN1VTZOa1lFR3FJcU8zeWpjaVF1d05IcHVHM3JBSHVoeFhKRGtybjNHalhIcGczYUdPV1RCMWdxZlM2TXR1WG11WTBYcUQwQTc3WUZycDlsQ1NrZXdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXNjTlNkUzFlaXVlSHB2dFZYdzZrb2JXb1BqUkQzM2c0TVRQcVlMS2x1N3lZR0hRbk9nRkVackFKZEhyS0M3ckhGQ2g5ZmczSHhyN1poMVVKVG82S29JTUpOeEotTTVlQkVCU1dEcVdzazF4SzF0LWlHWnNzNWx2cC1oVWJJU1prNTRydnl4MA?oc=5",
       "site": "RTHK",
       "siteUrl": "https://gbcode.rthk.hk"
-    },
-    {
-      "id": "FL-331e3c71f4d9",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 16:31:10 GMT",
-      "ts": 1791649870000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "外交部发言人就巴拿马发生7.6级地震答记者问: 截至目前，暂无中国公民在地震中伤亡报告。 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlpXdXR2d2QtTEphYUN6MEtPME43WmVaUUJhYXdRS2cyanJ6TG1aaXUyd3JTdWtDdi15X3QwdmVqNmxnYTFtZTh4aWlQUGdDT2owajB5RTB5bHJoOHAzTFd0YlRFMTIzcGU5VzFpd0NaN3VxaGlVRDVseFdMeWpPRVVpLVZzekRIMU5jOQ?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-1da635fd7f0e",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 15:25:11 GMT",
-      "ts": 1791645911000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区拜城县发生地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWY4Q2JDMzFNYUlGMEMyTXBCWE5TSUVDNGp1MmpGRWJPSWJPVzBGcTVBVkZzalJ6dkNDekZWSENzSGRDWkFkNTk1Rk1BRGsyYXhhX2NhOXc4Y1Q4VkRPUm01MXNfWG1MR1BWem9mYlFBQkNwNURJZmVFaDU4b2VMb1UzY0ZabEpOVUJZQw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-346df2f118d7",
@@ -136,40 +160,28 @@
       "siteUrl": "https://www.cqnews.net"
     },
     {
-      "id": "FL-74bc051f07db",
+      "id": "FL-deda5ce5bc70",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:48:49 GMT",
-      "ts": 1791643729000,
+      "dateISO": "Sat, 10 Oct 2026 14:18:00 GMT",
+      "ts": 1791641880000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴拿马再发地震 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiZUxFU3VkUFJDd004NG81R2hJOWhKQk1WZ2ppeVFQQmdDZU85SGJLWmJ3Um05UkxscUlPby1OVll4UUVXV1hpVGttcHZubW9HdENEdnJXalBMcWh3Qm41RTd6S3JGcFRkVElz?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
+      "title": "滚动丨外交部：暂无中国公民在巴拿马地震中伤亡报告 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STW5KblBXdHNmYkphVExiM3duZjhLc3g2V2tNNktOMHh5bjV0ODFaamxJQzdKaEpta2xxQ0t2VHFOdzR1X3JMVWpvYjNxY2M?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
     },
     {
-      "id": "FL-328b4b5eb179",
+      "id": "FL-746048d1744d",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:33:41 GMT",
-      "ts": 1791642821000,
+      "dateISO": "Sat, 10 Oct 2026 14:15:00 GMT",
+      "ts": 1791641700000,
       "scope": "intl",
       "type": "geo",
-      "title": "巴拿马再发地震 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN084Zm9oV2hIZWFTLVRzdWk0ZUhHN1psNnpla0d2eVpQZDdNOUtxUDMwVDhSUjdyRVJxLWJuZm41Tnc2anlQSFl0OEY4UkQyU2d6RDVpSy1LaFo0UUZsZ1JSV005bjJtRmV4S2RvX3BhVDl4UmdZdC1yd3BXdlM5bWY1VjExYUpE?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-c4ca462b2120",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 14:23:00 GMT",
-      "ts": 1791642180000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴拿马发生7.6级地震，100余次余震，外交部：暂无中国公民在地震中伤亡 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dkpuck5ibXZ4clFDLWFmR2ZPdTJnbEZQb3FHY1o3U2tQQ2g1SWc4VllJWUZmNTZUbnU0ODk5SEUzeU5HTERoYUs4UGVDVEtLSUtyTFRWX0Rzc1RkQ1MyYjgyc0RPaXctbW0wWFZwRVlQU3VMeGI1Zw?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.com.cn"
+      "title": "巴拿马再发地震 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sbG5fOWlsVmhXMHlENmdUdmh6dXF1N0F4cXN6UXVqQUMwNTRDT0ZBLUV5OHhaaWVLSkU0UWxQZXdwNjN0N2gzNkpSM0JiV0J0QkpCUXNZaHB6VFQ0dlR5dnZ6Y24?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-569f899e974f",
@@ -256,30 +268,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-676c860db59a",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 11:52:18 GMT",
-      "ts": 1791633138000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴拿马地震中资机构和当地华侨华人暂无伤亡报告 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10UzA2NDloOTlXcWRsUC1Lclh4cUZhWERreWxST0p1elNBc1pZaHZ3UjBwZ3hUUjJHNkRqSkxIcHJlamNSOC1FRnRsd09PUE5nLTRVWTZDNVktN1ZULVJrcVRZVTFDYVFURjlSaFNTbDQ3RzBTQUVBWQ?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "https://finance.sina.cn"
-    },
-    {
-      "id": "FL-a0c8540e62bc",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 10:59:50 GMT",
-      "ts": 1791629990000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "（外代一线）巴拿马地震已致27人受伤 多地建筑受损 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQVRaRFRSR0RGd1JjdDBOdkdRbjJQZjMwTlZBcGVwcldISWdQazhONFp4RkNRQXRiRktReFpWX0FkTkZ5a3lxNlVRV3BWMTcyNmdqRzlJU0M3dW9YaDRkM2hzTUhSNmZYc3QxWHk5SHZrVWhZOTBTUkg5MXU0ZlE4MVJ3SEhDeXBEWUFN?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
-    },
-    {
       "id": "FL-c4cbd0d9d080",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 10:42:26 GMT",
@@ -340,6 +328,18 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
+      "id": "FL-7d77e2c75f15",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 08:00:00 GMT",
+      "ts": 1791619200000,
+      "scope": "dom",
+      "type": "other",
+      "title": "国际丨回看近15年全球五场强震：震级之外，伤亡变量是什么？ - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVRseXdpQ09JbUF2WlhUaUk5eU9fUTB0VGl4U2xFcVlNNnVVVlRQY0llekQtM3FJME5iR3hYaEtWam4wSGNqZXpuYmxpMTRKSUZCNmpYRks1UXVrbHdvNFZXcWc?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-7b862a9e13a6",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 07:53:36 GMT",
@@ -376,6 +376,18 @@
       "siteUrl": "http://news.china.com.cn"
     },
     {
+      "id": "FL-22669868ff3f",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "ts": 1791615600000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "华人亲历巴拿马7.6级地震：害怕极了，一口气从27层跑下楼 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5M1JaS3hyRkpBdnV1YzI0RHR1eEE3Mlk3bGN1Zmh6RkRIaC0ycEhYQjEtbzhLdHAteG00aWJtRzFCNEdZUVUzN2RfR0tOaFhVSDRQeHQtNkc4Sk9aRGQxcTFUZnk?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-af7384367625",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 06:43:32 GMT",
@@ -400,40 +412,16 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-871a742257e5",
+      "id": "FL-be67b9219233",
       "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 05:24:00 GMT",
-      "ts": 1791609840000,
+      "dateISO": "Sat, 10 Oct 2026 04:46:59 GMT",
+      "ts": 1791607619000,
       "scope": "intl",
       "type": "geo",
-      "title": "滚动丨巴拿马7.6级地震，当地华人：百货公司、商场等关闭，希望大家平安 - 新蓝网",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9STW5KblBXdHNmYkphVExiM3duZjhLc3g2V2tNNktOMHh5bjV0ODFaamxJQzdKaEpta2xxQ0t2VHFOdzR1X3JMVWpvYjNxY2M?oc=5",
-      "site": "新蓝网",
-      "siteUrl": "https://www.cztv.com"
-    },
-    {
-      "id": "FL-7d77e2c75f15",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 05:00:00 GMT",
-      "ts": 1791608400000,
-      "scope": "dom",
-      "type": "other",
-      "title": "国际丨回看近15年全球五场强震：震级之外，伤亡变量是什么？ - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dVRseXdpQ09JbUF2WlhUaUk5eU9fUTB0VGl4U2xFcVlNNnVVVlRQY0llekQtM3FJME5iR3hYaEtWam4wSGNqZXpuYmxpMTRKSUZCNmpYRks1UXVrbHdvNFZXcWc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-f05bc52fda34",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 04:47:02 GMT",
-      "ts": 1791607622000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "12:45:55【巴拿马发生6.0级地震 震源深度10千米】 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UUEVFaXdIYnZySnhpMFh2NUdwU25xVFo3eVNNZlVQWlVLTVBtVDdRYUpJUkw4SGd0Mi1PNXF2czBQdVhNXy1aMA?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
+      "title": "巴拿马发生6.0级地震 震源深度10千米 - 财联社电报",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84bWp6TzdEaDdKdjFkb0oycFFCV1locTVFQTZLbmFrSzFlQjlWc1VtZUxKbGNFQUJtTDBicmJ5UkFsdjNndmc?oc=5",
+      "site": "财联社电报",
+      "siteUrl": "https://m.cls.cn"
     },
     {
       "id": "FL-0ebbbed5845f",
@@ -484,6 +472,30 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-6b0a102ab2e7",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 03:27:00 GMT",
+      "ts": 1791602820000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴拿马发生7.6级地震，托库门机场停运并实施疏散 - 民航资源网",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqQ05Ka2VXM21QN2NTd1lOTFQ2Z2pRYjc5ZzJMN09CMDVMZXNHdWg3Z2dYQWUzTXA1NHFiRzMtTGtDOGZuSDNTMjF3?oc=5",
+      "site": "民航资源网",
+      "siteUrl": "https://i.carnoc.com"
+    },
+    {
+      "id": "FL-d918edb59b9d",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 03:11:00 GMT",
+      "ts": 1791601860000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "韩国大邱一超市天花板坍塌，致数十人受伤 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jYUxkX2oxWURYenZqQU1zQVZvNW1FaEFLQ2ZMdGFfd2lpeWJxOU01Vnlra1lfc21rMWFBOFkzZFlZVjFNckYwNElOeDlubWxMaXRPb0VOX2dlazUwZDBGM1NNN1JYVVJmcy16WW0zWU9Wdw?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://xinwen.bjd.com.cn"
+    },
+    {
       "id": "FL-a2764b8028b9",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 02:17:15 GMT",
@@ -516,30 +528,6 @@
       "type": "geo",
       "title": "连线亲历巴拿马7.6级地震中国人：有人一边跑一边喊地震 - 新京报",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80eS1zVDVySnZXbVlGbmFDNmRoUkE3cWhuWl84R2hMd2NoNnE2eFNkcDdPZFk4bFFhdWNqNkVGdURXd3hvOWdzWTZ2VldUUFpzVWJUaENmVGZZcjQ1VmE1R0IwYVU?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-02ba35304ea0",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 01:27:19 GMT",
-      "ts": 1791595639000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴拿马8.0级地震 引发海啸预警与余震不断 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TS29COWg1el9yRWFtRUNtZEhGeF8yOHljVmMzVXdodFFfWjFuZEFzTkR5dzdUa0pYNkg4YXNJRm1kcUF5RlczRFdlUVVmOG9HZFNSbFZoRzdCTjF4X3BxMUhqa1JYbVNHZW10a3Bpa2E?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-22669868ff3f",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 01:00:00 GMT",
-      "ts": 1791594000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "华人亲历巴拿马7.6级地震：害怕极了，一口气从27层跑下楼 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5M1JaS3hyRkpBdnV1YzI0RHR1eEE3Mlk3bGN1Zmh6RkRIaC0ycEhYQjEtbzhLdHAteG00aWJtRzFCNEdZUVUzN2RfR0tOaFhVSDRQeHQtNkc4Sk9aRGQxcTFUZnk?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
     },
@@ -603,6 +591,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvTUduOXhwcERfWnZ3NFBuNzN6Umg3dkpudC1MSi1va2hqY2JLWm1jRE5SQTRJc0RIT290V3RFX25JS3NhekJ6NFEwZHdPTi1aV2xxdUs1NHk?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
+    },
+    {
+      "id": "FL-8665f84819df",
+      "date": "2026-10-09",
+      "dateISO": "Fri, 09 Oct 2026 22:40:42 GMT",
+      "ts": 1791585642000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "菲律宾宿务市山体滑坡致3人死亡 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OMUVJNVFpLWpha0Zud3gwMFdIcTdIYWxYaGI1My1ZQ1ExWnhZSnpyYlRUak9Ec2RXSW1Vd3FPWDdrQzJoREFwWjR2anVuai13V3g4a18xYUhuX3REamdDWDBRUTZuQ1hL?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-9987dd06f507",
