@@ -1,42 +1,54 @@
 {
-  "updated": "2026-10-13T20:06:11.755Z",
+  "updated": "2026-10-13T23:48:38.397Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-55459cf297b1",
+      "id": "FL-8fb39ff39186",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 19:19:21 GMT",
-      "ts": 1791919161000,
-      "scope": "intl",
+      "dateISO": "Tue, 13 Oct 2026 23:24:01 GMT",
+      "ts": 1791933841000,
+      "scope": "dom",
       "type": "geo",
-      "title": "巴布亚新几内亚发生6.0级地震 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVanB6MkNyN2NCQWRzOThBUFhRRkxfbFlhTldQYUdaVWxkV21VNTVrb1VJbW5MX3ZrenJLYnhOZFRWTm50UHktY29PcUpjZUlGWmZGYk1FUGt3TkZaa0tKV3hvbmJ6QkJOa0dDOVNSOA?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
+      "title": "江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWjZlQTJZYXExN3hvX2Rjb0ZqTm9HUUJ6MnVtT2NmTEVtdWU0SnJ5QjdqTkZ3Y2tLNDc5UUlWd05mOUN5UGJkZHZ0RnlxS2ViQlE0ZzdGN3Fac2RaNEN0ZGtCS2hCTWRBZFFKVFJhS0tlODZ1eVFTamplcEJCMURZTVNkTmliOU4xc3l1U2dVNWo5enRibHNTT1pNS2g1bkRLSzljOGpySWFzQzZTdThrRlBBZXFrUWJIaU0xQVVCV0pHbUlKQzBjbGRfM2JGTHpLeFNHQ0VzNEc?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-ed1728dbb613",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 18:58:54 GMT",
-      "ts": 1791917934000,
+      "dateISO": "Tue, 13 Oct 2026 22:49:22 GMT",
+      "ts": 1791931762000,
       "scope": "dom",
       "type": "geo",
       "title": "江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ0x2ZV9SSXJkTDQ3TEVzazRUNkhJMTkxdjQyUWtheEJUOXVxdnJtR2ZmLVVqeFFaaGRtS0pVSWRGMEw0VGFISTg3V0RRalJtNEVrc0dKNnUwaW93NWJlUktLN25lOVNNUmhLRnhycUN3VVR1M1hDSkdTYXIwY2V3WkZMb2pZcDI1SW4yUmVOTlJRdVNMbXZkN0E1RnBQWW9pUzg1bmlsUFNEVURUWGV2TkR3VWRsZ2wtSGpnbDkxazRweEJzX3p3cmlGTGI4UHZlWU1aSXRxTHU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnl2QmxtaWtvanFzVk5ZVW8wd3hfY2NjYzNrV0IyVHNvSUIwQjNvdUZ1Vkt3MlFOZmFNMlBnZHNEM283Y19ESm9TSGlqNERjaEd3aUR1eXAtM1UtUmNDSy1ZVlBkNXQxQ25CQW95ZXB3Q2l4Q1ktaVBVVFp4T2hHVktKcHp3dFdiYnhZX2pDVjlvSVZHUWVBN1NhbWVsSGMyOEE4YW5SZWI5YXdUY0xLVEY0dHF4cEhpUGF6NVhGWmhZOWgtejVWdzFUcUVEUG1HM2N5dTI5eC0?oc=5",
       "site": "新浪财经",
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-88df3b56c58a",
+      "id": "FL-b48a5e101589",
       "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 14:41:53 GMT",
-      "ts": 1791902513000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台首席预报员：正努力将预警信息“一键触达”到最基层的社区和村庄 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVV8xMkZiWGc3NXI1dU9CM2VTenhJQjRKdXVDdGJ0UE1lU0o3Q1hUU19PLWRUWFlzOTlvMHBNRnpWakhsNFdURGNtMFpJWnRyandQcmJIRUdDYlQtd0FKVFQxTzRqei1PX3BDWEJ5UWM3dkloSjJ0WVh1TFpGTV9rREE1bVVTVWFl?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "dateISO": "Tue, 13 Oct 2026 22:03:26 GMT",
+      "ts": 1791929006000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.0级地震- 世相 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3UUhhMERNc0tDQTVlVEFWUTBRazJ0QXJVWExwdUFsTG1PLWJiV25zT0s2bC1hNHA2ZExPUzJDZ1Azc09neXYzSVpBVnl0RGZXalZ4SjE0cmlMRVdkSG1GRjRwT0t4Zw?oc=5",
+      "site": "新湖南",
+      "siteUrl": "https://www.hunantoday.cn"
+    },
+    {
+      "id": "FL-cac95b279c02",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 21:53:09 GMT",
+      "ts": 1791928389000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴布亚新几内亚发生6.0级地震 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVVk0cnd0ZmVMV3BmejBPTU9uaF9PcnFSSThvcFNrRVFZU21lSUE3X2dnc1A3RFdvNDNaOU4tSGhYbEtPX2tXVlk5SVpGZzBXcmdVM3pnMzlsTlEyX2lqcXJLMXllc01S?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-1b4451dcbea9",
@@ -135,6 +147,18 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
+      "id": "FL-5740e3e647a4",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 12:23:00 GMT",
+      "ts": 1791894180000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中大西洋海岭中部发生6.7级地震，震源深度10千米 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OUmFNeEY4anJ3bFdIZ1ZPNllVS05vbmZPVUV2NlNkVFBkV2xDTS0tUEd2aktQNmNXREdtWkM5dTZERTV6ZEVYRUZiYm5FYVFzZVNwOW45aDZDX2h5M3hzZUlOTHMyS3lsNnVSQU9QWEFTd0V1Um5zbkxmRWFIRTA?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
       "id": "FL-75e15d42c1d4",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 11:17:33 GMT",
@@ -155,18 +179,6 @@
       "type": "geo",
       "title": "阿拉善4.4级地震 - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTlVFQmxvVUJXaXo0dnFhQmFXd1hYaDFIeXdOZDlJRWpaQXJJM1B5QVh3dmVidXVRUkNpc3h4YzZaT2kxdVJidVpnbVhJVENrZ0VqMnFFZ2pGNWY1NW9QNWZZNXctVDRuZTVRdVpacnpTcmlNbzhGekJvR1FyalRCOU04d1U0NjlX?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-5d00287a74e2",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 10:14:00 GMT",
-      "ts": 1791886440000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台首席预报员张芳华：可提前3天预报是否出现极端强降水 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUHpPSUxUMlFpbGFIVjkwQk9vVEdSYTBvWVhIZ2lCV1NESGJhTDdOUDNCYTdUMnQ0ZnVtRlJlaDJfdnYyTjNhaGdUc3JzUTh1UlJCNksxOThwUm9WUU5Lb0FnNDJIN0lBRk5Hay1yMXRyR1Zjdng5cWJVeGpPdjE2NEdRcmRSVnhUd0hxSQ?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
@@ -219,18 +231,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-742e412a0c78",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:47:19 GMT",
-      "ts": 1791881239000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "内蒙古阿拉善盟发生4.8级左右地震 震中位置公布 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13WGk3a1AyQ3dPTHhXOHYtbHJfaEV3V3JHQ3lURUd2bGxsekdRUU1OZUhmbWJyU0lfMjFrVXMtdjBEUXg5UDcyMjIya0xwYjl6SW0yRnA1VTIwN2NZTDFMd0xnck9vVmZsQzRMMnM5OE8?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-250aaa3a30a1",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 08:46:00 GMT",
@@ -253,42 +253,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvX3BENE1zVjYybTVzdVR6Y3ZSRDhYeEJRWXBpSFluT2RBcXZvSkx4azVTQTNnMlZXbkl0ZkpnbUlYVm0wN2dUejIyUUw0cWtjVWVZNUFVellvUVpac0hIbmFrVHZzZDNsWURtWFlLN3c?oc=5",
       "site": "中华网",
       "siteUrl": "https://news.china.com"
-    },
-    {
-      "id": "FL-b7daabd42af0",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:37:00 GMT",
-      "ts": 1791880620000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "内蒙古阿拉善盟阿拉善左旗发生4.4级地震 - 盐城要闻",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwOVQ4MjY5WTQwRjFRMDRzT292c1VSTnJYZF9ERDhqb2hCWjdpN05fMnhjUGpkakZ1SENST3FNZ090LWxmT0pnTmlHS2lBanNQUTFYYWFUZmxJdjRYejhhVnRlUQ?oc=5",
-      "site": "盐城要闻",
-      "siteUrl": "https://www.ycnews.cn"
-    },
-    {
-      "id": "FL-6578992499ce",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:26:41 GMT",
-      "ts": 1791880001000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国地震台网正式测定：10月13日16时15分在内蒙古阿拉善盟阿拉善左旗发生4.4级地震，震源深度10千米。 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVG16NWJBT2JFZ2t3dDhvUkViWGgxUFFlTWE0Z2xGVkllaXk1VWIzTDBuOHk2enhoS1RDbjJxMTJKTmZGVmdWZ1FIT1pjZFRVaF94UTI1LVl4Zzd3d2pCZ3FSRTFoZFZ1WlBBLUJtVTdqaVpsUDE2SzlMTUY2S3ZDaUpaT3FsSDYwNTF2ZHlSRy0zdklBT2pnQ0hlaHpTVmpKb2JaVnltU25Eam9qNkQ5QUhiYkV2QQ?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
-    },
-    {
-      "id": "FL-9ad6300acef4",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 08:26:20 GMT",
-      "ts": 1791879980000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rUVhhRGlGUUZPZmk5ZXhBZTJyek04MUM1QkhCUHZUcEF2amI0NjF3MzNmWmRqUFpVYk1PUWw4a1JBTnRBQjJjWkNQTQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-7bfce6a39d60",
@@ -339,6 +303,18 @@
       "siteUrl": "https://m.voc.com.cn"
     },
     {
+      "id": "FL-7ff37f215b2a",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 03:10:37 GMT",
+      "ts": 1791861037000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "中国驻巴拿马大使馆| 提醒在巴中国公民防范地震灾害- 海外安全提醒 - 深圳市人民政府外事办公室",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncHl3Y3VSdWhWd09OWGZxSFdlVmo0ODg5WkhoTHpfRGhYVVdQNEhXby15eVF2LXdkMGkyOE5LeUpTak0zQkNtNzJ3WGl4TXo1THFCTjA5ZjA3TlV2T0twbWxoQnFtOVVnME5Z?oc=5",
+      "site": "深圳市人民政府外事办公室",
+      "siteUrl": "https://fao.sz.gov.cn"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 00:50:24 GMT",
@@ -349,7 +325,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5cmQ0TXd1MDY5TEY0bGpvM2xWX0xNZDRwVG5LTWRlRHFVMGgyb0d0X2tMX05sZXhhRnNURld3WFdnSXo1MF9tMUpCODZta3QtbU1OWDc0VlZudDBWNXc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn",
-      "related": 4
+      "related": 5
     },
     {
       "id": "FL-4e1e2df5b93f",
@@ -412,6 +388,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-a2237798f821",
+      "date": "2026-08-20",
+      "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "ts": 1787209200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：120万人亟需援助，部分社区仍无法抵达 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3V3JsRVZ2TkMxUkw3dk96SHFpNTEtSHhnQzRzMmJwOEhzZ0JnUHBNcnBMRDByWEhQTk5wbzdUMWwwenNoRVROdVBPN2phUjU3XzVOWVZoUQ?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
+    },
+    {
       "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
@@ -436,6 +424,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-64197419e0d9",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 23:27:04 GMT",
@@ -458,18 +458,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ec1ZpazdFbExKbzEzRTZwR0t0Q0Fsc3NIWGJQZ1QzVWtPc1pGYnRYNlZNNkxqSkN6T3F3UEpjd1dPSFhDN2VsOENwdUJTbjZ1TlNodzBMWmIteHp3eWhORDVVa1Z2Y09la0x3?oc=5",
       "site": "华龙网",
       "siteUrl": "https://www.cqnews.net"
-    },
-    {
-      "id": "FL-c776201dc496",
-      "date": "2026-10-11",
-      "dateISO": "Sun, 11 Oct 2026 21:34:00 GMT",
-      "ts": 1791754440000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼苏拉威西岛发生5.3级地震，震源深度110千米 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BeldYVlNyeHpiQ1BBTk1BNldZUE9waHQ4N1FZQWZtckE5WlZGVDctRGFaM1hLZ2RobG9VN3N3TC0zbGlwREZVNzhza2dZQzlSTElmYUZMOVJ2b01aaDVJemtJaWh1SFFzd1A3a19nZ0tCQ0g5bVFqSE9MYXZBeUU?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-39752eea5748",
@@ -581,6 +569,18 @@
       "siteUrl": "https://www.bjnews.com.cn"
     },
     {
+      "id": "FL-7b862a9e13a6",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 07:53:36 GMT",
+      "ts": 1791618816000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GM0N2dGs3a1VvTVZaRkROUnppUmxZdF9kRTYydXQtU01Mc1BrU1pWeU9fN1BGYWZZdEF6N3hCNVRlcXdNTmhKQUdNLUtNNVJYRWl3UDhhUlQ1QXpibHdwSkc3UXBtY3PSAWxBVV95cUxPd1dhQXF4QnV0MWhCYlJHQTJBejI5YlpkNjFTSUJLc1ZNX24zTzhuWkIzMDlaMElESGdxU2VEMDY5NjVPdXVNTlVxSjlpZlRKY1gtNUpCTkczMGQ3SVF5eFRIRnl6bDdOVjU5Uk0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-da52fa57a1e3",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 00:51:00 GMT",
@@ -641,18 +641,6 @@
       "siteUrl": "https://www.yzwb.net"
     },
     {
-      "id": "FL-5edd757e8544",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 23:16:57 GMT",
-      "ts": 1791847017000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "宁夏固原市原州区发生3.6级地震 震源深度19公里 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGpEVVpMUkZmWGNNczlQSVVHNGw1bFYtMjVaZjRPVVR6UnBueUdhUk5LOXdXNDIwNG1hYmZnR25fN1ZpU0l3b0gtN04wcUhvTUNNMlZra3J0djNGWTVjZmVwXzhvOHhuOFZFVENYVGdUaWdnT25nVWJzeDZFZGZ2VTVTSnNidDBI?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-877ee282b8a9",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 22:10:13 GMT",
@@ -663,18 +651,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04a3ktb0dCalBXdzlCM2V3TTg4SzF3X01BTDZzbUV0YVRRN2k2TUs3djRFOVVuODgtRnBEZDJQVm5nUXVzVElNeDFBWmVSX1dJQjhGR2xSMS1vQWNKTlR6RzZpei01ekF2bXMw?oc=5",
       "site": "华龙网",
       "siteUrl": "https://www.cqnews.net"
-    },
-    {
-      "id": "FL-b280bc0cd3f6",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 17:09:40 GMT",
-      "ts": 1791824980000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "羽生结弦将于东日本大地震16年之际在宫城举行公演 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41elI0RG9LMTNSTXlIcUlmTnFFck9wNVA5Z0hEVlk1c0ZjRTU1X0RWSHFlckNVQjhqZnNJdnFLOTcydnI0eFpzVC05R0dEb3VBcHBYSnhpRQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-1aa27e41b96e",
@@ -701,6 +677,18 @@
       "siteUrl": "https://news.sina.cn"
     },
     {
+      "id": "FL-0e39e301849a",
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 02:22:07 GMT",
+      "ts": 1791771727000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "昆明道路突坍塌 15辆车受损无人伤 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYV95bU1kNmlJZGhHQWpMQWYzUDRvSmFUNHo4X093MDA0UWpzNXR3a3pWRU9LSncxa2ZjckpZbnpabzQ1LVBPSlV1ZFAwZnA0QUJ0LVl0RDBTWTBYcVJETS0xRTZnMGhjZl9hT2pSWHNlVU9WRWp4QzM4VHV0OFZSeVhPWkk4by1UV2NYblRFX3FrV2l6?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
       "id": "FL-7e9c5ce04a9d",
       "date": "2026-10-12",
       "dateISO": "Mon, 12 Oct 2026 01:22:38 GMT",
@@ -711,6 +699,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zWnY3QnZkbUJFQ0dzWjQ5N3gwbm0tTXBkeDZPd2xDSlRBMkZUM3dHQnlxVlJjUjM5T01nM1N1RGRFTzk2aE1UbG1tVWxZYm1yTWRmNkpvejA5dk0yTnRaWW1UVGpnTEJvOFFvRDlNNU1Sd082RDJacQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-4ee97473f1c9",
+      "date": "2026-08-14",
+      "dateISO": "Fri, 14 Aug 2026 07:00:00 GMT",
+      "ts": 1786690800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "浙江长兴突发山洪泥石流致1死3失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-73f878a73cc3",
