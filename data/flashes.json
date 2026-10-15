@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:19:41.246Z",
+  "updated": "2026-10-15T22:34:41.220Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -75,6 +75,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-420cf5bdfc61",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 13:08:14 GMT",
+      "ts": 1791896894000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "科技时空 - 时间测量精度迅猛提升，有助于探测地震等引力相关事件 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOaHlmNmtiWmpDLVQ1XzlqanVpdERhR1lfamg2NGZDWTdyYUdzWWh3SWNoSmpqZmtSZGhVMS04b1pLU3h0NDV0cmQyVmJzRmFNLS1kenp5U1l2bXJtVzFxZzBueHFIY2diQXl4QTdVdU1PUXZYQ1hhc2MyaVNEOThtS0pCMFVwUTFaUDNCQmFIWXNySVBXUHlMOEVXNXFBckRpZlpKNzNXMk54eGpEZWRqa28ydWg5UUpnUXF2NVNFcUJ3c1oyVnpibUw4eU1teFhSUFUwRUJwUlEwNjVPeU1XS280czV5Vm5aQ1hNYmp2VDNoQ3paQ3lMdXBXcXNLUWc0ZkhBU0tCdS1iUWdLYTlkcG5oR1cweU5VSW5PSzRFY1o3TzJtSEFIenNNaUtoTkV1LU5YLVNCb3RmZ3ZIUXJqYXV4eVRrYjV6VXFIYnVHUFBsZE4zc2swdUFZVWRTS0xnV1o2djluV0lkZjFsWS1PdC11YUNZbGJDYXZIU2F1VXhDUEx0M3NjX1NydFZ3aVJZdVFoTXVfVjZTampMbndUYXhnVE5uRjJkamUyTmpwRmJsZ3RsX3lXYUs1OWd5b3ppX3JPbnJ1bGhCakJJeUk5RlR5cWY?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-250aaa3a30a1",
       "date": "2026-10-13",
       "dateISO": "Tue, 13 Oct 2026 08:46:00 GMT",
@@ -97,6 +109,18 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GMzZFdnlmWHJ2SkhIRTZjVTM2TDBBbjNONGJzekctNS1zcThKUkRGT24zTk1vSm9YTkxocl9PbWN1bFZTdG5oRzNNSXpLOWdtbDhPcjJXeTVpLUowUV9tZ2JCLTZlTXZzX2t0b1JFYmltSXhLanNocg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-8fb39ff39186",
+      "date": "2026-10-13",
+      "dateISO": "Tue, 13 Oct 2026 07:00:00 GMT",
+      "ts": 1791874800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江西人都收到这条短信了吧|国际减灾日|自救方法|地震预警|山体滑坡|沙尘暴 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRjMwcFNnNVE4blBXUlB2VFFSakpyenlFbVQta0pwclBfLTFOd3kwcUw5TGpyYVN6LXEyR3A2S3haSHhLWVJhN3dxenJuMXdxdEU3ZnFwNzVlMHYyZFVjTVpyUjBOdzdqOUNwLTdNaVBtZk1mcVZYQzlwWS1RdlJvekVMOXF6cnJWazBZMU9Uc2xNc1lBcWxRdTBRMzhMbndseGFTQUhaaFRjWmpzQ3FDTVF1WmpwOHlWMnYyaVNOZ0VwOXlWRE5yUU1vck5zTm1ucE9Mdi1XT0xvUQ?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -123,6 +147,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-d6feb3148f89",
+      "date": "2026-08-04",
+      "dateISO": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "ts": 1785826800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "委内瑞拉地震遇难人数超过6000 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMTFmLUFqVzN5dDZGTzZoYUI2M19MLWVzazloZmxTWi1EdmExZlNaSGdGVXlLVG9kOXpOUkFqbU1Bc1VmY2ZNMjJiMnItYjNTeXF6NVgwUExpNS1oWnFsZF9KeVBidVNzeW82OC1jbEhMaERWbHlEbkhjZVo4SVE?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
       "dateISO": "Thu, 17 Sep 2026 07:00:00 GMT",
@@ -133,6 +169,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNU1WVXJmeml4U1pPcnpDRWZsS2p4TXNXUmpUNDZLc0dFNzdoYUFCUGRlQTdZRktBd3dfQW8waHY5YWRCRzdQMTcxcVlvNTRVemFCbXVvZTNWbmtHZU4wdlhmX0NQcVBTMXNCVGlZTHVDQVppMVJ4V2hCaDdCZHM?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-3e1612a0aa63",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 20:38:51 GMT",
+      "ts": 1792096731000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "Google 博客 - Android 地震警报扩展至200多个地区 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDBQQ3lOZDRDZ2VrNjd3NXF1VDlXeWlYTUgzTC1IWTRNRmhXZEtmaVBVdDJMQXE2c3lhUVFvR0dMclkxQnEtcFBOSjBWdnNNQ0l2cGppd0paTWNGYmhTZWtTY3RMNW02RGdrQjNNb1ppcDVqeWQ4UEtIazRfaVV1MEoyTFZxZS1reHBzWWNKYmt0aVpaNnpNY0xHMGZIS09KZG9ES1dIcmZ1ZGJLZ1FkTjNBeHo?oc=5",
+      "site": "Moomoo",
+      "siteUrl": "https://www.moomoo.com"
+    },
+    {
+      "id": "FL-e475e001c84b",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 18:30:00 GMT",
+      "ts": 1792089000000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "土耳其遇41年来最强降雨：致道路断裂，洪水灌入公交车|内涝|伊斯坦布尔|暴雨|积水|新京报 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOajdDLUpfemJfaEMxQjRjQjQxbUhnQlYyQ19MSmoxeTJqU3dOa1lCSGs0ak5sV0lVQVZPMEJXcGVQN2VJYlJucjdNTG9hcENLSW1VQU1uNjJ6VnZxckJBTTIyT3Q4RlhRdE1yRUtvcThYUExPMnA5dUZrNHJ2R0NCZXlR?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://video.sina.com.cn"
     },
     {
       "id": "FL-1a6aac65fdd5",
@@ -195,18 +255,6 @@
       "siteUrl": "https://www.dailyqd.com"
     },
     {
-      "id": "FL-a70472dca88f",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 14:04:22 GMT",
-      "ts": 1792073062000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌 至少32名学生和一名教师死亡 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkJJZy0xYzJPZVRlWnBoMjZ3MGFsRGpEV2RtRTV5cllKbkJDd1AxXzVPTl9aNjhVdWxmN3NmRVU0SWMxQzVVb3F1ZnE4WnpMdjJSblJ4RG5QNG5MaW16NXdza1c3VWdSUEZ0T3ZyWXc0Vi1reHBqYThnU2lWS0Z1bHBORk1Cd2d4Z2gxYnpaM2hzTVFUXzRr?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
       "id": "FL-eb0c67074bc6",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 14:00:00 GMT",
@@ -241,18 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LazgwMklLVEx6bEpLeTNmc0dOVVg3U1Y1cy1lZ2FaWkJoUHMwc1k3Q184bUFvM3dPb1JIeVRUS1NhVVgyUXp0eHJYT2VfM2NWVmdCTWo3UnNyWEZadmVtMVpOT3FjdDlP?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-880874f8d592",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 11:58:28 GMT",
-      "ts": 1792065508000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "土耳其：暴雨引发山洪，造成3人死亡，伊斯坦布尔交通瘫痪 - Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVVoNEZvcEdYX1hKY0NpYjNaMGVUdjM4Y1VtUzhmTFBEOVZDSmxuYkx5ZV9rTXFXay00SVIzRE9naFc4bzZ0cTdiWHJNcHZ3bmFfaE5nYzhFV0NUSkFqVTVsZTB1bjlRZE9OME1ydDRjTWlrRXpId3hyM2lXNkNMSWgxNHRENXFjT0FOampnZGlFcHN6b0M4c2Fsc0JiZGJsZ0RodGRlZTlMT3JscnUxWlhUbG9teDRVU3NQbUhn?oc=5",
-      "site": "Al-Monitor",
-      "siteUrl": "https://www.al-monitor.com"
     },
     {
       "id": "FL-5fb6b44033ba",
@@ -327,18 +363,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-c6529cfa8408",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 09:56:17 GMT",
-      "ts": 1792058177000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "发生地震降低重心保护好头部 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzNzVOU2xDTUsteEVUcFc3UGVnNmd0VDB6ZHNzbGxxRnR1MzJpRzBldUM1WTJkaW91Z1JNanE4NERyckhiWlhQb3BiTXoxMlplNWo0eTltNDg3QTl0aGpMODNwcllQdk1kSzR3RHRvLTQ?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
-    },
-    {
       "id": "FL-eaee57c8b206",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 09:47:56 GMT",
@@ -347,6 +371,30 @@
       "type": "geo",
       "title": "发生地震如何避险，一起来看！ - 搜狐",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZDhsWkJtWFdicXZPOFlydEFkNGlQWGlUNFhTdUhBX29FV3l6R2FIN0hVNFhwYU83cnI4WGJMd205S1hzN0hIT3N3ZU5sdU9YMmdHSGlTWEgtckpTQW9MYlBaajM5TVBvNnczOGpqV2dCMVhJWXZrNDJHR2hNVE5aZjBjQzdWa3NnaXZWbw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0f14c75a844e",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 09:30:19 GMT",
+      "ts": 1792056619000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "视频丨巴基斯坦学校屋顶坍塌事故死亡人数升至30人 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hNExCTUhUUDNla0lfc3FoX3MzeU95dlZOT2NNR2lYcUVJdnRycGZJVHF3dUEwaUxYWlBQeTZ4TE5vUldVdmQxMUJlcW1tQjNCOEZvNmtlYzRVSWFtWlE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-61b18e563796",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 09:21:42 GMT",
+      "ts": 1792056102000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "陕西宝鸡一公路发生山体滑坡 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYi1tMFZoc2c3ZDNxSEFnUnFRamc5SVpxNVFnN2ZYQzFMdTk2YmVJeUxMVTZtNGsyQlg5cHZMRlhBTUk0WUtoYWxSbFl3em5mMjFjWHMzaU5BZzZpWkdkWUJndnJYSVNMakREalllTGtCNFVjMXNQSDQtZ0hNX2NsbVA3NlNoX0JH?oc=5",
       "site": "搜狐",
       "siteUrl": "https://m.sohu.com"
     },
@@ -375,18 +423,6 @@
       "siteUrl": "https://gbcode.rthk.hk"
     },
     {
-      "id": "FL-1383d3e130f1",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 09:05:48 GMT",
-      "ts": 1792055148000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "（外代一线）巴基斯坦白沙瓦一学校屋顶坍塌致18人死亡 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFhHQVpDV01hX3lmRUktVkZlQndBWkxEN2JsNEpFbHZQcmFZVGJTZFctQkMwUERDS29iR2Zmald3VUh3WFJ6Nlowb1pjcF83TDZRdGVDakJOd1EwT1ZaLTVmYVVMYzVqcDF3WGwzbnQ0dnFZdnBoUFFjdDB4RG9pY0pIRlRMb1px?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-6f04cc50cf5d",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 08:46:44 GMT",
@@ -411,18 +447,6 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
-      "id": "FL-34eaabd37a91",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 08:06:06 GMT",
-      "ts": 1792051566000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "画廊 本周回顾｜哥伦比亚地震报道与两座全新国际设计塔楼 - 21 - ArchDaily",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZFlzdFZtR180ZkFiaUJQUXkzY2NoaWNSNW9BWkRjeFU0bVNJakJkTDRKaFNnaGZucVYxUkZSeURGWjFCZWRzYU4tYnhNN0dfQXZkbmlqa2NZeHlUNEFKZG5zMzdMSEVMbk4yV0VyeURXU3dqWVRtZkhBQnpBREFobUptLWY3aF9SRlotbDBYTDEtSl84TG85OW5NVHFZb28tMG53T0lvY3BrTU1wMkdVVm1ISGxjNnVQMm0tR294TUdLcHR0d3N0b181dDE4WEVfVVgweXhpM2xxeWdHOVlSYWotd0tIcVFzMkV5cm4taHNvSjhZQ2NqdmxIbUJLWk9KQUFUelR2VnV1TXFOeU84SWRmeWRkNEkwbjMtZ1l6Y1RrRUpMUTZGM29zY1g1WG9pVUNPTlpadk1KWnB0QzR2dlZVaFRuelZjNHBiTEQ5VEtudXdVRnA0WUxsWXBpTlN3b2NYdA?oc=5",
-      "site": "ArchDaily",
-      "siteUrl": "https://www.archdaily.com"
-    },
-    {
       "id": "FL-5ff5e4b1f7e9",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 07:56:33 GMT",
@@ -433,18 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QVJESmxLWk9hZ19pNFlQaDM3aDFOejVWS25FbjBzdnM4blhKaFZfQ0s4c2dUbVNRZ2R1NlNXRGJGTXljLUV3cG8tcW82aTVmRDNFdHJJTi00MGJtSjZ4eEp0X2tBY0VaRll0cWJKakU?oc=5",
       "site": "中华军事",
       "siteUrl": "https://military.china.com"
-    },
-    {
-      "id": "FL-b254ccb304ee",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 07:37:28 GMT",
-      "ts": 1792049848000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦一学校发生屋顶坍塌事件 已致至少21名儿童和1名教师丧生 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc0phUEdsWUd6NDZ3czZrZThlZ0pGSlhOZlNhcXIyTERFOEZid2Q1Sm1IUTZhZzRwdEZhZVlQUXFDcFRyQmUtTTBUcFUzTGVvUkQ1eTNlYjZObl9NS1luenVlb0VaY0JTWXp5Nk9EYWxKeWtIQjZIeUk2bzJIdzBRYVhyS0ptdlFU?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-8925a17c407d",
@@ -459,18 +471,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-9b0b15822a47",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 07:28:44 GMT",
-      "ts": 1792049324000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌 至少35名师生死亡 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN3F4X0JnNld6LTZtM0hQaFJLbHNieGptU1pUMlotQ281SjRPUGRqMTA5TU9RZDd1cnVONmZmQjhIR2ZHNktNdFJjMHowR09YZng3U2JlR01hdWY4SkM4UkY1dEpHXzZhVUE?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
-    },
-    {
       "id": "FL-93372b39a951",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 07:05:00 GMT",
@@ -481,18 +481,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVNQNWpzRnJIZnphZU9pb2x0QmJqVVAxTWJ0dDdXQUxBcVQ3X3ZZTGdPZDBnMWxLZnF0aVJ6UjVMZzVBRTFRT2NkclVFeHo2Vk83VFdKbnZsNFJ3a1d1VXhrRkZsRVZDclN6NlkteUtkc0dEeTZ2WXJyR1k4OE1NX0lvd1hQdUljak5PRUktbjNKM0RieHN0cnktN2dHMWJ4MmNzOTFMLXd2OHZ3VzY0RF9qM3BNYmM2ZkFmdmhfclNOTHdVdWxCbA?oc=5",
       "site": "UA.NEWS",
       "siteUrl": "https://ua.news"
-    },
-    {
-      "id": "FL-4ffd29c34bad",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 07:01:00 GMT",
-      "ts": 1792047660000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事件死亡人数升至22人 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlhjX09GckdsSDJTX0NBWWtvaEJFUjZGVGdiX3drQzR2aTVFZGhlSzFuUVZidTFHWEtLSnhBaHRwcHk1RE9FdjJPTHFwaTlSMm02a3l2bTI5NkctOHl1bHpOczRHbHpkTnVfUnBOUkVBTjhKa1FxOXg3cnhBSlJJRE1ZVTBWLVJUYVFPYw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-eb6bd38b0639",
@@ -651,6 +639,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-91bdb2ea9dee",
+      "date": "2026-08-23",
+      "dateISO": "Sun, 23 Aug 2026 07:00:00 GMT",
+      "ts": 1787468400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本茨城县地震致37人受伤 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-9098dba60482",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 09:14:32 GMT",
@@ -673,7 +673,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOY2VSejgwSF85cXdfd0JSTDhyMU5JSFFGdVZIbDlBRUtmaF9LNjZZV0dfR0pXc3d1dl9JSGRabm5YT05IN0gzZ1c2djd3bVY1cjFzRy1VWWdZYlN2SmlYRldRREh4VmtxVHpYRDA5UmFOY3Mwb2Fr?oc=5",
       "site": "北京师范大学新闻网",
       "siteUrl": "https://news.bnu.edu.cn",
-      "related": 37
+      "related": 38
     },
     {
       "id": "FL-dfadf36148c9",
