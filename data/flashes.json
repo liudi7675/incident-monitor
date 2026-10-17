@@ -1,19 +1,7 @@
 {
-  "updated": "2026-10-17T18:43:28.418Z",
+  "updated": "2026-10-17T21:15:35.300Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-7ff37f215b2a",
-      "date": "2026-10-13",
-      "dateISO": "Tue, 13 Oct 2026 03:10:37 GMT",
-      "ts": 1791861037000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "中国驻巴拿马大使馆| 提醒在巴中国公民防范地震灾害- 海外安全提醒 - 深圳市人民政府外事办公室",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncHl3Y3VSdWhWd09OWGZxSFdlVmo0ODg5WkhoTHpfRGhYVVdQNEhXby15eVF2LXdkMGkyOE5LeUpTak0zQkNtNzJ3WGl4TXo1THFCTjA5ZjA3TlV2T0twbWxoQnFtOVVnME5Z?oc=5",
-      "site": "深圳市人民政府外事办公室",
-      "siteUrl": "https://fao.sz.gov.cn"
-    },
     {
       "id": "FL-ca47c5e94270",
       "date": "2026-09-17",
@@ -37,6 +25,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55cUk4SjRMZWVhdjNlOGc4M3pnZXJFcWszV1dFUC1qQWRWZkVYZDg4YW5RTWRGbzAzcG4wVDN0M2drTDFRYWMySTFGMXFhcktMS1QwM29LdlhaZzNVSmRYVA?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-8a3e6a47981b",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 23:31:00 GMT",
+      "ts": 1792107060000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "谷歌宣布安卓地震预警累计超10亿次！覆盖范围扩展至全球200多个国家和地区 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kenE4eW0wUVVfSGt2NG8xT0dRNHdaTWRuWEJKM1UzMVdHZVNHeHF0ZzZCajhTS202NTVYQW5HQjlmd0JuLTJvaXFBTThRVWRVbFk5cUkyMzI?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-ad0839914027",
@@ -153,11 +153,11 @@
       "ts": 1789023600000,
       "scope": "dom",
       "type": "fire",
-      "title": "山东青岛市北海造船厂一货轮火灾事故已造成20人遇难 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa3g4VnlYVXpHY3N1YmFWWjVORmhQME1CaTFYZU81TmtMQng3ZEF5N1BXNVhITnJSWE1vSDZtMXMzN3J1WFU4NzZMaFIxVU4zMEMtVFk3VEd1R3kyT2FELW9hYlVDUWZxZTQ4R3hyZ1Y?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com",
-      "related": 4
+      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示 - 国务院港澳事务办公室",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16XzFCU2htbDlOX0dGXzNpd01lTmtWYjBndC0yVDZtS1VwYjdvaU5zSTNITnVmU3ZwbGFaYWtSODlXemdzcUlGbUxSZWc5NkpWcm1KRko1REJXSDBXZlowdGpiVVJpa3VfLW5aOGpENVFfUlYxMjA0Q2J3?oc=5",
+      "site": "国务院港澳事务办公室",
+      "siteUrl": "https://www.hmo.gov.cn",
+      "related": 3
     },
     {
       "id": "FL-89d6589d1504",
@@ -194,7 +194,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOY2VSejgwSF85cXdfd0JSTDhyMU5JSFFGdVZIbDlBRUtmaF9LNjZZV0dfR0pXc3d1dl9JSGRabm5YT05IN0gzZ1c2djd3bVY1cjFzRy1VWWdZYlN2SmlYRldRREh4VmtxVHpYRDA5UmFOY3Mwb2Fr?oc=5",
       "site": "北京师范大学新闻网",
       "siteUrl": "https://news.bnu.edu.cn",
-      "related": 30
+      "related": 31
     },
     {
       "id": "FL-deba3a4c80c0",
@@ -235,8 +235,8 @@
     {
       "id": "FL-fb0ecb77ccf8",
       "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 14:37:42 GMT",
-      "ts": 1792247862000,
+      "dateISO": "Sat, 17 Oct 2026 15:27:25 GMT",
+      "ts": 1792250845000,
       "scope": "dom",
       "type": "geo",
       "title": "基于无监督空间–光谱学习的高分辨率高光谱滑坡提取框架 - 生物通",
@@ -255,18 +255,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ISlV3dTdrQkNiY0FSVUstTG83eFhYQUJmSnlOdkUtQ1FuNUJBU1hYdVpEeHBBUV9LNDExY3JBakpRLVVXMWYyaXVWTllydVhxTTFsc0F4dUc5alNWM3hralVVekdLS1lRZlBTaw?oc=5",
       "site": "早晨报",
       "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
-      "id": "FL-57e19502a725",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 11:26:24 GMT",
-      "ts": 1792236384000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本气象厅称地震乌龙警报源于防误报功能失灵 - 联合早报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IRWl1MFA4WlNMNkIyZXQzT3ZSWW41UnhYdUJpRnYyX0VvOEZQYTVHTGdnOTFWZG96STN5eXdnVFpwUkUtMnBibktTV1lHUmtVaDdBOGk0QzUyQ1ViTE85dmtyZUhKbkRaYmc?oc=5",
-      "site": "联合早报",
-      "siteUrl": "https://www.zaobao.com.sg"
     },
     {
       "id": "FL-8d3b3c200edc",
@@ -341,18 +329,6 @@
       "siteUrl": "https://www.ebiotrade.com"
     },
     {
-      "id": "FL-60949763c750",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 05:35:13 GMT",
-      "ts": 1792215313000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际哀伤问卷临床核查版（IGQ-CC）在土耳其地震丧亲成人中的验证研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OODgxdGlHQkpfbmFZdHJMY0VzdmttbDZqM2pKekdqdWxnLUxBZUZGVlZYTC1ZRzdjX0ZGLXU5X0hLTU1mMHRzLTM0d2o0NmQyenZFc2sweUZPMVpXX052dUxxWjMxTnBUb0swRGdn?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-f6074225841c",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 05:06:00 GMT",
@@ -365,6 +341,18 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
+      "id": "FL-5b4751d447b7",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 05:00:00 GMT",
+      "ts": 1792213200000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "国际丨日本误发9.9级地震警报 气象厅撤回鞠躬道歉 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkLUtGM1ZRLWhyZkFGV2pKRXF2NE1CdjJLN2Z0YmowTXJUR1ZuZ1g3czZSdXI0OFNrWVpOTUtKbVIta1paay1BOTZmUHhQd0dXakZVRnJyVk9UWHVBWmRiRURnenc?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-14fd0c397016",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 04:48:52 GMT",
@@ -375,18 +363,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qUWVmUVFqSlhUdFpISFkyckVNeWs0R2drZ1kzRkV6N0tDcW05Z2dVRGQ1SWNUa3ZZTEN1OHR4bkZ4dnlESkV0dEU1UVJsdExwWVpwd294eVRDWm9FZjZ3ZXBjRzcyQlBWcnBwMGxR?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-978a752fe793",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 03:34:16 GMT",
-      "ts": 1792208056000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "一周看天下丨巴基斯坦学校屋顶坍塌事故遇难人数升至33人 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE05ZXZtMkNzdzBoa2dhNzBRbU81dXpuNWc0LXBoLU9SeU1FOFVaS09HZS1NaE9BWW9HcmF1dFRJdU9jZVRPbDRJNQ?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://i.ifeng.com"
     },
     {
       "id": "FL-59b66386a5d2",
@@ -425,30 +401,6 @@
       "siteUrl": "https://news.sciencenet.cn"
     },
     {
-      "id": "FL-5b4751d447b7",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 01:00:00 GMT",
-      "ts": 1792198800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际丨日本误发9.9级地震警报 气象厅撤回鞠躬道歉 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkLUtGM1ZRLWhyZkFGV2pKRXF2NE1CdjJLN2Z0YmowTXJUR1ZuZ1g3czZSdXI0OFNrWVpOTUtKbVIta1paay1BOTZmUHhQd0dXakZVRnJyVk9UWHVBWmRiRURnenc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
-      "id": "FL-667a2dee779a",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 00:03:00 GMT",
-      "ts": 1792195380000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "马斯克一句话，芯片大地震！惊天深V后，该捞底还是逃命？#芯片#存储#商业 - 财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFWFZOYmRna2FmMmRjQXluS3ZBOThabkhXVEd3VjhwLTdaVWNvVVByUVpjNlJEckZ5eW04YnJaY0NybFF0YmNEZDlhYlQ5TlVYU0RKYy1Tal8yYUZpbG9sUDZKSHA1QmY2ZnNJ?oc=5",
-      "site": "财富号",
-      "siteUrl": "https://caifuhao.eastmoney.com"
-    },
-    {
       "id": "FL-da52fa57a1e3",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 00:51:00 GMT",
@@ -485,16 +437,16 @@
       "siteUrl": "https://www.sohu.com"
     },
     {
-      "id": "FL-6e7fdb83d0f2",
+      "id": "FL-43b4d3482940",
       "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 21:36:46 GMT",
-      "ts": 1792186606000,
+      "dateISO": "Fri, 16 Oct 2026 17:51:00 GMT",
+      "ts": 1792173060000,
       "scope": "dom",
       "type": "geo",
-      "title": "重庆巴南青年开展汛期山体滑坡群防应急处置演练|青年突击队|中国青年报|抢险救灾|重庆市|巴南区 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1enRkTmRJN2tST3BWUFRsSkgzcDFLMnQ1S0dYZzFtaF9OdkJtZ3piY2VpOG0wY1hXMHN3VGNMVk51TVZNQV85aEtoSXVTdHpRVG9XSy1CVV9JVVFhSENlVUlwbUtybklLOVBleHJiTkhMR3ZlOTZrcQ?oc=5",
-      "site": "finance.sina.com.cn",
-      "siteUrl": "https://finance.sina.cn"
+      "title": "新疆阿克苏地区库车市发生3.2级地震，震源深度13千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTm5zRHBZY0Z1QkZTOHNKRW9MSFBoYVhZQW9QMmxzTkpkMkpkOVlXZnhWeWlxb2xWRHY3dXdXQ0Y3aGg4VGZNczkyRThGTVlJWTFjNmFPdFM?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-17e314f7d02f",
@@ -581,16 +533,16 @@
       "siteUrl": "http://news.fjsen.com"
     },
     {
-      "id": "FL-5575f7d60ba2",
+      "id": "FL-cb9f596e041b",
       "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 08:14:03 GMT",
-      "ts": 1792138443000,
-      "scope": "dom",
+      "dateISO": "Fri, 16 Oct 2026 08:11:00 GMT",
+      "ts": 1792138260000,
+      "scope": "intl",
       "type": "geo",
-      "title": "四川省应急救援总队开展2026年地震灾害应急拉动演练 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41b200bTNpc3lVdXExTG9tc2FqeVJyc2Y5cjgtNDZnaE5YSklDYU54NUVLQVp1QS1paDZ2dVNfMEN6U1NhcnNzSFk2SXdSZExFSF9EMjV6alVOOUdSWUNUU1VKY2lfcllDbUx0SEZYNzNqYXFjYnc?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://sc.news.cn"
+      "title": "日本误报9.9级地震 - 每日经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xX0JzbDFqNnEwZ2oxaFNwRDdDNjBhVFJQM0N1SGZ6M0FaSnpIc0ZQQXVmcWROTVdZM0k5OXVRWjNpRkhqMW1kNHd3M2QzTkwwZXBpaEM2SWlWSkN6b1J3TGhWdmhpQQ?oc=5",
+      "site": "每日经济新闻",
+      "siteUrl": "https://www.nbd.com.cn"
     },
     {
       "id": "FL-c6eb8f3dbc41",
@@ -603,6 +555,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93M3c3T2NzQWk5NEtVOHllcmhCYzBpemZYRUhvUnJVVDhxMXFSXzJ3WUhiekhMTnVKTGJVWDR0WUhGbGg2ZkJ0UnBGYlpyUQ?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
+    },
+    {
+      "id": "FL-e102918f70c4",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 06:58:16 GMT",
+      "ts": 1792133896000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "通报“发生9.9级地震”后撤回，日本气象厅道歉 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50eUhybDBnT1VWRFhFejM1ZkdaQ1JFNG5uUUxjU3pfSlNoNWtUYzdhTHloNkNpdWdpYkljNGwzTHZWQ2Y3bUFISll6VGE?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-4f1c52c77eaf",
@@ -627,6 +591,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vcVZtYXY1Q0JZem85bnBaSGFrWVJwWDREUTNQaW9XanJNRWJmX1ZYcU0zUXE1UXFWVnhIam8yY1BqR0RieDVBc21YM3ZzLWItTnM5c29xOUYtd3MzLWNtdk93?oc=5",
       "site": "盐城要闻",
       "siteUrl": "https://www.ycnews.cn"
+    },
+    {
+      "id": "FL-29708fe815a3",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 05:50:26 GMT",
+      "ts": 1792129826000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本气象厅撤销紧急地震预警，震级被误报为9.9级 - 旅日侨网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRW9XeWJUaEdCakRlb3lzdVZHTmZNWDlwLTRsU05YbTRjNm1vNU54Nzl4aTM1YXNrUU92dnNqTGhkWHJTMTg4NnRsbndIWUFNUTVnei1OMzQ4OGpNR3V6bWNYXzd1UVpaSTFnSk9rZ3pJOTNmQk12R2ExRGduVU9yM0V0QS1HR2ZWOFE?oc=5",
+      "site": "旅日侨网",
+      "siteUrl": "https://www.jpchinapress.com"
     },
     {
       "id": "FL-41f666b29dd9",
@@ -687,6 +663,30 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyU3FFYUVmVVA2U1hOMTRaMG11aGFnMlV6Rno5TEZVSkpxeGY5MUxwZV9pQnYzaElBNkxlOEhFRk1uVGtrblhFUDFMQWZlNFRwXzE2UUJVLWVFM0w4NzhvcDl5U2dLTzVw?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-2cfbe6b8adfe",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:58:00 GMT",
+      "ts": 1792123080000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛发生6.9级地震，震源深度150千米 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53VDJLSmQ2b0xyczR6OTdfSUtnNVlSenZMdDRhbjM2anc2MFp6bm1rQVNDMzZTZmVKTkpxR0V0ZkFWSXFPVG9qVjJKSkllby1ybGY5T0VOLUgyU1NIMWRlMQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-23286f02c373",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:54:13 GMT",
+      "ts": 1792122853000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛发生6.9级地震 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EdmR0ejNkRWhLUnBUOHBMTmMtcTRjclZGXzdrc1lHMmRoMDF0cDRIOGFEa3Z3Y3NpeUx5ZUVPRjM4ZE01b24zQkF4azQ?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-8e9d6870154a",
