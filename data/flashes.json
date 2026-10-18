@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:46:41.597Z",
+  "updated": "2026-10-18T17:51:50.464Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-3f14eee60b76",
+      "date": "2026-07-28",
+      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "ts": 1785222000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海兴海县发生地震，新华社记者正赶往震中 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjhraXFNRkV4aXFkR3A5WnUtM05NbDBfaW9QczhwVkgyNmJUUTZQZFBUaDRnRVU1OHdRS0thZmpMelloS0RvLUxWb1FWR3M2bWFPWTZNWEl6NjRRcy1ncUNEVEZkcHZMSEhJTmRVRXpOWDY5Mjd2S2xtSVAyM2M2bEpHNA?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-9f27b8058e26",
+      "date": "2026-08-18",
+      "dateISO": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "ts": 1787036400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：联合国加大对10万人的援助力度 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdFZsRFdoS0JpaGpVQzZkeFZOYThHWm9DX3RZaXJMV0lRNUxHZkdNa09vdmJEZE9rS3Z2eVpfQk83dU1sdWN4MnFJVWRaMzMzYzQwTXRjOA?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -63,6 +87,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-b20711799728",
+      "date": "2026-06-25",
+      "dateISO": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "ts": 1782370800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美地震学家：委内瑞拉、日本连发强震无关联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQUJWeTBVOGkxOGtWbjk1bmRzV01tQWZUbl9RN3F0LWh0V1g2aURiR2ZYSzFyOVptaldyU3dURU43RjlpcWhYbllTUWtSV0l5clhTeUc0UU9zY0w1Q0Rra1lDdnJSRnd6Y1hIelg4QnYzR0duU2dLb3A0LWdHSmc?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-a2237798f821",
       "date": "2026-08-20",
       "dateISO": "Thu, 20 Aug 2026 07:00:00 GMT",
@@ -87,18 +123,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-f6f459ff470e",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 23:46:00 GMT",
-      "ts": 1792107960000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "专访｜王飞腾：全球变暖持续，发生冰岩崩泥石流类灾害概率会上升 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55cUk4SjRMZWVhdjNlOGc4M3pnZXJFcWszV1dFUC1qQWRWZkVYZDg4YW5RTWRGbzAzcG4wVDN0M2drTDFRYWMySTFGMXFhcktMS1QwM29LdlhaZzNVSmRYVA?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
       "id": "FL-8a3e6a47981b",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 23:31:00 GMT",
@@ -109,66 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kenE4eW0wUVVfSGt2NG8xT0dRNHdaTWRuWEJKM1UzMVdHZVNHeHF0ZzZCajhTS202NTVYQW5HQjlmd0JuLTJvaXFBTThRVWRVbFk5cUkyMzI?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-1a6aac65fdd5",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 17:47:42 GMT",
-      "ts": 1792086462000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌32学童和一名女教师遇难 社区居民要求彻查劣质建材 - RFI",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQMkpaMXQ3R3pyV3VucndNOWxUaFZKX1NFdHBEcF85MUVfU2sybG1uNTdKWWc2eHJBV09vUjY5VWhKYlo3YUtRN3YxdFhMTnJWUkk1enJDOW1va3lJVnQtZlVVSXJ4U3lvTUpxZkZZX3AtXzJtVXVPODF3RWlGME8yNWloNTRsSTF4U21fb2p5M1g3LXJwelpuZ1pFNG1yUUJWWHJ2Sks4WExqOU5ueUw1d1RMMzBub3N2NUZHelpJWUtFbE1HaV9QUEM3RnY2ejlYRmZDMzZDWTFQaUhLc3p2cHplcWNzaGZQN0lyRzhSOWVBSUFVQ3NocjFKcDB1RExpT0dUTEVFNGtPVUJMRFRfcVplSkRjSHZrOXhMY0M1djJBNjlCRk5qZEJNN0hoWThTSGZ1dnRIUXNPUjNELWctTlNkQVNMYlJHRFlIaWg2LWFlUDBpb2JDc05PZklBdWdmUXFyZVJraEFaNUxfeUtIZVNnX3dob0VmQURMWE9hN3ZaMWdRV3pqUW1uTmRFYktpWDlVNkpyX3loV0hfX0RGdk9nTE8yR01OcGJpMnU1YmJseDN4Z1dCWDBhZW9NeVE1Umg3NWdpdVpmVzJERHlMTkRINUZIZDRjUkJaWDhWbjZnb3c?oc=5",
-      "site": "RFI",
-      "siteUrl": "https://www.rfi.fr"
-    },
-    {
-      "id": "FL-3b76d52794ae",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 14:24:17 GMT",
-      "ts": 1792074257000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事故已致33人遇难 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SDAyQ3RZeWpnVVpYS1h6TGxpRjAxM0xwQWZvOXdyTGlQR1BPOHFnaXRBQU5BNjJTUVpMdjJyejFrQzAzMkJmSXp1UTRlWnBuQlF6R1ByYVBZNXJOdkFzMlQyR1F3dWd2VzRRU3NfZXFPallQYnVmYUNWZ2FGNVk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-1aa75b290724",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 12:16:23 GMT",
-      "ts": 1792066583000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦白沙瓦一学校屋顶坍塌已酿29人死亡 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LazgwMklLVEx6bEpLeTNmc0dOVVg3U1Y1cy1lZ2FaWkJoUHMwc1k3Q184bUFvM3dPb1JIeVRUS1NhVVgyUXp0eHJYT2VfM2NWVmdCTWo3UnNyWEZadmVtMVpOT3FjdDlP?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-aaedb2ea47bb",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 11:49:00 GMT",
-      "ts": 1792064940000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事故遇难人数升至33人 - 中国网新闻中心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmbV9vNjEwMW5vaGNRa1NyYnVmcDZESzc4eElXNU5ycE52cXZYSmFwMGZsUG1FSWM4OEs0dzlRUzhCRzZMbjN3QTQ3NXBYVEpOaUxOTUFVZDRzY2tFNk5qaFFJSE0tZ0tTLWg0?oc=5",
-      "site": "中国网新闻中心",
-      "siteUrl": "http://news.china.com.cn"
-    },
-    {
-      "id": "FL-58df69f7e869",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 11:05:15 GMT",
-      "ts": 1792062315000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事故遇难人数升至28人 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW9xT0hoZ01zZHJEVW0xTzVoaDZFMG8ydkRjRVVZeFRlOWE5RGc4Y1RQaUxiVVJtMjV3M200cEp6dzJ4X3BPRDI1blRsRGh2czlLR3NwcE4taTBra3JVUzU4RVBqQTNQR1hpTGx3U2hpc0hpS3JZYjBwcUNzWkJtSDB6dW42Zw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-182b711158d9",
@@ -183,28 +147,16 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-4d7da2808880",
+      "id": "FL-34eaabd37a91",
       "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 09:36:17 GMT",
-      "ts": 1792056977000,
+      "dateISO": "Thu, 15 Oct 2026 08:06:06 GMT",
+      "ts": 1792051566000,
       "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事故遇难人数升至28人 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGUyelhuZWxWV2wxUGY5NjJ4d2dUOGxMdXpqaGstY3VPUXYxMWdhOGNYU0JkZ0k0ZXZ1OFBQeGMtTmZFaU50c04xUXo2TUNYV242aHl5cnk1SW9WR1lRMnhsZUFyUWNXQzZBNHRCb3NlQnBOb3l3VzBxZ1hMcmplbWxuWHBRdjAtYy1Lc3lBQVJRT2pkQ1dvZ2hn?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-8925a17c407d",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 07:36:32 GMT",
-      "ts": 1792049792000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦白沙瓦一学校屋顶坍塌致18人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42VUNLcVlzNGU4dEE5aEx1MkJOcDBSa3JkMWlxZnVMOWFhQXN0eXJKaHdxWDFROWVUaldlb3h2ZC1vUXpOT0tqbkdzQnZuYS1jMkZqVWJpMTV6YmY4OFdhUWVtWUxMNXZRZFBqejNocnBRRklZQTB1QTBWV1N3alU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "type": "geo",
+      "title": "画廊 本周回顾｜哥伦比亚地震报道与两座全新国际设计塔楼 - 21 - ArchDaily",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPZFlzdFZtR180ZkFiaUJQUXkzY2NoaWNSNW9BWkRjeFU0bVNJakJkTDRKaFNnaGZucVYxUkZSeURGWjFCZWRzYU4tYnhNN0dfQXZkbmlqa2NZeHlUNEFKZG5zMzdMSEVMbk4yV0VyeURXU3dqWVRtZkhBQnpBREFobUptLWY3aF9SRlotbDBYTDEtSl84TG85OW5NVHFZb28tMG53T0lvY3BrTU1wMkdVVm1ISGxjNnVQMm0tR294TUdLcHR0d3N0b181dDE4WEVfVVgweXhpM2xxeWdHOVlSYWotd0tIcVFzMkV5cm4taHNvSjhZQ2NqdmxIbUJLWk9KQUFUelR2VnV1TXFOeU84SWRmeWRkNEkwbjMtZ1l6Y1RrRUpMUTZGM29zY1g1WG9pVUNPTlpadk1KWnB0QzR2dlZVaFRuelZjNHBiTEQ5VEtudXdVRnA0WUxsWXBpTlN3b2NYdA?oc=5",
+      "site": "ArchDaily",
+      "siteUrl": "https://www.archdaily.com"
     },
     {
       "id": "FL-EV-18d9b0620c3d",
@@ -218,6 +170,18 @@
       "site": "国务院港澳事务办公室",
       "siteUrl": "https://www.hmo.gov.cn",
       "related": 2
+    },
+    {
+      "id": "FL-8442eae4824b",
+      "date": "2026-07-09",
+      "dateISO": "Thu, 09 Jul 2026 07:00:00 GMT",
+      "ts": 1783580400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾：地震受灾群众得到妥善安置 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pR2V4eUEycGFqODFlc1Z4ekg0WDd2d08yTzF6ODJuSW5MdExyOGhtcGFnTjJxNTFibHhZZlRGd1dQdTI1TU5pUjBaaHlNTWNza3l4ZHFEdFUxTkJwNnMwQ2VTUFo0R1AxT3gtbVZXVEh6b1RqZjFZbGhUZFBFME0?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-89d6589d1504",
@@ -256,6 +220,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-17e8ddd9daa9",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 12:37:38 GMT",
+      "ts": 1792327058000,
+      "scope": "intl",
+      "type": "other",
+      "title": "法国抗议瞬间： 历史悠久的市政厅尖塔在烈焰中倒塌 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XbXE0dmRuNEl3LXN6Mml6YkdGbTF1UVdULVlNUUJpVEpZc002NzVjZ05FdEpnYUMwZG1teGkyaFE4YXl2UkdvOXRQaG1pTWRZRVhaekNYSU1jd0xrNEV4TFFKdw?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-117154be2701",
       "date": "2026-10-18",
       "dateISO": "Sun, 18 Oct 2026 11:49:58 GMT",
@@ -263,9 +239,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "日本地震速报误报9.9级地震：实际震源在堪察加半岛附近，震级约6.9级 - 虎嗅网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Cd055bV96WVBrM2R6b3hKOTA0X3VQZUk0TmtzUGE2b2RxSld2UDBvYVFSRnhTdzVBMGdfcWxVc08tU2hNUFlqOVA2OVdrSmxLMTJZaXdYNndOMDB4WXQ0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2eHlwZmlmZ0xJZV9jM080ZzFVTDBfd3FYMlFnV0JJZDRZV3UzdGVXc1RLN2NHLUpwVl9lUExXanhUaTVURFdaNGRmM0FYVzdJbV9vbA?oc=5",
       "site": "虎嗅网",
-      "siteUrl": "https://m.huxiu.com"
+      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-19de313b2464",
@@ -278,18 +254,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IeVp5RkhRUnFhVmp0Wld2WVhLbDNBbTRrOW1lRzc4NkdHRF9Wa3JPSkVlS0RPRGg1aFJTTkJ4eEFTenhwc09fT2JOVk9xR3ZsODcyeUgyV2ZpaHRNLS1HeXUySk9MS1NP?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-c6e4e53ba5cf",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 08:47:45 GMT",
-      "ts": 1792313265000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "人防技防并重、数据赋能预警织密地质灾害安全防护网|山体滑坡|山体崩塌|气候变化|泥石流|上犹县 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdTFpc2pfakt4T1Z6d2VqZ3VjTGxDektpLWx1NW5KN1hib0dUM3BSd2MyYS1sYVZETzN0V0xQVUdRaDltRE1yS3NHWEszZlhLVmpqQXFqX0dpTnExblAxU0V3WXY2R0VnU0pfd0N6RHVXQXFzbkMzVHlvU1VSd2dHcEZNMEkwMkk1bzh0bGpjUGJ2TmpkSURQN1lSaHlpaThhUFZRZHVTbG5qU0FlWUdCemRqRkNJWUpseWNncU15b3o4bDdwMjY0YVo1TDNXMmJCUHptellwMks?oc=5",
-      "site": "新浪财经",
-      "siteUrl": "http://finance.sina.cn"
     },
     {
       "id": "FL-7a7f3a806620",
@@ -328,17 +292,29 @@
       "siteUrl": "https://sc.news.cn"
     },
     {
+      "id": "FL-03e1c60639f5",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
       "id": "FL-EV-f283a898090a",
-      "date": "2026-10-04",
-      "dateISO": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "ts": 1791097200000,
+      "date": "2026-09-26",
+      "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "ts": 1790406000000,
       "scope": "dom",
       "type": "geo",
-      "title": "[成果]史培军教授团队吉隆跨境冰崩泥石流灾害评估与处置建议系列报告获多部门采纳 - 北京师范大学新闻网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOY2VSejgwSF85cXdfd0JSTDhyMU5JSFFGdVZIbDlBRUtmaF9LNjZZV0dfR0pXc3d1dl9JSGRabm5YT05IN0gzZ1c2djd3bVY1cjFzRy1VWWdZYlN2SmlYRldRREh4VmtxVHpYRDA5UmFOY3Mwb2Fr?oc=5",
-      "site": "北京师范大学新闻网",
-      "siteUrl": "https://news.bnu.edu.cn",
-      "related": 30
+      "title": "胡昌升深入调研督导吉隆泥石流灾害善后处置工作 - www.bomi.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VvRjNzTTJzLVpQQmxhSVZfY2plOENiM3JBUmN1S1hkZkQ4dlFBVWFSZDVaQUZMWF84dklKR09vU3FVc2x5WkFpNkFDTFVMNmxWSnAyREdrQWQ5MWFVNHpReU1ZRm9qNno2V3d3RkNzaXpYeGt0Q2p6YnItT1hOaDN6Yzc?oc=5",
+      "site": "www.bomi.gov.cn",
+      "siteUrl": "https://www.bomi.gov.cn",
+      "related": 31
     },
     {
       "id": "FL-af13ca36871c",
@@ -377,18 +353,6 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-54cd7f417006",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 17:19:09 GMT",
-      "ts": 1792257549000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "墨西哥恰帕斯州近海发生5.2级地震 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ITGJhdG1iRVVEb3JXQmp1Um9SNEwteG50djRYaE44UEVWWmdEWnRyUEpDZl9mbTIzenB4dGo4cmtsMWdWX01pN0U4LWgza0ZfUThsXzhKNy1jSDh5dWpveVU4cXJEYUFfeTFhTkZmdw?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
-    },
-    {
       "id": "FL-8d3b3c200edc",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 09:37:43 GMT",
@@ -425,6 +389,30 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
+      "id": "FL-c6e4e53ba5cf",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 07:00:00 GMT",
+      "ts": 1792220400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "人防技防并重、数据赋能预警织密地质灾害安全防护网|山体滑坡|山体崩塌|气候变化|泥石流|上犹县 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUhmWnlIVS1EVVd0cnRfUkF4WWRHVnRfcXBQclk2dmpLM05HbkxUSDhIZUNvMFJVWFAtUHpWWG9NVkxtZ0gtLWp3cjBjVTExb19qZmhCeTZQeXFBTXVQV1laSVo3RGFUVm5rMlhRNm1FclNvV05LdjNtNVNhd1lmQUpWT21YTktGd2s5YmpGcnNoYmU0V2o0M2M5OUhvQjJJQ1NIcnlMWWZyQTF1S3pNYUhVNktXZ3pqQm1CUlZxMUhNUURQbGgxaVpRUnJYSjN5VllZVjJQcjk?oc=5",
+      "site": "新浪财经",
+      "siteUrl": "http://finance.sina.cn"
+    },
+    {
+      "id": "FL-f8b1a768b138",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 06:30:43 GMT",
+      "ts": 1792218643000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "发出9.9级地震速报后又取消，日本气象厅承认：是人为失误 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSl9YSWZNcXhkZXdhbElFNWJHdE9va1UySERjZkNzTXhpaEF5U2tLd0ZpeVI1MUNsa05iSWJ4RkZYVlZ0QkVQWEJvX0FTZDBld2FKSFZWWF9OclBXQUk0UURBaVFyVndCSTZLZlR0bnpOY1dpWm02RnZvTFk3SGlPNG1WU1o4NUJI?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-f6074225841c",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 05:06:00 GMT",
@@ -447,6 +435,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkLUtGM1ZRLWhyZkFGV2pKRXF2NE1CdjJLN2Z0YmowTXJUR1ZuZ1g3czZSdXI0OFNrWVpOTUtKbVIta1paay1BOTZmUHhQd0dXakZVRnJyVk9UWHVBWmRiRURnenc?oc=5",
       "site": "新京报",
       "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-021c3efb0bdd",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 02:48:13 GMT",
+      "ts": 1792205293000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏日喀则市拉孜县发生3.0级地震 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0FIN3E1bFVBcUoyVUo0UlQ1UHlfMEs2NjFhYkdQZ0RVTlFrVlVqenUtdURqN1c3aHJLT1N0VzI4eTNIYjZKMENoUHBheWZKclZmRlEyb216R084aWlnZF9qb3pkWmZkQ2JyWDY4bEZjSk9va2RadnQtWThVRjNkTEhRaGZQRjNi?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-1ad20ea7ce05",
@@ -569,18 +569,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-1505297bbc30",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 12:56:30 GMT",
-      "ts": 1792155390000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "私挖盗采磷矿致5死1伤 会泽“5·31”较大坍塌事故调查报告公布 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQ2Qza2VPc19rb0p0UGlENkwzNXdjWDZfUVREVkpyc3BMcVB5V0ZZUTJrdE9rZVhveEhQWjJSZjc4OHlibTE5SVlaeHZOMDRsYjN1U0dOWUJJclFIeXE2RnoyRmltVFQx?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-9acf7a0dd1ba",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 10:18:21 GMT",
@@ -651,6 +639,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xX0JzbDFqNnEwZ2oxaFNwRDdDNjBhVFJQM0N1SGZ6M0FaSnpIc0ZQQXVmcWROTVdZM0k5OXVRWjNpRkhqMW1kNHd3M2QzTkwwZXBpaEM2SWlWSkN6b1J3TGhWdmhpQQ?oc=5",
       "site": "每日经济新闻",
       "siteUrl": "https://www.nbd.com.cn"
+    },
+    {
+      "id": "FL-42954459df2e",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 06:58:00 GMT",
+      "ts": 1792133880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本将6.9级地震误判为9.9级，多地手机狂响后“取消”，气象厅承认预测失误 - 紫牛新闻",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRY3FFUFNoRm4zaHQ1ZzZfb3czZFJHbVdINVdJbDFFZHNXOXRzTElMX18zbVJ1ODlCbm5kUXdQSjZJcW4zTWhIcXdpTmxvWFZJWmNZbE9yYnZaQzRNTGM1SGdaSDRrcGd4UWc?oc=5",
+      "site": "紫牛新闻",
+      "siteUrl": "https://www.yzwb.net"
     },
     {
       "id": "FL-4f1c52c77eaf",
