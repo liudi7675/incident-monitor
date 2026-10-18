@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T20:10:25.589Z",
+  "updated": "2026-10-18T22:31:37.817Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,18 +99,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8a3e6a47981b",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 23:31:00 GMT",
-      "ts": 1792107060000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "谷歌宣布安卓地震预警累计超10亿次！覆盖范围扩展至全球200多个国家和地区 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kenE4eW0wUVVfSGt2NG8xT0dRNHdaTWRuWEJKM1UzMVdHZVNHeHF0ZzZCajhTS202NTVYQW5HQjlmd0JuLTJvaXFBTThRVWRVbFk5cUkyMzI?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
       "id": "FL-1a6aac65fdd5",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 17:47:42 GMT",
@@ -194,6 +182,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-7a0665a75e7d",
+      "date": "2026-10-18",
+      "dateISO": "Sun, 18 Oct 2026 21:43:06 GMT",
+      "ts": 1792359786000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "基于叙西里海峡陆地地震噪声的有效波高空间预报 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYWpXUm0yZ01TZlVwOFlrSmpwSmYtU21jbTlqX0liLXNEdGo2RlBxTFRSNTRYc1l2cmphM0dVMDNmM2ktaE4tY2otRFQ2dmtpX0RuZUs4dFpRNlFQVWdHblFaYXQtdC1VZmg3WndB?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-17e8ddd9daa9",
@@ -290,7 +290,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VvRjNzTTJzLVpQQmxhSVZfY2plOENiM3JBUmN1S1hkZkQ4dlFBVWFSZDVaQUZMWF84dklKR09vU3FVc2x5WkFpNkFDTFVMNmxWSnAyREdrQWQ5MWFVNHpReU1ZRm9qNno2V3d3RkNzaXpYeGt0Q2p6YnItT1hOaDN6Yzc?oc=5",
       "site": "www.bomi.gov.cn",
       "siteUrl": "https://www.bomi.gov.cn",
-      "related": 29
+      "related": 30
     },
     {
       "id": "FL-af13ca36871c",
@@ -413,42 +413,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-021c3efb0bdd",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 02:48:13 GMT",
-      "ts": 1792205293000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏日喀则市拉孜县发生3.0级地震 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0FIN3E1bFVBcUoyVUo0UlQ1UHlfMEs2NjFhYkdQZ0RVTlFrVlVqenUtdURqN1c3aHJLT1N0VzI4eTNIYjZKMENoUHBheWZKclZmRlEyb216R084aWlnZF9qb3pkWmZkQ2JyWDY4bEZjSk9va2RadnQtWThVRjNkTEhRaGZQRjNi?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-1ad20ea7ce05",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 00:18:40 GMT",
-      "ts": 1792196320000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "厄瓜多尔发生5.2级地震 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tOVo4T0FVNU5hLXZ0MTlKVngyRDFkbzJzcTNDZlZPUHJwcFNOdGN4UDQ4SFpDZWFZdTlQWDBfeW9zbTNCdnNCUXdfeEtNMEJwc2Nr?oc=5",
-      "site": "第一财经",
-      "siteUrl": "https://www.yicai.com"
-    },
-    {
-      "id": "FL-05dde683928a",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 00:00:28 GMT",
-      "ts": 1792195228000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴拿马发生5.2级地震 - 金融界",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VnRhejZ1RTJOYnpialZPQ05jcElSQkROSS1jYThjR3M5NGgwbmx6S2ZPeEFHWUpqVHFDa3kyNzZCU2RXSmJtVDY3M0tvUXRBTTZhX1dsTUxjbndieExPTnVFUVNzZlFvUHJrdHhmVQ?oc=5",
-      "site": "金融界",
-      "siteUrl": "https://m.jrj.com.cn"
-    },
-    {
       "id": "FL-d94fa02a3f50",
       "date": "2026-10-10",
       "dateISO": "Sat, 10 Oct 2026 14:52:00 GMT",
@@ -555,18 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DVnVrVS1pVFl2bG9qVkdEdXB5Q3ZtcVI1MS1MbjRwOWZwa0JhTmpaTHBNMlVUaFZMaVRtVHFIVENVV205cXF6eV84QXFrcDUzRVZFa3p2Zw?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-9acf7a0dd1ba",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 10:18:21 GMT",
-      "ts": 1792145901000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "“9.9级地震”来了？多名中国网友在日本亲历乌龙警报：有人称吓得差点心肌梗塞，有人跑到空旷场所避难 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95aXRNRFVyblBHYzh0elNtaE9aMWQ2YXJNd2F5Y2FfdUxZaHBjVVlSV2NtaE5hRFljbEpGeF9GQkwtVHFmc3JwajBOcmR3OHJ1QkFpVUlSVU5kUWc?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-49e3a21e2655",
@@ -677,6 +629,30 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
+      "id": "FL-1aca07c2f7ad",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 04:42:01 GMT",
+      "ts": 1792125721000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "俄堪察加半岛海域发生6.9级地震，初判不会引发海啸 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZExQZU5LNXc5TVUxMkFzQmE3cHZsLTAwbURXTmNzMGE1RjYyVG1jbnFILTR0cWJUNXVXbFpXQTY4SVRmU0tMUjlNdTAyWHhFYmVGR0swWUZWTVFuTHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-33975e553e07",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 04:03:43 GMT",
+      "ts": 1792123423000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "11:58:59【俄罗斯堪察加半岛发生6.9级地震 震源深度150千米】 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TdF9wZXZGV0cwV0k2ZkJIQnpiUjNnSFMyaldxT3hxOTdTa0pfN21pSTdYLXBUcXQtUjBURzI5U0VIVjF4eWpQbw?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://www.cls.cn"
+    },
+    {
       "id": "FL-1e07ffb0ec84",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 04:00:01 GMT",
@@ -699,6 +675,30 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyU3FFYUVmVVA2U1hOMTRaMG11aGFnMlV6Rno5TEZVSkpxeGY5MUxwZV9pQnYzaElBNkxlOEhFRk1uVGtrblhFUDFMQWZlNFRwXzE2UUJVLWVFM0w4NzhvcDl5U2dLTzVw?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-2cfbe6b8adfe",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:58:00 GMT",
+      "ts": 1792123080000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛发生6.9级地震，震源深度150千米 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53VDJLSmQ2b0xyczR6OTdfSUtnNVlSenZMdDRhbjM2anc2MFp6bm1rQVNDMzZTZmVKTkpxR0V0ZkFWSXFPVG9qVjJKSkllby1ybGY5T0VOLUgyU1NIMWRlMQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-611dc52edfc6",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 03:56:00 GMT",
+      "ts": 1792122960000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "俄罗斯堪察加半岛附近发生7.2级左右地震 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uWWlzYy14ZUdLclg5OS1sWVJaLWUyZ1JhU2hwQTcxWlRRTWtRR3FLelBTLTNSYzY2cERGUkoycVl0MGJCOE1UNlpybjVpUkJDbmtQQU1DaEtJLXU1WHl3blJMWWJDMHltWThZ?oc=5",
+      "site": "中国网新闻中心",
+      "siteUrl": "http://news.china.com.cn"
     },
     {
       "id": "FL-558ad9a8396d",
