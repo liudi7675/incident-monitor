@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:51:50.464Z",
+  "updated": "2026-10-18T20:10:25.589Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,30 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-3f14eee60b76",
-      "date": "2026-07-28",
-      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
-      "ts": 1785222000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海兴海县发生地震，新华社记者正赶往震中 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjhraXFNRkV4aXFkR3A5WnUtM05NbDBfaW9QczhwVkgyNmJUUTZQZFBUaDRnRVU1OHdRS0thZmpMelloS0RvLUxWb1FWR3M2bWFPWTZNWEl6NjRRcy1ncUNEVEZkcHZMSEhJTmRVRXpOWDY5Mjd2S2xtSVAyM2M2bEpHNA?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-9f27b8058e26",
-      "date": "2026-08-18",
-      "dateISO": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "ts": 1787036400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：联合国加大对10万人的援助力度 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdFZsRFdoS0JpaGpVQzZkeFZOYThHWm9DX3RZaXJMV0lRNUxHZkdNa09vdmJEZE9rS3Z2eVpfQk83dU1sdWN4MnFJVWRaMzMzYzQwTXRjOA?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -135,6 +111,18 @@
       "siteUrl": "https://news.mydrivers.com"
     },
     {
+      "id": "FL-1a6aac65fdd5",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 17:47:42 GMT",
+      "ts": 1792086462000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "巴基斯坦学校屋顶坍塌32学童和一名女教师遇难 社区居民要求彻查劣质建材 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQMkpaMXQ3R3pyV3VucndNOWxUaFZKX1NFdHBEcF85MUVfU2sybG1uNTdKWWc2eHJBV09vUjY5VWhKYlo3YUtRN3YxdFhMTnJWUkk1enJDOW1va3lJVnQtZlVVSXJ4U3lvTUpxZkZZX3AtXzJtVXVPODF3RWlGME8yNWloNTRsSTF4U21fb2p5M1g3LXJwelpuZ1pFNG1yUUJWWHJ2Sks4WExqOU5ueUw1d1RMMzBub3N2NUZHelpJWUtFbE1HaV9QUEM3RnY2ejlYRmZDMzZDWTFQaUhLc3p2cHplcWNzaGZQN0lyRzhSOWVBSUFVQ3NocjFKcDB1RExpT0dUTEVFNGtPVUJMRFRfcVplSkRjSHZrOXhMY0M1djJBNjlCRk5qZEJNN0hoWThTSGZ1dnRIUXNPUjNELWctTlNkQVNMYlJHRFlIaWg2LWFlUDBpb2JDc05PZklBdWdmUXFyZVJraEFaNUxfeUtIZVNnX3dob0VmQURMWE9hN3ZaMWdRV3pqUW1uTmRFYktpWDlVNkpyX3loV0hfX0RGdk9nTE8yR01OcGJpMnU1YmJseDN4Z1dCWDBhZW9NeVE1Umg3NWdpdVpmVzJERHlMTkRINUZIZDRjUkJaWDhWbjZnb3c?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
       "id": "FL-182b711158d9",
       "date": "2026-10-15",
       "dateISO": "Thu, 15 Oct 2026 10:28:54 GMT",
@@ -206,18 +194,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZ3lxTFI5WEl3Qjlvb2l4cU5CT1hZdkt1emRwLW1oc0RfcDlvbW90SEJkWnp5QUJCUEdmUzRpVHBlQ0ZCUFlzQVpRbzlOZUhSY1ZucFhuWWE2QUQ4WlR6OVQwakhOaXRVU1djd3JFallBbXl6RlJvSElnUm9BZ2c?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-e105d9ad3f41",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 13:29:41 GMT",
-      "ts": 1792330181000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新华读报｜观测证实地震“刹停”信号 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2FEU3cxUFNmamZPeUtLaXVzejE1dXA3STd2UENCbWU4YnZxUHRnUmZaaFZJWmY0NnkzYlBHLUQ3ajBkYVpFX2hLcnBMek9fZl9feFFBRXlLbVRlT2JVLVlUZ1Y0OWhQY0NDbDM0VEhTRGswdlVWSW9GSUk2cVFRQ0tNNUZKSEZF?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-17e8ddd9daa9",
@@ -314,7 +290,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VvRjNzTTJzLVpQQmxhSVZfY2plOENiM3JBUmN1S1hkZkQ4dlFBVWFSZDVaQUZMWF84dklKR09vU3FVc2x5WkFpNkFDTFVMNmxWSnAyREdrQWQ5MWFVNHpReU1ZRm9qNno2V3d3RkNzaXpYeGt0Q2p6YnItT1hOaDN6Yzc?oc=5",
       "site": "www.bomi.gov.cn",
       "siteUrl": "https://www.bomi.gov.cn",
-      "related": 31
+      "related": 29
     },
     {
       "id": "FL-af13ca36871c",
@@ -353,6 +329,18 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
+      "id": "FL-54cd7f417006",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 17:19:09 GMT",
+      "ts": 1792257549000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "墨西哥恰帕斯州近海发生5.2级地震 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ITGJhdG1iRVVEb3JXQmp1Um9SNEwteG50djRYaE44UEVWWmdEWnRyUEpDZl9mbTIzenB4dGo4cmtsMWdWX01pN0U4LWgza0ZfUThsXzhKNy1jSDh5dWpveVU4cXJEYUFfeTFhTkZmdw?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
+    },
+    {
       "id": "FL-8d3b3c200edc",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 09:37:43 GMT",
@@ -389,15 +377,15 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-c6e4e53ba5cf",
+      "id": "FL-20a478f7b4ef",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 07:00:00 GMT",
       "ts": 1792220400000,
       "scope": "dom",
       "type": "geo",
-      "title": "人防技防并重、数据赋能预警织密地质灾害安全防护网|山体滑坡|山体崩塌|气候变化|泥石流|上犹县 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUhmWnlIVS1EVVd0cnRfUkF4WWRHVnRfcXBQclk2dmpLM05HbkxUSDhIZUNvMFJVWFAtUHpWWG9NVkxtZ0gtLWp3cjBjVTExb19qZmhCeTZQeXFBTXVQV1laSVo3RGFUVm5rMlhRNm1FclNvV05LdjNtNVNhd1lmQUpWT21YTktGd2s5YmpGcnNoYmU0V2o0M2M5OUhvQjJJQ1NIcnlMWWZyQTF1S3pNYUhVNktXZ3pqQm1CUlZxMUhNUURQbGgxaVpRUnJYSjN5VllZVjJQcjk?oc=5",
-      "site": "新浪财经",
+      "title": "人防技防并重、数据赋能预警织密地质灾害安全防护网|山体滑坡|山体崩塌|气候变化|泥石流|上犹县 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOElqaEJWWXlRbjNQc0dobUJ1c0JZd19RVXlfNTFhSldjZDNtd0VGd2J6eUlwbXc4Y25nZ0pCUm5qc3VfLVA2cnhwRTJkMVB4YjdQdW1hMjNaa2tzV0xOX20yWUZINlo5REhpMDB6Q0Y2RkhyMXN4bGJfYllDazFwbEhRUWhkTjJJVUlESWZmYzNnaEVUajBOcWdEQU1oQTFrZ3EwQ0ZSNi1GbHd5SDB1TGVTWnlZMmpraDBkdFpSUW1QMVkyMFVnUXN4bl9ZUGJWUy1aSE5IUQ?oc=5",
+      "site": "finance.sina.com.cn",
       "siteUrl": "http://finance.sina.cn"
     },
     {
@@ -425,18 +413,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-5b4751d447b7",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 05:00:00 GMT",
-      "ts": 1792213200000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "国际丨日本误发9.9级地震警报 气象厅撤回鞠躬道歉 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkLUtGM1ZRLWhyZkFGV2pKRXF2NE1CdjJLN2Z0YmowTXJUR1ZuZ1g3czZSdXI0OFNrWVpOTUtKbVIta1paay1BOTZmUHhQd0dXakZVRnJyVk9UWHVBWmRiRURnenc?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-021c3efb0bdd",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 02:48:13 GMT",
@@ -459,6 +435,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tOVo4T0FVNU5hLXZ0MTlKVngyRDFkbzJzcTNDZlZPUHJwcFNOdGN4UDQ4SFpDZWFZdTlQWDBfeW9zbTNCdnNCUXdfeEtNMEJwc2Nr?oc=5",
       "site": "第一财经",
       "siteUrl": "https://www.yicai.com"
+    },
+    {
+      "id": "FL-05dde683928a",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 00:00:28 GMT",
+      "ts": 1792195228000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "巴拿马发生5.2级地震 - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92VnRhejZ1RTJOYnpialZPQ05jcElSQkROSS1jYThjR3M5NGgwbmx6S2ZPeEFHWUpqVHFDa3kyNzZCU2RXSmJtVDY3M0tvUXRBTTZhX1dsTUxjbndieExPTnVFUVNzZlFvUHJrdHhmVQ?oc=5",
+      "site": "金融界",
+      "siteUrl": "https://m.jrj.com.cn"
     },
     {
       "id": "FL-d94fa02a3f50",
@@ -639,6 +627,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xX0JzbDFqNnEwZ2oxaFNwRDdDNjBhVFJQM0N1SGZ6M0FaSnpIc0ZQQXVmcWROTVdZM0k5OXVRWjNpRkhqMW1kNHd3M2QzTkwwZXBpaEM2SWlWSkN6b1J3TGhWdmhpQQ?oc=5",
       "site": "每日经济新闻",
       "siteUrl": "https://www.nbd.com.cn"
+    },
+    {
+      "id": "FL-d2fca6abea5c",
+      "date": "2026-10-16",
+      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
+      "ts": 1792136640000,
+      "scope": "intl",
+      "type": "blast",
+      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
+      "site": "驱动之家",
+      "siteUrl": "https://news.mydrivers.com"
     },
     {
       "id": "FL-42954459df2e",
