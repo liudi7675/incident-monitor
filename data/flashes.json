@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T17:39:16.262Z",
+  "updated": "2026-10-19T22:02:34.816Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,18 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-9f27b8058e26",
-      "date": "2026-08-18",
-      "dateISO": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "ts": 1787036400000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "哥伦比亚地震：联合国加大对10万人的援助力度 - UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdFZsRFdoS0JpaGpVQzZkeFZOYThHWm9DX3RZaXJMV0lRNUxHZkdNa09vdmJEZE9rS3Z2eVpfQk83dU1sdWN4MnFJVWRaMzMzYzQwTXRjOA?oc=5",
-      "site": "UN News",
-      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -71,18 +59,6 @@
       "type": "geo",
       "title": "日本岩手县附近海域7.2级地震已致至少4人受伤 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wQnpBTVd0QWlXRm9ORWFFdjkwY2Z2VlFnYnRMQnhpS0ZDNV9FOVR6blRNeGEtbTg3WWsxOHo5SG9lYW1KTFByNk5hV2F0VExYMk5YMWUwUzdLTlZubzZSakpwZlhWMm13SXdOWVBFSEFnOUl6U3pvOThsUXZqUUk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-b20711799728",
-      "date": "2026-06-25",
-      "dateISO": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "ts": 1782370800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "美地震学家：委内瑞拉、日本连发强震无关联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmQUJWeTBVOGkxOGtWbjk1bmRzV01tQWZUbl9RN3F0LWh0V1g2aURiR2ZYSzFyOVptaldyU3dURU43RjlpcWhYbllTUWtSV0l5clhTeUc0UU9zY0w1Q0Rra1lDdnJSRnd6Y1hIelg4QnYzR0duU2dLb3A0LWdHSmc?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -133,19 +109,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa3g4VnlYVXpHY3N1YmFWWjVORmhQME1CaTFYZU81TmtMQng3ZEF5N1BXNVhITnJSWE1vSDZtMXMzN3J1WFU4NzZMaFIxVU4zMEMtVFk3VEd1R3kyT2FELW9hYlVDUWZxZTQ4R3hyZ1Y?oc=5",
       "site": "中国科技网",
       "siteUrl": "https://www.stdaily.com",
-      "related": 3
-    },
-    {
-      "id": "FL-8442eae4824b",
-      "date": "2026-07-09",
-      "dateISO": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "ts": 1783580400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾：地震受灾群众得到妥善安置 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pR2V4eUEycGFqODFlc1Z4ekg0WDd2d08yTzF6ODJuSW5MdExyOGhtcGFnTjJxNTFibHhZZlRGd1dQdTI1TU5pUjBaaHlNTWNza3l4ZHFEdFUxTkJwNnMwQ2VTUFo0R1AxT3gtbVZXVEh6b1RqZjFZbGhUZFBFME0?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "related": 2
     },
     {
       "id": "FL-89d6589d1504",
@@ -293,6 +257,18 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
+      "id": "FL-1b01c02ac0b5",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 07:50:00 GMT",
+      "ts": 1792223400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆巴音郭楞州和静县发生3.2级地震，震源深度13千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YUF92M0dfanAxS0x1dFgwdHBwcVFMRERSSldpblFHQzNTMU9lcm9wN0dTcW9wWWRGbEtOa2R3ZlBaREdoUUdjeFRwMXJqWkttZ3V4Vkdfc2o?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
       "id": "FL-d84f53b8f13e",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 07:44:00 GMT",
@@ -301,18 +277,6 @@
       "type": "geo",
       "title": "新疆阿克苏地区乌什县发生3.0级地震，震源深度10千米 - Jiemian.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11S3VKMEk3TDRMUWZOdmtDanhSN2tBVnU4Q3lVOVZXTHJLZTV1ekdmOXp6OEtiV21uanBVNWtTNFl4RkhQN21yQ294cE45bVItTWJMZDl1Y2M?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-f6074225841c",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 05:06:00 GMT",
-      "ts": 1792213560000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴基斯坦发生5.9级地震，震源深度10千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81THFxeWZDc0VGNjlYZzVkNEhhMHhZeTRqU3VqZ2VpYUNkMXpNeGI2Rm12eWZYS2dVMC0xV0tMak82dUFvVUxxUVJ1Uk5wc1BnMGt5QmRDV2g?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
     },
@@ -389,6 +353,18 @@
       "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
+      "id": "FL-8a184a659b01",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 14:22:46 GMT",
+      "ts": 1792419766000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "汶川地震餘震？綿陽發生5.0級地震 多地震感明顯 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3OWJZQTZmaWtaZS1UQ3gzZTRjN3pDeldNdnVxVy00OTdUdmZ5UUhiUmJubHBBWVZvbmhkMnROeWJZZEpWeHhKTkI3NHIxZzZKSng3VWFuNDdFVWJ2MDlvUtIBZkFVX3lxTE9WUGdRekNsVW90NDJ1LUNvek82UWFTdUVvZl84WTJqZENjaVhGdWluSzBXZU9ieFZMRjVzakNJSk5LT2F4S05Bb01aNUtMMk13QV9JV3B3Yjl0WHR6eExKdDcxRDJwdw?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
       "id": "FL-c93d7203b37b",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 13:52:23 GMT",
@@ -411,6 +387,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdVVJR3NlMjVfaXAtbHNldGw5WTNuUGJBVGdDZ09lS0NJMm9zZVBxb1VBeTlUUEFVWGhWM3l0aVF5NG9Sazc4WmN3WWlycHBYUWVxSHVjbjYydy02TEY3d3BubEx4ckI1eHRJd3VQZE1FTi1tMmN5NlJZN3hHdm9aQnN1MlN1WU5EQnJV?oc=5",
       "site": "搜狐网",
       "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-3856b91a29b3",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 12:54:00 GMT",
+      "ts": 1792414440000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川北川发生4.1级地震 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRHVTUm9XallmcTlEbWxvMzBaVWFPcWotblUzWWhmNlBkblZCRHl6VzA5Z3Exel9QOEJaWTB3emI1QVphWEo0S3dhNS1lNlBLa2hFY2hkYjc4YnRmZUlHQXNwcDVXaG9BczhnMW5lVUhoVFAzdlFLYlp1QXIyV3NRYzZSS295MHlp?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-3706650fd96a",
@@ -461,6 +449,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-b43113b13e4e",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 11:24:00 GMT",
+      "ts": 1792409040000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川绵阳市北川县发生4.1级地震，震源深度 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU1kWEZFWTNzeWE1ajllRUhjWF9IVUJjTzZyNDhLbXVfVXhjZi1KMnJvWXIzQzBfT1ZnVkRyYjVPNk5JbkxOcld0dzduUVRVdUp4TEZaWlpRcUF6YTlJalZ4ZXA4VEVCZTViaXNvRHhEU2xobk5rc0ZrZ3dDZ2ZpWGJ1bmlKVnNmek1hUw?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-bbdefdf9e65b",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 11:20:00 GMT",
@@ -471,6 +471,30 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcWJRdjdVNHlJODZuYS1MZGNGLXZVV0FGdk9EcUgxdWVWaTlRMkFNWmxVcDh5cG12ZS1mNDE1MzdKclBseGJzdWdhZF9IVE9UNDcwYWN1S3ZDSkdOcGFJcw?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-3842aee5321a",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 11:05:20 GMT",
+      "ts": 1792407920000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "绵阳市北川县发生4.1级地震，震源深度11千米 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUG5DanktMTc5aTduRXJuRGhIWEdrb0JoNFFKNFEzRnZ0ZF9FSFRGZTlMWlREbjQ3MkVMenVYR2d2eDNwcHNpX2pzZFdDeUVfenp6cFB0TUdOektoV3V6Y0xPeHlYbzZsOHMzY1dRRHJrZk9pcTBXT2cxQ25RMUFfWnpTbmhPV1pjd0M3TGhiNDFYVC1rc2xBOWhlOU95RWFVZkVaTlllVkpRb3R0T3AwU0lYMzVrbjB4Uk1B?oc=5",
+      "site": "欧洲头条",
+      "siteUrl": "https://www.xinouzhou.com"
+    },
+    {
+      "id": "FL-946e64870070",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 11:03:05 GMT",
+      "ts": 1792407785000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川绵阳市北川县附近发生4.2级左右地震。 - 虎嗅网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kV3RiYjVvQTVIQTBwTGRBNkFMVmdPNTQ2bUFBekZ2aUczd2lhU05CcndxMXpjM1ROdks3SVJ1endMVGVzTVhPcUxuRlF5aWVNSFhF?oc=5",
+      "site": "虎嗅网",
+      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-ab78b4e1f529",
@@ -519,18 +543,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KcDhzdlAyTm94LUwzWXZwUWRoVUdTZzQ1TVd3U0V6MVJELXB1bDV1eGNWVVRIVWVrRnk0SUNsc3lsd1dJa01aLTFnSWVhVVVxbVYxdi1lMkpfaS01WXlHMFQ0dGk4bWFX?oc=5",
       "site": "中国宁波网",
       "siteUrl": "http://news.cnnb.com.cn"
-    },
-    {
-      "id": "FL-381f3533ceb9",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 10:15:48 GMT",
-      "ts": 1792404948000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "西班牙东部暴雨成灾 造成至少两人死亡 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iX1NOVE5RNFJGUlJCOGlnSUloWFdZbkxtRTFSQV9DMVIzdGlxOEJreGVnRmxZQmQ0b1NZQWI4elFLeXpsM081THZuNDRCdHUybWZJQ0g2aGwtbzluRTBGVVFNeTJPODQxdkxSUkNR?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
     },
     {
       "id": "FL-8cf78ca743a6",
@@ -675,18 +687,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
       "site": "驱动之家",
       "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-4f1c52c77eaf",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 06:38:00 GMT",
-      "ts": 1792132680000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本东海道新干线因地震速报一度停运 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZcS16RmdqQ0ZkQ2lVZHNVTVVRckwzOU1fdFpDd1F2cWctRGhadzRaRVlPNVFZWkxSdmN6OTNLaGlnekdCMEwzeWxRSWhfaFFWbG1kOFhtQQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-41f666b29dd9",
