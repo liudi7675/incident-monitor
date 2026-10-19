@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:31:37.817Z",
+  "updated": "2026-10-19T00:23:54.884Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,30 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-3f14eee60b76",
+      "date": "2026-07-28",
+      "dateISO": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "ts": 1785222000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海兴海县发生地震，新华社记者正赶往震中 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjhraXFNRkV4aXFkR3A5WnUtM05NbDBfaW9QczhwVkgyNmJUUTZQZFBUaDRnRVU1OHdRS0thZmpMelloS0RvLUxWb1FWR3M2bWFPWTZNWEl6NjRRcy1ncUNEVEZkcHZMSEhJTmRVRXpOWDY5Mjd2S2xtSVAyM2M2bEpHNA?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-9f27b8058e26",
+      "date": "2026-08-18",
+      "dateISO": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "ts": 1787036400000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "哥伦比亚地震：联合国加大对10万人的援助力度 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZdFZsRFdoS0JpaGpVQzZkeFZOYThHWm9DX3RZaXJMV0lRNUxHZkdNa09vdmJEZE9rS3Z2eVpfQk83dU1sdWN4MnFJVWRaMzMzYzQwTXRjOA?oc=5",
+      "site": "UN News",
+      "siteUrl": "https://news.un.org"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -244,18 +268,6 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
-      "id": "FL-79e50caa4ecb",
-      "date": "2026-10-18",
-      "dateISO": "Sun, 18 Oct 2026 02:27:14 GMT",
-      "ts": 1792290434000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国秦岭北麓花岗岩残积 - 坡积土分层结构及浅层滑坡破坏模式 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtMGNUSmRCT3ZZYjBJZjBKSmJVaFdrR1hIOWIxajRyTG4wZzcwSW0ycU1YRGJPdTA3TW91d05GY1Y1YmtlSER1eU8tLXpvVlVQODJHVjVWb3dyQU9USUdSYWhRbXZfU1FNS0plSTJR?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-9098dba60482",
       "date": "2026-10-11",
       "dateISO": "Sun, 11 Oct 2026 09:14:32 GMT",
@@ -389,18 +401,6 @@
       "siteUrl": "http://finance.sina.cn"
     },
     {
-      "id": "FL-f8b1a768b138",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 06:30:43 GMT",
-      "ts": 1792218643000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "发出9.9级地震速报后又取消，日本气象厅承认：是人为失误 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSl9YSWZNcXhkZXdhbElFNWJHdE9va1UySERjZkNzTXhpaEF5U2tLd0ZpeVI1MUNsa05iSWJ4RkZYVlZ0QkVQWEJvX0FTZDBld2FKSFZWWF9OclBXQUk0UURBaVFyVndCSTZLZlR0bnpOY1dpWm02RnZvTFk3SGlPNG1WU1o4NUJI?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-f6074225841c",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 05:06:00 GMT",
@@ -449,6 +449,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-852a95232b79",
+      "date": "2026-06-29",
+      "dateISO": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "ts": 1782716400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县地震现场监控视频 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zVFpKTkRTZUFwcDdYRnRIZGhuUXlPN3VCb3Rob3ZRUVRmWGgzSDFPSHQ0QXltWDUxaGZES3lzOGR5Vy1zek43RVFQTlpidzJqb2ZOZWhlR2t5bnhWX2NDX2xselV2Wkd5NG1NSDk2dElqN3FwR2tr?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -459,6 +471,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-f3c5950cadc8",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 00:04:13 GMT",
+      "ts": 1792368253000,
+      "scope": "dom",
+      "type": "other",
+      "title": "钢弯矩抵抗框架倒塌能力评估方法准确性与计算效率对比研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdHd5c2xWb0V6aWI2RXdqMDc1STVPc19DUzFSLUJpME9wdUFTM2E1dzJ2Y1gtM09la08wXzZnM3U5Z281OC1sNW5yT184WjJxN1M5Rkl4TVRKNnh3MXlVSHRrbEVvUUJiYmhCWVpn?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-b3dd0a00baf5",
@@ -629,18 +653,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-1aca07c2f7ad",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 04:42:01 GMT",
-      "ts": 1792125721000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "俄堪察加半岛海域发生6.9级地震，初判不会引发海啸 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZExQZU5LNXc5TVUxMkFzQmE3cHZsLTAwbURXTmNzMGE1RjYyVG1jbnFILTR0cWJUNXVXbFpXQTY4SVRmU0tMUjlNdTAyWHhFYmVGR0swWUZWTVFuTHc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-33975e553e07",
       "date": "2026-10-16",
       "dateISO": "Fri, 16 Oct 2026 04:03:43 GMT",
@@ -675,18 +687,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyU3FFYUVmVVA2U1hOMTRaMG11aGFnMlV6Rno5TEZVSkpxeGY5MUxwZV9pQnYzaElBNkxlOEhFRk1uVGtrblhFUDFMQWZlNFRwXzE2UUJVLWVFM0w4NzhvcDl5U2dLTzVw?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-2cfbe6b8adfe",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 03:58:00 GMT",
-      "ts": 1792123080000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "俄罗斯堪察加半岛发生6.9级地震，震源深度150千米 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53VDJLSmQ2b0xyczR6OTdfSUtnNVlSenZMdDRhbjM2anc2MFp6bm1rQVNDMzZTZmVKTkpxR0V0ZkFWSXFPVG9qVjJKSkllby1ybGY5T0VOLUgyU1NIMWRlMQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
     },
     {
       "id": "FL-611dc52edfc6",
