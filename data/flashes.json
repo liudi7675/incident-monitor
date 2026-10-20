@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:34:12.328Z",
+  "updated": "2026-10-20T19:33:09.437Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -51,16 +51,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-ca8878fa0cd3",
+      "id": "FL-9fcbdd29d279",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 12:55:12 GMT",
-      "ts": 1792500912000,
+      "dateISO": "Tue, 20 Oct 2026 12:52:00 GMT",
+      "ts": 1792500720000,
       "scope": "dom",
       "type": "weather",
-      "title": "台风、寒潮大风叠加 福建沿海停航停工 - 东南网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZW5VcTZrWVJ6X3VxeHZkUDdnTzNFS2hiSlpKTWtjQnoxTnBSUFdJQlRqaGU3SERWWTItaDk2Wk5GVHowaGs0RzVWekpTWlpOSUdqWm5Uanl0UWlwTXFHRTRLbmVoaFV4MmRQVw?oc=5",
-      "site": "东南网",
-      "siteUrl": "https://fjnews.fjsen.com"
+      "title": "台风、寒潮大风叠加 福建沿海停航停工 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEhVOTNSMnlhMllnU2RJbTJEd0lPNFdQQl81d1lOU3h4cFhxbUN0d0t5SjcxNWJoeXNXSFRxLTE5ZzJ4WXd1NkxRNVdTSTREb3ZPQm9xNndUNDB0Y0h6LUhBdC1BX0RaZFZJRjZsbVJGSHlWUWVEWmtWWXRtZkQ2bHppR0xvOE9Cb3lIaVJQenY5WVBBaVdqQl92ZUVJSGdJb2lkbHhSanhDaTFiNXVGdA?oc=5",
+      "site": "欧洲头条",
+      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-b8f6d8ec984a",
@@ -75,28 +75,16 @@
       "siteUrl": "https://finance.sina.com.cn"
     },
     {
-      "id": "FL-cda7469c0f1b",
+      "id": "FL-097c98d4dbd2",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 11:50:52 GMT",
-      "ts": 1792497052000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风“蔷琵”逼近！温州南麂岛367人安全疏散，客运航线明日停航 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0lhQmJuVFVlX3A5ZlV0c3RYT0RlS0YtNm05WGJyZWdUVFhQY2UwNTZZOThsY0wwOVNnWU5WdzRPMXNUdE1EbmJPMXJsNUV6Y1FvZzZHWlN0bzlRZmxfaWYzc2QzbXBMYk05UGZEeVJLSU1IS3YxYnRoY2xvd0phajdfVG5XTk9BQ2pjbA?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-1f250acd5bce",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 10:49:19 GMT",
-      "ts": 1792493359000,
-      "scope": "dom",
-      "type": "other",
-      "title": "健身房两落地镜倒塌男子两次被砸：全身缝合50多针。健身房回应落地镜砸伤顾客 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjFSdGNtRmVvLXFSdmVEN1JBdk4wUHJsSzJpd0NleGQzSEpwZWJIVnpjaWJpUWZYVmVsakpiS3dLbXdpdm8zUW05b3d1dktjSHBIVFpjd1ZnM2FGUnhqMC1FZy1YV0RfUGpyZ3UxQnpLVlh2UUMzekVqMTd2b0hjd2Z6eHFnMjZfZWhucg?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
+      "dateISO": "Tue, 20 Oct 2026 10:29:52 GMT",
+      "ts": 1792492192000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "葡萄牙队战术失衡与体系崩塌，为何屡战屡败 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmNDZDFNSlBwNXVqdGpDRUoydUVTWXJIMWVzYWJrSmdiaGF2emlLUVpieWxXM2xHMmZ0QnhwS1B1YTdQTjVwZTM2YmtHZFM5SFU1ZXVHLXVzNlF3ZnNJd3FkWDhpWGVzVkJSRnplMnZXX1RoZ1YyNUxlSzZTYVBDWGloWmxzdWYzTXhmTXNFRkNiaUNVTlE?oc=5",
+      "site": "finance.sina.com.cn",
+      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-508e8c738e30",
@@ -133,6 +121,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wZVdFbTJkZVJMaWtyUWtRaXdLN21vS043eDFONmwtVGdBZDE0Q2tSQV9IVHdzcE01Tm9VZjVBSTlZeWVkZGozQkkxQ3dfOFJMZF9wZWJ0bXBRMXdqVnctR1V5T2Q1eVhS?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-4e890d710fbe",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 08:25:37 GMT",
+      "ts": 1792484737000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海海西州直辖区发生4.6级地震 震源深度10千米 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGRJNHBEdnZMMjcwUjlTdmhnQ0M3V0dlaXNoSU5FTDdxS3ZRTUE1MHpOODcwSG9nTmw0akkxRkdwR2JDQnl5bmFxUWx0M2tmVWNtZnhjeXVrREhDSTBPY29aa1ZJbVlwbkV4RW4yR0UzcjJuX2x4dnFzaFlDZFQwRWdTa29mU09LbTQxN0Zlbw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-203b4195730d",
@@ -255,18 +255,6 @@
       "siteUrl": "https://www.worldmr.net"
     },
     {
-      "id": "FL-c22e073770af",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 05:00:22 GMT",
-      "ts": 1792472422000,
-      "scope": "dom",
-      "type": "other",
-      "title": "一座教堂的倒塌，与浙南山区的红旗 - 对华援助新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcHN4RFlRUWJsTFFZYWRfcHpWODI5TTk3a3Y3emZzX0NvMzQzRER6bEM4aVVfQ1VYS0NDVTBlbVBUYmQ0QUEydG0xUXN3NTg2TUxiN1Fhb1hWS0ZraE5Sdw?oc=5",
-      "site": "对华援助新闻网",
-      "siteUrl": "https://www.chinaaid.net"
-    },
-    {
       "id": "FL-f481c1cf2e02",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 04:54:43 GMT",
@@ -279,18 +267,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-6b0a4768028b",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 04:31:12 GMT",
-      "ts": 1792470672000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "据自然资源部海啸预警......_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wc0YtY3JEUjAyQUc0Q3hIWGVydE1WYlg2QzRmYzRMVDFvT0xnY0FmVTlzNlVtY1JSU1VWem9Gak90Tm5HVWwwZUhnSQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-6b44c8500022",
       "date": "2026-10-20",
       "dateISO": "Tue, 20 Oct 2026 04:22:31 GMT",
@@ -301,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wME13Y2M2X2hXSE1TQ0x6Z3hlWFVrU2VEOG9HUUVNMmVKQjNIUE13R0RCRFplaEwyYUIycU8tc0plWGlCVjBRTnNfYXc?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-a1c6edc49f3a",
-      "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 04:02:00 GMT",
-      "ts": 1792468920000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "大洗牌时代，谁能重建卫生巾的信任崩塌 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVA2bXRSV2xUWWJHWnZfLWhZMXFnOXZaTXJZX2wwMmZ0ZkNvTDBHNnd0dEpPak0zSTFKeS15NXhkTERuNFlCN0RxVEstLVhIel9WQURqbk83dHdmcE1DSmhYa0pFVndTYVg1TDlHdElDWmNlYjJQMHF1d2VuZy1BTmxWQ3R0Sk9IcGRfQWFjdw?oc=5",
-      "site": "21财经",
-      "siteUrl": "https://www.21jingji.com"
     },
     {
       "id": "FL-cbe00156e977",
@@ -351,16 +315,28 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-9ad6300acef4",
+      "id": "FL-b80ec143ea6c",
       "date": "2026-10-20",
-      "dateISO": "Tue, 20 Oct 2026 01:05:48 GMT",
-      "ts": 1792458348000,
+      "dateISO": "Tue, 20 Oct 2026 01:38:00 GMT",
+      "ts": 1792460280000,
       "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKSEFOYTVuWjIyQkJ1U19XTW4tZjNNM0tRMW11NXFsV0RpRG1NbldITDdSY1g4RVlZUU5YbUdqZWF0Y0YzZzg5WnlwYw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "type": "weather",
+      "title": "台风“蔷琵”逼近东部沿海 温州海事局启动水上防台Ⅳ级响应 - 温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56YmFKM2NjNnp1Z1RTOERLMDJuYTRjU1VBMGlKaFA1c0YzT1JBYlpuUGpuMnZQbzIxMk4xV0k0ZVQ5YW1RdGJjemhpLVBEQW1kUmo4ZUNlWEZKRzRhZE8xaWJhSEI3ZnFTd2Uzbg?oc=5",
+      "site": "温州新闻",
+      "siteUrl": "https://www.66wz.com"
+    },
+    {
+      "id": "FL-3db01ea3dd4f",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 01:35:59 GMT",
+      "ts": 1792460159000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "大洗牌时代，谁能重建卫生巾的信任崩塌 - 中华网财经",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUSFFTZ2dRQUwybnVxbTNBOHlTMUlDYnByaDN4Wnh2U1V3cVAzX2c2aU9ZaXFSNHFqTjllX25PQk5XWENmMFIzWWgwaXVtU3IyVG81UDBNSERkbkVDd0hON2xQWElvX0x6amswZENla3ZVWTQ?oc=5",
+      "site": "中华网财经",
+      "siteUrl": "https://finance.china.com"
     },
     {
       "id": "FL-5ee7a3c2ac1f",
@@ -471,6 +447,19 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "ts": 1789023600000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "山东青岛市北海造船厂一货轮火灾事故已造成20人遇难 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xa3g4VnlYVXpHY3N1YmFWWjVORmhQME1CaTFYZU81TmtMQng3ZEF5N1BXNVhITnJSWE1vSDZtMXMzN3J1WFU4NzZMaFIxVU4zMEMtVFk3VEd1R3kyT2FELW9hYlVDUWZxZTQ4R3hyZ1Y?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com",
+      "related": 2
+    },
+    {
       "id": "FL-89d6589d1504",
       "date": "2026-08-30",
       "dateISO": "Sun, 30 Aug 2026 07:00:00 GMT",
@@ -529,7 +518,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VvRjNzTTJzLVpQQmxhSVZfY2plOENiM3JBUmN1S1hkZkQ4dlFBVWFSZDVaQUZMWF84dklKR09vU3FVc2x5WkFpNkFDTFVMNmxWSnAyREdrQWQ5MWFVNHpReU1ZRm9qNno2V3d3RkNzaXpYeGt0Q2p6YnItT1hOaDN6Yzc?oc=5",
       "site": "www.bomi.gov.cn",
       "siteUrl": "https://www.bomi.gov.cn",
-      "related": 33
+      "related": 32
     },
     {
       "id": "FL-da52fa57a1e3",
@@ -616,6 +605,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-169bec74523a",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 11:40:31 GMT",
+      "ts": 1792410031000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "浙江海事局启动30号台风“蔷琵”Ⅳ级防台应急响应 - 浙江新闻",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xenQtZ2h4MUhoWHhSNlpmWml3NmVKa3Y1UVJDUm1IVXFIaUlYbVUwQ2psVTZhYzl6Y2pfS2lwN2FBN1lDNVc2MlFGenAyWHFZVlo2OVFYbUxoNHhnYUFIRXpIRmcyUkRENURoYzBzWjVwRUk?oc=5",
+      "site": "浙江新闻",
+      "siteUrl": "https://zjnews.zjol.com.cn"
+    },
+    {
       "id": "FL-bbdefdf9e65b",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 11:20:00 GMT",
@@ -650,6 +651,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOajB2UmVEVHRyUEtUS0hTeEVzb2I1YWQ4VHF1bVFuY0RaUHRxa3RUcjBrYktfOURZRXpwVEtRQlN4N3RHVUt5VGhXdlhzZHNzRkU2eV9QMnJnamZjS2FzZkdPVVdmVHVrblJTcUpjalFweVA2V3gtanFHbXhhYktRWEJ4aGxMU28xRUlZUWNmNmlFSjhQdm9jbA?oc=5",
       "site": "新浪财经",
       "siteUrl": "https://finance.sina.cn"
+    },
+    {
+      "id": "FL-d5d4240731f7",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 10:19:16 GMT",
+      "ts": 1792405156000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "受台风“蔷琵”影响，宁波沿海进入Ⅳ级防台应急响应 - 中国宁波网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KcDhzdlAyTm94LUwzWXZwUWRoVUdTZzQ1TVd3U0V6MVJELXB1bDV1eGNWVVRIVWVrRnk0SUNsc3lsd1dJa01aLTFnSWVhVVVxbVYxdi1lMkpfaS01WXlHMFQ0dGk4bWFX?oc=5",
+      "site": "中国宁波网",
+      "siteUrl": "http://news.cnnb.com.cn"
     },
     {
       "id": "FL-6d07843faa78",
@@ -710,19 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ueml1b1BzbGl1S1lJcVNDanZ1elppQkhGUVd4Y1NXRlh0ZXVEZmNvVTFWeHhoNDlXNzZVWl9IZ1ZJMVBycEhralBkYkQ3ZzA5QzQ4N1lhTlNXb2hNNXEyY093SUV4NktLZFFRakI5OGEzV09IX1pDQm1fTWpMS0E?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-11",
-      "dateISO": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "ts": 1789110000000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lUWpPdmdjb2RTLVBfbnBjNUl3U2lqdkREdDZ0ci1TUWJjUGxiYmdBekVxeGZDVTNRTkpCM1ZtbzFCa19tZWJCTmZMSlJibGlyYkdzejdlSXBmU1R5cXJKWWd6anFCYTVxdWlwc2xuRWJjaFVQSTVYYnNVcF94VHc?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn",
-      "related": 3
     }
   ]
 }
