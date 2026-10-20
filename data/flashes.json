@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T22:02:34.816Z",
+  "updated": "2026-10-20T01:01:22.174Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -25,6 +25,78 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95c3B5V1o2XzhOSFdHcGQtbDBvU05aRHIyeWprR2JtcXA1TlRQS1NVNGNBalV4dDFORFlTcFpFeHUtQ3M0VVdlVzdwT2Nsak5heHFzTHZEdlE4RzRkTFY5c1JCNjdzd9IBa0FVX3lxTFBXRk1RN09rNDlfRnNyRmxqUVNnSEU1b0VoYUZmRGlJYXREQklSMlVZaFg3NmE5WkhBQjFkM3RGNTd3LTVGOGkzNmNtLVJkTHd6TktzajRMVE5nZkRmTE1Wa2wxMjBrUS16QnhB?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-df218e2ee311",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:47:34 GMT",
+      "ts": 1792457254000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "南桑威奇群岛发生5.1级地震 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmVSSEQ0eU03czdHYVFlRV8wX1lzWTBlbjdzUGhRS25lY1k4elR3VUF5TjFNaHROd0Z6Y0RwYkJnSkw1UEFFcVRkcnFyS3VRYVMyWmxQSG1nZzczU2pOZ2tYLUt5NUprU1NnSjZjLUNIamhYT0N3VzVjNTNuOTM3T3psOUtqYnBF?oc=5",
+      "site": "搜狐",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-cc210e938fdd",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:26:18 GMT",
+      "ts": 1792455978000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "南桑威奇群岛发生5.1级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00V0hvaThlQ1NJSnpPRTRERmU4RlR3cGlhRUoyOVF2S3FyNVozS2g3dkdUR3lJcEZiNUUzeHNXd1kxTVRVRFJtMXdHcTJfLXh3RmlJS2FrMGozUW9xUHc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-2d2a92c311dc",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:18:59 GMT",
+      "ts": 1792455539000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "南桑威奇群岛发生5.1级地震 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ORWFVQ1ZxU1k5dXVmOGlRcTgtcWlxOGxhQUdJbkNKN2x4RGlqb1dTTlNJS3F3d09LUWFoX1pQR3d4Y3V0RTBhNW82Yw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-7cfc6bbcdf9b",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:01:07 GMT",
+      "ts": 1792454467000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "融合SHAP可解释性与XGB的区域尺度滑坡易发性建模——以越南中部Binh-Tri-Thien地区为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Lbm5OQUpzUElsaEtpdjQ0Z2p5YXBDamR0OFRTdUFNbV9yM0Y5M1VXZnpiRFN2ajg0MW10bHN6OTdfQmFOcnltY2hWYWI4eFJGbkV3V0kzUGhkal9YMVIzWFg1RkZOb3UzNnNNZGRR?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-90848aeb914e",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:01:07 GMT",
+      "ts": 1792454467000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "自然崩落法开采振动触发井下泥石流的机理研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqQVhZc21PTlppaWp3RWduMjVGMXR2cW81ZkJPX2hmcnVLQUtSLU9Hc0w3VDFrejZRb0xiYlNXajc0X1VlSmlCeHVZVG1FYm5LOXZBbm5EaVhIZkd6bm15Ump5N19PdEZrRTZWRUR3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-d3ea92ab9f08",
+      "date": "2026-10-20",
+      "dateISO": "Tue, 20 Oct 2026 00:01:07 GMT",
+      "ts": 1792454467000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "植被调控水文路径与降雨诱发浅层滑坡的联系：系统综述与文献计量分析 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96R19uZHpFWV90TEVqSnlHSm5uVXZKU3hGRmJEYzZLWVVmcmh1Ny15SUpDOVdVVDk0bjEzQVV2cjRHR1NIeTVGZGFiWWt0akZqay1fV1BzTWx2Q2pTMFBRU3hNWlpLM2laRWJxR2pn?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-7ff37f215b2a",
@@ -83,18 +155,6 @@
       "type": "geo",
       "title": "尼泊尔泥石流已致1403人死亡 6150人失联 - 新华网",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wNU1WVXJmeml4U1pPcnpDRWZsS2p4TXNXUmpUNDZLc0dFNzdoYUFCUGRlQTdZRktBd3dfQW8waHY5YWRCRzdQMTcxcVlvNTRVemFCbXVvZTNWbmtHZU4wdlhmX0NQcVBTMXNCVGlZTHVDQVppMVJ4V2hCaDdCZHM?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-3b76d52794ae",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 14:24:17 GMT",
-      "ts": 1792074257000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "巴基斯坦学校屋顶坍塌事故已致33人遇难 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SDAyQ3RZeWpnVVpYS1h6TGxpRjAxM0xwQWZvOXdyTGlQR1BPOHFnaXRBQU5BNjJTUVpMdjJyejFrQzAzMkJmSXp1UTRlWnBuQlF6R1ByYVBZNXJOdkFzMlQyR1F3dWd2VzRRU3NfZXFPallQYnVmYUNWZ2FGNVk?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
     },
@@ -196,18 +256,6 @@
       "siteUrl": "https://sc.news.cn"
     },
     {
-      "id": "FL-03e1c60639f5",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "尼泊尔给水力发电押下重注，泥石流把问题彻底暴露 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByeEVvcHlucE92a1Z3T0Ywei1RT3Ric2RMaVEzNmVtbF9VVEVPMmhrNmliNEl3TGllWktKNjNodUNSSXh3S21KUHA2cEFqckZEV0RNMmpCWWRxSGM4Zm51VUEyV0dkZ9IBa0FVX3lxTFBxM2RNYURrR1hmQ1ktWnBrME1RQ1ZESXBWZHZ4aUNoaURoXy1BLXlySk9tcDZHb25fRmV5SDB5ZTVnck9rdlNmRHdGRkl3QldGb2VEZHA3VkNWT0NITjhmMTRwUWNpZEgxNDFF?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
       "id": "FL-EV-f283a898090a",
       "date": "2026-09-26",
       "dateISO": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -218,7 +266,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc1VvRjNzTTJzLVpQQmxhSVZfY2plOENiM3JBUmN1S1hkZkQ4dlFBVWFSZDVaQUZMWF84dklKR09vU3FVc2x5WkFpNkFDTFVMNmxWSnAyREdrQWQ5MWFVNHpReU1ZRm9qNno2V3d3RkNzaXpYeGt0Q2p6YnItT1hOaDN6Yzc?oc=5",
       "site": "www.bomi.gov.cn",
       "siteUrl": "https://www.bomi.gov.cn",
-      "related": 31
+      "related": 32
     },
     {
       "id": "FL-af13ca36871c",
@@ -245,6 +293,18 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
+      "id": "FL-57e19502a725",
+      "date": "2026-10-17",
+      "dateISO": "Sat, 17 Oct 2026 11:26:24 GMT",
+      "ts": 1792236384000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本气象厅称地震乌龙警报源于防误报功能失灵 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IRWl1MFA4WlNMNkIyZXQzT3ZSWW41UnhYdUJpRnYyX0VvOEZQYTVHTGdnOTFWZG96STN5eXdnVFpwUkUtMnBibktTV1lHUmtVaDdBOGk0QzUyQ1ViTE85dmtyZUhKbkRaYmc?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-840a7c127798",
       "date": "2026-10-17",
       "dateISO": "Sat, 17 Oct 2026 08:46:16 GMT",
@@ -255,18 +315,6 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RVk9POVBtWUxyTHFXQlAwTTRSYWFtdUloeXpPa2VfSlhzWFYxQjJGcGlpSm4wRkw5YTBMd1ZJTTNNeFJNbUZaWWUtQjgxdWRFRGhVUU1fNA?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
-    },
-    {
-      "id": "FL-1b01c02ac0b5",
-      "date": "2026-10-17",
-      "dateISO": "Sat, 17 Oct 2026 07:50:00 GMT",
-      "ts": 1792223400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆巴音郭楞州和静县发生3.2级地震，震源深度13千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YUF92M0dfanAxS0x1dFgwdHBwcVFMRERSSldpblFHQzNTMU9lcm9wN0dTcW9wWWRGbEtOa2R3ZlBaREdoUUdjeFRwMXJqWkttZ3V4Vkdfc2o?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-d84f53b8f13e",
@@ -317,18 +365,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-126bfac821ab",
-      "date": "2026-08-24",
-      "dateISO": "Mon, 24 Aug 2026 07:00:00 GMT",
-      "ts": 1787554800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "“手机收到7.7级地震预警”，四川省地震局最新通报 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUzJ2bjVHWktmWjhPM2FVUVBHNExVYkM2OWFJdW8xaktMTWp0VDE3eXBUN2UwZjBuLWMtMVJIMUpFdmVHTGJpMTk5c21QaGJTVi1PWlNjaW9EMUhyelBhSzhfMmw2T05WUTdjVFRXWm8?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
       "id": "FL-98905528a23e",
       "date": "2026-09-21",
       "dateISO": "Mon, 21 Sep 2026 07:00:00 GMT",
@@ -339,6 +375,30 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HZjJ0cldUTDBtQ2piZEdjUDhjZnRKVklGYzhFQWtKOUpNb2syRFRESE5nZGw5XzYtXzl4Q0ZLRmNSV3VFWlVfSVdiMzVjZUtiQ3h3MjhjNHBKckhiYVJESEcxd1JqSXNzQ09PZVppRHlMZ3Z1aVZtTWNtQUlQVE0?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-7c88c4d2a2f7",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 23:15:32 GMT",
+      "ts": 1792451732000,
+      "scope": "intl",
+      "type": "other",
+      "title": "哥伦比亚一非法金矿塌方 至少9人死 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MaVU0U1pBcEFncVZoQTNVNDlQRHlzRjA5Z21Jem5xSDJQdnFWUzNlOWNNQU5HVXZ2RFhyc05MbU1mWEc2ZXRZaGJ4YXl2MGZXaVozdHpXN2NZMHJUdmc0SWdpRzNLc2pq?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-ec5978bfa594",
+      "date": "2026-10-19",
+      "dateISO": "Mon, 19 Oct 2026 22:52:00 GMT",
+      "ts": 1792450320000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "山洪过后 烟火如旧——石门县“5·18”洪灾灾后重建见闻 - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Y0RZS29WUEJZNDhyNVhmSVpEOXRGcXlkTVRSQXppMXRTZnEydkUyOUtRTGQ3ZUFRYTh0Mjc5b0tpdFYyNnpsblVjbGN6RFhhVzFoWG43TWNZVTIyTmtr?oc=5",
+      "site": "华声在线",
+      "siteUrl": "https://hunan.voc.com.cn"
     },
     {
       "id": "FL-f0c943affa8d",
@@ -355,8 +415,8 @@
     {
       "id": "FL-8a184a659b01",
       "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 14:22:46 GMT",
-      "ts": 1792419766000,
+      "dateISO": "Mon, 19 Oct 2026 14:27:59 GMT",
+      "ts": 1792420079000,
       "scope": "dom",
       "type": "geo",
       "title": "汶川地震餘震？綿陽發生5.0級地震 多地震感明顯 - 新唐人電視台",
@@ -449,18 +509,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b43113b13e4e",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 11:24:00 GMT",
-      "ts": 1792409040000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川绵阳市北川县发生4.1级地震，震源深度 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU1kWEZFWTNzeWE1ajllRUhjWF9IVUJjTzZyNDhLbXVfVXhjZi1KMnJvWXIzQzBfT1ZnVkRyYjVPNk5JbkxOcld0dzduUVRVdUp4TEZaWlpRcUF6YTlJalZ4ZXA4VEVCZTViaXNvRHhEU2xobk5rc0ZrZ3dDZ2ZpWGJ1bmlKVnNmek1hUw?oc=5",
-      "site": "搜狐",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-bbdefdf9e65b",
       "date": "2026-10-19",
       "dateISO": "Mon, 19 Oct 2026 11:20:00 GMT",
@@ -471,18 +519,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcWJRdjdVNHlJODZuYS1MZGNGLXZVV0FGdk9EcUgxdWVWaTlRMkFNWmxVcDh5cG12ZS1mNDE1MzdKclBseGJzdWdhZF9IVE9UNDcwYWN1S3ZDSkdOcGFJcw?oc=5",
       "site": "ThePaper.cn",
       "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-3842aee5321a",
-      "date": "2026-10-19",
-      "dateISO": "Mon, 19 Oct 2026 11:05:20 GMT",
-      "ts": 1792407920000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "绵阳市北川县发生4.1级地震，震源深度11千米 - 欧洲头条",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUG5DanktMTc5aTduRXJuRGhIWEdrb0JoNFFKNFEzRnZ0ZF9FSFRGZTlMWlREbjQ3MkVMenVYR2d2eDNwcHNpX2pzZFdDeUVfenp6cFB0TUdOektoV3V6Y0xPeHlYbzZsOHMzY1dRRHJrZk9pcTBXT2cxQ25RMUFfWnpTbmhPV1pjd0M3TGhiNDFYVC1rc2xBOWhlOU95RWFVZkVaTlllVkpRb3R0T3AwU0lYMzVrbjB4Uk1B?oc=5",
-      "site": "欧洲头条",
-      "siteUrl": "https://www.xinouzhou.com"
     },
     {
       "id": "FL-946e64870070",
@@ -617,22 +653,10 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-43b4d3482940",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 17:51:00 GMT",
-      "ts": 1792173060000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区库车市发生3.2级地震，震源深度13千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RTm5zRHBZY0Z1QkZTOHNKRW9MSFBoYVhZQW9QMmxzTkpkMkpkOVlXZnhWeWlxb2xWRHY3dXdXQ0Y3aGg4VGZNczkyRThGTVlJWTFjNmFPdFM?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-17e314f7d02f",
       "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 13:10:06 GMT",
-      "ts": 1792156206000,
+      "dateISO": "Fri, 16 Oct 2026 13:10:00 GMT",
+      "ts": 1792156200000,
       "scope": "intl",
       "type": "geo",
       "title": "详讯：日本气象厅取消M9.9级地震速报 系统出错导致高估 - 共同网",
@@ -675,30 +699,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02dHZyLV9Ua1I5Y3hKc3Axbk56VTFzOTZOT0dkMmZwbmNMQzNKTGRzQ21lUXA1d1Nxb1ViemFvbktfRVVKc00tLURmd241S0pvb2FWMEpuamxYTktnYzdweDBnQ3R2b3ZEVFRJMUZaNUp2RHhCVnJpQw?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-d2fca6abea5c",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 07:44:00 GMT",
-      "ts": 1792136640000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "鞠躬道歉！日本误报称发生9.9级地震 网友吐槽无知：相当于2100万颗原子弹在广岛同时爆炸 - 驱动之家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlTUlDcnhpV0V2WkprVmVkQlcxc19iMzRON1lRWVJHWnpVZnFmYUlYdTk2dk94Zm1CbTB0clJfcGVrRUM3dDZQNVAxQ1U5eTBqdVZlaTktUG0?oc=5",
-      "site": "驱动之家",
-      "siteUrl": "https://news.mydrivers.com"
-    },
-    {
-      "id": "FL-41f666b29dd9",
-      "date": "2026-10-16",
-      "dateISO": "Fri, 16 Oct 2026 05:38:44 GMT",
-      "ts": 1792129124000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本气象厅取消M9.9级地震速报并道歉 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tamM3Z1pEeEZ2OG9icWZUbkdZVVJKWV9kLUJuVW1tbWtVNkJIMnV0RFJfR1FsbU1iQkoza1lUdGF0VUJiSVNUUXFXcDh3R3RwaU1zWGpCNA?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-558ad9a8396d",
