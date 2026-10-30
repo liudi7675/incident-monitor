@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:44:03.964Z",
+  "updated": "2026-10-30T22:48:07.366Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -147,40 +147,52 @@
       "siteUrl": "https://news.youth.cn"
     },
     {
-      "id": "FL-7c54933e5b1c",
-      "date": "2026-10-21",
-      "dateISO": "Wed, 21 Oct 2026 07:00:00 GMT",
-      "ts": 1792566000000,
+      "id": "FL-7c380ca14987",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 13:47:49 GMT",
+      "ts": 1793108869000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“生命三角区”能避地震吗？摇晃那一刻千万别盲目寻找 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLcHN3UzdUZXh6UjgxaS1ybWlQMm1mQ0VPcEZOZURyQTBOblZwMDJ4MW9CU2poY0l3TGFCcHk3T2RjaS1LeWJnZGpyRTYzZ29Vd0lrVzFudWRhV2ZEQ0JuTGlHcnRnSXFYRWIyM0pWU1pybnM4UTM0Sg?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-2764c6f74927",
+      "date": "2026-10-27",
+      "dateISO": "Tue, 27 Oct 2026 02:11:12 GMT",
+      "ts": 1793067072000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "追踪调查首次发现西藏巴青7.0级地震地表破裂带 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zN1djYTkyQTlxWHhFZnJNbW5FaUhFUUpQem1yenBEX2pJRHltaVFZSDNjamFOeXlVSlo3UkVka0RuVW1ZelMyRXk0bnpRMDM3bHhHX0RRVWNhOXZEQXJTTGZVNjRzZw?oc=5",
+      "site": "观察者网",
+      "siteUrl": "https://www.guancha.cn"
+    },
+    {
+      "id": "FL-f98100f7ebae",
+      "date": "2026-07-07",
+      "dateISO": "Tue, 07 Jul 2026 07:00:00 GMT",
+      "ts": 1783407600000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "强对流天气已致湖北11人死亡 救援救灾正有序开展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBbzVEblJEenVuQXhMay1CcjlwLXNZVTFpNl91TmE1Qkt6bkdTUDVtZnAtSXBISVIzU05HMmVXbTFxMFpTQi0wTnhHWGNHb1hsYml2M3RObGlkek9reGl2YWNvR2VBbjJPTGJ2cEx4bXlDbkw3Z2J3?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
+      "id": "FL-cd4ba9fcb07b",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 22:33:00 GMT",
+      "ts": 1793313180000,
       "scope": "intl",
-      "type": "fire",
-      "title": "华东强台风、印尼林火烈——厄尔尼诺现象影响世界天气的五个方面 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSTF2MVoxcGJpTm9JWXJoZUhVbEItTUt5cEhZZ2l1UVJRQ19DU0dNQzFlcmNjbUxVYUVGSUZ2Si1xUFJHcFpfcDY1S0g4SjhjaWNjYVZWODdQZzJZQ0tmWmlFdnZHQW_SAWxBVV95cUxQU1NWMFFVeHlCbndhRXFpTkZoNDJjZVlRU3phQk11STlVUmNoVmdPUUh1dW1vcXlpR0F2d0NacGNxLVU3eVg1Rm5sZWlOVWVwVHZkQ3VBaHZVYzdKU3pRMjctRVJUZjZISzZ5ZWw?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-2ed705d217e6",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 23:33:05 GMT",
-      "ts": 1793316785000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆博尔塔拉州精河县发生3.4级地震，震源深度19千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZZlcxcVJhMjJRWjFvOW5iMUlVX3piS2xwejhZNEhuWkc1R21ud3lCMk1NSE1KQ3l4N1RjZ1FveEJzSEpqVWlGV2IyZjVVUVp0X3l0b0dFZXo?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-522068f638ee",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 22:19:00 GMT",
-      "ts": 1793312340000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "瓦努阿图近海发生6.2级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3F2dUZNNTlMODFEeDV5UnRQYmpGTFphOGdHUHpiSUcybld1ZjdDQlZzbUV1RmlGb0gtamk1VThOZ1RNcmFaZEN6czQwdzFTLWFicWRpaTJWSWpSMk9vZUJwNUlKb1liTkczVXY2WGpsTmQxbVFDdlZENEp3bzZnRTBzMzBiTF94?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "type": "collapse",
+      "title": "土耳其著名旅游区卡帕多奇亚一石柱坍塌致2死5伤 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKME1pZHJDSlpfd25lMnhDbjJvcm9VSFVIWUxUcno2eWtwWGJZQW5QdHhKczNQNC1HSUZaYVotOGl2UnpYRFZTSmpZYUZpcWhSakRmZ3czUVY4Zw?oc=5",
+      "site": "上观新闻",
+      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-5a3bd81365ea",
@@ -231,28 +243,16 @@
       "siteUrl": "https://www.21jingji.com"
     },
     {
-      "id": "FL-2d655d0cf293",
+      "id": "FL-f4750233531d",
       "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 08:04:00 GMT",
-      "ts": 1793261040000,
-      "scope": "intl",
+      "dateISO": "Thu, 29 Oct 2026 10:02:34 GMT",
+      "ts": 1793268154000,
+      "scope": "dom",
       "type": "geo",
-      "title": "菲律宾南部海域再次发生地震，震级为5.6级 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVjBOdHlUMlBMRk9ybldhcVRPcU1Ja2ZMcUo0RDdFYVZSZFZ0VHNZTkFJcXY2OF9yVlI0Q01qM2JFZkpaMlFUc1V1SFV5NkpCcG12d0xudy11T21nZE1QY3lmYUpFRlRzbDVrWk12WmgwZw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-e7f5299852b9",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 04:00:17 GMT",
-      "ts": 1793246417000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚发生5.2级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWRy14T2JzUDFval9obngzdU1LMHhCTWx1UndUQnktQXJpU0RPS1ZyX1k3eFBfUFd5WUZoOFAzRVFvcUU1aS1oVjFJSUJkQnFtQ1cyTG9wc2lhS2Q0cnc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
+      "title": "海南省首次依托教学一体机地震预警信号开展校园演练 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yLVNMcEhxNGFWdE12SnJ4c1VtVW5tWXVwU291MzRuaC1JSVJKcWdZTDZXbXpCRFhaVjhpMVJjN3VKOUFaekp5ODJBbkVOZ0E?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://hainan.ifeng.com"
     },
     {
       "id": "FL-677368fcfe88",
@@ -327,18 +327,6 @@
       "siteUrl": "https://bynews.bjmu.edu.cn"
     },
     {
-      "id": "FL-80dab50043dd",
-      "date": "2026-10-15",
-      "dateISO": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "ts": 1792047600000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "强降雨致土耳其最大城市3人死亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55RzB1TTBDcnY2eDBNNUJURkE4YXAwT2xCOXhpX2dSSUR5eXdUcnZVbE1ER2xSalZubWlpd01DZ2hoZm8wRHBXdkJEUkNRTHoxc0RPQThXUFZaTDF1TTd1aXExMFZ4UC1KYksxbU5zbUtlXzB1ZnJVdWpZTHRxa1E?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
@@ -352,35 +340,71 @@
       "related": 1
     },
     {
-      "id": "FL-7b862a9e13a6",
-      "date": "2026-10-10",
-      "dateISO": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "ts": 1791615600000,
+      "id": "FL-608689078c0b",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 06:31:08 GMT",
+      "ts": 1792823468000,
       "scope": "dom",
       "type": "geo",
-      "title": "“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GM0N2dGs3a1VvTVZaRkROUnppUmxZdF9kRTYydXQtU01Mc1BrU1pWeU9fN1BGYWZZdEF6N3hCNVRlcXdNTmhKQUdNLUtNNVJYRWl3UDhhUlQ1QXpibHdwSkc3UXBtY3PSAWxBVV95cUxPd1dhQXF4QnV0MWhCYlJHQTJBejI5YlpkNjFTSUJLc1ZNX24zTzhuWkIzMDlaMElESGdxU2VEMDY5NjVPdXVNTlVxSjlpZlRKY1gtNUpCTkczMGQ3SVF5eFRIRnl6bDdOVjU5Uk0?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
+      "title": "过去24小时 西藏巴青地震余震增加391次 最大震级4.5级 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FS09QcWNZSkdMTTRkSUVScXR3U3hIaE1EeS1XUHR3dDJSYXVfaHF2d05aMXRUM2ZzSXBXVWJGRjZ0MnVxN1YxLUI5RWp4QWxRSUVsbVEwUmZ0Y0ttbGlyZi1hR2dtYUc0MnY0ZjhNa2o?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-6ea67576b2c1",
+      "date": "2026-10-24",
+      "dateISO": "Sat, 24 Oct 2026 00:42:18 GMT",
+      "ts": 1792802538000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏巴青地震救援工作扫描 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYWRvWnU0N2xBQ2thQ0tHVFc4SXVlUEVnemR4dXFxWWJnRFJMQVBZUDkxNEJEallHeXZqdmpGTVdaZDRLR0Z6dWJNZTFmMEIzQ3M1UWJqQ1hCYkp1MHUzZjEyU1JSdjYwQjVGN0ZzVnI?oc=5",
+      "site": "中国科技网",
+      "siteUrl": "https://www.stdaily.com"
+    },
+    {
+      "id": "FL-676735fca8f3",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - 苏州市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "苏州市人民政府",
+      "siteUrl": "http://www.suzhou.gov.cn"
     },
     {
       "id": "FL-EV-f283a898090a",
-      "date": "2026-09-07",
-      "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
-      "ts": 1788764400000,
+      "date": "2026-10-12",
+      "dateISO": "Mon, 12 Oct 2026 05:37:35 GMT",
+      "ts": 1791783455000,
       "scope": "dom",
       "type": "geo",
-      "title": "吉隆县泥石流灾害应急救援指挥部举行中外媒体见面会 - 人民日报",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWUhMTkRCdF96LUhxckhNU2dOaktJQlRiRjBnZmpVbnBrd2tYTlZsejBKZHZvOWFNMFVrbEMzS3N3YWQwTzFTTllHbnNTOGJTVG9GN0NIUkpfbVkteUZSdHpzSTd1WWl2WHJiWnJVMEpIelFyWnZ5aS1mdXlraFU?oc=5",
-      "site": "人民日报",
-      "siteUrl": "http://paper.people.com.cn",
+      "title": "西藏吉隆口岸方向发现堰塞湖 泥石流边缘距吉隆口岸约2.5公里 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZE51a0JDVXEwSGlBaURKQnJPVVE2cXdMc21qaG8tLTdxdmFPOWdFdktrSU1HTUw3MDBHVkp2REx1ZEJvd1FUODh4VGM5UHpMb0phd3N5SHVRSENaUHNpYlFn?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://m.bjnews.com.cn",
       "related": 14
+    },
+    {
+      "id": "FL-9ad6300acef4",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 19:13:31 GMT",
+      "ts": 1793387611000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByTlI4cFNXb09TLXZTRGxONHZaWWpONEJ0LS1UdHhWYzZlX3ROZDhaU1FQcy16SGdGZm1MaVhGZ1pQU1BwX01sTm5Tbw?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-1cb25ce4e964",
       "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 15:51:57 GMT",
-      "ts": 1793375517000,
+      "dateISO": "Fri, 30 Oct 2026 15:51:49 GMT",
+      "ts": 1793375509000,
       "scope": "dom",
       "type": "geo",
       "title": "【巴青平安】西藏那曲巴青7.0级地震中长期影响不可忽视_独家采编 - 中国西藏网",
@@ -389,16 +413,28 @@
       "siteUrl": "http://www.tibet.cn"
     },
     {
-      "id": "FL-21c65d423d47",
+      "id": "FL-9e6ff2c776b4",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 13:39:44 GMT",
       "ts": 1793367584000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏巴青7.0级地震：受灾民众板房入住率超七成 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlVySy00NGtSdVZycGZBZlVHYnZfUlVDdlhzUVBJVjB2eVNSR3pfSGlCSUd5akQ0ZWRqejg1RWI0T2pjcHV1X3U4aDdGd2lUTlhmd09TLTF5SFE0aWs0eUNvRW42bFFTNGl3WllHS3c5Q3ZtQ3FmcV90OFVZRndLV2hfaDVYeGhl?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "西藏巴青7.0级地震：受灾民众板房入住率超七成 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14aG05enhZR3FpbXJQRktSWE5aN2F1clJlNnJ5MEhzdDB4UWhwN3hLNDBfMk5LN0tHdm4zdFNfcEZwUnAxTTNxc3g5bHhFMmNVNXdUOXZSNzVLWXVYSHN1MW1oYVlReGxx?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-186e42767ce0",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 13:11:43 GMT",
+      "ts": 1793365903000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "海外侨胞和外籍友人情牵西藏巴青地震灾区_独家采编 - 中国西藏网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LLW44TTRhajh6elRLM04zaEpuZEVOWGN4cWNMZVBkZkF5UF9MX1ZBZ2lYYzlNcGVISGRvQk90X0RXcnA0THJuZVdKNlJIb2prMlB6b21ZRlgtMkhUVDB2aHFQYlVRMmpRY1E?oc=5",
+      "site": "中国西藏网",
+      "siteUrl": "http://www.tibet.cn"
     },
     {
       "id": "FL-554da241c7cc",
@@ -413,15 +449,15 @@
       "siteUrl": "https://static.nfnews.com"
     },
     {
-      "id": "FL-4e67ce9bd01c",
+      "id": "FL-7bc42036f570",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 10:28:04 GMT",
       "ts": 1793356084000,
       "scope": "intl",
       "type": "weather",
-      "title": "（外代一线）叙利亚暴雨引发洪水致5人死亡 - 搜狐网",
+      "title": "（外代一线）叙利亚暴雨引发洪水致5人死亡 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU5ZTHVkMlNSQUNSR0gyYnZQdkVsQW1CYVRPY0p0enNjbDMzRHV1TjJ6SldyT2FWQThSbkg1NXFvRTNKY2hFYWFOdzBMNnBIeHpMVEYzSU9QYWdmeUx4OENSeW9mNWZlT3Z2WjMzZFZsaFJxd2N3NmhHNmVfbTJLcW15ZEg2VGNJ?oc=5",
-      "site": "搜狐网",
+      "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -485,30 +521,6 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-81ad55dd6fd2",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 07:48:00 GMT",
-      "ts": 1793346480000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "曝光！编造涉西藏巴青地震谣言，多人被罚！_全球_新闻 - 华人头条",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LSjVmaGw1bWU2ZmE5RmlnR1k2UE1IYkpZS01SSGxDQ0phamR6Y09VT0RNYi1vaFFSa3l4MGNtZHB1N0hpV1JkTThaT3ZRQ2VWWWJmWk9xRGwyeElpMGc?oc=5",
-      "site": "华人头条",
-      "siteUrl": "https://www.52hrtt.com"
-    },
-    {
-      "id": "FL-35b1be392931",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 07:33:00 GMT",
-      "ts": 1793345580000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "今天A股又暴跌了！市场信心崩塌，大家都想卖出…… - 财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JOEFHNDlad2NCRUt3Z1NvWTZrbzhQMkxOLVNKZVdoQkhVcGdTLVl0dWd6WHV0c2NQSGRJT09VczV4LTBRYTFEc3c4NjBEbHdXcGR6c1hlaEdJSUxsVWhuRV9RdVJfaWp1VW93?oc=5",
-      "site": "财富号",
-      "siteUrl": "https://caifuhao.eastmoney.com"
-    },
-    {
       "id": "FL-9a4fe06f4a35",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 07:02:05 GMT",
@@ -555,18 +567,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZVROSTdyNVVTaGdZejZvWnd2V1prUVdSMHdIV1luOXV5bVpXSnpOd3NaMGdHeE04UFc1TDMzd1RJQzRDekp6QnFIV1JybTJySmtiQkRGOFp5aUYyNUw4Z2JBU3dVUHNyd05XekhMR0YtcEVYYjNV?oc=5",
       "site": "Shangbao Indonesia",
       "siteUrl": "https://www.shangbaoindonesia.com"
-    },
-    {
-      "id": "FL-d64496c41398",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 05:05:44 GMT",
-      "ts": 1793336744000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川甘孜州新龙县发生2.9级地震 震源深度12公里 - 中华网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZcFVlcUZCVURQNk40WFE3S3phSDZFdEhYZ0d1NDYxSktnZENMRGtucDVodkJqLWh6NW5xWWdKbVFQWVNOdW1lNEJfYVQ5TUlHZnprUUdDWTFCemwwVXRPN2JkWGljcENrbEh4b29QSFQ?oc=5",
-      "site": "中华网",
-      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-509644cd302a",
@@ -701,16 +701,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-df3dc618a2c8",
+      "id": "FL-6b4d761e8d1c",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 23:14:00 GMT",
-      "ts": 1792797240000,
+      "dateISO": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "ts": 1792738800000,
       "scope": "dom",
-      "type": "weather",
-      "title": "苏州启动防御台风“蔷琵”四级应急响应 - 苏州市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFZZUFlkS1hpdy03V1JyM1hhelZpU2szZjMzdEt4cHIxY0FjMHJ3eEhlUFIyZVRMRVhDZ180SUlYd2Itbm9vbkVnTjJybjVLZ01QeXlqYUdwN2dPZkRONGs4MFFjSDR3MzJJNmwzU2hMVUkwWF9TVk15VnhPMFdCbzJsUXM4WE4tYzF4Zg?oc=5",
-      "site": "苏州市人民政府",
-      "siteUrl": "https://www.suzhou.gov.cn"
+      "type": "geo",
+      "title": "山体滑坡、洪水、塌陷……地质灾害监测的黄金时间怎么抢？IBSS学者给出AI调度无人机方案 - 西交利物浦大学",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lcFNvZC1jOUZyU2FnMVFfVHBvU19TSUFlTlVydE5SUGNMbWdlaWpaNUhtc240bk5WdUNEdUdNYy1GRjJ3UnVTUTZXZWZVOGZXTmdTeVVGOFZXeEVwSWx5SFRwalpBaWFXYVJlT21uSWNQM3hQQldzNkpIYw?oc=5",
+      "site": "西交利物浦大学",
+      "siteUrl": "https://www.xjtlu.edu.cn"
     },
     {
       "id": "FL-97f6e336e9cb",
