@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:48:07.366Z",
+  "updated": "2026-10-31T02:02:29.202Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -99,6 +99,18 @@
       "siteUrl": "https://news.cnr.cn"
     },
     {
+      "id": "FL-59668e49eda5",
+      "date": "2026-10-28",
+      "dateISO": "Wed, 28 Oct 2026 12:03:04 GMT",
+      "ts": 1793188984000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏巴青县帮玉囊村地震受灾村民集体搬入安置板房 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmS1R5Z3N4azJzSHh5QkVmM3h1WGdTUWFpTmR6VjA5MG1Lc1N1Qkt6QXFIT1RyYXFmdmF0NG1sYW1GRFFvdV9FRDlNYWotcHZRS2d5NnBjczcyMVRtb2NZOUozblI5aFZJemNYbkFtaU8?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-6d5967a1e64d",
       "date": "2026-10-28",
       "dateISO": "Wed, 28 Oct 2026 05:43:00 GMT",
@@ -123,76 +135,40 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-f357f9bee162",
+      "id": "FL-09bc478e6679",
       "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 01:18:25 GMT",
-      "ts": 1793150305000,
+      "dateISO": "Wed, 28 Oct 2026 01:15:38 GMT",
+      "ts": 1793150138000,
       "scope": "dom",
       "type": "geo",
-      "title": "青海省玉树州杂多县发生4.9级地震 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvMGE3a0JoUEZVOHlJYnM1XzdiQnRibk9IX0FDZHVJdmdHT01FVTViTFlxRDAxek9EcFhUU1YzbmVZZlphbnVXM3M5Q2dBa2ZqM1pxNTBzT1dyQ3hBZk5XVFE4bG1CZTV2cTNmWFdKejQ?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://www.cnr.cn"
-    },
-    {
-      "id": "FL-8423c088736e",
-      "date": "2026-10-28",
-      "dateISO": "Wed, 28 Oct 2026 00:33:00 GMT",
-      "ts": 1793147580000,
-      "scope": "dom",
-      "type": "other",
-      "title": "中央气象台：北方和东部海区有大风天气 西藏南部将有强雨雪 - 中国青年网",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15N1h0MmhCS3ZPMWNKMy1ORXFpM3RIUGo0OXdqRmkwbVF2bjBmNWNld1hKQ1VtbkdIbzRzN1I5akFKRHU4aG9vLUoySERIZ1p3VE9lQ3NMcWtqWkUydVdjYlhqZU44aEU?oc=5",
-      "site": "中国青年网",
-      "siteUrl": "https://news.youth.cn"
-    },
-    {
-      "id": "FL-7c380ca14987",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 13:47:49 GMT",
-      "ts": 1793108869000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "“生命三角区”能避地震吗？摇晃那一刻千万别盲目寻找 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLcHN3UzdUZXh6UjgxaS1ybWlQMm1mQ0VPcEZOZURyQTBOblZwMDJ4MW9CU2poY0l3TGFCcHk3T2RjaS1LeWJnZGpyRTYzZ29Vd0lrVzFudWRhV2ZEQ0JuTGlHcnRnSXFYRWIyM0pWU1pybnM4UTM0Sg?oc=5",
+      "title": "青海玉树州杂多县发生4.9级地震 震源深度10公里 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03eFhTOUFCMjJTc2NqeXhQWld4M01SaElTT0lSaDZjUnRpU3BUV043a3JLUHExbTVhSjBuWnlQTnREU0xFRWhRaDQ4dE9jV0xhRmYtZUJNenIwT2tSeC1GWFNwWWk3OXRjMHFHN05Tb1VqVjY3NHFpeg?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-2764c6f74927",
-      "date": "2026-10-27",
-      "dateISO": "Tue, 27 Oct 2026 02:11:12 GMT",
-      "ts": 1793067072000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "追踪调查首次发现西藏巴青7.0级地震地表破裂带 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zN1djYTkyQTlxWHhFZnJNbW5FaUhFUUpQem1yenBEX2pJRHltaVFZSDNjamFOeXlVSlo3UkVka0RuVW1ZelMyRXk0bnpRMDM3bHhHX0RRVWNhOXZEQXJTTGZVNjRzZw?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
+      "id": "FL-7c54933e5b1c",
+      "date": "2026-10-21",
+      "dateISO": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "ts": 1792566000000,
+      "scope": "intl",
+      "type": "fire",
+      "title": "华东强台风、印尼林火烈——厄尔尼诺现象影响世界天气的五个方面 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSTF2MVoxcGJpTm9JWXJoZUhVbEItTUt5cEhZZ2l1UVJRQ19DU0dNQzFlcmNjbUxVYUVGSUZ2Si1xUFJHcFpfcDY1S0g4SjhjaWNjYVZWODdQZzJZQ0tmWmlFdnZHQW_SAWxBVV95cUxQU1NWMFFVeHlCbndhRXFpTkZoNDJjZVlRU3phQk11STlVUmNoVmdPUUh1dW1vcXlpR0F2d0NacGNxLVU3eVg1Rm5sZWlOVWVwVHZkQ3VBaHZVYzdKU3pRMjctRVJUZjZISzZ5ZWw?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
-      "id": "FL-f98100f7ebae",
-      "date": "2026-07-07",
-      "dateISO": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "ts": 1783407600000,
+      "id": "FL-e1d5b73222c2",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 21:23:18 GMT",
+      "ts": 1793308998000,
       "scope": "dom",
       "type": "weather",
-      "title": "强对流天气已致湖北11人死亡 救援救灾正有序开展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBbzVEblJEenVuQXhMay1CcjlwLXNZVTFpNl91TmE1Qkt6bkdTUDVtZnAtSXBISVIzU05HMmVXbTFxMFpTQi0wTnhHWGNHb1hsYml2M3RObGlkek9reGl2YWNvR2VBbjJPTGJ2cEx4bXlDbkw3Z2J3?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-cd4ba9fcb07b",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 22:33:00 GMT",
-      "ts": 1793313180000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "土耳其著名旅游区卡帕多奇亚一石柱坍塌致2死5伤 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKME1pZHJDSlpfd25lMnhDbjJvcm9VSFVIWUxUcno2eWtwWGJZQW5QdHhKczNQNC1HSUZaYVotOGl2UnpYRFZTSmpZYUZpcWhSakRmZ3czUVY4Zw?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
+      "title": "特大暴雪！暴雨！新一轮冷空气将登场|降温|雨雪|国家防灾减灾救灾委员会|西藏自治区|强降雪_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWdDA0UjFqb3ZOVmptLXRzRE5pYk53VUhiS1BFRy1RNjlfUmtkSWowY3gwRUZRRnJRU2pjQmU0bG1mdXNfR1dXV3NuN1ZtdlpwaXdCbExxcmJOWDRWcGR0N1RhY25CNnlma3lRNnhXZlcwT2hJZXB4TzF4MWY?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://cj.sina.cn"
     },
     {
       "id": "FL-5a3bd81365ea",
@@ -267,6 +243,18 @@
       "siteUrl": "https://mzj.sz.gov.cn"
     },
     {
+      "id": "FL-9617a447c3a1",
+      "date": "2026-10-29",
+      "dateISO": "Thu, 29 Oct 2026 02:58:56 GMT",
+      "ts": 1793242736000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "地震来了该怎么办？消防员教你三招自救法 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iUTVXdU9HUTJmUHFCMjQyZTQ1ZGt5NWE4NHpxVXh0LXdMeTRBZmFoS3JsR1h3QUlTY1FuWXJ5eTk1ZWRpZzZZZ1NjWlZRRUhFbGtJRXU2d3FZNTRSMFVN?oc=5",
+      "site": "新湖南",
+      "siteUrl": "https://m.voc.com.cn"
+    },
+    {
       "id": "FL-6cc2df5f7fa0",
       "date": "2026-10-29",
       "dateISO": "Thu, 29 Oct 2026 02:57:52 GMT",
@@ -289,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzaElySVhaOEJ3QnhXak5nUndxSE9KYWN6TkQxLUxMYXlKSG41cnBoUzBRTmZ3djZrV09rbklxOUJhZlg2LUZMcXRRMU0tQnpOUm1IZ3VyUFlZVnIxTTZaVjM2Nl9XQQ?oc=5",
       "site": "光明网",
       "siteUrl": "https://politics.gmw.cn"
-    },
-    {
-      "id": "FL-659b34142cc5",
-      "date": "2026-10-29",
-      "dateISO": "Thu, 29 Oct 2026 01:45:45 GMT",
-      "ts": 1793238345000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏那曲市巴青县7.0级地震｜建筑应急评估、安置保障等工作有序进行 - 华商网",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MbGlUOWgtQXlwejM4VWtmcDFZWVQ5V1A2QVNxLUVnWXdpaE9uZ3JHaV95b05nZDNaRVlHM0w0RnJsdXBVeVZVRDJraERJaGFEZGhQNjJpeUVyVDJ3MFQ0?oc=5",
-      "site": "华商网",
-      "siteUrl": "https://news.hsw.cn"
     },
     {
       "id": "FL-c28c5717d88e",
@@ -327,66 +303,90 @@
       "siteUrl": "https://bynews.bjmu.edu.cn"
     },
     {
+      "id": "FL-80dab50043dd",
+      "date": "2026-10-15",
+      "dateISO": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "ts": 1792047600000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "强降雨致土耳其最大城市3人死亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55RzB1TTBDcnY2eDBNNUJURkE4YXAwT2xCOXhpX2dSSUR5eXdUcnZVbE1ER2xSalZubWlpd01DZ2hoZm8wRHBXdkJEUkNRTHoxc0RPQThXUFZaTDF1TTd1aXExMFZ4UC1KYksxbU5zbUtlXzB1ZnJVdWpZTHRxa1E?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-EV-18d9b0620c3d",
       "date": "2026-09-10",
       "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
       "ts": 1789023600000,
       "scope": "dom",
       "type": "fire",
-      "title": "青岛造船厂维修中货轮大火 至少20人死亡 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tZmU3VjlOaFRXNzBpUVZJajliUzR6MjJIcWpkYTlrcllnc21WOEFFTzZMX0xQSGZMQ2RueHphdHJ1ZVlRRmZRT3VZa2pxT0dZRnp3WDdWRVBkZ2N3LVJCS09FQWF0d9IBa0FVX3lxTE9FR1JvZ3RnWjd2N3ZJRjM1ZlVDN1p2OWdHR0FDWjlTQmRhV0c1WEQzSDZyT1cyWEJyemxSNEc5LXhPNnMyZGRtUFQ4dXBoWU9RbFRqLUxFZW1YcVlTWU4xb01aeklKbEhWM3NR?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com",
+      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示 - 国务院港澳事务办公室",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16XzFCU2htbDlOX0dGXzNpd01lTmtWYjBndC0yVDZtS1VwYjdvaU5zSTNITnVmU3ZwbGFaYWtSODlXemdzcUlGbUxSZWc5NkpWcm1KRko1REJXSDBXZlowdGpiVVJpa3VfLW5aOGpENVFfUlYxMjA0Q2J3?oc=5",
+      "site": "国务院港澳事务办公室",
+      "siteUrl": "https://www.hmo.gov.cn",
       "related": 1
     },
     {
-      "id": "FL-608689078c0b",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 06:31:08 GMT",
-      "ts": 1792823468000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "过去24小时 西藏巴青地震余震增加391次 最大震级4.5级 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FS09QcWNZSkdMTTRkSUVScXR3U3hIaE1EeS1XUHR3dDJSYXVfaHF2d05aMXRUM2ZzSXBXVWJGRjZ0MnVxN1YxLUI5RWp4QWxRSUVsbVEwUmZ0Y0ttbGlyZi1hR2dtYUc0MnY0ZjhNa2o?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-6ea67576b2c1",
-      "date": "2026-10-24",
-      "dateISO": "Sat, 24 Oct 2026 00:42:18 GMT",
-      "ts": 1792802538000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏巴青地震救援工作扫描 - 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkYWRvWnU0N2xBQ2thQ0tHVFc4SXVlUEVnemR4dXFxWWJnRFJMQVBZUDkxNEJEallHeXZqdmpGTVdaZDRLR0Z6dWJNZTFmMEIzQ3M1UWJqQ1hCYkp1MHUzZjEyU1JSdjYwQjVGN0ZzVnI?oc=5",
-      "site": "中国科技网",
-      "siteUrl": "https://www.stdaily.com"
-    },
-    {
-      "id": "FL-676735fca8f3",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - 苏州市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "苏州市人民政府",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-EV-f283a898090a",
-      "date": "2026-10-12",
-      "dateISO": "Mon, 12 Oct 2026 05:37:35 GMT",
-      "ts": 1791783455000,
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
+      "ts": 1789013919000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆口岸方向发现堰塞湖 泥石流边缘距吉隆口岸约2.5公里 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxZE51a0JDVXEwSGlBaURKQnJPVVE2cXdMc21qaG8tLTdxdmFPOWdFdktrSU1HTUw3MDBHVkp2REx1ZEJvd1FUODh4VGM5UHpMb0phd3N5SHVRSENaUHNpYlFn?oc=5",
+      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
-      "related": 14
+      "related": 21
+    },
+    {
+      "id": "FL-377073e47646",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 00:16:30 GMT",
+      "ts": 1793405790000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "金伯利岩尾矿库溃坝事件后土壤污染与金属迁移性的多季节评估——以南非Jagersfontein为例 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeVZvVVVsZDFLeENRZW1ZNzZQVEZmTEVUWlg2d3l3SW42bVAzVVZld3JJZjFseEVXT0NqTlhyVUlWVExQd00yM3h3QmhmZmhjamJVbkxRb3FBZHcxaVFkV0g0NWQzbHR6STVKN193?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-5ce4c45204b7",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 00:07:54 GMT",
+      "ts": 1793405274000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "全球地震预防指数（GSPI）：12个高风险国家地震风险减缓能力的量化比较评估 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQXZieEtFZjctSzIzbDllMlpGbGhzZnBibUl6N0dqNkJUNjk2c09yYzUyYnBsVDZUUXRKX2NUR2VlVDVrc2dXLVl4SkNnY0RpR19vajkxODUtU2Zjcll3WjNXT2J2MjM3OHRCTTVn?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-7b862a9e13a6",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "ts": 1791615600000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GM0N2dGs3a1VvTVZaRkROUnppUmxZdF9kRTYydXQtU01Mc1BrU1pWeU9fN1BGYWZZdEF6N3hCNVRlcXdNTmhKQUdNLUtNNVJYRWl3UDhhUlQ1QXpibHdwSkc3UXBtY3PSAWxBVV95cUxPd1dhQXF4QnV0MWhCYlJHQTJBejI5YlpkNjFTSUJLc1ZNX24zTzhuWkIzMDlaMElESGdxU2VEMDY5NjVPdXVNTlVxSjlpZlRKY1gtNUpCTkczMGQ3SVF5eFRIRnl6bDdOVjU5Uk0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-f48649a2a0bd",
+      "date": "2026-10-30",
+      "dateISO": "Fri, 30 Oct 2026 19:23:13 GMT",
+      "ts": 1793388193000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏林芝市墨脱县发生地震 - 紫荆网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOV95b1ZJZzg2STl2SmVKSDYyRzhoU1BQbk1udFB0bzZLODRhTG53YTVKSW85VnVEUDlTZ0p1a3hld3pGdi03ZU9xQkdRblZvNmlPMktVUWdjOF9JR0tJb19USHpWdmZrck5JRjNITGxzVWJkUGJuMzUzdWVNNlRzWjg3TXZrSy1ZQWVHWVNlQnVkX0gt?oc=5",
+      "site": "紫荆网",
+      "siteUrl": "https://zijing.com.cn"
     },
     {
       "id": "FL-9ad6300acef4",
@@ -449,15 +449,15 @@
       "siteUrl": "https://static.nfnews.com"
     },
     {
-      "id": "FL-7bc42036f570",
+      "id": "FL-4e67ce9bd01c",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 10:28:04 GMT",
       "ts": 1793356084000,
       "scope": "intl",
       "type": "weather",
-      "title": "（外代一线）叙利亚暴雨引发洪水致5人死亡 - Sohu",
+      "title": "（外代一线）叙利亚暴雨引发洪水致5人死亡 - 搜狐网",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWU5ZTHVkMlNSQUNSR0gyYnZQdkVsQW1CYVRPY0p0enNjbDMzRHV1TjJ6SldyT2FWQThSbkg1NXFvRTNKY2hFYWFOdzBMNnBIeHpMVEYzSU9QYWdmeUx4OENSeW9mNWZlT3Z2WjMzZFZsaFJxd2N3NmhHNmVfbTJLcW15ZEg2VGNJ?oc=5",
-      "site": "Sohu",
+      "site": "搜狐网",
       "siteUrl": "https://m.sohu.com"
     },
     {
@@ -581,18 +581,6 @@
       "siteUrl": "https://wap.eastmoney.com"
     },
     {
-      "id": "FL-c6f1ee0bbf60",
-      "date": "2026-10-30",
-      "dateISO": "Fri, 30 Oct 2026 03:27:00 GMT",
-      "ts": 1793330820000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "普京警告，“如果俄欧之间爆发战争，将不会有胜利者”；土耳其旅游胜地石柱坍塌，致3人5伤 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Vcy0wM21aSG9Uc09yRGN0N0FpMHpCZ3FITWdrbE9RNFZVRURkR1ZjckNMdW1SZGU3Z3BibllXaXl3NVc5MnNNSlhYV2FBUjFqc1RFbEtjWkJqdw?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
       "id": "FL-c127f265d3d6",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 02:58:58 GMT",
@@ -701,16 +689,28 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-6b4d761e8d1c",
+      "id": "FL-df3dc618a2c8",
       "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "ts": 1792738800000,
+      "dateISO": "Fri, 23 Oct 2026 23:14:00 GMT",
+      "ts": 1792797240000,
       "scope": "dom",
-      "type": "geo",
-      "title": "山体滑坡、洪水、塌陷……地质灾害监测的黄金时间怎么抢？IBSS学者给出AI调度无人机方案 - 西交利物浦大学",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lcFNvZC1jOUZyU2FnMVFfVHBvU19TSUFlTlVydE5SUGNMbWdlaWpaNUhtc240bk5WdUNEdUdNYy1GRjJ3UnVTUTZXZWZVOGZXTmdTeVVGOFZXeEVwSWx5SFRwalpBaWFXYVJlT21uSWNQM3hQQldzNkpIYw?oc=5",
-      "site": "西交利物浦大学",
-      "siteUrl": "https://www.xjtlu.edu.cn"
+      "type": "weather",
+      "title": "苏州启动防御台风“蔷琵”四级应急响应 - 苏州市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFZZUFlkS1hpdy03V1JyM1hhelZpU2szZjMzdEt4cHIxY0FjMHJ3eEhlUFIyZVRMRVhDZ180SUlYd2Itbm9vbkVnTjJybjVLZ01QeXlqYUdwN2dPZkRONGs4MFFjSDR3MzJJNmwzU2hMVUkwWF9TVk15VnhPMFdCbzJsUXM4WE4tYzF4Zg?oc=5",
+      "site": "苏州市人民政府",
+      "siteUrl": "https://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-0a6bdcfe2a7f",
+      "date": "2026-10-23",
+      "dateISO": "Fri, 23 Oct 2026 10:14:16 GMT",
+      "ts": 1792750456000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "台风蔷琵影响台湾 已1人死亡、94 人受伤 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50U0tNOFgxWmdjZzFFNDhmUHR3eGhHRHhKR3hZSHFWeGtWNWZBeWRqNXE0cm4tWkRIeTBIX0JtMXRsb2FQZE42NFVScVNYaDltZk14RXE3UUQ4MmlSVEtsenQ1Yw?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-97f6e336e9cb",
