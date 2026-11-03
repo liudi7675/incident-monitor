@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T11:39:24.081Z",
+  "updated": "2026-11-03T19:08:17.477Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,28 +27,52 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-1bc0ce79d123",
+      "id": "FL-46d9b6dd7700",
       "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 11:01:31 GMT",
-      "ts": 1793703691000,
+      "dateISO": "Tue, 03 Nov 2026 13:53:57 GMT",
+      "ts": 1793714037000,
       "scope": "dom",
       "type": "geo",
-      "title": "四川宜宾市高县发生3.1级地震，震源深度11千米 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0pOeGRKMXVFSUFrOWJwbGF5RFJ6eGVGT2FuLUhwTk1yM19xLUliS3FRbUZoZ0RhSkEtUERBVWRfNGM5QnZvaFc2X0VVT3F6WUFRRDZBZFVFb3VYblVHdTJ3MFFPd1dIc2QtQ2szUmFUUXJQTXQ0NDZjcURHMlRIQmVTVHVLZ1Zo?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "中尼边境泥石流| 外交部：45天死亡等待期届满与尼鉴定54失联国人名单| 国内 | 2026-11-03 - 光明日报",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOQkU2d2c4NTF4NmFLYlFkN0huSUd1eXlUanNjLTk2b3lYZ3UzVzNoR3pXS0dlNFB1UjhYVU12MGpjelM2UmhEUzlSV1plZlNKSXd4Sm44VFdwbTRONEtSSDF4UGNvYlpJZjczSjEzNGFSSGtyV1h5QzVwRzB2aXA3UVBNZHpjQ2tZUmtFbmFCbEg5UlhBbWpmS01hOTQ5UTd5cTNKX0U2WVJITVJON1JSOVZ3UVRUR1NnN0VHOVdQdXlNY2xwV0kxSEtqeENxcHIyVXhlZG5TbFExVEt5WlZLelpfSldsdTU2QU83NTh6akZqWWc2TkMwU3g1ME4yUUt2NGROYTBkMlZtQzdxcnlKeVRYc1BjckNQeXFyWDJVVVhjSkRFN2tBWGRxbGh5NkZuM1lsbw?oc=5",
+      "site": "光明日报",
+      "siteUrl": "https://guangming.com.my"
     },
     {
-      "id": "FL-164974ed1295",
+      "id": "FL-ee4fabf30c2d",
       "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 10:32:13 GMT",
-      "ts": 1793701933000,
+      "dateISO": "Tue, 03 Nov 2026 11:59:00 GMT",
+      "ts": 1793707140000,
       "scope": "dom",
       "type": "geo",
-      "title": "震区无人机的大用途科普动画 介绍地震救援应用 - 微博",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MV0Y1aDBqckxJcE02aUlYUS1aYkdxb3FkTFZnX2kxakNCRmszeW5KLV9UU2dWRmRoSUR3M0sxM1RaRXdGRnRZLWRnQ2VXWjliUlZIQzdMbm9fNW1UNk9ERE5qbzNfN05VWGhPOTlnZw?oc=5",
-      "site": "微博",
-      "siteUrl": "https://weibo.com"
+      "title": "“汪汪队”出击！搜救犬参与张掖消防地震救援演练 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QamZkQlFjRWNRZlRKTC0xaGlZcWRva0J3TXVraEMyb1MySDdaWU1Bb1lkTUgxYjJ5SU1CN1JKMGROdzFVRkhiRTlpMU8xODFDX0FWcFpLQXpmckduSF91cGhJZ3haM1VnV1V4dzdqWk1QM3V3Vng2TGVxdm5Kdw?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-bcf469fc480c",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 10:56:00 GMT",
+      "ts": 1793703360000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县发生3.1级地震，震源深度11千米 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90ZWZYS2pmd1JqTHFndnNGd0tzSGZ4R253Zm9WakZWbkFuWVRhdWxaOXNTR0IxMEJZV1lvcXFQa3hZdEkyXy1KTWtlUlJSLU1iRWxwSEY1WEE?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
+    },
+    {
+      "id": "FL-287cb24907ce",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 10:56:00 GMT",
+      "ts": 1793703360000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川宜宾市高县附近发生3.2级左右地震 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SV05TNU9lSURwVnBnakFKUE1qYUpqWTVxdk9ONlRMbmswS1VJR3VXMkMyNmdxNkFvYnFNZzFxY0pJRUZCdW5FcTlaakpiZThKeEdrSEY0bS0?oc=5",
+      "site": "Jiemian.com",
+      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-a62fd22bd518",
@@ -73,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlhSQ2M0RXFSOFprRXhBRXZGb2Ixc2h4bm5WMXFhaEdFaWxPR2hxRXFiVUxfR05xS014WjFnU1hZdXNfbV92ZlJrN0hlLURJWkl4NGhqYkQ3aUg5b19BQXlIX3lHeFYzU2Faa3dDZ2Rqazl4dE9KVC1wdlBBNmh0S2xGNjhMMnN5Smc?oc=5",
       "site": "旅日侨网",
       "siteUrl": "https://www.jpchinapress.com"
+    },
+    {
+      "id": "FL-03b3bd28e7c6",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 06:45:25 GMT",
+      "ts": 1793688325000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "他吸着氧，给巴青地震受灾群众做了一锅新疆抓饭 - 深圳市委统战部",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91WTJxNVV4MkdxZy1GaWpvUVBadE1tZEtweGttNE1VX3NIZ2VjRmJwY1V2SFg4QnhXUjFvamsxSVNMZ0RKNXA3emFYaE9wdjQ5N0Nnc2trV2RwSElYc0JEQUN5Mjk1ZE5w?oc=5",
+      "site": "深圳市委统战部",
+      "siteUrl": "https://tzb.sz.gov.cn"
     },
     {
       "id": "FL-aec3ad9241d5",
@@ -135,6 +171,18 @@
       "siteUrl": "https://news.cctv.cn"
     },
     {
+      "id": "FL-7d5176d1586f",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 04:47:32 GMT",
+      "ts": 1793681252000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9sRTJpNkVoSWh5clRpVXpjUlpJMlBhcVg1UVRNM2tDTnZzZ3V2QW5YSXM4YkNzc0ZYbmx0LW5WR3p2V0Z4Qk1LNnRhcw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
       "id": "FL-a0b5487a737b",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 03:40:24 GMT",
@@ -149,14 +197,14 @@
     {
       "id": "FL-5c364dae8f78",
       "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 01:51:36 GMT",
-      "ts": 1793670696000,
+      "dateISO": "Tue, 03 Nov 2026 01:51:21 GMT",
+      "ts": 1793670681000,
       "scope": "dom",
       "type": "geo",
       "title": "[流言板]勒阿弗尔人事地震，主帅、主席及体育总监24小时内接连离职 - 虎扑体育网",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pTXlaOWJOWFppMW4yZy1FNm9MZHJCRnBpUEx5SUZxLVBEV1p3dDAxcDUtVktXbkljUXpIOHZibEhGRnk2RVVF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9aTkZrOTlDa1dMZGwtMXdGeW5QNEdEMmFYSVp0ZzZZUHYtNDhaNEIxeVJyWV9TakVDbHk2YVFKdFBMdkZKUGZNMXFDSQ?oc=5",
       "site": "虎扑体育网",
-      "siteUrl": "https://m.hupu.com"
+      "siteUrl": "https://bbs.hupu.com"
     },
     {
       "id": "FL-1a713eec07db",
@@ -181,18 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wNk5NZHMwU2F1T1RVanBSTW5sanRYcUFQMmJ2SUJZajBxZGpmZTlmZS0xWG5BYmE1VmNFa1hHdUpXeGFDUlB6WVJYb2VGbkxfMWVJa1U4NU1xQTJ2WWRka1AxQXlZLWJ2bUFpdVUwd2JkR0E?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-7d5176d1586f",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 00:31:42 GMT",
-      "ts": 1793665902000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tcTBqOXhMQ1ZDSXVUQzJzcTNFc1VBZ0kwRjBZUGxwa1VyVlpDY01VRWFFa0hGOWg1cjB3NnFnZGdRSnpHZnFsRTBxVQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
     },
     {
       "id": "FL-3f2e17f5be4b",
@@ -243,30 +279,17 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "ts": 1789023600000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "习近平对山东青岛市北海造船厂一货轮火灾事故作出重要指示 - 国务院港澳事务办公室",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16XzFCU2htbDlOX0dGXzNpd01lTmtWYjBndC0yVDZtS1VwYjdvaU5zSTNITnVmU3ZwbGFaYWtSODlXemdzcUlGbUxSZWc5NkpWcm1KRko1REJXSDBXZlowdGpiVVJpa3VfLW5aOGpENVFfUlYxMjA0Q2J3?oc=5",
-      "site": "国务院港澳事务办公室",
-      "siteUrl": "https://www.hmo.gov.cn",
-      "related": 1
-    },
-    {
       "id": "FL-EV-f283a898090a",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 04:18:39 GMT",
-      "ts": 1789013919000,
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
       "scope": "dom",
       "type": "geo",
-      "title": "习近平对西藏日喀则市吉隆县遭受泥石流灾害作出重要指示 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRXVLRTR4WllScXRvU3JNenNpaWppamJiX0lWUUlhamFPeTk3YWV1WTdfYk02djVuWVA2RWF5UnkxaGRIVVoxZWlXUE1meFdrVGVQRVZlT25rTkxOcVQ2UjRR?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 16
+      "title": "西藏吉隆泥石流灾害已致43人遇难 519人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn",
+      "related": 7
     },
     {
       "id": "FL-378f77ae463c",
@@ -377,6 +400,18 @@
       "siteUrl": "https://www.jfdaily.com"
     },
     {
+      "id": "FL-e35a6e42c437",
+      "date": "2026-10-31",
+      "dateISO": "Sat, 31 Oct 2026 23:14:49 GMT",
+      "ts": 1793488489000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本三重县东南海域发生6.1级地震 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11UTduRVM5T2FRcm1jYmw1eVBnTTkyZElxb3RoZkFYbnIzVko0U1NjZmhLc3dSc2dLclNIQWFjSUR6M0FYQldwdW5PT1hVOXJHeU1laWM3SFIyb1JzR1E?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-3b2206b04097",
       "date": "2026-10-31",
       "dateISO": "Sat, 31 Oct 2026 21:48:46 GMT",
@@ -459,18 +494,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQktTZE1EQzJZdnVKNGl6RXl3YVZNaVdMX1Bxb1FDT0V6REVZM1czZ3Y2aEs5TnZ0akFraUR0YlhRNmlZQ2xFNm9vUDh2Skx0SVhNX2RiaVA?oc=5",
       "site": "Jiemian.com",
       "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-91e83f1985b3",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 17:00:50 GMT",
-      "ts": 1793638850000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "通道道路坍塌后Endeavour暂停Mana地下采矿 - 新闻和统计 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcF9pZTFaQ1l3MVRLaWJEUXFjeGZBcmMzY1pUVVNxemJHT1RFMWEyM3dGekFNZEowVXJVT0FFY1llc1h6cGZHcS1YMHExalJYOHh0VXIwQkp4cEdla1E5OWdsbW5ycU1rMmc1RkxFcGJldTFxeGZxMlpJUmR1eG5qQ0puaWFocEw0ZmdFQ3RYOXF2VlFja1h3MmVaQmxFV3hIV3h6N1dCU010S1RQT1JVUUE5U2JjUVBybWJv?oc=5",
-      "site": "IndexBox",
-      "siteUrl": "https://www.indexbox.io"
     },
     {
       "id": "FL-9a94ce838d88",
@@ -653,18 +676,6 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-ae1cafe5e8ce",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 00:48:00 GMT",
-      "ts": 1793580480000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "鲤城区温陵公馆与万厝埕公寓之间墙体坍塌久未修复 - 泉州网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FNkxEYVE4YlpCeVdQU3d3bU5rSkFuNXJTbF90LWVFZjNCeDg2QWdGQ3Jyamh5OElDSUk4aWZuOHI3UUN4WWNuS3RwV3dISEI0ZlZJbTVXR0hLX01lRExZTHBObTZCSHc5aEpmSGhqWQ?oc=5",
-      "site": "泉州网",
-      "siteUrl": "https://www.qzwb.com"
-    },
-    {
       "id": "FL-3427e81e3233",
       "date": "2026-10-30",
       "dateISO": "Fri, 30 Oct 2026 13:45:00 GMT",
@@ -699,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFZZUFlkS1hpdy03V1JyM1hhelZpU2szZjMzdEt4cHIxY0FjMHJ3eEhlUFIyZVRMRVhDZ180SUlYd2Itbm9vbkVnTjJybjVLZ01QeXlqYUdwN2dPZkRONGs4MFFjSDR3MzJJNmwzU2hMVUkwWF9TVk15VnhPMFdCbzJsUXM4WE4tYzF4Zg?oc=5",
       "site": "苏州市人民政府",
       "siteUrl": "https://www.suzhou.gov.cn"
-    },
-    {
-      "id": "FL-0a6bdcfe2a7f",
-      "date": "2026-10-23",
-      "dateISO": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "ts": 1792738800000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "台风蔷琵影响台湾 已1人死亡、94 人受伤 - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50U0tNOFgxWmdjZzFFNDhmUHR3eGhHRHhKR3hZSHFWeGtWNWZBeWRqNXE0cm4tWkRIeTBIX0JtMXRsb2FQZE42NFVScVNYaDltZk14RXE3UUQ4MmlSVEtsenQ1Yw?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     },
     {
       "id": "FL-4ee97473f1c9",
