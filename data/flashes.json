@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:09:06.802Z",
+  "updated": "2026-11-04T21:25:07.755Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -27,16 +27,40 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-8b6211078918",
+      "id": "FL-69caa850a05a",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 14:33:08 GMT",
-      "ts": 1793802788000,
-      "scope": "intl",
+      "dateISO": "Wed, 04 Nov 2026 17:13:55 GMT",
+      "ts": 1793812435000,
+      "scope": "dom",
       "type": "geo",
-      "title": "美国蓝色海啸席卷中期选举 民主党掌参众两院 - 国际 - 国际头条 - Sin Chew Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3WlNHdGc5cHhmaDE5VGZxNTQwTXNYNUh4WGFfdDBMU2ViUW1ESmtKd2lILUZYRjgzei0xbjNtUUxEUmVidUdvNG1IazM5X2tiOWV2SWhrLUhNR3N6eVBYUVFPRTh6R2VBTHMxS2RnWQ?oc=5",
-      "site": "Sin Chew Daily",
-      "siteUrl": "https://www.sinchew.com.my"
+      "title": "德州翻蓝：政治大地震 民主党创近40年奇迹 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mUDdROENhd0tQVWxab3BuMV9JTnh1aUNpT0tmaFhIdHZLNVhDcy0wc0NXemJMVElxWW0zU0N6WWptbTlaQXdTNTVoem05cF9kYzJfUlBoZll0bkh3OUNGcFdPWkVuamFq?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
+      "id": "FL-d3bf468fe865",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 17:00:22 GMT",
+      "ts": 1793811622000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "蓝色海啸席卷 科技股“庆贺” 马斯克却遭双重打击 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WTlpOaE5hLTRvSlkxT1RHbGVSWjBCSlJhLU5NSHdSVWxURkpqcGFHcXBqRU13UkNBY0tvTVdMRFJITHBvaEViYzhQWjZzMXZvTUw4ZHZLTE5waGd3c2xQWnY2SGR1OEVn?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
+      "id": "FL-f631664609e0",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 15:12:00 GMT",
+      "ts": 1793805120000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "Meta高管称：“人口崩塌”之下AI提升生产力至关重要- AI 人工智能 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1UjQ3d05kYldIQTdQMjFlamtYQzlreGs2akFRU1V1U21jRjhYNzNpWnRiZGZfNFU1YzJNYkU4eG5WZ1dmc0xMWXBHOTNOZHBmc1JGRjUwU0xfVk9odmt0cQ?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
       "id": "FL-4ef442239af0",
@@ -46,9 +70,21 @@
       "scope": "dom",
       "type": "geo",
       "title": "西藏巴青地震灾区两所小学在拉萨异地复学 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HQzNPaDAxcXd5cjVLYl96WE1lYk9tZXlaU2ZCR3VrRk9rLUdMYjBQY3d5WkRhQWQ0MTc4R3ZpOFdZNGkwU2Jjb2s5YlA5cG0xNHV0V1ItMFF2MGU3MS1JMkRwSkNJOENXOHVNNm10UkplQnE5MkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYQW5rNnNQdVUxLVRvSjFnTm9vX3ExdnVja21Ya0ttY2hibmxVZkthTjZBX1NfdUJ4andUenRGR0h5aTF0T2p0SHFHQ2RySWdtVmxmeDJ6SmtTVUF4UGVNOU5YMUMxYzBTZkgwSUVwLXExUDdUaEc1UGVDWWQ2dw?oc=5",
       "site": "新华网",
-      "siteUrl": "http://www.news.cn"
+      "siteUrl": "http://www.xinhuanet.com"
+    },
+    {
+      "id": "FL-e36192520019",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 14:28:50 GMT",
+      "ts": 1793802530000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "特殊的一课：那曲巴青县地震受灾学生在拉萨复学_独家采编 - 中国西藏网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRDViQWV4OUhSU0p2MGVpZjJLQi1lM29XTmUtV2VEU1U5UDRIQWw3MnVxdEtJdTlpM3dTR29aUUpyM00ybEVZamZTWlZUQWs2R1VRVHJ5MnRiOUJTWFRoMGFWVzMxOVNFTXc?oc=5",
+      "site": "中国西藏网",
+      "siteUrl": "http://www.tibet.cn"
     },
     {
       "id": "FL-07fea6f5e8b0",
@@ -99,18 +135,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-01d46dcea178",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 12:24:00 GMT",
-      "ts": 1793795040000,
-      "scope": "dom",
-      "type": "other",
-      "title": "北投市場鷹架倒塌 勞部初查3方有疏失 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZjZVNV82a1QzcUFYTnZBS3dRZGpBc2hwSUNrOTd0b2hRbllWbnBmTk40M2t1WFpHTUVXc3dQWTFkLUVTOXRXQlJjV3doQUxtYWlNSnVQcDVqQ2FkTVEzNNIBZkFVX3lxTE01dEtTSVViaGFPWWJJNjUwQzdISHVyLTE3NmJlUjhCbTRXYk1pWGpuNllHbHlXUWpfVm51aElFazBJVHlEcl9TcXNpZjhPakFHVWV2MWNkQ3VqN2RHMS1WN3BCTjBFdw?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
-    },
-    {
       "id": "FL-14d717f67eea",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 12:04:04 GMT",
@@ -123,18 +147,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-017b46ab1dec",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 11:00:01 GMT",
-      "ts": 1793790001000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "iOS 27.3藏惊喜：iPhone以后要有地震预警了？ - 热点科技",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NQjI5bEk4M2FVV1A1RmVPUzlMclVQam9WMFNXNGZmeFhxUXF3RjhZQmM2a2JQQ0xQRDlLVjYtVk5RUGFQcmR5ZW1PMGxMSjltQjBjQnVPX09BalJP?oc=5",
-      "site": "热点科技",
-      "siteUrl": "https://www.itheat.com"
-    },
-    {
       "id": "FL-62498d055120",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 11:00:00 GMT",
@@ -145,6 +157,18 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOXhUcUZlNl96dmJzbE8wOVNsdmZyZnFLSXdaaUt2NjdvUFRpa2kxc3NHd0lKMWx0SmxLUlFuUDQ5Sjh5WmdTaGRDeThrREJVY0QwdTV1NnRfaXhzV2lIVnBFckc2WTlDMHdyM2NweE9haDA3elRBZ2Fyb1Azb0lHdDU3cEItVzNwSFlwTVhnal84Mmo1TTF4eGQ5eno5VmpVd1d5cTBtaF9oTV9sMGQ3Q1Z2VkMzQTJoQnAtUkFaRjA3dm1CNGREczhUQlRJeXdtWkk0ZFBqeS01QXYwWm1QVjlEVU1iZW9id2JkLXlacC1xYm9UaVNCNnc0VjlpdnQ1eHhwRllzNUdWdkw3NHA4cHByZjZUNlVvNGcyN210MGJIVmZSbDBUZU5sZUhjczBMcTVnUGxXaXN4RVFuZ3JidlZucThNdw?oc=5",
       "site": "亚洲电视新闻",
       "siteUrl": "https://atvnewsonline.com"
+    },
+    {
+      "id": "FL-017b46ab1dec",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 10:15:09 GMT",
+      "ts": 1793787309000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "iOS 27.3藏惊喜：iPhone以后要有地震预警了？ - 热点科技",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4clR1OGFTMEVfNTRYdjZBVERwYjRkb2VVcGoxeS03b3hJcUNBdWpZOTZISFZsMmNJcS1wZzVXYnFwZ0ljSnlwQUc5NmpBV3c?oc=5",
+      "site": "热点科技",
+      "siteUrl": "https://www.itheat.com"
     },
     {
       "id": "FL-ede20f54c1e5",
@@ -169,31 +193,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PckhkZmh6QTBFODh1X1dmMVZOeFNKbzdkNTd1TnRMTTZFdzVEMEhoUmFNQ2ZaS3RQODVVeUhudHVDRTI3Rm5rYTFPbXo5b3hmT2c?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://original.ifeng.com"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 06:59:39 GMT",
-      "ts": 1793775579000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "吉隆泥石流灾害救援背后，有位两次“不撤”的消防救援人 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85SFdwYkpUZmxnMmxHWVo4Vk9maXVqMGExSU5kRWJOREcxUzBscW5iNDc5UFE2RWlqRHZob1NNX0RGMGpNTDVwdXdISWVPc2dWWEphVlA1OTlSLXBlMkVfZg?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn",
-      "related": 7
-    },
-    {
-      "id": "FL-1f130b6cb829",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 05:50:02 GMT",
-      "ts": 1793771402000,
-      "scope": "dom",
-      "type": "other",
-      "title": "台北市鹰架倒塌4人伤 蓝揭承包商是前绿委 - 中国评论",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1hyMy1rWTFKWmdaNjRUT0J2Zl9UQ2FhU1VfaEVnSUlzTjdOVG0xUENzbmR5d2Y0cHBDa2tjbkVHZ0x4ZmZVX1JVR2p1aEtGVFN0c2thNGZQWDBPUnRwbl94RjU2THdpX3hzMGVYZ3Z1OURGSmhET2c1UWVfTkJLUHdSejNNanNWaVE?oc=5",
-      "site": "中国评论",
-      "siteUrl": "https://bj.crntt.com"
     },
     {
       "id": "FL-17babd797e2f",
@@ -244,6 +243,18 @@
       "siteUrl": "https://www.news.cn"
     },
     {
+      "id": "FL-257b2e6c37d9",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 02:57:47 GMT",
+      "ts": 1793761067000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "碧桂园的真实状况，不知道的还以为地震了呢，开发商不解释下吗 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pRTZQaVJLM1hyaUdIdEwwVXNFdmxRR0dwMG1UNll6WmlaVU8xeFUwX3FXMVJjNm1jN0R3MGt5UnFHRVl5VmtpZ1ZmbmMySGFUT2t2Rw?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
       "id": "FL-e4fb2c12ffbe",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 01:25:09 GMT",
@@ -290,18 +301,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ENUw2d1BzdmFMY0YwYWQzazNlQkJUNnp4alRRR0JUdmtONWxJYWx5LWdDU0FvZGFMSVprNU91MFJvS0hrVmw2c2x3MUhZeUpSMU1nWXJpa1lQRk9GT0RfZUZCLU8wWTg1QkNSMjNqeHU3QQ?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-f98100f7ebae",
-      "date": "2026-07-07",
-      "dateISO": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "ts": 1783407600000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "强对流天气已致湖北11人死亡 救援救灾正有序开展 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51X29tMVpIT0tXek5sYVV5SXdmYVhKTGs0Ujl4RmpxNmRuakxUdDAyLUFTcnZyZXFyWmtJSHJUSlZ6b25YWkx6MGZSWlpnQkFKLVF6dl95LXkyZWJlWU43Y3Y3WFNnNlFKM0ZyOC1IRkdpbGlncEg2MXFsNzJOMkk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.xinhuanet.com"
     },
     {
       "id": "FL-4f829b670244",
@@ -448,30 +447,6 @@
       "siteUrl": "https://www.jpchinapress.com"
     },
     {
-      "id": "FL-7ee8dcca7d5e",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 07:40:25 GMT",
-      "ts": 1793691625000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "【视频】只要思想不滑坡，办法总比困难多，换个思路代驾费就省了 - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50eXRDRlF4U3JoeEt6UVV0LTVoeFV2UEd1Z1hxS0dxalhYQl9JNFN5cGZIUU8yTjlaRThtTjJBQ3RINmdiNlpBekd5Z0swT3hPUjhlRmpOQnk4RzA?oc=5",
-      "site": "汽车之家",
-      "siteUrl": "https://chejiahao.autohome.com.cn"
-    },
-    {
-      "id": "FL-03b3bd28e7c6",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 06:45:25 GMT",
-      "ts": 1793688325000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "他吸着氧，给巴青地震受灾群众做了一锅新疆抓饭 - 深圳市委统战部",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91WTJxNVV4MkdxZy1GaWpvUVBadE1tZEtweGttNE1VX3NIZ2VjRmJwY1V2SFg4QnhXUjFvamsxSVNMZ0RKNXA3emFYaE9wdjQ5N0Nnc2trV2RwSElYc0JEQUN5Mjk1ZE5w?oc=5",
-      "site": "深圳市委统战部",
-      "siteUrl": "https://tzb.sz.gov.cn"
-    },
-    {
       "id": "FL-aec3ad9241d5",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 06:28:53 GMT",
@@ -557,6 +532,19 @@
       "related": 1
     },
     {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致43人遇难 519人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn",
+      "related": 6
+    },
+    {
       "id": "FL-4c3649e486e9",
       "date": "2026-11-01",
       "dateISO": "Sun, 01 Nov 2026 05:14:00 GMT",
@@ -567,18 +555,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VMlltTzBLaUZZdU5oUzVfZ0RFbG5LNXpOeUVUZC12MHYtRnlHcUQzYzcwdm5Fb2h4b0dyVHFiMUczVXlsZkZvRlVva2tYVGNZUWRRWkYxNzNCMWFWSG96ajJVQ3hHTmxxYmpQZ01lZnRfQkk?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-ff2483886d52",
-      "date": "2026-11-01",
-      "dateISO": "Sun, 01 Nov 2026 02:14:23 GMT",
-      "ts": 1793499263000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "2026年闽台地震科技合作交流会在泉州举行 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VVXJ0aHZxYVRWWUdtYjd4V0xWSEt5MkZaWXZvY0VYU2VheUp2ZWtrNXpGRm0tREI2U2p4MlJ2ZVFuRnBSX0g3MGZHUGJVbTk4emU5ZDNCbWNyWUFqUGdLd1M2ZFVMRTZWdUxIMGh5X1V1UVpKRzd6X19R?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://local.cctv.com"
     },
     {
       "id": "FL-676735fca8f3",
@@ -665,6 +641,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-76729c450fb3",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 03:11:57 GMT",
+      "ts": 1793589117000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "网传肯尼亚坍塌大楼由中国承建不实 真相揭开救援现场 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fbUtVcmRKV1lIbjlEZ2Vvc1ljRFlNYXYzUnMxeG1LbEpCZ3h0Y1FlVU0wV2lpVXFoS3FibTlFTHZEZC1ZVnBTbTR5QXNNU2lhMFp5cVRlOUU5X0VRRllualY1MFRVdlo1MjJsaDV2Q24?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
+    },
+    {
       "id": "FL-fd05180ed523",
       "date": "2026-11-02",
       "dateISO": "Mon, 02 Nov 2026 02:48:00 GMT",
@@ -675,6 +663,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRE5pNlZWaHplUFhkNUZTMGpxV0VpSTV5WDZkeUQxVzdFVExkdVRtVUdCeW8wRFRyQzFzZ2Vpcm1DVkFocXI1eDR2dDRFR1ZrX041WnJyOGs2alc0aDFySVNJeWd5OHhVcVE?oc=5",
       "site": "人民网",
       "siteUrl": "http://xz.people.com.cn"
+    },
+    {
+      "id": "FL-81ce05b47c00",
+      "date": "2026-11-02",
+      "dateISO": "Mon, 02 Nov 2026 02:45:39 GMT",
+      "ts": 1793587539000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "肯尼亚18层坍塌大楼由“中国承建”？中企实际参与救援 - 中华军事",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aQU92MDZEWVZmQ2dZQWdwWm9Bd0ZPd2R4OEk3TDdXdmFyRTBwc1I1MkE0ZXgtdXRPZmdJVnpFVnZ2T1dzN25KenFjMVB5MTJuMzZzd2Y4M0VTSXRtUU1uMzdvWXp3bHlQZHo4MWdERWs?oc=5",
+      "site": "中华军事",
+      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-30014c20e7a0",
