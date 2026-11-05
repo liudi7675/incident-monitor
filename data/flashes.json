@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:01:01.362Z",
+  "updated": "2026-11-05T17:11:38.420Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,18 @@
       "siteUrl": "https://epaper.tianjinwe.com"
     },
     {
+      "id": "FL-9be75b41ec60",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 23:10:00 GMT",
+      "ts": 1793833800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "分析｜“蓝色海啸”后全球股市普涨 美国政策将走向何方？ - Caixin Global",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQlhOWTJ2Zml3UFR5NmVLUk5RUDlFbHRfUEVuaTk4TzRCcjl4VlFTM3piOVlPY2NISTF2ZUQxMjhWN0UwTDlRNnZoc3NwUXpHNHlMRFBfdjk0SHZvQTVFMzZLLWJjaFMwQ1E?oc=5",
+      "site": "Caixin Global",
+      "siteUrl": "https://international.caixin.com"
+    },
+    {
       "id": "FL-1915928e0a1f",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 22:48:51 GMT",
@@ -51,40 +63,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-dd9fb333767e",
+      "id": "FL-307233ab0cf2",
       "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 22:16:18 GMT",
-      "ts": 1793830578000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏巴青地震灾区两所小学异地复学 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LV2loVHFIOTVDXy1LMF9yQUVnTXhqX3o1ZGtLYWlWejZubGZlYXFkU2MwcDZ4aDVOWm03VzBWRzY3b1pLY0xMNGdPa1pRMDhmaDd3dDBHekw5UmVNa0JNaGpldFZxMHFZMm12YjdGaE5RRThtaUFudg?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-4ef442239af0",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 14:32:54 GMT",
-      "ts": 1793802774000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏巴青地震灾区两所小学在拉萨异地复学 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYQW5rNnNQdVUxLVRvSjFnTm9vX3ExdnVja21Ya0ttY2hibmxVZkthTjZBX1NfdUJ4andUenRGR0h5aTF0T2p0SHFHQ2RySWdtVmxmeDJ6SmtTVUF4UGVNOU5YMUMxYzBTZkgwSUVwLXExUDdUaEc1UGVDWWQ2dw?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-d89daf1f5cec",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 13:28:13 GMT",
-      "ts": 1793798893000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏那曲7.0级地震，武警官兵奋战救援一线 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUTNuRFByN3U1TnUxYWs0T19PWTlnUExwUU9obHY1SkduZC13SzZUdUkyZGhjWGZWSFctbGpQdDdNRTZjaGRpbHM2OTlZNHdUOFBz?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "dateISO": "Wed, 04 Nov 2026 18:24:38 GMT",
+      "ts": 1793816678000,
+      "scope": "intl",
+      "type": "weather",
+      "title": "巴西南里奥格兰德州暴雨致24人受伤 逾4.7万人受灾 - 南美侨报网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3FPNWpYamZHRXNtOEZySU5oWU9sWllyTFJfX2FObEpaSEtNanhWWFRNOV91Uk5uSmJTdGRsQWNsclBraHV0VnV5clM0SjVpdE5VYUd1WU8wN1V4VkxWN2YwWE12ZVVnX2NiMko0bW9jVExGLVZjZExROWFLQ3duME1aLTYyUk9qby1lV2FR?oc=5",
+      "site": "南美侨报网",
+      "siteUrl": "https://www.br-cn.com"
     },
     {
       "id": "FL-f804b6644441",
@@ -111,30 +99,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-02ac9629e3e9",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 11:06:59 GMT",
-      "ts": 1793790419000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "iOS 27.3藏惊喜：iPhone以后要有地震预警了？ - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeEtMRzN1R2hSZWlxel9HUm4tV3FxVThlQmtmR3dmdFcyemFyTG5qaURyVHlSSUxuLWN5X3NzRXBncXlFbFRienB6Z0dlNkZFU2J0Q2ZxY3NCNm9nZXR2Vk5qbDZQbUVfYjVnUDJpZm9OSVJfRHBubnByQl9FM20yWGY1aV9DT3NO?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-017b46ab1dec",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 10:12:00 GMT",
-      "ts": 1793787120000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "iOS 27.3藏惊喜：iPhone以后要有地震预警了？ - 热点科技",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NQjI5bEk4M2FVV1A1RmVPUzlMclVQam9WMFNXNGZmeFhxUXF3RjhZQmM2a2JQQ0xQRDlLVjYtVk5RUGFQcmR5ZW1PMGxMSjltQjBjQnVPX09BalJP?oc=5",
-      "site": "热点科技",
-      "siteUrl": "https://www.itheat.com"
-    },
-    {
       "id": "FL-90b0389466d3",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 09:11:00 GMT",
@@ -159,18 +123,6 @@
       "siteUrl": "https://original.ifeng.com"
     },
     {
-      "id": "FL-31e250b059e3",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 05:50:23 GMT",
-      "ts": 1793771423000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "注意！双鸭山市启动重大气象灾害(暴雪)IV级应急响应 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rdkp2ZGVrTEJwQkQ0XzFRLXozZXNTNmIxRW5LcWtwTkhlMW9yUzMyWnpHUnN6S0Y1R1I0NkxlekJaeDJmVllReXNDVl8?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://feng.ifeng.com"
-    },
-    {
       "id": "FL-0c8a5c37c3f6",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 03:32:24 GMT",
@@ -183,6 +135,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-9093839d895b",
+      "date": "2026-11-04",
+      "dateISO": "Wed, 04 Nov 2026 03:23:40 GMT",
+      "ts": 1793762620000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWtsbzdZSjI0MTJFejJodzRVdW9Md0VoT1M0SXl2TmE4WmVTTjVIZHJnbGNQTWozRGFvZy0tVzk3M3Q4VDFaRUd2VjRKcDJMNUVEUFZOdi0wY1ZKZy1nLXdtUXJ4bVB2VzMyZ1VNQTN5c2V6T3QzMjFhUmdDdV92c3lwcXl1ODZHUmJ3WEIwMlQtSWZmR3FCZnNB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
       "id": "FL-9a56e9f2acc0",
       "date": "2026-11-04",
       "dateISO": "Wed, 04 Nov 2026 03:21:36 GMT",
@@ -193,30 +157,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51LUpHc0NnTzZYaGlVU0xVbVNmdlkyczdnVGx3ZTVadmxORVU2NG5IYnY0eDd5YWpWQzRfQ21LeFVPRXdQdUtkMUxMaGQ?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-96bf8248bc4e",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 03:11:28 GMT",
-      "ts": 1793761888000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kOVc1Z3c0UE16R0o3ZDQ1NDNzaWUtVHNvVVFBNXd3WFNfdi1tZG40WnhlWnNqc3dWZFZ4TGJDVnNtRjhUVDQzamxtdzJuNklrUFVuTkJvZjl0X2J4T1l6MzJEdTRmdXdkUkpfMXNLMnFJcnVlTEh5cjRJTTV5WkU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-4aed3a0f44c1",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 01:00:00 GMT",
-      "ts": 1793754000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "今天凌晨，阿拉善左旗发生3.4级地震 - QQ News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FSnpoZk9oTG9CMFdNOXVrakRyeUJMMEt3ME55TmVjTy1hZTN3cHNnLUpOQVR3NlpmMnh6ZExWMVI5SHVYUVNTWjlvQW9IX3Fhbkx4eU1R?oc=5",
-      "site": "QQ News",
-      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-63872770a0df",
@@ -255,6 +195,30 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-7569b22b5082",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 21:50:08 GMT",
+      "ts": 1793742608000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "05:47:04【吉尔吉斯斯坦发生5.0级地震】 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DcXJhVXNTaGJod3ZZdWQ4LWkyRko0WHpXSU1XYzAwck5xXzNKZjBveGxKRkhPNy0tdFdIR0x5c3dBY20wUFFRdQ?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://www.cls.cn"
+    },
+    {
+      "id": "FL-ee4fabf30c2d",
+      "date": "2026-11-03",
+      "dateISO": "Tue, 03 Nov 2026 11:59:00 GMT",
+      "ts": 1793707140000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“汪汪队”出击！搜救犬参与张掖消防地震救援演练 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QamZkQlFjRWNRZlRKTC0xaGlZcWRva0J3TXVraEMyb1MySDdaWU1Bb1lkTUgxYjJ5SU1CN1JKMGROdzFVRkhiRTlpMU8xODFDX0FWcFpLQXpmckduSF91cGhJZ3haM1VnV1V4dzdqWk1QM3V3Vng2TGVxdm5Kdw?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
       "id": "FL-77e521a6e340",
       "date": "2026-11-03",
       "dateISO": "Tue, 03 Nov 2026 11:06:42 GMT",
@@ -265,30 +229,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zT0VPczBIV0ZMZGp3YTNCX3lrNzN1emc3NmNJN24xendtTFpucW5raFBTOVRET21tRkhuMGk5N2tzby1YeTM0bzhlSkdSV1FsV0dHVXN2WGw2RmlLVlE5eW5fMUxsSTJ2SVBWVm9wM0VvOFF4aVdSZA?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-a62fd22bd518",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 09:16:02 GMT",
-      "ts": 1793697362000,
-      "scope": "dom",
-      "type": "other",
-      "title": "蒋万安妻子石舫亘代夫扫街拜票 市场周边工地倒塌4人受伤送医 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50cmJQSmhFdWstWVo4Z3RHRkFHMHllajZ6UmJ5R3JRX0NidU4tM0JoQm81SHN1aXAwVWs5LTVWRHd6dU13Q0pxLXBqMGJ2eXRSR1E?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://original.ifeng.com"
-    },
-    {
-      "id": "FL-aec3ad9241d5",
-      "date": "2026-11-03",
-      "dateISO": "Tue, 03 Nov 2026 06:28:53 GMT",
-      "ts": 1793687333000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本防灾厅正式启动 强化大地震应对举措 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85NFV2eG00dTZQSDBiQUY1clVVX3hwU2NEak5Mem5FVnBKeVFSVVdtcVdUTHgzcUEwN2ozbzB4cDdjb1N2WVJzcXRjSW5aaGFBX3NYaVhrRQ?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
     },
     {
       "id": "FL-25b9de07e242",
@@ -310,9 +250,9 @@
       "scope": "intl",
       "type": "geo",
       "title": "地震105天后，这支委内瑞拉青年乐团终于来了：音乐不是竞技，是彼此成就 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zNldER09mU3FpQUozRnh5WmhrLUdUQ2M4N3NkSUF2aS1sMlVBNElUcXZrWHdjNU1HczMzWkNUY2RUN2VNZ3owTERjTVJ5bXRwZkFwZVBOZUg1RE0tX3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XYUZTX1hrdUpkMENkdUtMaHhnQTVpTldJSWhqYjhnNnVUbzhUVkUwbURtcFpXZzV5Qkk5RkxiNndxdW5GMmxGcS1qNVhRN2Z1UllwMzFYek5IUQ?oc=5",
       "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com.cn"
+      "siteUrl": "https://www.jfdaily.com"
     },
     {
       "id": "FL-42531cb45c6b",
@@ -350,6 +290,138 @@
       "site": "新京报",
       "siteUrl": "https://m.bjnews.com.cn",
       "related": 1
+    },
+    {
+      "id": "FL-765623d2eddc",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 16:03:14 GMT",
+      "ts": 1793894594000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "2011年日本大海啸真实影像，仅5分钟淹没一座城，太可怕了 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41ZXhPbUdyN3JNYWtKeXYtRG45ZFBoOFBEY1NHWGtpNWZ0UDZxcDlKcHUxOTR1RldFTDdpamswWVhGTWpTcTkyYW9pdExVZjBUemJBcw?oc=5",
+      "site": "手机网易网",
+      "siteUrl": "https://www.163.com"
+    },
+    {
+      "id": "FL-d3710202831f",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 14:10:12 GMT",
+      "ts": 1793887812000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "韩国股市遭遇“蓝色海啸”，三星、SK海力士双双重挫 - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiQW9IVEhaSmh4aEF5Sy1lbGo3R3RsZ1pHVnpKemdWaU9NdUJNeW5fUFJIU1kwYjh6WEF0ZFBJZU43VFFQMVhyTVl1YzhrT01aXzFvTzZUSjE0WWVrb3RmS0tRMENvbi1KMk82WjBSS09ockJKU2hZWHZpZVpETGc?oc=5",
+      "site": "PANews",
+      "siteUrl": "https://www.panewslab.com"
+    },
+    {
+      "id": "FL-04ebedcf2af4",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 12:46:01 GMT",
+      "ts": 1793882761000,
+      "scope": "intl",
+      "type": "fire",
+      "title": "“蓝色海啸”下的白宫风云：万斯怒写“切割”小作文，美国防长被架在火上烤 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NkhFRlVIQlRxa2lHOHdmeVppY1VEQkVEZVNqSkxHQ3NFU2stS1ljQVVlLUJSMGhyMDZCZHVyX1hyZDltVV81Y3FuZ3BrWXpkQi05Wll5R29uZy00MzNEZQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-e59980025574",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 12:35:28 GMT",
+      "ts": 1793882128000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "“以为到底了，没想到还有地下”：美国“蓝色海啸”席卷亚洲股市 - 中央日报",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9id1o5d2s5T0dDck1kUmZ0Wll1SlNMZGZnTElJQ3ZYU3hMS04tdDlxV2VSUjR6elFGOTZvR0ZiRWVuTTFUbG0xV3JyMTVHMm9CZ2xUR0JlNGtXUXEtXzVQY1RHTUpSTVh1c0Fzdg?oc=5",
+      "site": "中央日报",
+      "siteUrl": "https://chinese.joins.com"
+    },
+    {
+      "id": "FL-96e0306e3078",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 12:31:00 GMT",
+      "ts": 1793881860000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "高盛：民主党\"蓝色海啸\"对AI及数据中心政策影响深远 提供者 Investing.com - 英为财情 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NcUtDdVh1THpMS25LQTY5bkMzTHZaUFloR3Bjc0RMSnQ2UzZaZ2NpdzhIXzdERFNPeWFzeHJXQzhQc3UyMVg1ZWJ2MnBpQWhXekpISU5tc1E5azczQVdBMXJ5d1Jxc2gyT1V3U0dZX3E?oc=5",
+      "site": "英为财情 Investing.com",
+      "siteUrl": "https://cn.investing.com"
+    },
+    {
+      "id": "FL-6e7662c29074",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 12:20:55 GMT",
+      "ts": 1793881255000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "T1休赛期大地震！Meteor、Munchkin、DH及教练组集体离队 - 5EPlay",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QjJCZHV1STJnWDBQVDBSb051djYxRTR0dmZJS0JoeGNsb25MRDdyOUdBVVlpb3BnZEM3cHVJeGt1YXRyZ0l2QURGSlR2RVByWXdzTjNKNkx5WG9JSXlxclZHSkFVZw?oc=5",
+      "site": "5EPlay",
+      "siteUrl": "https://csgo.5eplay.com"
+    },
+    {
+      "id": "FL-9c2676f3f440",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:40:59 GMT",
+      "ts": 1793878859000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "年度森林防火期开启：需防范超强厄尔尼诺现象带来极端天气风险 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0eFQwZGJiVXhOVWhydkptOTM1SDlSUnhPeFJUOEI0ZnFCVlduT1ltSjdPUkxDaV9OZ2h4VXV6aVlyc3YtU2hfMGZQNVZhZjc3STl5N2hEZ0JsTEhNaVE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-942f818da31b",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:28:18 GMT",
+      "ts": 1793878098000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "PRX休赛期大地震！Jinggg、d4v41双双离队，2027重组在即 - 5EPlay",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hSm9DV1pzVGlUaVhxeTkwaVA3YmcyRXJRRHd3SjlDaWpuTjRPS2JBNHNHSGxSVWlFVGRVb1BaVUp1TGpEUVUyUDJ6YzhWM3BEdXFjT0xqX08xazQtOHZVZ0Z0LWRTZw?oc=5",
+      "site": "5EPlay",
+      "siteUrl": "https://csgo.5eplay.com"
+    },
+    {
+      "id": "FL-841390509ba4",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:09:39 GMT",
+      "ts": 1793876979000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆吐鲁番市托克逊县发生4.1级地震 震源深度15千米 - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80cEQ0VThqMDVPX3JxR016Nml6OVp2X1dtNE9GZlJaRU8tbHBJd21uUjBIWm1UMjNoNzM5LXFzZExYeG0xMWJ4WERhX2E0S2QxSUpUejlIWFB4azJBRkNiblJsQkZQeWd2ZERBQjVUTFhqUU15Z3pqQQ?oc=5",
+      "site": "央视网",
+      "siteUrl": "https://news.cctv.com"
+    },
+    {
+      "id": "FL-f20d8cd07eb0",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 11:01:53 GMT",
+      "ts": 1793876513000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "法国报纸摘要 - 《海啸》之后：法国媒体解读美国中期选举与特朗普的新困局 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNald1YTNKR09mLV9WUXJlUVhwUFBJVHlXQ283QzYzd3ozekFvUF9HcmdDRFFKSHdBSml6QnhPTnZKamwyc2MwMDY2Z0xKUDI5MHV0NjhhRDk1bnd6cm1WS0lxeXBDMUZzTEJZR1ZDUUhnMFV0MkJKbzZmcWx3WUpxQWVSYnlsWjRYeGdHVkhUVW5HWXJOVGwzUV9lMDlQR2lHYV9NWGh6dEZvZS00VUpkcVN2aEtrMjJheHB2VEt0Ukp1Z2NxQkZKZHhJWDFoX2RFbzU1S1JmUHJPQmx5QmtvUkkwQ05FRXg1WlNOclRuWVp5OHV4V2lfTVZsb09aVXg5NkUzamp4WGZyRzZoNURXV01JYWs2OVk0ZXhQNVFSbEpIck5hVGNhcTFwY29UWVdSN1JiZEd3SkpiblJpWVZrTWNsZ2NkWlFfbmgxTXk1ZGFQQW1SanZGODhuUEVfLThDdTV6T25tTnVHNmRvbTIzNV9mNzFxQW1NX1VBYjMtZmNNM3E4SWZUUjJUT2J6c1RxTGdmYzByaHN0bWlpLXVGWU5QTWxOYlJuNnViUnNlRS1JV0IzSHp1eFRVVTFHUTF3ZVBmUG5PemFqdHF2Sk5uRGJHTHZKZFFvcHM4Q0g5SVlpLUE?oc=5",
+      "site": "RFI",
+      "siteUrl": "https://www.rfi.fr"
+    },
+    {
+      "id": "FL-e8c07fcca7ca",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 09:20:58 GMT",
+      "ts": 1793870458000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国选举蓝潮海啸 美股大洗牌 AI股跌 医疗股涨 - 财经 - 国际财经 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yeDJ1UnY2TFRUOHZhZC1jTmdkZVd1R1F1dnJ0MmRabjhLdm9SdDNvNk9wVEl1VFVKWFZqX254SHV5bGZGRC0tVkRPVjZSSnljLWNSWXE4REJGYVZTYmRpUGk0ZEh6NmM?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
     },
     {
       "id": "FL-0cca3e8d29bc",
@@ -436,6 +508,18 @@
       "siteUrl": "https://news.fx678.com"
     },
     {
+      "id": "FL-280c422a1555",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 02:05:58 GMT",
+      "ts": 1793844358000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "“蓝色海啸”横扫期中选举：美国国会两院易主，多个“第一位”诞生 - 端傳媒Initium Media",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PbmltTGNsTVdJeWVHN1hFRE1sajVDQXVwX3FQNkFvSXRscHVvLW1IUlFqZ2lrVmFLQ0dmb3Z0RWpzbGV2NlBtdjBON3ZaSHRiMGV6QlpaYlJMR0hoVFZjRVZSNlphZU9HZTFhSDF4eGRJUjh0OHdScXNHMTg0bzA?oc=5",
+      "site": "端傳媒Initium Media",
+      "siteUrl": "https://theinitium.com"
+    },
+    {
       "id": "FL-9b55f9e902f9",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 01:59:49 GMT",
@@ -520,16 +604,16 @@
       "siteUrl": "https://chinese.joins.com"
     },
     {
-      "id": "FL-613a9449ed74",
+      "id": "FL-430a170b23b4",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 00:56:10 GMT",
-      "ts": 1793840170000,
+      "dateISO": "Thu, 05 Nov 2026 00:57:00 GMT",
+      "ts": 1793840220000,
       "scope": "dom",
       "type": "geo",
-      "title": "08:56:10【青海玉树州杂多县发生4.0级地震 震源深度10千米】 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA3NG03SkljYXpvY2taT1FOQmI0TDBDMnNxWFVtVy1lMFZWQ09DMDI2dzZhcE40SUx5cjZZeTVhMElNbXhJODFYcw?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
+      "title": "西藏巴青地震灾区两所小学异地复学 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GMEhxTHp6Q0ZxdHhWZ1lKWGxqUnJTdTNpVXNIek45S3JOMTlDZmI0LWtDNWRON1FxTlJaUXo5Rk9qel9pYmpfNDVBejR3QU1PazVDeWZneG9nTTZEOU1RaVFGUmlHZ1dXWnFiM2FwNEYyMEU?oc=5",
+      "site": "中国经济网",
+      "siteUrl": "http://district.ce.cn"
     },
     {
       "id": "FL-c65e72650802",
@@ -542,30 +626,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3NSOV9BdS1QdkRIczlXSlZoZjhEdDN5N0ZoelhZNE13OFNwWG9IN3RmMDUyYVRnZWtHUzZvbTlmZktFaFVDd0RFS3B0TUlNTWVGTzYtOFhKYXZuMWdGQmdmWTg0MVgtdWdRMWg0SEYxTm92YmdEcHdSM1lIem1uTFdUZjdNa1pjRUNUVF9CTG1VTUpJR2tKSVU3M3hfMDhlNEdlV29pMnliMk5hODZma2N3MlQwZHRac28yZVA3NXU?oc=5",
       "site": "欧洲头条",
       "siteUrl": "https://www.xinouzhou.com"
-    },
-    {
-      "id": "FL-2d1683666618",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 00:52:55 GMT",
-      "ts": 1793839975000,
-      "scope": "intl",
-      "type": "other",
-      "title": "中央气象台：贵州湖南江西等地有中到大雨 冷空气将影响内蒙古和东北地区等地 - 欧洲头条",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWFJna3FqUmhDX25rN2JiaGZfbGlQV1A5eDhFRnhsN0dCUDBTYi1WQWJ5Tm96RXlYLVc4Y20xOVhYY2FOOUhsbW9fX2g5aU1nanBPeEl1ZFgzV2FxNkxoTzZ1M1lqSFZzU0NreUdwaFRDUGdyWFFKbDhReXdjeDkzbDZkX09OanUtVHNCeEhOZ2tzZVV1dlNDTEFOYWRHbjcxY0FiRHo5Z21QcHJyZl9kRURrMWxDWmh1am02bnNRQzBWQVhXZnVVY2FQNXlzTmFjaU0zVzJrbjhDUG9mRzd3UVVCdWhuemxuX0NqY0RYLXlpd1FidG5PZXREcUR6cmREWkdPRlVtbmU1bVl3Z3ZrOXpjYS0?oc=5",
-      "site": "欧洲头条",
-      "siteUrl": "https://www.xinouzhou.com"
-    },
-    {
-      "id": "FL-041d4599210a",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 00:52:16 GMT",
-      "ts": 1793839936000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "美国中期选举掀起“蓝色海啸”！这四类资产成赢家，三大板块却惨遭抛售 - FX168财经",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzVNQWNreFl0NE1qcTBlYy1pQUZRZ25UVEt5YVRfdzRrV2hfLXRtRWh0RlNsZHpMR2pSY0ZQOU5xbjdMcUdyQW5aVHF0c3Vfdm1kbXFVT0N0OHZheFQtemdJc3NCRnpPQUozbnZhRThUOHJFQzh1dmlXTm5PTmFoN0pON0ZDcU9IUThvbWZ2dFh4Vl9Bb3pOWFFMNF8?oc=5",
-      "site": "FX168财经",
-      "siteUrl": "https://www.fx168news.com"
     },
     {
       "id": "FL-6f3d3a2c9b54",
@@ -592,6 +652,18 @@
       "siteUrl": "https://huacheng.gz-cmc.com"
     },
     {
+      "id": "FL-12301f83a9b9",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 00:38:09 GMT",
+      "ts": 1793839089000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "每日消息（共同社） - 日本防灾厅正式启动 强化大地震应对举措 - 客观日本",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZTUtwX210SHZtbmhLMHNDYVBpZDhKSjBrcExIZHlQLVpNand5YlU4QW9mSzZFWnBzUC1zNm9fS3FjbTNmd2xsOTduSHdsX1VrTEphVjNDbm1pd3pyTmRRUU1pdXhqUlR0TFBROA?oc=5",
+      "site": "客观日本",
+      "siteUrl": "https://www.keguanjp.com"
+    },
+    {
       "id": "FL-f0dfe4b71d62",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 00:35:37 GMT",
@@ -602,18 +674,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11RDBpeTZOSjhBcGpNRVdycVRlSDN1Qmo4M3MyZFNWaHlhcXZhYlBBQXZ3c3BmZkhuVU9tQzhzVXlGVkxKS3djMDN4eFoyYk5PVVFsRkN0ZmNjWWxHMk1HdXVzX0poWktpdTU0WnN3?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-6e3d3b34cc38",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 00:31:00 GMT",
-      "ts": 1793838660000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴拿马地震后两条地铁线路疏散乘客——The Rio Times - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQVFySzQ3NV9CYnR5RUxCaXc2N0c1RFk2eUYxY3dmTmVrX2hVN1ZNNml4ZVRJQXF2cW1xYjF0REl5M3lQWFVNV3hMd2pEMllBM3dDMFFsWm40QURPQ09mWXZIQjNmbEZ6dzBDcDZkX216N0pieUtGX0ZlM01pZWMwcjE0REhDeUJscWpkNEZHZWlEeWJVd1llRktqS01YdEI5Z25oOXFOQWVTcHJfcXRhMkd1c3dxMlZV?oc=5",
-      "site": "UA.NEWS",
-      "siteUrl": "https://ua.news"
     },
     {
       "id": "FL-EV-f283a898090a",
@@ -629,18 +689,6 @@
       "related": 6
     },
     {
-      "id": "FL-676735fca8f3",
-      "date": "2026-07-11",
-      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "ts": 1783753200000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - 苏州市人民政府",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
-      "site": "苏州市人民政府",
-      "siteUrl": "http://www.suzhou.gov.cn"
-    },
-    {
       "id": "FL-ca1db8ee99dc",
       "date": "2026-11-02",
       "dateISO": "Mon, 02 Nov 2026 23:55:24 GMT",
@@ -651,30 +699,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BOHNrbHlNQmtadUE4cUtrckRuUm5fM052bFBmU0ZuNWFKLUJVQXJ4OUZpNzVvRzNzOFhUNmU0Z1BkLW02WHZiUGt0bzZMaDlZTTVBMThJSzh6OEVCNVV2Qjhfdw?oc=5",
       "site": "东方财富",
       "siteUrl": "https://emwap.eastmoney.com"
-    },
-    {
-      "id": "FL-42ebb27c7e24",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 23:09:08 GMT",
-      "ts": 1793660948000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏那曲市巴青县发生3.7级地震，震源深度10千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rbWdnTzA3OEdaeEdJX2V1Ynp3RVVsTVpfNGdSV3hwbFJCYmhxS1k1SEcyT1BkSVpGOFdQTTdJS3Brb0VlbTBDRkVUSExxMVc0M2JMeDBSNWw?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
-      "id": "FL-b9b8bf17902a",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 22:52:03 GMT",
-      "ts": 1793659923000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏那曲市巴青县发生3.8级地震，震源深度10千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQktTZE1EQzJZdnVKNGl6RXl3YVZNaVdMX1Bxb1FDT0V6REVZM1czZ3Y2aEs5TnZ0akFraUR0YlhRNmlZQ2xFNm9vUDh2Skx0SVhNX2RiaVA?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
     },
     {
       "id": "FL-9a0cab8ca239",
@@ -689,18 +713,6 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-fd05180ed523",
-      "date": "2026-11-02",
-      "dateISO": "Mon, 02 Nov 2026 02:48:00 GMT",
-      "ts": 1793587680000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "巴青县地震灾区首批589名异地复课师生顺利安置 - 人民网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRE5pNlZWaHplUFhkNUZTMGpxV0VpSTV5WDZkeUQxVzdFVExkdVRtVUdCeW8wRFRyQzFzZ2Vpcm1DVkFocXI1eDR2dDRFR1ZrX041WnJyOGs2alc0aDFySVNJeWd5OHhVcVE?oc=5",
-      "site": "人民网",
-      "siteUrl": "http://xz.people.com.cn"
-    },
-    {
       "id": "FL-24a13461e051",
       "date": "2026-11-02",
       "dateISO": "Mon, 02 Nov 2026 01:20:00 GMT",
@@ -711,18 +723,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XUkh0S2d6c0l6YXVzZE5aMnlWQ2dJaUZZcVRoMWtzOHFxajVELWNMbmpKQUpCTUN5bi12MmhRcXVacVdGR3hfdDlGNWZDRDFGR09vX3d2dVBXeks4aGpGclJOaDRiUHlNNFo2TFJIS3IyRWs?oc=5",
       "site": "中华人民共和国应急管理部",
       "siteUrl": "https://www.mem.gov.cn"
-    },
-    {
-      "id": "FL-e8a32a183e42",
-      "date": "2026-08-28",
-      "dateISO": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "ts": 1787900400000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "尼泊尔—西藏泥石流：堰塞湖风险、逾2000人遇难或失联，中国总理赴前线意味着什么？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMU9aYk1ieDUtRUYxczloUTVubHBZc2VCWlBtbGlLNmRWdXFGZ2xvUWhfSHZqVS0wYndtZzhUZGZDZlBiQlU0WDV2NUh5bkE1M1VtZURfZWRMaTR4SU4waWJHYXdFd9IBa0FVX3lxTFA3TVBheHVtYmo2X1ppZlgzNnhYZnc3eU9MOUVybUZlUGh0QXMwTklhWXktUm9Bcnh1dVdGcUZvZlVrWGQxTlNKX2xxVV9PRzBRSmR3QWdURDRZVEhja0loSWxWN2RtRmJxR1Y4?oc=5",
-      "site": "BBC",
-      "siteUrl": "https://www.bbc.com"
     }
   ]
 }
