@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:24:29.773Z",
+  "updated": "2026-11-07T03:02:14.652Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -13,18 +13,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSTF2MVoxcGJpTm9JWXJoZUhVbEItTUt5cEhZZ2l1UVJRQ19DU0dNQzFlcmNjbUxVYUVGSUZ2Si1xUFJHcFpfcDY1S0g4SjhjaWNjYVZWODdQZzJZQ0tmWmlFdnZHQW_SAWxBVV95cUxQU1NWMFFVeHlCbndhRXFpTkZoNDJjZVlRU3phQk11STlVUmNoVmdPUUh1dW1vcXlpR0F2d0NacGNxLVU3eVg1Rm5sZWlOVWVwVHZkQ3VBaHZVYzdKU3pRMjctRVJUZjZISzZ5ZWw?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
-    },
-    {
-      "id": "FL-b2d13116c5ba",
-      "date": "2026-09-16",
-      "dateISO": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "ts": 1789542000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
     },
     {
       "id": "FL-28f1ca712d10",
@@ -85,18 +73,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LRzdUM2JqRHhSZU51ZW1sb0stcTF4SzFtRFlXYzhZdEl5ZEt3ZjJuTmYxV3J0ajVUSnk0bUhjendZUXk2Z0RjQkhnYUswNWV2bEQxalMya3pwVlczR0lLcVNXZEh0TmZT?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-614ff148c909",
-      "date": "2026-11-04",
-      "dateISO": "Wed, 04 Nov 2026 07:15:40 GMT",
-      "ts": 1793776540000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "iOS 27.3测试版新增“迫近威胁警报”：可为地震洪水提供补充提醒 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PckhkZmh6QTBFODh1X1dmMVZOeFNKbzdkNTd1TnRMTTZFdzVEMEhoUmFNQ2ZaS3RQODVVeUhudHVDRTI3Rm5rYTFPbXo5b3hmT2c?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://original.ifeng.com"
     },
     {
       "id": "FL-9093839d895b",
@@ -171,16 +147,16 @@
       "siteUrl": "https://www.br-cn.com"
     },
     {
-      "id": "FL-6b30ca1f373c",
+      "id": "FL-ff834caa13d1",
       "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 17:45:02 GMT",
-      "ts": 1793900702000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "01:45:02【斐济群岛地区发生6.1级地震】 - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rVmZmWUVwZlVpYWt0WkVnMEpWRmVkMHpVMWJJM3VhOWVfTldnaG1PeU9kaUxFSTBLUE1qLTN2b3ZBaGdhbExuLQ?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
+      "dateISO": "Thu, 05 Nov 2026 19:35:00 GMT",
+      "ts": 1793907300000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 封面新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIVzBoQjg3VlY1MEszVGx0OXFZaW84U0tJN1c0NUpqRnlFbUM1MXpSRVVsdmRJdXRmMWp0NGU4TUtpN3ExeUwwanZRX0JvdElFcHpfR1AteWowUWlKaExFNHhvT3RRUQ?oc=5",
+      "site": "封面新闻",
+      "siteUrl": "https://www.thecover.cn"
     },
     {
       "id": "FL-7f8163847a69",
@@ -193,6 +169,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSNmtBS3FySTV0S1ZhbklZOHZUWi1OS1Z3SzRkZEhicWdkME91TTJsd1VCWW9DRmItcEVZNE1tblBick9uNjNGY2pabw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-3d8baa147a18",
+      "date": "2026-11-05",
+      "dateISO": "Thu, 05 Nov 2026 17:21:00 GMT",
+      "ts": 1793899260000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "斐济群岛地区发生6.1级地震 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMMkp3N1lsRjdtRy1KNjV6M18xMTBrLS1KdTlidkw0eTBvWlZvZ0lxaWQ2VzRPYkxNQ0dLQi1oS18tbVpiaFhzVFVTelZZNkhHMXBYUkM3TnlEMnFXZVpaTW52Zw?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://emwap.eastmoney.com"
     },
     {
       "id": "FL-4a7260307535",
@@ -217,18 +205,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GOEtHLVQ3RWtlZUJzSkNjeXU5cENjb2xEZTM1dUI0bzRZWHNCb3JfMkpaeDBVUUF4YkxFT3pKNHlXODN1OFZ3SHYyNWstb0VBMHFlZm9fM0FodU5Delc0SXBnbmR3Wl84?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-6e7662c29074",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 12:20:55 GMT",
-      "ts": 1793881255000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "T1休赛期大地震！Meteor、Munchkin、DH及教练组集体离队 - 5EPlay",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0QjJCZHV1STJnWDBQVDBSb051djYxRTR0dmZJS0JoeGNsb25MRDdyOUdBVVlpb3BnZEM3cHVJeGt1YXRyZ0l2QURGSlR2RVByWXdzTjNKNkx5WG9JSXlxclZHSkFVZw?oc=5",
-      "site": "5EPlay",
-      "siteUrl": "https://csgo.5eplay.com"
     },
     {
       "id": "FL-841390509ba4",
@@ -352,6 +328,42 @@
       "related": 6
     },
     {
+      "id": "FL-676735fca8f3",
+      "date": "2026-07-11",
+      "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
+      "ts": 1783753200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "“巴威”已重新增强为“强台风级”！苏州应急响应提升为Ⅲ级 - 苏州市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
+      "site": "苏州市人民政府",
+      "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-9e6cc7cd4abe",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 00:46:34 GMT",
+      "ts": 1794012394000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "巴西圣保罗市中心商业建筑屋顶坍塌 造成四人受伤 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVNJU3FRVzdqVlcwTW9mS0lxZ0M4MVpCRXQ1ZE1FZFdtMW9kc2dvMm9XWjB4dlZ0S2F3UXRiYWhkZUxTUG45TkhYWFhfcEZGRnVHc1N1c0U5NnpBOUx6aFdtUElVMFJmOVo3c0o3OVJKcHZlcHpKMm1aR3o4OU1HWTlnNU1Ydw?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-8636284a74da",
+      "date": "2026-11-07",
+      "dateISO": "Sat, 07 Nov 2026 00:08:23 GMT",
+      "ts": 1794010103000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "俯冲板片深源地震持续性全球控制的观测统计解析：以最大板片深度与深震占比 F300 为核心 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HLU5JZWJDVXNLQ2VEX2VBcm1FOFBTYkVZNV9HcExIRDZuOTdfMVJBamtZWTJIUVFhc1NXSUJrTHpObGIyeXVJcGxLNlVrbXdsWkFsc2tQbmpLM3AxVVBhc0UtV0hBUEliT2tNWVdB?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
       "id": "FL-579f3c047429",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 18:19:00 GMT",
@@ -412,40 +424,64 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-81931dc61011",
+      "id": "FL-92529dce0e7b",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 11:43:31 GMT",
-      "ts": 1793965411000,
+      "dateISO": "Fri, 06 Nov 2026 12:34:20 GMT",
+      "ts": 1793968460000,
       "scope": "dom",
       "type": "weather",
-      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nN2Q2cGRIX3BJd3dvRW1rYzRGbmZYTGUxNy1uS2RXWnhzY0dpS2dEZTAxekxmZmhSVWRPQUZEVDE5V2lsQXJ1a2dyQjJlM2ZOZTJjYnY3TGJyUlR5aG5FNVVB?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
+      "title": "中东部有大范围雨雪上线 中国气象局启动暴雪四级应急响应 - 天气网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJazFuYkl5dXFCbEJrUHZxY01VZG9oN0xFMjk3TGN3ckNkTk1nZWN3cE5vYmNZYkY0UlZmV3J2Q0h6YnJKaUZqNWszRWJwdHVFMGdZWVNFNXdIOE43?oc=5",
+      "site": "天气网",
+      "siteUrl": "http://news.weather.com.cn"
     },
     {
-      "id": "FL-d58b84227671",
+      "id": "FL-d5f5a4feaa58",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 11:41:55 GMT",
-      "ts": 1793965315000,
+      "dateISO": "Fri, 06 Nov 2026 12:14:59 GMT",
+      "ts": 1793967299000,
       "scope": "dom",
       "type": "weather",
-      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmw4QW9OdFdGMWdlVjJsMkZWM0tXY25ETjdjbWkxNEFidk5Dc3ZuUFFWTTl4Z2NVUEJlTGFXVlFFVEdRX01EeXJrUEtwMEFmSml5QlJFUnlHd2R3dXQtTnNzUVBEeFZPVXdDbHZsMmJlS2dkMXpQN3BxMUVyUTMwOUcwdw?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
+      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 山西晚报",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkpaaUtjSlFIbGtnNUpWbVFRNlI0eGlaTGt6UDlVcnZUUE9Jd2kxRlk2T1piWFZ3STNoNy12TFo0R2hPMXpBY0ZqYjU4aWRpS2RieHFxNXJPZEFKanU5b0luWUpubGlqVW5JOGRvdG9HM3puT3g0ZkhYaDdEUl8yTW9seVVGdTNNM0xJQ2w4dEVwTnBSM3QycEZ3?oc=5",
+      "site": "山西晚报",
+      "siteUrl": "https://www.sxwbs.com"
     },
     {
-      "id": "FL-00e68cb3ac92",
+      "id": "FL-fef66f8e3fae",
       "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 11:37:57 GMT",
-      "ts": 1793965077000,
+      "dateISO": "Fri, 06 Nov 2026 12:13:45 GMT",
+      "ts": 1793967225000,
       "scope": "dom",
       "type": "weather",
-      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应-新闻中心 - 津云",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yUzhTYThHcHlkc0xmLW8xWXlGOGk5c2tSWE5KbmlIRUxYakVGNzduVy1rVjlMNnBiUVU5Y2hzd0ktR3NIUGxpdXNmZ1kyY3lad3V3VEdDQXhfOF9yblpnYlZzZHlmc0Z6dWx3?oc=5",
-      "site": "津云",
-      "siteUrl": "http://news.enorth.com.cn"
+      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM0w1NHU2Qm9JZ0NOTGNtdHNDYjRHZTlFZXVNSkpEamVFM1o4bXMyRXZQSWhTQ29JMlVpNUZOMkNCeUFmRk5reWt6dk1fcG1sT0FtVDBMMlplUG90bldyYld3NTE4TVlaSVM0OWtQdV9hZW1zdVRuSW9UMHEtYWZkOWV0d3dWVXhCTTR5eENWXzYzUEFtSG40Q1F3?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
+    },
+    {
+      "id": "FL-9894ad34ec89",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 11:57:00 GMT",
+      "ts": 1793966220000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "一真溅雪 | 中共极权统治基础已呈现崩塌的迹象 - 议报",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZZmJseWZqcEhGVVplNUhxWVk3TWFfWE5EQWRhOEhvcHZ4U1U2RUhtckdZS1Q3Qm56X0J0VkRtZUh3SFJSeXUwV0RaQ1EzU0k?oc=5",
+      "site": "议报",
+      "siteUrl": "https://yibaochina.com"
+    },
+    {
+      "id": "FL-a0f70866b478",
+      "date": "2026-11-06",
+      "dateISO": "Fri, 06 Nov 2026 11:40:00 GMT",
+      "ts": 1793965200000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 中国青年网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PYjVwX1BndDNtUm93NzBBZEZyNnJDSUttVjZwU3d1dnFGQm5WQWplZ0Y2Q1h6MHRhYVBnWncwVDg3Rkh1V2xwYm1FOFFGakRUTl9BTWE4MXJsN3liclVrZk95Um0?oc=5",
+      "site": "中国青年网",
+      "siteUrl": "https://news.youth.cn"
     },
     {
       "id": "FL-2d22479387bc",
@@ -470,18 +506,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EaTY4TlRJdklpcUV3VE9wMWNhX2hNMDQxRkMydW1VUWZySkxKTW9ORzdzcUlSWHcwSVlJWV9OZ3ZYV1pNbDhVeDRKNExIZw?oc=5",
       "site": "川观新闻",
       "siteUrl": "https://cbgc.scol.com.cn"
-    },
-    {
-      "id": "FL-b294b79a9fda",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 11:36:00 GMT",
-      "ts": 1793964960000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "中国气象局启动重大气象灾害（暴雪）四级应急响应 - 闪电新闻",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVZ2JKMlhzZVB2SUlBaTdCVGE1WDJfUjNORGpmWDVrX2p2VzdGZ2I4TVF1WWxLcEFWNTEyVFJHSkNESlZUQml1dGVBOC1LTGs4b2hJLThvYlFYWUxoUG40aHVR?oc=5",
-      "site": "闪电新闻",
-      "siteUrl": "https://sdxw.iqilu.com"
     },
     {
       "id": "FL-8cffb10cf0d3",
@@ -530,18 +554,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQkJ0Q2FuSjVVeW4xell3Z29sclJkUHJXSnNmTFhLV3hSYXJJZ2pwVngwSW12T3pIcDR2N3ozZnpzLTVyZE81UXdtMlpNbUthQVJjazEwOVozWlZhSUdDbGNvajVOVzR2?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-377841d58fb3",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 10:54:39 GMT",
-      "ts": 1793962479000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "市场过度定价“蓝色海啸”？30只晶片股中有28只步入熊市！现在是否是“抄底时刻”？ 港美股资讯 - 华盛通",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14MF9iMXRQX0RTM0Uxb01LNml2RFEzaGlpRVRlQmRXUXI1bHYxenhWOU93N25KTGx5N212aW1mSWZYTE1Td1RCMnlFOGUtQUlTSXNCRWZINzg0MlpONWU1cGdB?oc=5",
-      "site": "华盛通",
-      "siteUrl": "https://www.hstong.com"
     },
     {
       "id": "FL-53818212a2c7",
@@ -626,18 +638,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54QjAwRi1qbEpaNG4tVWlGd256WGpLbDlmYXlBaEpKdmRhbTZXVk5nemlHU1VuNGNYNWc2MExCcEFjY2NFVEVTTFpTY0FQeERicXNqVzNFTWFFOVhacU1mLW1MWVBLQQ?oc=5",
       "site": "哈尔滨广播电视台",
       "siteUrl": "https://www.hrbtv.net"
-    },
-    {
-      "id": "FL-04b67edf3531",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 05:14:02 GMT",
-      "ts": 1793942042000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本一核电站篡改地震相关数据 涉事公司被令整改 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4takpzZHU1ZjBJS2ZJSHRWVkFiX1dZVEJVQ0kwUXZCcUx1RURUWUFkTlI1Qk93dXlxemFEZklNQ0czMDd2ODlqMlJYRXBUZWlYT2VlY3lXdmQxck9CbVJ5ekx3?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-40cdd5c92cdb",
