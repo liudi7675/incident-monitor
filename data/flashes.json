@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:39:58.132Z",
+  "updated": "2026-11-08T21:44:43.925Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -39,6 +39,30 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-ad69fcf9e291",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 19:00:00 GMT",
+      "ts": 1794164400000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "河北秦皇岛暴雪 全市中小学停课 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNjlTNGJXR0kxdkxXRFJTOUg2ZDc3WFdadEVvcmxlTVk0RlpIci0xYlpqdkxHZ1FNN1JDQTBWanF6Z2xqcFRvVG5HTTkzcDlGUzVjVkV5R0w2VlRZWGRVLThOZnRHUXE1cGVJdDJfUWNpVnhvODhxYlUzRlhUMjNVb05DbDNGV3JkeWtSUGU5LVlIenJJa2k1OC0zdVJLQzhVTHNWdGY0NG5OeUdiUVk1THowSFBScEhBVzhLLURnUC1acDd3RXYwRVVmT3ZyTmg1cVlLR2RQenpUcEd1dkNmMEhUN29jSEZ2XzV5UWxFQUNsc3dMdWN6YU8xOExjcnFCOFVLQ0sta0VubHhURjdF?oc=5",
+      "site": "星島頭條",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
+      "id": "FL-346b61bf67ee",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 19:00:00 GMT",
+      "ts": 1794164400000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "日静冈县地震 20多人伤 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaDBkUDcyMlRHWTVtQndTaVZMMzY3R19hSG02dTFaZnYzLXZ6QzVBSDZqa2hnUjhTWXdoQ2UwLTBmUU1Kb2JacW9jaG1qbHdaVDZFb1J5ZjFnR0w3Y1hmZHlUM2ZCNFdGT05HdUdCUG1XYWZYeUNDeUlLTFhrV3FLUm9QaTFSQTlXb29rMjZrbndUM1BnVTNTSTJPTlFVcWZJMm5uSW44RnZrZDZpV29QSDhXdk4zRDFPZWswaHhxa0pjMmRFWGVtZjdFQ2UtdnhKM0ZKTktFZDlLdGlQZ2dpRw?oc=5",
+      "site": "星島頭條",
+      "siteUrl": "https://www.stheadline.com"
+    },
+    {
       "id": "FL-6911453359d7",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 17:26:15 GMT",
@@ -73,30 +97,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ZGpxNklPRXgtLWxHMWxja0VhbGp2NjNJSW5aMGQyZk5sNGRrWXNsR0IwWHE3VXF3amRheXUwb1VlNTM4dVViUGtCSU9RYkwwcDRQX3Zpd1pLYmJTMDFQazUyZ1g5eWhLbEphWnhTSWlka1U?oc=5",
       "site": "手机新浪网",
       "siteUrl": "https://k.sina.com.cn"
-    },
-    {
-      "id": "FL-a231ed4aed31",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 16:38:48 GMT",
-      "ts": 1794155928000,
-      "scope": "intl",
-      "type": "other",
-      "title": "【有片】强风袭击大温 树木倒塌压中汽车一人死亡 - 加拿大都市网",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQalJGR1Z0UHdIYTBoU2tna1hrNEc2WC1Fb3FjMkNFd050VXNPdl81YzNyNThuOHRPZi1UaUtMSE95U3dGdFpOS0NyLUxRUXM5N2poTFZiX01lUndHRHhoaDNnVTZzU2FfZU8xM0ZaZmE4dy1wWWhEMlQ3ZzQ0dmFKa3BBNlVSSG1XTjFxNnR4NGZra0FiOS1JNjZydHJydWpBLUJLc0ZZbXljcjBHS1hTTWtfcnpHbnVlR1BtSHg3OUhwZE5seVd5YTljbmg4emhacC1HR0tCQkdSaGRMZWEtMS1YWFF0bGRsdGZZUEpXLWI0b3laS1kzdUlOV0FrTEppVTZFaklUWnQ1TENXOUFuZEhxTDUyOUlfNl9zdGw4d3d2SnplcUlEZFQ0a3BLSjlnT1hDQUZQYVFLVXhvXy16RUZ0eXdwUTVYaHBBS2k5UndHWWkzTWM2eExDX2VwOU9lem15b1VEeDJqT1kwckVmUDN6VmItQkRCRWRVekJjWUZ5YXVqVlROZDAtNk1kVFZpVk5SWWcxSndUdzZqWlE?oc=5",
-      "site": "加拿大都市网",
-      "siteUrl": "https://dushi.singtao.ca"
-    },
-    {
-      "id": "FL-dcc0f8830d0b",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 16:37:05 GMT",
-      "ts": 1794155825000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "太阳报：特罗姆瑟vs博德闪耀出现意外，客队看台局部发生坍塌事故 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHAwX1dDYl8tTlF4em5INVhweklLQ21KZjh2cDRSM1FzWU1jWk9LZi1tYS1RYkJ6b1NZU0M0VTdKQmJieUJUSVJyejg5Wml0Z3ZmWHZsaG1YVHpKSmZNZXFVY3FfQ3hlWkN2cnVmTFBHWWFVV0NSMDIweE91b1RuYzk0Vk1SLWpGNk9XYmRDQWdjWDRjV2xrVXloNFgwVmVh?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
     },
     {
       "id": "FL-918093e75b35",
@@ -135,6 +135,18 @@
       "siteUrl": "https://m.qie.tv"
     },
     {
+      "id": "FL-11daf6c01a9b",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 14:11:04 GMT",
+      "ts": 1794147064000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本爱知县30年来首见5级强震震源与“南海海槽地震”重叠引担忧 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pY1VNeVFhQklFTWdCSnZWV0lFcUhLUkY3aFNqa3o3UkdFRDB2ZnZsanJqdWwyVmFabTlOcDFMTHI0Z0haQlJXVThON3FXOS0wOE1pTWplUkxURk1MQk40a3JVR3lPTVZKU2c?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
       "id": "FL-a3e293adb618",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 13:51:48 GMT",
@@ -157,18 +169,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZTR0dGJaakZ1RHBJUGZfS3lTS0Fjazl4XzMzRkxDN2FiTS1TeXdCcTdtR0d6RnVadmxQMXJaS1NtZWhHUVUyTHJQa01hdEdzRWRDdzRGTUEyakJoRDM1dTN4dVJnYmFaX1hFSVhvOXBjaVVYV0h3bF91a3Y5UG5sWTBUaWZWdDRmVHQ0VU10R09lMWszSVN6WW1lc3NTU0VvWnNrZjBIMk9RY2tCWnd5dXU3R0tQenZMTmtMV2NDUm5FSjd5c2RidEU2b01WeWlvNjVuVWZfR01zLUVKMGE2clR1UmtPaWJGV0h5NVRyaFY1RlE0aExkZ1YxQS1yVUNaRFNEcENzRC1FblVVTXJkNkZ3dWlUbnE4WGFZQ1RacWdiQWp1X1paSnlkdXVYWm5yS1pRcVhoU1VFRldnNFRtRFNqWDJtSjBWN1FDYnl0OEt2RHlt?oc=5",
       "site": "نورنیوز",
       "siteUrl": "https://nournews.ir"
-    },
-    {
-      "id": "FL-ea2d20b2c89e",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 13:26:45 GMT",
-      "ts": 1794144405000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "视频 | 豪雨冲击加影 两地路面围墙接连坍塌 - 地方 - 都市动态 - Sin Chew Daily",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcUliUm00bk9lY3FuaERDTVRwVEhJLXBWdWVLZXRURTR3TjdGQXhTNFg3aHRGTlE2RXFDYXBFU1ZjWGg2NDBxSXFHWlNOOWE1V3Y0SVllWkttcE1rUVdUeXFKYk5OQVE?oc=5",
-      "site": "Sin Chew Daily",
-      "siteUrl": "https://metro.sinchew.com.my"
     },
     {
       "id": "FL-948c8db23935",
@@ -195,18 +195,6 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
-      "id": "FL-c7711ab69a6d",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 11:45:00 GMT",
-      "ts": 1794138300000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "前泰国小姐Boom慈善人设崩塌 涉“吞2亿善款”遭捕逾亿资产被扣 - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQdUZOVzBjV3NVVGV5VHAybUNJWWdKcEpzeDE0N3MtcXRBeVpDV3FrQkhTemY2SldLeW9jQjVGM2hIcG1iWm0tUllnOE0yY1hacjE0R3V5S2xFa3E1VXhyWXJIZnBDLVcyejlLaDhBcFUzbUw0WkVMNE5xenhTamZDVXFndXU5NFZUWDEtcFpvZ3lqcHpqenhEMzFuSW5KT1NGT2doVjVfQ3N0S0VUMEZ1TFJzLXEzRzRpeVcxbUZCNzNucU5nTXZINzhVNmljaFdJQ1k0bDFDcngyZE04bmRCbU9nTHBGQ084S1hlTlR6bUgtTXR4cHg4OVlYRUlObUJFQnd2bDhjdEdUQXVWNVR2UGdmZGdfQkFsVTY0WjlGdWFHNmZQQ2FWeFRpMGJrZGJkZ1ItbzZId3Bwck5DNWZJQ2kxRU1INnhlUU1wTVlNRjFYTXJHbklGemdxYjk3SHFJZ2NUYkFGY3NMUUdVQW9zd0R1WUlBTV9BUWZPbmd2VTFvUm1RLTIwSGgyZHF5SzFWSEM3YVEzMGl6Zzl6ZWtfWVBJV0w?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
-    },
-    {
       "id": "FL-8a95b1dccd77",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 11:03:28 GMT",
@@ -219,16 +207,16 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-d92368d495fd",
+      "id": "FL-5c1860fa936e",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 10:50:20 GMT",
-      "ts": 1794135020000,
+      "dateISO": "Sun, 08 Nov 2026 08:34:01 GMT",
+      "ts": 1794126841000,
       "scope": "dom",
-      "type": "collapse",
-      "title": "保定一大桥坍塌被砸车辆受损严重 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOQVk5MkpTY2pJNFdFUl8tQmZLWFlPVVhsS0F5dE5rQ0hDMThzT3dOdENQVldzZGktdGw4eFJaY1o5TGc2eWZsd1hkZGVlR18wOXpGMm04c1FZVUFtMjVtVUhZZXptRUt0QzhHRTBQbVp3QQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
+      "type": "geo",
+      "title": "兰州新区：72小时极限地震救援演练 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkdhMWZ5ZHNYa3FsX01MRmpOWEhrdVFSQ2dIQm9zQXlKMl8wbUFlOUNCTHQtTkZZSmp3RVRfMUlpX2xTQmdTSjBuZUY1Q1JQNE9Dc1RYYS1FMTdHTXMwUF9TMjBrWld1eHdleUV1U3BHSW5vMmNJd3NyQkJteDExWElqa1pEV0phTWxCTw?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-0d30fd51b53d",
@@ -339,18 +327,6 @@
       "siteUrl": "https://mezha.net"
     },
     {
-      "id": "FL-7bc5b862a0d0",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 05:30:00 GMT",
-      "ts": 1794115800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本静冈5.7级地震多人受伤 日网民由耻笑变热搜“3日应急包” - 香港01",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxObXlxZVF4TDhFMUdfR0tZcFk5S2dnY1hraU9HMEVoX0NSZWJUdWxZcFdKQmlwaEhXcDJSMEUxS2lGNHBJdTBKalVQZGQzVlMxT2RQa3o5bWRoRVNwOVVuX3FpQlJHeTNtZk16YzV1RWxheHQtTmp4bFg4c1NZMm9ub1BkT3JTTzNwTVVUbzhaUmF5cWpwa0M2dXpOdDhjZkhVLU5wU3ViY25Sc0JsZzdGMlR4YjQ3X2dfS0dUVW9WZDlZQ2lYRWN3S1g2emxjNi1lQjJCTzRMSEQ3OEo5S2toVFh5YXIxYWozeGhJem9wcUpXY3NkNGthbEtIVlpqcng0LXl0VFY0NmMtQVJZVHRId3BESEZJV0stQmdGcE9xUW9BMy1VeEZYbEVJVXBEdnBGVE5BOG11RXNlYmY4blExQ2Vjc2JCT2xvc0dzc1pJVkJkTzE0NjRTajRneGJja3Y4SEtsTXh1ZVhzZ1lQSW1uQS1jY2JjWERkQVJfYXExTjJNQXFFRWxhck0xczJEYW82OU9DWXNXMlE1NTdFeS01WnlR?oc=5",
-      "site": "香港01",
-      "siteUrl": "https://global.hk01.com"
-    },
-    {
       "id": "FL-f208d7c7eb92",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 05:20:46 GMT",
@@ -397,6 +373,18 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zaEZXVnU5M3JmR3BLeWY5NkZodzhvVEl4Q0F1MGdmdzVDUHptQVB5VDlTLXpyNFAtNGFBVU5FeHRPUDRBN2ZUakczLXd3NFR0ekx3a3ZDVQ?oc=5",
       "site": "共同网",
       "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-774ed56ab917",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 04:32:00 GMT",
+      "ts": 1794112320000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "在这间“不能见光”的实验室里，藏着地震“定年”的秘密_推荐 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZnQwa3FwbHRvSF9Gekxrb2lRSmd5QTVDd0J4TU5wUDNsa1hYT0h3Mk1ETGJYVloyWm5xWVpMaU5oek02ajhZbGZxVnVlSS1Rclc5U1hqVlV6RmU3THA5a0JvOVhjQjVsU1VV?oc=5",
+      "site": "大众网",
+      "siteUrl": "https://www.dzwww.com"
     },
     {
       "id": "FL-c32d58d3f5da",
@@ -469,6 +457,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NVlWdnFVUGtsNmFuX09sZ3YwbWpVd0dPNFl2bGhpb1k4eVpmaWRvR1pYTnBtcndEdmVFWWF0WVcxbjVaLTFibFJQVnpMOFdldDU1X25LOGMyeVRvbGQ4Z3pEUjBDYmxacl9B?oc=5",
       "site": "中国新闻网",
       "siteUrl": "http://www.hi.chinanews.com.cn"
+    },
+    {
+      "id": "FL-d2f6b5073414",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 00:35:38 GMT",
+      "ts": 1794098138000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "加沙暴雨致约7万顶帐篷被淹，当地部门无力救灾 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yUEV1UkQzcFRjdEdEOGVod0EzQjBzdDFDRVpQcEZWMzctaWN6ck96SWg3N1hDVnNCcTFFV1NlVExkdDNERnA1dHotYXU?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-31b49bb193e5",
