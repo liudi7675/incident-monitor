@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T11:43:37.899Z",
+  "updated": "2026-11-08T17:39:58.132Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,6 +15,18 @@
       "siteUrl": "https://www.bbc.com"
     },
     {
+      "id": "FL-b2d13116c5ba",
+      "date": "2026-09-16",
+      "dateISO": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "ts": 1789542000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "四川茂县发生山体滑坡 161名群众提前转移无伤亡 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUmN1eHZYWThIN2IwejZLemdfc0QySHhhUmd1RnB6YmlqekI2bVJOT0RRTVZMODJnUmRicjJVMzhkRzFRWnU4VXdUT0JKdXhRUk1DTWFRTjNmc3VnR2pRU3NzQXpMSF91SjU3NGhGLXl6a2ltS0VRcVJrWkI4TkU?oc=5",
+      "site": "新华网",
+      "siteUrl": "https://www.news.cn"
+    },
+    {
       "id": "FL-f19c3fe2de36",
       "date": "2026-11-05",
       "dateISO": "Thu, 05 Nov 2026 21:52:40 GMT",
@@ -27,16 +39,172 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
-      "id": "FL-841390509ba4",
-      "date": "2026-11-05",
-      "dateISO": "Thu, 05 Nov 2026 11:09:39 GMT",
-      "ts": 1793876979000,
+      "id": "FL-6911453359d7",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 17:26:15 GMT",
+      "ts": 1794158775000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本中部發生5.7級地震 逾20人受傷 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVnRiaGxyeFVsZS00RVZvU3dJbFdkQWpnd0I4WEpjYkM5SWRheXp1clE1ZVRyMmhZMGlXVElBVVRpS0dTUjJOal9lWTVaY0VOYVV6RFNVR082MlB5czN6WdIBZkFVX3lxTFBVdTBhRjk3WThzNVZsNXpZZnBreDE1RkdnOG5NVE1WcFJMOW5VdzYwX21Bd0I4d01TNWp6N2RROXlXenk1X014MldQTkp5OWNFdE5DSEdCbW1rcG90b2NWU1FGdXhpdw?oc=5",
+      "site": "大紀元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-7b2db1ccecd6",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 17:11:55 GMT",
+      "ts": 1794157915000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆吐鲁番市托克逊县发生4.1级地震 震源深度15千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80cEQ0VThqMDVPX3JxR016Nml6OVp2X1dtNE9GZlJaRU8tbHBJd21uUjBIWm1UMjNoNzM5LXFzZExYeG0xMWJ4WERhX2E0S2QxSUpUejlIWFB4azJBRkNiblJsQkZQeWd2ZERBQjVUTFhqUU15Z3pqQQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
+      "title": "熊本县发生M4.3级地震 观测到震度4 - 共同网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMndrSHpNSlZiZldVNUdqSml0UEN4cmRhTTdnQXFkT3VqMUpmYlc0TDhheFlXMklEV2xadHlUeXFjWFFXdGtwcWw1UVFYZXZDWFdXbmtaMA?oc=5",
+      "site": "共同网",
+      "siteUrl": "https://china.kyodonews.net"
+    },
+    {
+      "id": "FL-2350e07e260a",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 16:42:19 GMT",
+      "ts": 1794156139000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "周杰伦稻香为汶川地震写就，治愈神作重拾勇气 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92ZGpxNklPRXgtLWxHMWxja0VhbGp2NjNJSW5aMGQyZk5sNGRrWXNsR0IwWHE3VXF3amRheXUwb1VlNTM4dVViUGtCSU9RYkwwcDRQX3Zpd1pLYmJTMDFQazUyZ1g5eWhLbEphWnhTSWlka1U?oc=5",
+      "site": "手机新浪网",
+      "siteUrl": "https://k.sina.com.cn"
+    },
+    {
+      "id": "FL-a231ed4aed31",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 16:38:48 GMT",
+      "ts": 1794155928000,
+      "scope": "intl",
+      "type": "other",
+      "title": "【有片】强风袭击大温 树木倒塌压中汽车一人死亡 - 加拿大都市网",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQalJGR1Z0UHdIYTBoU2tna1hrNEc2WC1Fb3FjMkNFd050VXNPdl81YzNyNThuOHRPZi1UaUtMSE95U3dGdFpOS0NyLUxRUXM5N2poTFZiX01lUndHRHhoaDNnVTZzU2FfZU8xM0ZaZmE4dy1wWWhEMlQ3ZzQ0dmFKa3BBNlVSSG1XTjFxNnR4NGZra0FiOS1JNjZydHJydWpBLUJLc0ZZbXljcjBHS1hTTWtfcnpHbnVlR1BtSHg3OUhwZE5seVd5YTljbmg4emhacC1HR0tCQkdSaGRMZWEtMS1YWFF0bGRsdGZZUEpXLWI0b3laS1kzdUlOV0FrTEppVTZFaklUWnQ1TENXOUFuZEhxTDUyOUlfNl9zdGw4d3d2SnplcUlEZFQ0a3BLSjlnT1hDQUZQYVFLVXhvXy16RUZ0eXdwUTVYaHBBS2k5UndHWWkzTWM2eExDX2VwOU9lem15b1VEeDJqT1kwckVmUDN6VmItQkRCRWRVekJjWUZ5YXVqVlROZDAtNk1kVFZpVk5SWWcxSndUdzZqWlE?oc=5",
+      "site": "加拿大都市网",
+      "siteUrl": "https://dushi.singtao.ca"
+    },
+    {
+      "id": "FL-dcc0f8830d0b",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 16:37:05 GMT",
+      "ts": 1794155825000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "太阳报：特罗姆瑟vs博德闪耀出现意外，客队看台局部发生坍塌事故 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHAwX1dDYl8tTlF4em5INVhweklLQ21KZjh2cDRSM1FzWU1jWk9LZi1tYS1RYkJ6b1NZU0M0VTdKQmJieUJUSVJyejg5Wml0Z3ZmWHZsaG1YVHpKSmZNZXFVY3FfQ3hlWkN2cnVmTFBHWWFVV0NSMDIweE91b1RuYzk0Vk1SLWpGNk9XYmRDQWdjWDRjV2xrVXloNFgwVmVh?oc=5",
+      "site": "搜狐网",
+      "siteUrl": "https://www.sohu.com"
+    },
+    {
+      "id": "FL-918093e75b35",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 16:35:23 GMT",
+      "ts": 1794155723000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本中部規模5.7級地震 至少24傷 - 新唐人電視台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sU1ZDWU04WTcxWUNfcnpTSEM5OHpwSGJpdjFka2tXdjhNT0lZeG1EUWFwYVkzMnlEMUp3cW5zc0tUWm82cUxoQlRjUmVYNnB0ZktIbG5IWDJIcHdBVE8xYtIBZkFVX3lxTE5fY2h3bmJFdGF4Q19KTWRuYkNEdUthd1JRMW1sUE04eVpvNm53Sk1VWDJQMzlXWlYtcGNtdkw2Z3NDZ05tSkxYOWQ0ZWk0a2xDckdEUXlXbHpxWmRJcndXYVJjUGRyUQ?oc=5",
+      "site": "新唐人電視台",
+      "siteUrl": "https://www.ntdtv.com"
+    },
+    {
+      "id": "FL-e06fa67c35f0",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 16:13:45 GMT",
+      "ts": 1794154425000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本中部发生5.7级地震 至少22人受伤 - 美国中文网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ydWI2R1oydzV2QmdBOVFHeDY0dFZvRDVuc3V2Wk9Ldk5JeGFVZ0lJcnhjWlFvNURGYTd4QzhQUWFTVEQ3R01HZTdZWjR1S05QOXFMN0N6eUd0cUljM2NpQncwZ2ZhMzJQUjVnMDhHalFiSEtOOS15dw?oc=5",
+      "site": "美国中文网",
+      "siteUrl": "https://www.sinovision.net"
+    },
+    {
+      "id": "FL-082097c738ae",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 14:41:35 GMT",
+      "ts": 1794148895000,
+      "scope": "dom",
+      "type": "other",
+      "title": "记者：特罗姆瑟vs博德闪耀看台发生倒塌事故，比赛暂时中断 - 企鹅体育",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNEVhTk50THRVMkp3djZFY2tnTmV3N3BHMmZ1UndDRVBkMEFsaTZMSFVXZUVqbEN3aGgyODQ3VW8xUkZXTkI4Q0NqLS1JRG5PYmNhYld6cnczZmVuaVRDRg?oc=5",
+      "site": "企鹅体育",
+      "siteUrl": "https://m.qie.tv"
+    },
+    {
+      "id": "FL-a3e293adb618",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 13:51:48 GMT",
+      "ts": 1794145908000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "最新封面报道｜“蓝色海啸”扑向特朗普 - 财新周刊",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xajB3QVdLZ1VMVW9faGZiTENaSE9HRzJjM21mdndDcWQ3U2NOa2dPUjFoMmRHMWFFVWRYWUpHYWotN0hvaV90M2ZhQXpBV1Y2YVBxZWpsSDZNNmo4UzVXNQ?oc=5",
+      "site": "财新周刊",
+      "siteUrl": "https://weekly.caixin.com"
+    },
+    {
+      "id": "FL-825d4b44edd5",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 13:27:00 GMT",
+      "ts": 1794144420000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国政治大地震！他捕捉到一个涉及中国的重要信号 - نورنیوز",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZTR0dGJaakZ1RHBJUGZfS3lTS0Fjazl4XzMzRkxDN2FiTS1TeXdCcTdtR0d6RnVadmxQMXJaS1NtZWhHUVUyTHJQa01hdEdzRWRDdzRGTUEyakJoRDM1dTN4dVJnYmFaX1hFSVhvOXBjaVVYV0h3bF91a3Y5UG5sWTBUaWZWdDRmVHQ0VU10R09lMWszSVN6WW1lc3NTU0VvWnNrZjBIMk9RY2tCWnd5dXU3R0tQenZMTmtMV2NDUm5FSjd5c2RidEU2b01WeWlvNjVuVWZfR01zLUVKMGE2clR1UmtPaWJGV0h5NVRyaFY1RlE0aExkZ1YxQS1yVUNaRFNEcENzRC1FblVVTXJkNkZ3dWlUbnE4WGFZQ1RacWdiQWp1X1paSnlkdXVYWm5yS1pRcVhoU1VFRldnNFRtRFNqWDJtSjBWN1FDYnl0OEt2RHlt?oc=5",
+      "site": "نورنیوز",
+      "siteUrl": "https://nournews.ir"
+    },
+    {
+      "id": "FL-ea2d20b2c89e",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 13:26:45 GMT",
+      "ts": 1794144405000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "视频 | 豪雨冲击加影 两地路面围墙接连坍塌 - 地方 - 都市动态 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYcUliUm00bk9lY3FuaERDTVRwVEhJLXBWdWVLZXRURTR3TjdGQXhTNFg3aHRGTlE2RXFDYXBFU1ZjWGg2NDBxSXFHWlNOOWE1V3Y0SVllWkttcE1rUVdUeXFKYk5OQVE?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://metro.sinchew.com.my"
+    },
+    {
+      "id": "FL-948c8db23935",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 12:31:31 GMT",
+      "ts": 1794141091000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本中部凌晨发生5.7级地震 至少22人受伤 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6QzFvMjBOU0J4cVZseloxQjhVYmZtV1RLUTN1ZjEzcjVOWHMtRE81ek44NjZBLTJCemtmdWNfQjFjZjNvUXFmRWg5QjhVRWN6Nk43LUNiRlJRaDExVWhXdGoyUHc3OEtnUVNiMzB2NG4zZw?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-bc4700d373d5",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 12:00:29 GMT",
+      "ts": 1794139229000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆克州乌恰县发生5.0级地震导致房屋倒塌？谣言！ - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82NEhCR1VFeDk3b3ZHZjRWdXpLcWUzdFlTMG9RX0ItXzM2cmRRVmVld2cyeDl0OXRjSkktN29xTy01Ry1SQ0o3aXQ4eFo?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-c7711ab69a6d",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 11:45:00 GMT",
+      "ts": 1794138300000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "前泰国小姐Boom慈善人设崩塌 涉“吞2亿善款”遭捕逾亿资产被扣 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQdUZOVzBjV3NVVGV5VHAybUNJWWdKcEpzeDE0N3MtcXRBeVpDV3FrQkhTemY2SldLeW9jQjVGM2hIcG1iWm0tUllnOE0yY1hacjE0R3V5S2xFa3E1VXhyWXJIZnBDLVcyejlLaDhBcFUzbUw0WkVMNE5xenhTamZDVXFndXU5NFZUWDEtcFpvZ3lqcHpqenhEMzFuSW5KT1NGT2doVjVfQ3N0S0VUMEZ1TFJzLXEzRzRpeVcxbUZCNzNucU5nTXZINzhVNmljaFdJQ1k0bDFDcngyZE04bmRCbU9nTHBGQ084S1hlTlR6bUgtTXR4cHg4OVlYRUlObUJFQnd2bDhjdEdUQXVWNVR2UGdmZGdfQkFsVTY0WjlGdWFHNmZQQ2FWeFRpMGJrZGJkZ1ItbzZId3Bwck5DNWZJQ2kxRU1INnhlUU1wTVlNRjFYTXJHbklGemdxYjk3SHFJZ2NUYkFGY3NMUUdVQW9zd0R1WUlBTV9BUWZPbmd2VTFvUm1RLTIwSGgyZHF5SzFWSEM3YVEzMGl6Zzl6ZWtfWVBJV0w?oc=5",
+      "site": "香港01",
+      "siteUrl": "https://global.hk01.com"
     },
     {
       "id": "FL-8a95b1dccd77",
@@ -63,52 +231,16 @@
       "siteUrl": "https://k.sina.com.cn"
     },
     {
-      "id": "FL-a3e293adb618",
+      "id": "FL-0d30fd51b53d",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 10:50:10 GMT",
-      "ts": 1794135010000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "最新封面报道｜“蓝色海啸”扑向特朗普 - 财新周刊",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xajB3QVdLZ1VMVW9faGZiTENaSE9HRzJjM21mdndDcWQ3U2NOa2dPUjFoMmRHMWFFVWRYWUpHYWotN0hvaV90M2ZhQXpBV1Y2YVBxZWpsSDZNNmo4UzVXNQ?oc=5",
-      "site": "财新周刊",
-      "siteUrl": "https://weekly.caixin.com"
-    },
-    {
-      "id": "FL-8ce2dc78718e",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 10:16:00 GMT",
-      "ts": 1794132960000,
+      "dateISO": "Sun, 08 Nov 2026 08:07:00 GMT",
+      "ts": 1794125220000,
       "scope": "intl",
       "type": "geo",
-      "title": "我驻名古屋总领馆提醒领区中国公民注意防范地震灾害 - 上观新闻",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BbjJqSUlJX0lFTjV5dmNXQXh6a2x1LU1VVmRkUDgweE1VdjlIOGZsa2ZWWXowZmZUMHN0enZKdTNueUxOeVVTc29kRU9yalM0V29rRkJBcGFSZw?oc=5",
-      "site": "上观新闻",
-      "siteUrl": "https://www.jfdaily.com"
-    },
-    {
-      "id": "FL-3b87141461b7",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 09:55:45 GMT",
-      "ts": 1794131745000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本愛知凌晨地震 NHK主播素顏進棚獲讚 - 新唐人電視台",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96cEc0bV8zVFcxLWQzRDJjeGc4UWxzYV9iVXlPRlBMT3EzZEJvbkQ5d1RIUEFLRkpic0t1ZUEzZGxSYmd6NzhqVEFhQzE3d2hsNjVMX3M0eXc5QnBoR19Vb9IBZkFVX3lxTE9uRERNS1k4WG1VZkVwRFo0cjhjVHlfUjREWkIwN1dzc0NpVW40cW1meG5Vd1VUNDRRNDF2MTJUTTg2MzIweXZJNm93Q3lvSFFXT29GU2IxZk4waHZueDNMMzRnZXc2QQ?oc=5",
-      "site": "新唐人電視台",
-      "siteUrl": "https://www.ntdtv.com"
-    },
-    {
-      "id": "FL-f937ef9dd9f0",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 08:06:34 GMT",
-      "ts": 1794125194000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本静冈县地震已致20余人受伤 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUsyb19DZnl5T3JDLWIwQ055YnFtd2d0bWI0bVpkVG45MXBEeG1tcGg2M2pQd1lXM0d6U1lDZ3ktWTJGZmNxd2I1bGhTaG5tV0ZVSXRkWk9UbW96WVIwSkhldmdrRzh5aGdpbVpmbERqem5LWE1Tei0yWVpUdnFMeEt6SFhPSHgw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
+      "title": "“一周内注意防范强烈地震”！中国驻名古屋总领馆紧急提醒 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83WUNFTnVWNXdFUFBWcEwwSVctZFFyMXpUdHhzZVExWDRVSzlzb0JxRmxCOWR5dXl2NE1iLWdBUzhCb0g4cGUzcw?oc=5",
+      "site": "财联社",
+      "siteUrl": "https://www.cls.cn"
     },
     {
       "id": "FL-87bcec339909",
@@ -123,18 +255,6 @@
       "siteUrl": "https://www.ntdtv.com"
     },
     {
-      "id": "FL-97f3c5baef09",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 06:52:03 GMT",
-      "ts": 1794120723000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏那曲市双湖县发生3.3级地震 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2Y5NjdYOUk4UG5QMkVfdzFCVzhYSW9Wck5Cd3RzYThQMjV1S2F0WW9jUE9pc2NiX0lIQVI2OGFrT3FWM0Y1Y0FiZXphWWIwdmUwVk9mWjdraUpzNmhqX1RVX0Y5aU9RZkQwRkNwMFVjSmt2VGU5RjZoMlRDT3NCUDBFbWVNbHBp?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-e64556c1545f",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 06:30:14 GMT",
@@ -147,18 +267,6 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-124811f76d21",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 06:28:35 GMT",
-      "ts": 1794119315000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本静冈县5.7级地震酿至少22伤 气象厅：下周或再有同级地震 - 星島頭條",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNRXBVRS0wM1hnc011QnBWZ0tzSTNnUWY0OXN2ek9kaHdoVXlOcGRRLUU4YnQ2cGM3R3A0bUpwNTFHSzZ4X1BmUEhVTFIxT2ZzbkhxWC1mY3ZRSHpxTmxzX2RkRWVRQUpwbl80bGcxa01QenhhelBnQ1FjNW9TU1dBaHhHVExjcW5xZ2JOV3RMUGtLN1FVa21xN1IyYWMwRm5FRHRzbDM3c3Fid3RTeE1sNzNHUk9lbF9YU0lBVjdGR3N3NXNtNWZwSm9Oc3NqZkNpcUNfUjVYNEZza2hPRC13dUY0Y0ZzalVNaGlVaDNPOC1jNzA5bnJBNE40OTRVdEFQQjREa3kyREFIeFNPSGM5U0Vqa2c0UGRrV2VDMFdiNHhOU0EtcnQ0ckd0SF9OQzdPZll4Yi12dzgyU3c2emlsWlZhMzVQM29WZ0czeXBHeERkeUVrQnNkWFcxUFh3aEVaaGtYQzd2RW9qNUVkV0N6Q1ZHRmZ1VWRtMzFWLVhjZUVqOGEwRTg0aDJlY2RUMlRi?oc=5",
-      "site": "星島頭條",
-      "siteUrl": "https://www.stheadline.com"
-    },
-    {
       "id": "FL-399865cbc5a2",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 06:24:00 GMT",
@@ -169,18 +277,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zR01pQ1NadGNQRDRxRWlvaVp4MkFMLUpOZkI2QXlZbDdkU0UtYzRWV2lJR1p0RUU1VkU4ek1GV25aWXFaR0c5VVpFdTNIOERtUzc3RXVZVEk5RHdJZWk5aGpFWDFoTXlmSEJjY3hGNkNpOTg?oc=5",
       "site": "观察者网",
       "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-1c85842d1e10",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 06:21:05 GMT",
-      "ts": 1794118865000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "外网看西藏地震已致126人遇难！韩国网友：地震是最可怕的灾难 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENkRJVDdlRnVBN2ZJN1h6ZWotQVBzV3BucDIzOFViUEU1VmFGLVNkaEhxeXE2eTdQeVNtVmZaNlNVaU9lZUNxQ2x2N1hOQXhtNjU4bQ?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
     },
     {
       "id": "FL-e67a5005a55a",
@@ -231,6 +327,18 @@
       "siteUrl": "https://news.cctv.com"
     },
     {
+      "id": "FL-e17893e57067",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:30:00 GMT",
+      "ts": 1794115800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本中部发生地震，震级为5.7，超过20人受伤 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX2ZPYk9WMThyWEZSTXZnOElGa1VWNGV1bTJhU296ZXVhTVdsckw5WHl5amJ3eUdxV1dhNFFWYUlUSmRUQU9xdFRMOTA2MkVaU1lJRWItckR1TW5TNGVjdFpqVEFVZjFyZXZDTldxdm83b1NvSnNEOVVzRWE3YXpmVjJjOEJqVi1iTWtBZFFtaWhldFRKY1JrcGNTdVl3cG8?oc=5",
+      "site": "Mezha.net",
+      "siteUrl": "https://mezha.net"
+    },
+    {
       "id": "FL-7bc5b862a0d0",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 05:30:00 GMT",
@@ -241,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxObXlxZVF4TDhFMUdfR0tZcFk5S2dnY1hraU9HMEVoX0NSZWJUdWxZcFdKQmlwaEhXcDJSMEUxS2lGNHBJdTBKalVQZGQzVlMxT2RQa3o5bWRoRVNwOVVuX3FpQlJHeTNtZk16YzV1RWxheHQtTmp4bFg4c1NZMm9ub1BkT3JTTzNwTVVUbzhaUmF5cWpwa0M2dXpOdDhjZkhVLU5wU3ViY25Sc0JsZzdGMlR4YjQ3X2dfS0dUVW9WZDlZQ2lYRWN3S1g2emxjNi1lQjJCTzRMSEQ3OEo5S2toVFh5YXIxYWozeGhJem9wcUpXY3NkNGthbEtIVlpqcng0LXl0VFY0NmMtQVJZVHRId3BESEZJV0stQmdGcE9xUW9BMy1VeEZYbEVJVXBEdnBGVE5BOG11RXNlYmY4blExQ2Vjc2JCT2xvc0dzc1pJVkJkTzE0NjRTajRneGJja3Y4SEtsTXh1ZVhzZ1lQSW1uQS1jY2JjWERkQVJfYXExTjJNQXFFRWxhck0xczJEYW82OU9DWXNXMlE1NTdFeS01WnlR?oc=5",
       "site": "香港01",
       "siteUrl": "https://global.hk01.com"
+    },
+    {
+      "id": "FL-f208d7c7eb92",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 05:20:46 GMT",
+      "ts": 1794115246000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "爱知县观测到震度5强摇晃地震发生机制据信不同于南海海槽大地震| NHK WORLD-JAPAN News - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03aGVQVDc5cGMtb0lRT09XbENjZjBYNTg1VjdjcEF2UnlZSHBpb29CdlltWk0zRXJaU3BCc2tScTFiaFZHcmw0cDNyVUlDdnVRSUlRQU5GTDl1c3Rra3RqbUQyV00?oc=5",
+      "site": "NHKニュース",
+      "siteUrl": "https://www3.nhk.or.jp"
     },
     {
       "id": "FL-f47b8a7d09e9",
@@ -255,16 +375,16 @@
       "siteUrl": "https://www.swissinfo.ch"
     },
     {
-      "id": "FL-7b2db1ccecd6",
+      "id": "FL-72ad0939c3f6",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 04:49:00 GMT",
-      "ts": 1794113340000,
-      "scope": "dom",
+      "dateISO": "Sun, 08 Nov 2026 05:05:00 GMT",
+      "ts": 1794114300000,
+      "scope": "intl",
       "type": "geo",
-      "title": "熊本县发生M4.3级地震 观测到震度4 - 共同网",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hMndrSHpNSlZiZldVNUdqSml0UEN4cmRhTTdnQXFkT3VqMUpmYlc0TDhheFlXMklEV2xadHlUeXFjWFFXdGtwcWw1UVFYZXZDWFdXbmtaMA?oc=5",
-      "site": "共同网",
-      "siteUrl": "https://china.kyodonews.net"
+      "title": "CNN分析指出，委内瑞拉地震中倒塌的高楼可能存在施工缺陷 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWNFTWhkY2JzNzRCT0lQalljaXA4SU9ldHN0STFsS3ktZ1RHZzRFbFVqUWZOWG1Na0lSSGlGOUVFQjNJazRIdkVoRDd1Q080eXBKVXRiYV92VkExeEc2RnF4N05LbG9YR1hHOGZOdURGbkJmd2pIemdsbElZMjhWcUQ5ZEhrZ2ZWalc1ODA3dGdYdERCWWdfY296TE50LTduY1d5NA?oc=5",
+      "site": "Mezha.net",
+      "siteUrl": "https://mezha.net"
     },
     {
       "id": "FL-8dfefbae7d73",
@@ -291,26 +411,14 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-7c70e0002994",
+      "id": "FL-56ebbf567bf6",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 03:53:07 GMT",
-      "ts": 1794109987000,
+      "dateISO": "Sun, 08 Nov 2026 03:39:57 GMT",
+      "ts": 1794109197000,
       "scope": "intl",
       "type": "geo",
-      "title": "我驻名古屋总领馆提醒中国公民注意防范地震灾害 - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rVnBEZHhyaG54LTJnR1Z3amMtcXVrSXBxUHh6U1dOeVhrLTVBbzhuZlpiNjI0N3p3UUt5b3NQNDU2amQ3Z2dJMnp1NUxYdktrSjBZRw?oc=5",
-      "site": "手机网易网",
-      "siteUrl": "https://www.163.com"
-    },
-    {
-      "id": "FL-7d5176d1586f",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 03:37:46 GMT",
-      "ts": 1794109066000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MUjdMbUpaalNhVkVnMVVMRnhJMDRvczdpaVRmdmtrQ2tVelNhS2Roc2txZFdac1RtbTNQQi1mellBTnFtUEdLbjFJUQ?oc=5",
+      "title": "日本静冈县地震已致20余人受伤 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45QXl1UGkzMkhzZTRnVmtmX0M3ODdEd3RwVXYyMk9WRnFoYjQzZUVZSmVDYm5pU1N3d3VpblNhOUJPZDZCN3dFT0ZDcw?oc=5",
       "site": "新浪网",
       "siteUrl": "https://wap.cj.sina.cn"
     },
@@ -339,18 +447,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-1ea513048e49",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 02:06:00 GMT",
-      "ts": 1794103560000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "明尼苏达联3-1逆转圣何塞地震取美职联3连胜，特里安蒂斯、尚卡莱破门 - 懂球帝",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SOXpQclZPX3hsejFON2xqZ2ttN3NsV01zem9MUDNZa0lWVU5QUllrLThqYXVMTmpSR3QwN1M1elhvak1QMi1pMjFaSlQycHRMdWxXWTdJUQ?oc=5",
-      "site": "懂球帝",
-      "siteUrl": "https://m.dongqiudi.com"
-    },
-    {
       "id": "FL-d28be26a7a4f",
       "date": "2026-11-08",
       "dateISO": "Sun, 08 Nov 2026 01:56:00 GMT",
@@ -363,52 +459,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-f208d7c7eb92",
+      "id": "FL-e530e9d48757",
       "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 01:21:46 GMT",
-      "ts": 1794100906000,
+      "dateISO": "Sun, 08 Nov 2026 01:12:00 GMT",
+      "ts": 1794100320000,
       "scope": "dom",
       "type": "geo",
-      "title": "爱知县观测到震度5强摇晃地震发生机制据信不同于南海海槽大地震| NHK WORLD-JAPAN News - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03aGVQVDc5cGMtb0lRT09XbENjZjBYNTg1VjdjcEF2UnlZSHBpb29CdlltWk0zRXJaU3BCc2tScTFiaFZHcmw0cDNyVUlDdnVRSUlRQU5GTDl1c3Rra3RqbUQyV00?oc=5",
-      "site": "NHKニュース",
-      "siteUrl": "https://www3.nhk.or.jp"
-    },
-    {
-      "id": "FL-948c8db23935",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 00:47:34 GMT",
-      "ts": 1794098854000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本中部凌晨发生5.7级地震 至少22人受伤 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Nb0NqZ2FZUjhuT0FPc0dGc1B5WG9QaXVYXzllYWJISWpNUEZsUnZTS0JpaEVkQXh6emt1bWptXy1YeXZ6S2V4SWxreE5jUWVmM0xlM0NPYzNUc1E4a2FHdVRmTQ?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
-    {
-      "id": "FL-fd3fd268831a",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 00:36:39 GMT",
-      "ts": 1794098199000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "近百名专家聚海南研讨海洋地震科技 赋能自贸港安全发展 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGc0bFpZb1JGVmR4dUFGZ2RoZzhWbklGNmprVkE3XzVlckNnZllGV0dNRjk4OG9aMHkyWHY4cUlkQ0FkN2lwUUZmNk9mOHhnNERNYXBPYm10eEdkakh6U3pLNkgzb3lWYS1xN3k2V3J3WktMc2R6MkZhVTFDYmRiZHhzWWg4M0dn?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d2f6b5073414",
-      "date": "2026-11-08",
-      "dateISO": "Sun, 08 Nov 2026 00:35:38 GMT",
-      "ts": 1794098138000,
-      "scope": "dom",
-      "type": "weather",
-      "title": "加沙暴雨致约7万顶帐篷被淹，当地部门无力救灾 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yUEV1UkQzcFRjdEdEOGVod0EzQjBzdDFDRVpQcEZWMzctaWN6ck96SWg3N1hDVnNCcTFFV1NlVExkdDNERnA1dHotYXU?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "近百名专家聚海南研讨海洋地震科技 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NVlWdnFVUGtsNmFuX09sZ3YwbWpVd0dPNFl2bGhpb1k4eVpmaWRvR1pYTnBtcndEdmVFWWF0WVcxbjVaLTFibFJQVnpMOFdldDU1X25LOGMyeVRvbGQ4Z3pEUjBDYmxacl9B?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "http://www.hi.chinanews.com.cn"
     },
     {
       "id": "FL-31b49bb193e5",
@@ -458,30 +518,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00WHhKVDBLejFjTktPMmx3ZExqT1RDdFZhbnhwUkJTUzhUZXgxcDVjcC1IQUUyRUV4NzVhaGNndFU4NURzYXJQVEVvTjBFWFFSZVF2bUNrRWcxeWlkajJF?oc=5",
       "site": "新黄河",
       "siteUrl": "https://www.jinantimes.com.cn"
-    },
-    {
-      "id": "FL-e5e85b2b75e8",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 22:12:00 GMT",
-      "ts": 1794089520000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "刚宣布「贯通在即」 河北高速大桥坍塌致4人伤 - 茉莉花新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE05Qi1RUnNlSU5PT19UUk5aYmpVYThZV0ZDQ3dzT2U5UUwteGdXb3BScHZRdDZTZ2tjQkRxeGxBMlVwT05XVHc?oc=5",
-      "site": "茉莉花新闻网",
-      "siteUrl": "https://molihua.org"
-    },
-    {
-      "id": "FL-d25bdb296d20",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 17:54:01 GMT",
-      "ts": 1794074041000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "保定一立交桥坍塌砸中车辆 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yeWx3WGRNMkQzelAtU0hlWEdJcEVrTDhmaXVpXzRaT052eHBOM0l2SkFFV1M1dTBwUmt3a2czcFlEUFpRMWpZQVR3V2d4ekdTZ3doWEZ3dkc4bGpFRFpCSkNLSkRuRHByUGxVZmF2MkRiQQ?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://k.sina.com.cn"
     },
     {
       "id": "FL-4e1c201307bb",
@@ -640,30 +676,6 @@
       "siteUrl": "https://news.china.com"
     },
     {
-      "id": "FL-93f77ff3680b",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 07:40:04 GMT",
-      "ts": 1794037204000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "保定一横跨高速公路在建大桥坍塌，有车辆被压受损，当地：正处置 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbVFIc3hGWmdEUkRfZm50TUNZZHVDUlBpZmdBd2lOOUhNTjZmZjB2ZzRiNHhZaFp1Z3F0dnI4YlNvWE1XS2dBNnp4VWI3LTZmREFBRG5xSTRxRng5MXFWcg?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-93af13047fdd",
-      "date": "2026-11-07",
-      "dateISO": "Sat, 07 Nov 2026 03:11:44 GMT",
-      "ts": 1794021104000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "原油周跌超12%！战争溢价瞬间崩塌，86关口成多空生死线_外汇动态报道 - 汇通网",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRGk0ZUZaZ1JTWUp5NDVqb1Q2Xzd2NUJrNENBWUlXN3V2SDhoZVEyck1GU1N0NDA4b3EzejNVNGxCVHFULUhmbTVybC1sR3RlUmJJSXBmVXRQdw?oc=5",
-      "site": "汇通网",
-      "siteUrl": "https://www.fx678.com"
-    },
-    {
       "id": "FL-d4f1471a73cb",
       "date": "2026-11-06",
       "dateISO": "Fri, 06 Nov 2026 13:47:27 GMT",
@@ -674,18 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50ZThuZ2NiOER4LUFlN29jS2pfcGxRQ0RyNWhXYkRzajl2ZFRGUUYteGVoQWJ2WDBIZ0J4SzVTbmVtNEF0X2ZOQlEwVmV0YWxqZldpclpuN3h6dzMzb3B1MC1RUXQwV0JsVno0N3VyR3MzR1ZTeS10SE5WZ1k?oc=5",
       "site": "中国日报网",
       "siteUrl": "https://cn.chinadaily.com.cn"
-    },
-    {
-      "id": "FL-27680853c64e",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 10:57:36 GMT",
-      "ts": 1793962656000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本关东地区以东海域发生6.1级地震 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aQkJ0Q2FuSjVVeW4xell3Z29sclJkUHJXSnNmTFhLV3hSYXJJZ2pwVngwSW12T3pIcDR2N3ozZnpzLTVyZE81UXdtMlpNbUthQVJjazEwOVozWlZhSUdDbGNvajVOVzR2?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
     },
     {
       "id": "FL-af7e92c2e263",
