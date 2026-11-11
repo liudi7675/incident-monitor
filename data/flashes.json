@@ -1,30 +1,126 @@
 {
-  "updated": "2026-11-10T22:28:19.705Z",
+  "updated": "2026-11-11T02:05:17.072Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-1195e97b4b49",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 21:18:47 GMT",
-      "ts": 1794345527000,
+      "id": "FL-f2454c0b842d",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 01:37:00 GMT",
+      "ts": 1794361020000,
       "scope": "dom",
       "type": "geo",
-      "title": "中国地震台网自动测定：11月11日05时16分在安徽合肥市肥东县附近发生3.0级左右地震，最终结果以正式速报为准。 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbkx1N3YxRGFWQno0Si1icmF5bEJ4Y3FVSlB1dkF6aGdOZmNJajl6X3BGWXZDdEtuaDR6T3V2QTFmZjVEbUkteU5aeXk5eWo5V0tfVWRyQW1ZZTR5Q1ZXY3NsYW1FNVNJcFJoTmQ5eXl6WElxS18ya2JOenRyLVFSeUZIdGVuSjFaTk5qYmU1eVlHUElILURXZmtfallxTkFaMlZzY0NycW1zblZqb2VBVlVLVUM?oc=5",
-      "site": "富途牛牛",
-      "siteUrl": "https://news.futunn.com"
+      "title": "扬州地震江都区发生3.9级地震南京常州泰州等地有震感_新闻快讯_新闻频道 - 海峡网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pZ2xPdGF4WTBJeFRzQ1VCLXNZejF3RVNyamoxbnZ0cFFqLWVyYVlONkxPYXhYUk5qbVBtbld6Y3VvcWkxS2dWaGdPNUs1SThUVllJbXpWNG53WTJjNy1fdnl2TQ?oc=5",
+      "site": "海峡网",
+      "siteUrl": "http://dzb.hxnews.com"
     },
     {
-      "id": "FL-17336510e9eb",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 17:06:38 GMT",
-      "ts": 1794330398000,
-      "scope": "intl",
+      "id": "FL-eebcfd9d5dcf",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 01:16:16 GMT",
+      "ts": 1794359776000,
+      "scope": "dom",
       "type": "geo",
-      "title": "水瓶周报｜美国中期选举现“蓝色海啸”，民主党翻转两院、创多项记录；黄之锋因“勾结外国势力”被判监10年；澳门闭门审讯首宗国安案，判监12年 - 水瓶纪元| Substack",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zcDQ2X1VlQ3pDUEgzTkZSa3I0T29taVZsMF9FZ1JHQkNzOW1NUUJTTnFOQXlsaVY3YkhOU3oxY2lja3BZeXo0N2t5cURlVDV0bXc3SEEyS2ZTY2xFOUt2TmVvZkM?oc=5",
-      "site": "水瓶纪元| Substack",
-      "siteUrl": "https://aquarianhq.substack.com"
+      "title": "江苏扬州清晨发生3.9级地震，南京、泰州和苏州等地有震感，网友：床和窗子都在震，直接被摇醒 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1ZfX1RqVzRDWWVMaTYwY1oyXzItV3pNcEsxV0hIZWdCQlhGZHRhaGFkUzcxSzNwV212UElxaHI3YWpvWU1EbUthMFg0Ry1BMm1YLTBMdy1ZdkxYVXlDTlprakNxd0N4WklTSmpHMDV4SDVQXzdBcGVEUWlOZHF0TEZQTVVmQ25vQjdrMQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-4cd71e69921f",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 00:54:20 GMT",
+      "ts": 1794358460000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江苏扬州突发3.9级地震！多地网友称“睡梦中被晃醒”，中国地震局启动四级应急响应 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV2gzZDJnbmhrSVNQWnQ4UEswUkIyMG1Qb0Y5amNMblM2Yy1TLXpreUdTNkJnVWRtcVhUX1FWQTUyOUI3RlY3OFlzUjhqejhpZXRCeXliQ1N0em1DSG1sY0FvNUhqeE5JbWw2OU5yWmwyeDVZU29MYVJINm9CV3dmUGk4d3VDUzRyNFRMa19Wa1dOMkhzTkd4UXpzakVVYU1MeFg2eXV0dzRlRzJndEdiT1ZOSW9oSzFkQ1IxSk9hQkNsUW84d1pBVU1RbFlpdE9OR1lEYVd5TVYzLTdoeVE?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-0e9fdc537f8c",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 00:33:40 GMT",
+      "ts": 1794357220000,
+      "scope": "dom",
+      "type": "other",
+      "title": "中央气象台：云南华南江南等地有降水 新疆等地多雨雪 华北黄淮等地将有霾天气 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUGxNem1DcmRjX3RuNGxCTXYwZkxxU3pfYTdMa29KaGQ5ZUROZXZJSl91Z3QzM0NIOHBRYWFNT1ZiMld0TW4yUDA1SDR0LVZsX1AxdFowQUR6TmhyOWNreWE4RDBjSE9wb1FMdTFSTFNIamh4dGdTcG9uQ1FVWTVxaS1nM1R2X29v?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-5a1955139ad0",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 00:16:35 GMT",
+      "ts": 1794356195000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "扬州市江都区发生3.9级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0VteTZYajBsNzMzUzYxdFZhNkxVa1h0bU1GS1AybHg3NGlkenc1YUZnVXg5RExIaF9YOUh3RUxBaUlZVEFZWGdVQnExLUt3bkhxWUJpRnVmdXJhUksxSGdwdEszWnZydkd5Uk50NnR4Vk5zR285Uk5pMEFFcGpyNFI1YVFDc2ZOdjBvbA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-61f30b4cffd8",
+      "date": "2026-11-11",
+      "dateISO": "Wed, 11 Nov 2026 00:06:00 GMT",
+      "ts": 1794355560000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "#扬州地震#今早06:15江苏扬州高邮市附近发生4.1级左右地震。 网友都说：不是被闹钟叫醒是被震醒的[笑cry] ​ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vdWZMUE93SGltZjRxcWIzWlVjLTJjTVlFbHVSdlVUbV9zdFNYSmptX3ZrUjhvdFRJOVpvUmVHS1VSR0d1OU5ucWpaTXZhdTdVa25XemFhZmRxZ1FZZEt5eXRFaw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-dd315b443b90",
+      "date": "2026-11-10",
+      "dateISO": "Tue, 10 Nov 2026 23:42:38 GMT",
+      "ts": 1794354158000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "扬州地震 4.1级地震发生 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EUGhMSzRFNW1nOXQ2WXBzaFpuVVhpbGhxX05qVFdoZ2F6UU16ZjdaSFZreU5tbUVOeUdPUEhzdXJhRVBOYXBiSUFhUFcyczFlSUtDT196cU9qME12aE5DR2lJVUJJbjlCZUw1bDFsWDY?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
+    },
+    {
+      "id": "FL-c847648b248e",
+      "date": "2026-11-10",
+      "dateISO": "Tue, 10 Nov 2026 23:19:01 GMT",
+      "ts": 1794352741000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "江苏扬州市江都区发生3.9级地震 震源深度20千米 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LZjRFN3ZpZkZ0aXB6ZlZlOEw3MDlnOE1EVVFEdmRGWkVOLVFLQVY3Z25oY2p3aHcwUnpkaXEwUThTNnR0Q2ZpLVFzaw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-5a9b1a74eb55",
+      "date": "2026-11-10",
+      "dateISO": "Tue, 10 Nov 2026 23:02:19 GMT",
+      "ts": 1794351739000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "刚刚，扬州地震 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tLWhGNFV6MGdtZFB1eG5hRWpfbGtUNkJ2VDhhSjRZUTNTSWFFYXVSOC1kaVJDVXFFbnFPSFNVdmJtdFJSdlRJT05oV3g?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://feng.ifeng.com"
+    },
+    {
+      "id": "FL-a938ff5daa4f",
+      "date": "2026-11-10",
+      "dateISO": "Tue, 10 Nov 2026 22:54:00 GMT",
+      "ts": 1794351240000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "安徽合肥市肥东县发生3.1级地震 震源深度10千米 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1odzlYTVUxODFPejBqUEdqVG0xY2VDTlZ6R25XWWE1eS02Z2R6NEJiQ0laTDNYcUpHWDhGLW9TSGxFdnB2akRqdE9ReDFnTzA?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
     },
     {
       "id": "FL-bb1dd8a40a9b",
@@ -87,18 +183,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-e73cf838b5e4",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 09:42:31 GMT",
-      "ts": 1794303751000,
-      "scope": "intl",
-      "type": "blast",
-      "title": "土耳其钢铁厂爆炸事件亲历者：一度以为发生地震 - 旅日侨网",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUG5BV3JKVmFBdEhKeTF3UllEZ3RPaHdoUXVGSk45VlJaWEFEd1Q4Qk5vSnZDWkd4UUpaTDVyTXM0bkNhYmc2dVdKVGZ2RVpqZ1VBUTY1Nlg0aGhJcEk4dnVoOWlIXzFUaVE0WnRKZmFOamMtakFUSTltdnVtRUpfWnEtVENwMk9TcHc?oc=5",
-      "site": "旅日侨网",
-      "siteUrl": "https://www.jpchinapress.com"
-    },
-    {
       "id": "FL-4e186b86d4dd",
       "date": "2026-11-10",
       "dateISO": "Tue, 10 Nov 2026 09:23:00 GMT",
@@ -135,16 +219,16 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-e1c9694e1963",
+      "id": "FL-3e05f67b7998",
       "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 08:02:36 GMT",
-      "ts": 1794297756000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "希腊海上地震勘探数据许可招标收到三份投标 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE84R2ZiV3dmeHhyTVFZSUlYdm5IYVYzalRRcFVOLUkwaWpENllsV0xlVUhmUVVwUElOLUM2NVoxby1FQk5JRlBZSkIzWQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "dateISO": "Tue, 10 Nov 2026 07:54:22 GMT",
+      "ts": 1794297262000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "【视频】台风夜车主胎压异常遇难题，海曙极氪家冒雨上门更换备胎 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sd3dYOGhsdmNNaExJZnA1Wll4ZU5mS29JM1l6TTZDeDhGdmlIOXRwa1pVOTUwbC00bWx1b3B2NEt2WFh2N3VHYXZRSXcwZ1BKNkxoWUhUVlQ1ems?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
     },
     {
       "id": "FL-48d41441d6b6",
@@ -207,16 +291,16 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-f3fa5c1bfae0",
+      "id": "FL-3e029cdb27eb",
       "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 07:00:09 GMT",
-      "ts": 1794294009000,
+      "dateISO": "Tue, 10 Nov 2026 06:12:19 GMT",
+      "ts": 1794291139000,
       "scope": "intl",
-      "type": "geo",
-      "title": "日本千叶县近海发生4.5级地震 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTekZkd1ZkTmoxeWEwOWk1TlB3S2txd1hqc0pWblFuWk10Nm5iTzhvQV9pY2ladE1SUzVMcmR1X2VLVlp2cjZhVmdhdw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "type": "weather",
+      "title": "马来西亚雪兰莪州山洪致1人死亡7人失踪 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmtlbFpxX3BrTlN3VUZIQ2p4dFF0c0dRXzhDZ0ZpSHhSZ3g2R2ZzREJSMndnZGpmdU92SThPZVhmXzFnVGlUR19PenVPWm9jSUZMeTRjQ0dUbDhfekdVUkx3a0tKV2hpX014Y21hV3htd3hKVTZDTFFvSWk4Z08xM0xCUjNaeHdYQ1h3VGRjZmt5b05BZm9PbzVB?oc=5",
+      "site": "新华网客户端",
+      "siteUrl": "https://app.xinhuanet.com"
     },
     {
       "id": "FL-0ab1d1c940a6",
@@ -229,30 +313,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yampFckZ3bXJJV2JDU3Jod0czekQ1SUptNVktQk1jRWcxNjhZbm80YVZiaTdacDRhNHhSd1hLaGFwR1hsY2VZYjdnOFNaRHdTVnNHVURrV2dPUzRxeC1lWVowc3JqSVVnZUYw?oc=5",
       "site": "台州新闻",
       "siteUrl": "https://tz.zjol.com.cn"
-    },
-    {
-      "id": "FL-9e6f1144816b",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 05:51:53 GMT",
-      "ts": 1794289913000,
-      "scope": "intl",
-      "type": "weather",
-      "title": "马来西亚雪兰莪州山洪致1人死亡7人失踪 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tVDY2YUJwbFZnbW9hMnE4Y01hNTM2VmhxQ1VpdTVzcWp1ZThzTl8tU3pjdUVFYmNWX1lObUY0blF1WVNiRnoweEpqRlAxenFVci1SRlBUNVRjcm9NWVl3cGdrTm5DSjJDV1dCYlRORnpRUFRtMklQQkcwQ2xXQQ?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-574c5317dfd3",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 05:46:03 GMT",
-      "ts": 1794289563000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "“驼峰航线”机组人员遗骸移交幕后：搜寻队三上冰川，曾遇断桥和山体滑坡 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vVkJfOUVnWGhTU1Ayc01oSm92cWlDTXMwRGdlVER6VWljX3BfM0F2eFhUQm9QV1BfVVpMQ0NreHBES211c3lpS3ItaHM?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-ed62f4c17bca",
@@ -274,9 +334,9 @@
       "scope": "dom",
       "type": "geo",
       "title": "泥石流发生前提前规划高风险区，安全转移大批群众，无一人伤亡，朱江平获“二级英雄模范”称号 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qamZmamx4bG9zRnpROG1TVG1jNjdQMmZMLWN4U3VsN21UeUhTVmhNRTQwQzFUZVZVZmdmcUlTV2F4VUJCY0xzLTlBMks0b1JpV1pKNjdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcTNxcFIxdk1RRmJlcXlsaEdkV2tIQk1lOE9ITV9tekFIVGpyWEtWV0pLOHk3eUNOQUctbzNoaTRsSmlWSlVISEdtYzdMeXZlYjRIN2oxa0pHM0xMaWVqZ19FZl92dVE1X21GS3c2YUYzYWM2ZVoyMnRqMFhKVUMyM19tUXFGQVFOZHVXeQ?oc=5",
       "site": "搜狐网",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-09d86b7193b1",
@@ -289,42 +349,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43a0lMUkduZEs0amV6V0ZMXzFoNjBXbEd5UFlWaGRfR0F5eloxQlpMYU1TQnVvMnVjbzg1cFl0cHQwcTVkTW5UcmZmb3puWWZxUUtNdFZ6MS1IYnJrUVI0?oc=5",
       "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
-    },
-    {
-      "id": "FL-26cca054cc89",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 04:18:03 GMT",
-      "ts": 1794284283000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "又一地产首富，全线崩塌 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTG12RUdGZW91WWl1Z09XQjg4dUp6bVppazNpQjVHSDBEeU4yRWNVRjBtQ0xsMFp2UmZTUHN1Y3dZNmwwV1Z1WHA3VG45c1FXSTFPNnR2Mk5LM0l4YV8tcW51ZE5zdFh5dGFldnJnNkR2REFqdjFDTUptc2JiajV2aTVPNnowM2pwa1RJSw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-ae26b0ef1096",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 04:10:30 GMT",
-      "ts": 1794283830000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "所罗门群岛附近海域发生5.5级地震 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyUGtOQlRqTmp1dkdqVTVWODNzZU5ib09VYVdWNUVuTWlfTl92a2NMSURVb0FZVl9SclplOGZSQ2g1VXFFbm1lWUxZWQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-809fbdea97c3",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 03:50:00 GMT",
-      "ts": 1794282600000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "中企承建巴基斯坦大壩防護堤坍塌 引質疑 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYbWtmVDVPUl9UVURwRFRzWFRpUDBpZzduTV9VaFhZMEsxU0NObW9lUTM2RjBwb2FPclN2NnpXMUM0R0p5SkFqUVR2QS14Y2xLZmVOeXdPM2JGUkpzZnpoc2FB0gFnQVVfeXFMTVFKOWc4M0dnYU83LW1pLXEwZ00ySG9EYlkwX2ZYYldiMUgtY1dGeEZDLTFlQVA1RktWamhtTUhOUUNXQkYzVDAtMy16WV9hX0V3UjUxekp2WllENUFJQjNucHA0b2xVOA?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
     },
     {
       "id": "FL-4bd08e697883",
@@ -363,18 +387,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-cbe32ba70348",
-      "date": "2026-11-10",
-      "dateISO": "Tue, 10 Nov 2026 03:19:00 GMT",
-      "ts": 1794280740000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "肥东3.4 级地震预警，蜀山同事说没感觉，难道工作太专注？|地震|合肥|肥东县_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYa2kxSWhvdGRjYkFVSjJXNHNwbW9wcE4tQ1ZDVDdxRlZoQ3FfQTBrRjEyLWxnd2tuS3Z4bU94NEYxMFltUmZSeEVvbGRoUDdMUVd0QWdWVnV1N0dqdVFmbWRjVQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
       "id": "FL-3a262df0216d",
       "date": "2026-11-10",
       "dateISO": "Tue, 10 Nov 2026 03:16:12 GMT",
@@ -407,6 +419,18 @@
       "type": "blast",
       "title": "土耳其一钢铁厂爆炸已致17死 亲历者：一度以为发生地震 - 中国新闻网",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81dVI4N2hDUG1NWkJVTlJQRUpUbzZZdUpkZlo0MTdoRlY4SUstbWFMWkxGWG5ncHNxWnJmU1pidWhBay1lbG9TX1Q5ZmtsUUVRT1RtSzNjVGlyUDl0eU16bjhOaUZNLVRR?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-eeb03f5002b6",
+      "date": "2026-11-08",
+      "dateISO": "Sun, 08 Nov 2026 22:59:18 GMT",
+      "ts": 1794178758000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本宫城县近海发生4.5级地震 多地有震感 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sdlBXTkVQNW9lX1hxNnV4TVlDcEFCYUpkYkNlaW9JTHZ6dnlURUU1TW9KVldDWGowNnE5UVUtUlp6cGEzUWNmemoxT0lnNXR2V3JGUVpHM3VqZnhJWC0zY1dPMjRhR1dG?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
     },
@@ -555,19 +579,6 @@
       "siteUrl": "https://www.stdaily.com"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-11-09",
-      "dateISO": "Mon, 09 Nov 2026 11:47:05 GMT",
-      "ts": 1794224825000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "吉隆泥石流灾害救援人员：刚撤出时，感觉自己还在现场搜救 #媒体原创 11月9日，在应急管理部“新征程上的应急人”记者见面会后，参与吉隆泥石流灾害救援的西藏自治区日喀则市消防救援支队卡热浦东路特勤站副站长杨奇巧对北京日报客户端记者表示，救援结束已两 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWtOOHZOdUt3NUZkUVR1QVpkMF9BdTlNVzJERVdQOVlqcF9ZYVduNG5aWXhXNFRlekp1WFc1Q25XOW5pRWFKT2duT1BlX0VaLWRRUE8yaW03WThmaGVDMUlLeWV4VndSanhxVGhkblcyM1Y2WTdJb0ttQkFXY2ZqYmhScjlyUWhz?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com",
-      "related": 11
-    },
-    {
       "id": "FL-b31c1912c0aa",
       "date": "2026-11-09",
       "dateISO": "Mon, 09 Nov 2026 11:37:00 GMT",
@@ -578,6 +589,31 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iMFZzR0FKV1FMeGx4ZlBRX25zZG84Mzhvc0dnS2o4RF9ES3VkUkZKWjBscUIxQWw1TUc3ZlhKOGVuRWRwUzU2NlppLS1QWF9rdnJVc3FpVDYxTll4OHc?oc=5",
       "site": "上观新闻",
       "siteUrl": "https://www.jfdaily.com.cn"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-11-09",
+      "dateISO": "Mon, 09 Nov 2026 11:26:11 GMT",
+      "ts": 1794223571000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "吉隆泥石流灾害救援人员：刚撤出时，感觉自己还在现场搜救 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZNEpwU2lEWngyc0tnTnZhVVZ6TUtqSkFsLXZkTjBSNHRHdWZkbVFtUUtycW94Z0VoeGxlYnZVR3lWcjVpcnNucXBWRFZONFJ2SWoyRXQzT2dzVTk4RFE?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn",
+      "related": 10
+    },
+    {
+      "id": "FL-ae9e6d656391",
+      "date": "2026-11-09",
+      "dateISO": "Mon, 09 Nov 2026 08:28:00 GMT",
+      "ts": 1794212880000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国中期选举余波：“蓝色海啸”对标普500意味着什么？ - 证券市场周刊",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SV0Q2LWQzcGZDT1FtbFlqNm5iaXpSWV9aSmdUVWNneW1EQ2c1YlpCUjk1ek1RTExTTE9ManBJQjV3NUI4VjV5LUduTlBOTlFFY0hFMng2U293NDMyMzMyRU5yOWZlQQ?oc=5",
+      "site": "证券市场周刊",
+      "siteUrl": "https://static.weeklyonstock.com"
     },
     {
       "id": "FL-674b45f88556",
@@ -640,30 +676,6 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-0db61d9bba2a",
-      "date": "2026-11-09",
-      "dateISO": "Mon, 09 Nov 2026 04:56:06 GMT",
-      "ts": 1794200166000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网中心地震预报部主任谈人工智能预警：AI不是“能掐会算的预言家”，它只能“帮忙干活”、整合信息 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEh6S2tWb1M2Ulg2OTQ5MGY1dlpsU3BXVWhUbV9wZnFadU9uVjhVX2NjLWpmc1RUcTNHa09raHJSQlNyOFB4ZGduV0JNWmkyRDZPNzFqSllnYXN3S2Z0ZktybmVWMUJEQ1JTLUFfM0hBNDIxNnJSelJhNnZpTVh1LTlmVVJ4cW5EZGpGcw?oc=5",
-      "site": "搜狐网",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-ba5b33807334",
-      "date": "2026-11-09",
-      "dateISO": "Mon, 09 Nov 2026 04:07:48 GMT",
-      "ts": 1794197268000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "所罗门群岛发生6.3级地震，震源深度10千米 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CQmJTMUQybHZzMWZjelREX0FDQVJZZzhzVElLRjNnTFpRZlN4Mkx6bU8wVHFZUFVJbkMxMmtyMnBQMHZDRk0wRzJGdUZhS282VHhYSmk4cDZMbHQzb0E?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-ad5e798f6d89",
       "date": "2026-11-09",
       "dateISO": "Mon, 09 Nov 2026 03:39:41 GMT",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiTl9QNEwyU0hRcEVQX3pTQVJyUHJPOE4wVXpROG1mSGlINHkyQ1JsQko2S2lKa25BWXExbXlxTGozRkI0Zk5KM2xlQmlVZE9mQlFDRlkwWl80d0g5Tlh5TjlyWTdsMkNtVWxvUVBPOGZ6UF9qSktLRVAxTGg?oc=5",
       "site": "新华网",
       "siteUrl": "http://hn.xinhuanet.com"
-    },
-    {
-      "id": "FL-c8ef596541c4",
-      "date": "2026-11-09",
-      "dateISO": "Mon, 09 Nov 2026 00:57:00 GMT",
-      "ts": 1794185820000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "部分“固收+”基金下半年净值滑坡跌幅超20%甚至30%_公司新闻_财经 - 证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wYXozdGRzZG9RZHY3MzFEbTFmcHlFWFA2Y2lLcGNjZ2lRZWJ0SGVESTJtU0lFc2VsenRsRzAyRGFFdlVxdjhPdGFhNU9zckV5VjdISzdxLWlCdFRWMnRNcg?oc=5",
-      "site": "证券之星",
-      "siteUrl": "https://wap.stockstar.com"
     },
     {
       "id": "FL-b67c43b2a986",
