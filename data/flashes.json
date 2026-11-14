@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:24:35.043Z",
+  "updated": "2026-11-14T18:24:16.289Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -111,16 +111,16 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
-      "id": "FL-c6804b127720",
+      "id": "FL-d3d324c893cb",
       "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 18:13:22 GMT",
-      "ts": 1794507202000,
+      "dateISO": "Thu, 12 Nov 2026 18:18:35 GMT",
+      "ts": 1794507515000,
       "scope": "dom",
       "type": "geo",
-      "title": "“AI央行”大地震，冲击会沿融资链传多远？ - 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50YzYwZ1JRUW1wUklaZ2owRUdEX0hxc3Q4MmV1cmtOb0ZITGxWbkoxVHp6bjBDX3hGUlBrcTcwc2Y2UjVENU9Qeg?oc=5",
-      "site": "财联社",
-      "siteUrl": "https://www.cls.cn"
+      "title": "“AI央行”大地震 冲击会沿融资链传多远？ - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFRVE1blVvMUE2MVk1T3R6cGl3bHpJNGlFOGxnYVJOUVBjdTcwOXRPcjBLWUFKS2NxbUhfUzc5MWNXQTZQNWFWUWx1VE9IYkdndzlyY2hUQ1dXM1dkWnJyaQ?oc=5",
+      "site": "东方财富",
+      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-c5def0afa261",
@@ -133,6 +133,30 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTM4MGw2cDdSU1hIMDlCLW0xWEhDOW9GQlNLbHJMSGJUY3ktd0ZsTU9Cb1p1SmJ4UnNRTkZ1eUoyY0NLVmY2czhvdTNPSHFmZi1tMXhmOVA5c0oyajdLMnZyS295N0ZxNmhxY0RCekZ1d1VwaXhfaDhoenJzVG4tTkloVmVKcXd4djZsczV6aFRSY2VlelpORlRvMmI2YlB5UlhwcjBFR2dDUQ?oc=5",
       "site": "Radio Free Asia",
       "siteUrl": "https://www.rfa.org"
+    },
+    {
+      "id": "FL-2a6475bbb397",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 15:20:43 GMT",
+      "ts": 1794496843000,
+      "scope": "intl",
+      "type": "other",
+      "title": "美国纽约楼房倒塌死亡人数升至8人 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RbS04dFZVNmUyZHZST2ZULWRZQlFzN2FiaW9rU0tocS1nTnBoZ0RuNkJjcDVnME5IdzNxTmlFbU14dUgyYjAySzUwajQ3T2JkWmZkQTd0dXBBX2swWUhZdQ?oc=5",
+      "site": "ThePaper.cn",
+      "siteUrl": "https://www.thepaper.cn"
+    },
+    {
+      "id": "FL-88315c9ffe16",
+      "date": "2026-11-12",
+      "dateISO": "Thu, 12 Nov 2026 14:52:00 GMT",
+      "ts": 1794495120000,
+      "scope": "intl",
+      "type": "other",
+      "title": "美国纽约楼房倒塌事故已造成8死17伤 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTdoLVVxVHREb2NmTG5MUFlIazhNamZ6NlNHZC13QkFaeVl1bXYzclAxNUdtYTM0cFNBZ1pQUjdpVmNtRXQ0anBHRFFjS0g4RkFWSmFyOUZhbVh3V3ZQRVliYjdVQXZkeHRQdzFfWG9ObExHWElOSFpvbXpSa0dIQ095cHBxZw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-d79f635c1c2d",
@@ -183,18 +207,6 @@
       "siteUrl": "http://www.xinhuanet.com"
     },
     {
-      "id": "FL-302c878782fb",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 05:29:45 GMT",
-      "ts": 1794461385000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "突发：美国纽约一建筑发生坍塌事故 已致至少2死17伤 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CQkRweGVmOE1aQU05TTh3alhONGd5TWNsNVNhTjctQzZzbkxndVYwRlNvTWswa0o3LTlEby1DamNUYjZiUEc3bGRhSTBWSC1pb0lGZVUyQjNCSXVOVDFkNTgyd1RMSFRo?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
       "id": "FL-b8d47dcf59c9",
       "date": "2026-11-12",
       "dateISO": "Thu, 12 Nov 2026 05:06:28 GMT",
@@ -241,7 +253,19 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 7
+      "related": 6
+    },
+    {
+      "id": "FL-8002e81f4e41",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 13:08:18 GMT",
+      "ts": 1794661698000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本“副首都”来了，万一东京被地震抹平？ - 风闻",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRWZrVjFjOUpkejRyNmpiX3N2NVhIU242ZkFpRU40bmNjMlJubzFIYXJLUHlnWjBNTHlac3Vxd1ptOXRFQTdPUXRXRzFLVkFqeW1xc3NoVk94NVk?oc=5",
+      "site": "风闻",
+      "siteUrl": "https://user.guancha.cn"
     },
     {
       "id": "FL-f885ebc86638",
@@ -302,18 +326,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzk3eWE0b0pfS2VFbDhsejd2TGpCeC1PTkVvSWI0NExBOUJHZTB2aEVadG13d19OSmQyVXJRVGpNaFN5SWlFdjFzaWJJajk4QkR2Mm5lSXYySl9OVjd0aUJDRkxoOThlX1pzZk0tcTZPZnhjOVBWSTlIMFBVZXZMdjQ2VXFMSFZB?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-8002e81f4e41",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 07:09:24 GMT",
-      "ts": 1794640164000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本“副首都”来了，万一东京被地震抹平？ - 风闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRWZrVjFjOUpkejRyNmpiX3N2NVhIU242ZkFpRU40bmNjMlJubzFIYXJLUHlnWjBNTHlac3Vxd1ptOXRFQTdPUXRXRzFLVkFqeW1xc3NoVk94NVk?oc=5",
-      "site": "风闻",
-      "siteUrl": "https://user.guancha.cn"
     },
     {
       "id": "FL-b623368b6afc",
@@ -448,18 +460,6 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-7b72708a9920",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 20:00:00 GMT",
-      "ts": 1794600000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆发生5.0级地震 居民：感觉失去重心，愣了2秒才往外跑 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2WlZxLUJ5VUVIOFMwX181YkxvRDhKemQ2Ul9TdDVvbUJCN19faUQ0MWdZLWhLVDFWV0Q1akRGcUsyX3g1ejNWZnJtWW9QdjRsSzdLZjQyNXJVX2dXNlc5T05LV3A?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
-    },
-    {
       "id": "FL-67234774ae58",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 16:48:36 GMT",
@@ -479,9 +479,9 @@
       "scope": "dom",
       "type": "geo",
       "title": "新疆阿克苏地区库车市发生5.0级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWlEV2hLUk1wQ1JoVjhnMzRKM1VobkxDQUtuWG5oTFVhVXBXSlRjbTlKSk1lQ0ZiU0Z2cktrUTJRWnRXZlBiZkY2ZHotbXV1Y0ZYRC1NMHdBYnRDZUxuSGV6QzR3SF9nS2ZRSk1PZGstWjM0Sll2UWNwSDBFWHNTUFY4V0hfODI0amZz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDNHbXBrT0llRjhTWHptbDJEWW9sNjBzRS1lRFVoVHJEczc5RHBrWmIzTURHa3hQRzdnODlWQkR2YzZfdlJDRGZEUGxMTjJ4UFg1R2VuMmZaQWtEdTBGY2FsRmJ1OERTSXNtTlplTHNvdW1zS2VRcWNDdm55QkNBUUljM3JNcnJO?oc=5",
       "site": "Sohu",
-      "siteUrl": "https://www.sohu.com"
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-6c546c6f698a",
@@ -508,6 +508,18 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
+      "id": "FL-55bba8d515b4",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 16:30:47 GMT",
+      "ts": 1794587447000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区库车市附近发生5.3级左右地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWNOWl9FZHBtVmJEWkFlel9lZWZJRFBiMzdCRGo0SmVIQkxyaHNmSy1aQjdJYnlra2oxVnZoMW9zX0VCYXFwUmtyWGZhblNkZno5RTdJb2o1M3Joalp0SFpaZTRWakZYb0NqVWJJRDVzcjRMTDVjYU1jeEZYN1Rab2ZNcHl5X2ZzcDJPVQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5469dccc4ae5",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 16:29:53 GMT",
@@ -518,18 +530,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yLWpuR3hLdmRFNVBjNmNQTy0yRTBWbDNrRWtYbEJBQjJGZ2E5eUxZZGJVb1JNbXl6aWp3VWpQREtnTl9LU3ZGcXBsSF8?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-5d3b8b9f07e3",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 16:17:00 GMT",
-      "ts": 1794586620000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区库车市发生5.0级地震 据中国地震台网正式测定，11月14日0时17分在新疆阿克苏地区库车市发生5.0级地震，震源深度20公里，震中位于北纬42.22度，东经83.64度。（来源 中国地震台网 编辑 张琪）#新疆地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1RlRFNYT01FbmpBUllMNDNKQjlDQmx3R1M5QTZqV2l3QjFrUTZuR1RPT1BJN25ydko1X0JwTm9DZFRncXlTY2tvLTBBZkRVdWNvZnd0alhOdktldC1ueEhuTllDSHVtOFNLeGI0eG5DVWt3WjZ6N2xtN050a20wTm03MGJIZVdz?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-dc93e17a42c9",
@@ -580,6 +580,18 @@
       "siteUrl": "https://cq.cnr.cn"
     },
     {
+      "id": "FL-4232fd1e95de",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 10:45:51 GMT",
+      "ts": 1794566751000,
+      "scope": "intl",
+      "type": "other",
+      "title": "内罗毕一栋建筑倒塌致6人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40NV9nelVWaVZqX1NPcUtrQlJJeklyRlZiUjJoTTY1WDA2eW9rU3JWc0wyVmYyWG5CUnlDWTZVek1lakdJMERONWhUbE1BaHVtLVN0X3NzQ0FDUjZxbmc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
       "id": "FL-c07e90fbba02",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 10:11:15 GMT",
@@ -602,6 +614,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTGVrWDQyZXpMa3drck5yWkJxUHNIZWxyQXpGVTZ5SUlvSHJJSVZyZzZiMjFod0NCMmFqV2lGRWh6V2p4Q0ZrRXA1S2N5bUgzYWdZbGtkV0t3TE41UG8yNWltaVFrekXSAWxBVV95cUxPcVBraC1INmloNVVvWjN1Nm44LVdzNzgxem5ZV2NHZ2lqXzROeFlXQ1ZobkdwalpRZnZuLXA2VnRCY25YbVR5N2pkWlNkNGM4Vi1uWllWb1JGN0dlaElxMzB6akpwMnI1Z2dDX0Q?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-55c544aae1aa",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 08:50:00 GMT",
+      "ts": 1794559800000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "山西大同踩空区塌陷，并引发32级地震？官方辟谣 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVJRzB5SXpFMDhtYTRfV1JQV3FDQTd0NEdJUXFaN1BzbDMtbjRuTHlGWVUtc3QwWHR1Y21tN3FDSkxGUXFHYlBvOFZkcEJUaHVhZTFFakxTWHBmNlZRZFE2elN4eDVnWmFzTlpnQzRQNHJLWmtjYzdSdUZjMi1CTW9zSE8yWmZrOGtGMg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-b7c6b7b68d51",
@@ -640,18 +664,6 @@
       "siteUrl": "https://gz.cnr.cn"
     },
     {
-      "id": "FL-f96689759810",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 05:31:57 GMT",
-      "ts": 1794547917000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "视频丨深水救助、航道抢通……直击三峡库区最大规模危岩崩塌水上联合演练 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aUlpJLWQ0R3ppRWZpdmxzN3ZyQXl4TTFwTS1OSFhQWElTQUFNV0RoREtxT29kN296bWVkeXg3bExRWDZESURWZEFiSlhUc0lESWhleU1DWDFPSjB1Rk53blN6am1OejlreDIw?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
-    },
-    {
       "id": "FL-780c508dfd61",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 04:10:17 GMT",
@@ -674,18 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OVXZJRkkteElaREhrUnozNWYxV1h3SFFkWVpwQ0RMRklaQ2lvcXotZ3pLcUdYRDFQUWhBM3d3a1VtS09RRW5xTHhIal84blZ2ZFlCdXQ0ZFlmUlBXYlVOcThReFYzWWZuR1Q2N2NjWE5tWWN2cEp6TQ?oc=5",
       "site": "央视网",
       "siteUrl": "https://news.cctv.com"
-    },
-    {
-      "id": "FL-e0f53624a7a6",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 03:00:00 GMT",
-      "ts": 1794538800000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州威宁发生4.5级地震：监控摄像头剧烈晃动，牛群被惊醒跑动 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Bem1GRDFnemtKQ3Q0bW1oNUtZT0M5bFIwS2sxV1JCV1BxelBsSmNHVHdOZmVicHU3TWpMZTdDZGdBd1NYMFlWdGR5dUR1T252NFl6Mlc2M0laWmV2QU1kejFzQUQ?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-d0fef164fd62",
