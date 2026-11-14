@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T18:24:16.289Z",
+  "updated": "2026-11-14T22:39:53.851Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -253,7 +253,43 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 6
+      "related": 7
+    },
+    {
+      "id": "FL-949f0c46285c",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 21:51:00 GMT",
+      "ts": 1794693060000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "危地马拉海域3.5 级地震，震源深度30 公里|欧洲地中海地震中心|危地马拉_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WaUNmWURTeV9DckNKWlJKak01ZDBCbnljY0VySHJtdXd1bGptSXU1eU1MR1Zhd1lmeFFYZVpvSjktNlB2WGppSWV1SmNNb2pnbTdrdWg4WURDOFdObjV0SWpncw?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-49e7c0c08abe",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 21:30:00 GMT",
+      "ts": 1794691800000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "印尼弗洛雷斯地区发生4.1 级地震|欧洲地中海地震中心|印度尼西亚_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kM1FFLXVZTjBVWGZHeGJNU0UtQVJLa0Z0RFlGQ25VeVA3RTFVRXU2X3Y5MkhNeHBuZE43NjkzMlhQRzRha05CUFVUZ2dRVnRwM016RmJIdnhUbk5zTmNnUVFXMA?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
+    },
+    {
+      "id": "FL-d242b58a500b",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 16:25:00 GMT",
+      "ts": 1794673500000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "深夜 00:04 的 4.9 级地震，震中在菲律宾塔比纳|美国地质勘探局|地震_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtRTdPc1huYWpqdmlpcHQtX1M1Um8tcEQwOXNOckhFdmRNTV9KUm8wYWxxRl9RcndKaHpFbzZfdVV6MDgxZXd2cVdIb0c0VDZTUm9tZ1pBTVpzZmZVZlc1WC1IQQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-8002e81f4e41",
@@ -266,6 +302,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRWZrVjFjOUpkejRyNmpiX3N2NVhIU242ZkFpRU40bmNjMlJubzFIYXJLUHlnWjBNTHlac3Vxd1ptOXRFQTdPUXRXRzFLVkFqeW1xc3NoVk94NVk?oc=5",
       "site": "风闻",
       "siteUrl": "https://user.guancha.cn"
+    },
+    {
+      "id": "FL-192b9e62e88c",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 12:57:21 GMT",
+      "ts": 1794661041000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "市应急管理局与九江地震监测中心站签署震情跟踪研究课题合作协议 - 九江新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SNkFWZTgtWnpBZG04bGpuM3dTT3pfd0c5QVB5MmR0bjFya2pTc2FHV0V3bDF2RXA1NWR2M0M3NmpYaWVLTjlfc18xWFZ4MXFrZ3JUUU1RVUdSY3kxNExj?oc=5",
+      "site": "九江新闻网",
+      "siteUrl": "https://www.jjxw.cn"
     },
     {
       "id": "FL-f885ebc86638",
@@ -290,18 +338,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBam42eFRtM0J4Zk55bGNlZXNvOTFhdUVIYmM1REFtek13d0xyVmxJdkVVSzFWNW90eFozalNkY2w0MlFySFNEZWJ3WE9sTGxMazE0SVJfRFBiNEJjdzIzTA?oc=5",
       "site": "财新",
       "siteUrl": "https://photos.caixin.com"
-    },
-    {
-      "id": "FL-2bc5e8764851",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 09:43:00 GMT",
-      "ts": 1794649380000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "大西洋海岭5.5 级地震，震源仅10 公里深|美国地质勘探局|地震_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdWljRVBLbmVib2YzTE5wYmJ4QW16R08xd1kwNXVsMFl0cWhqZlBIY1c1ZC1hM2czdWlHcDZodlVpTExGUFN4cGNjQVI1MkZ3ZkZ1dzFTNWN4a1NCWVVjZkdWSQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-7c8ef71d8bb0",
@@ -436,18 +472,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-19bbe0b6c94a",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 01:25:10 GMT",
-      "ts": 1794619510000,
-      "scope": "dom",
-      "type": "other",
-      "title": "渗透率67.5%创新高背后：燃油车“塌方”、出口托底，车市正在换挡 - 爱咖号",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4za1RkOUZud0FuSXMzVGQ3SVozeE5jU3VjeHpwUWpPR1huYUtXa1BXWnhkNTljOTVXV2gtU2lMdVJvTkNkemhjYk9QRFlwSnpPcld1d0s2RmM?oc=5",
-      "site": "爱咖号",
-      "siteUrl": "https://aikahao.xcar.com.cn"
-    },
-    {
       "id": "FL-4ea2436af6f6",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 22:56:24 GMT",
@@ -506,18 +530,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91OEk1OEc1Y0xVeU1tS3pkZ05hUkJNVWsyMFMtenh3T292ZDNVM2FNWXhkdW5RRVVrSUpEMEpaSEFlVHNNejUxVQ?oc=5",
       "site": "财联社",
       "siteUrl": "https://www.cls.cn"
-    },
-    {
-      "id": "FL-55bba8d515b4",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 16:30:47 GMT",
-      "ts": 1794587447000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区库车市附近发生5.3级左右地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWNOWl9FZHBtVmJEWkFlel9lZWZJRFBiMzdCRGo0SmVIQkxyaHNmSy1aQjdJYnlra2oxVnZoMW9zX0VCYXFwUmtyWGZhblNkZno5RTdJb2o1M3Joalp0SFpaZTRWakZYb0NqVWJJRDVzcjRMTDVjYU1jeEZYN1Rab2ZNcHl5X2ZzcDJPVQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-5469dccc4ae5",
@@ -580,18 +592,6 @@
       "siteUrl": "https://cq.cnr.cn"
     },
     {
-      "id": "FL-4232fd1e95de",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 10:45:51 GMT",
-      "ts": 1794566751000,
-      "scope": "intl",
-      "type": "other",
-      "title": "内罗毕一栋建筑倒塌致6人死亡 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40NV9nelVWaVZqX1NPcUtrQlJJeklyRlZiUjJoTTY1WDA2eW9rU3JWc0wyVmYyWG5CUnlDWTZVek1lakdJMERONWhUbE1BaHVtLVN0X3NzQ0FDUjZxbmc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-c07e90fbba02",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 10:11:15 GMT",
@@ -611,7 +611,7 @@
       "scope": "dom",
       "type": "collapse",
       "title": "“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？ - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTGVrWDQyZXpMa3drck5yWkJxUHNIZWxyQXpGVTZ5SUlvSHJJSVZyZzZiMjFod0NCMmFqV2lGRWh6V2p4Q0ZrRXA1S2N5bUgzYWdZbGtkV0t3TE41UG8yNWltaVFrekXSAWxBVV95cUxPcVBraC1INmloNVVvWjN1Nm44LVdzNzgxem5ZV2NHZ2lqXzROeFlXQ1ZobkdwalpRZnZuLXA2VnRCY25YbVR5N2pkWlNkNGM4Vi1uWllWb1JGN0dlaElxMzB6akpwMnI1Z2dDX0Q?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTGVrWDQyZXpMa3drck5yWkJxUHNIZWxyQXpGVTZ5SUlvSHJJSVZyZzZiMjFod0NCMmFqV2lGRWh6V2p4Q0ZrRXA1S2N5bUgzYWdZbGtkV0t3TE41UG8yNWltaVFrekU?oc=5",
       "site": "BBC",
       "siteUrl": "https://www.bbc.com"
     },
