@@ -1,43 +1,7 @@
 {
-  "updated": "2026-11-15T16:50:01.035Z",
+  "updated": "2026-11-15T21:29:21.799Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-b2e5c6577aa2",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 10:50:10 GMT",
-      "ts": 1794394210000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震来临时躲在家具旁边，“生命三角”最安全？2026年10月科学领域流言榜→ - 福州新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLX0cydlMtb1ctdkJPal9hbXc5NzROSUtTUENhSzJ0VVdSSkY5N09FT2dRZ2ZBSEljcXdzSFJoaW5Kd2tLVjNlU0s1c3N4b3Q4eHdkTEdvYkwxM3BIYXdsOUszUVo?oc=5",
-      "site": "福州新闻网",
-      "siteUrl": "https://m.fznews.com.cn"
-    },
-    {
-      "id": "FL-ec27c03d5934",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 23:55:00 GMT",
-      "ts": 1794527700000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚附近海域发生5.8级地震 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGVGVQbG11X3pqSkl2aEhhNXpfQWgtbXZpYUwxYkFQRzZSY1licnNEWm5wZFVzdF9MWFA3UEJfWktjaFRlNnJsWkpRZXYwaUpIeWpZckZ0SkJWQUNNRlNYVkJpSUlfS0JYaVBsN0ozcEk0Zw?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-e81af338a155",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 23:18:10 GMT",
-      "ts": 1794525490000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚附近海域发生5.8级地震 震源深度20千米 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GMXJCbnJyVlktdWJoV3BoS2ZxN09kUmRBUTFNelZkZWxaa0xUZzRFaTl2c1RRaDJ1N0Z6cHcwaDhYZWxtXzByS0hKcWttNVRKbVJHaHd6WG44UGNTZDlqT0RqMTNMaEh0aGRz?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
-    },
     {
       "id": "FL-a847b6d6f182",
       "date": "2026-11-12",
@@ -255,6 +219,42 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-3ceda1aaed7f",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 18:28:34 GMT",
+      "ts": 1794767314000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "阿富汗兴都库什山区域发生5.1级地震 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qdVFlS0hETVhNVHQwQ3ZaM19qWWhCV2pwc2pPa1EwWkR4S1cwVmE3NGNzSy1KLTZoRnJGamVMSlJrcFVYWEdnYmJTTQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://wap.cj.sina.cn"
+    },
+    {
+      "id": "FL-6776ed5281cd",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 17:44:46 GMT",
+      "ts": 1794764686000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "萨勒曼国王救济中心继续向印尼弗洛勒斯岛地震灾民发放救援物资 - وكالة الأنباء السعودية",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xemVLMmEwcVFXS2NWdjRGOW5YTXNtaDN5SkRvZjc2NUl6MmJNaG5ZQWpTdU1XWDJkQkZsT2dBYW1lWWc2cWt0U1Z3?oc=5",
+      "site": "وكالة الأنباء السعودية",
+      "siteUrl": "https://www.spa.gov.sa"
+    },
+    {
+      "id": "FL-b2d1e9aad009",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 17:34:15 GMT",
+      "ts": 1794764055000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "教宗在库斯科念三钟经，向地震之主献上系在腰间的布- 梵蒂冈新闻网 - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnJidXo0Yjlobm9QQVM5ZU9rcnQ2YVA5OXNxU0Mwd25jNVMxckM5Y3NabGJmYzBOUUZLcFlVOEwtcGhRTWtHZlk2eDgzb2c1V01UR0xuNjNuUEM2MzZqVi1lSEd3WmUydzluRm5ZT3I2cVFRNlE5M1pBWFFYcXZiNjhwZzRhUkpoa3l4OHZvU0o2bVE4bU9yVzhUQzlUTTZyREItYTA1WHNMbkR0?oc=5",
+      "site": "Vatican News",
+      "siteUrl": "https://www.vaticannews.va"
+    },
+    {
       "id": "FL-1db89f46735a",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 13:31:26 GMT",
@@ -279,6 +279,18 @@
       "siteUrl": "https://www.cnbeta.com.tw"
     },
     {
+      "id": "FL-4463b203932c",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 11:29:16 GMT",
+      "ts": 1794742156000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "【视频】30分钟让智能SUV“地震”，星钽5X上市家庭需求120%满足！ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzYkgxNUZMRjhvY0JMa3E5VklEZDU0T3ZIWDlvZWVJUE9adEY5bU44dzlqZVhGU2tYOTRhVUd6V0EwWnR6aXotVHFjSGlJbnh5SWRrYU1WTXFpUEFzbmJCR3dLdGNfTld3RlA0?oc=5",
+      "site": "汽车之家",
+      "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
       "id": "FL-7ca229c39a8c",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 09:23:45 GMT",
@@ -289,6 +301,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1heG92MDNoTTZEY3BHU2V0Vm81QXlPN0ExY1hHUzFDWkFnYUlDYldqQXFZbWFOS29kbHgzcm9kMXdkcG9VcjF3bmNuLVFRZTQ4d21NLUtweERRV2c?oc=5",
       "site": "四川在线",
       "siteUrl": "https://ent.scol.com.cn"
+    },
+    {
+      "id": "FL-dfe2632fd9a0",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 06:07:26 GMT",
+      "ts": 1794722846000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "1994年以来最猛的一次“蓝色海啸”，特朗普的下半场，还剩几张牌？ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGtvX3NJeDdCeF9VeXVtbEFsX29ldkgzM0lZaUk3SkwtTUE3UGlwOXdDa29GLVF1TlBNd1BBeDEzTVBtclUyTjUyRXlnclk5OFpYdjgtUktxR0dDcWd6OFhFYkJUV1RiQXVtRzk2LWFueVN5TXQxQ0dJVGtuQUl6NUZxUERtUHh1ZF9JWQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-974ba27df7e3",
@@ -315,18 +339,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-5af777891013",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 03:09:52 GMT",
-      "ts": 1794712192000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "黄乐被新加坡永久禁入！不起诉但遭警告 英伟达迎地震 - 文学城",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NWlc4N1NSeksyLWNtUU9yUkJzQjZGVmR3alNSdkpDOVBvN01vSGNMTlhrMFRpWUU1aGNJSlRMSHZIdmZtamNwQXpxSHBFMXRUSUFoa183aGtCQW00Um5QajdQQ3pTTkd5?oc=5",
-      "site": "文学城",
-      "siteUrl": "https://www.wenxuecity.com"
-    },
-    {
       "id": "FL-53ec7c4747bc",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 03:06:00 GMT",
@@ -349,18 +361,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVpsYmM0dXA4Qm9EUWc4aEtoNDg4d2dzX21oX19KemVkRW9wQ00yY09QYW5rMW9xdE1EeVFhZm1XRy1GNlR6THVITGFJbDA5dUlBVThuVkM1Rzk3ZndOUlY2YjJWTXVUNHVSMm1FRXVYMnVWZnhzQnpXeVVwRXBDZ1hEazFkUkg5dU51cQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-b3cc32af0414",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "ts": 1794708000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "网传“连霍高速果子沟高速公路泥石流”？回应来了_全球_新闻 - 华人头条",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OQ0x6SUZFSzdaeENUemk5TjM3dFA3bDRBOXo0RnM4NDZDSzZvZHVYMjFrQVF6dUN2N284d1I3MHNkdmdRQ3c5TFByR2pWdVJvLTlnNElwVXRFeXpfQXc?oc=5",
-      "site": "华人头条",
-      "siteUrl": "https://www.52hrtt.com"
     },
     {
       "id": "FL-98c074296180",
@@ -398,30 +398,6 @@
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
       "related": 7
-    },
-    {
-      "id": "FL-7d5176d1586f",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 23:33:28 GMT",
-      "ts": 1794699208000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "中国地震台网正式测定......_7x24快讯_新浪财经 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwalo0U1NxVENVMHRzbmRPZzJMaXhseV9vX2FaaE5CTmt5OEtqWFM5dkdzc05EN1J0eXpkYVBJUGJPbWxnbDRLc1FMSQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
-      "id": "FL-8002e81f4e41",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 19:08:18 GMT",
-      "ts": 1794683298000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本“副首都”来了，万一东京被地震抹平？ - 风闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRWZrVjFjOUpkejRyNmpiX3N2NVhIU242ZkFpRU40bmNjMlJubzFIYXJLUHlnWjBNTHlac3Vxd1ptOXRFQTdPUXRXRzFLVkFqeW1xc3NoVk94NVk?oc=5",
-      "site": "风闻",
-      "siteUrl": "https://user.guancha.cn"
     },
     {
       "id": "FL-f885ebc86638",
@@ -496,6 +472,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-383e5e110cff",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 02:30:48 GMT",
+      "ts": 1794623448000,
+      "scope": "intl",
+      "type": "other",
+      "title": "柏林墙倒塌37周年调查显示：多数德国人认同倒塌，前东德既得利益者更失望 - 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4MkppZkFNNTBKZVd4Y1ltY0FyWXNuQ0dwMkhtSjBZMjJ4b3pCNXpKdEp6SWZ4bFpXWnItWm9LbVJETmg4SzY2NElBYzdxVlZNMXRYZA?oc=5",
+      "site": "虎嗅",
+      "siteUrl": "https://www.huxiu.com"
+    },
+    {
       "id": "FL-dd14070b7bd0",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 02:18:40 GMT",
@@ -506,6 +494,18 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzZy1xMUt0VnhVQ1YyTkhrM282aTJLQ254RUVQRFk2RGJ3bGd6Y09LWWtOcFUzR29zdUpSZXFBdmxTS0JuXzVjaWtSWFYwRU5uVHQySTNhZm5TY25rSG1fRVRxamlKMTh6?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-810c84d98904",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 02:01:00 GMT",
+      "ts": 1794621660000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区库车市发生5.0级地震 暂无人员伤亡报告 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkE3aEowZ3hyUDY2MmtHazZUNlBwSTcydkNJYUczNzM4UG1KYTJ0cWhMYWpfVzZ0Y294QXcxdy13YmlTZGFOWG90cHdodzZKWHF4TkdISWszam9fRDcxUjR6X2ZGUGxCQ0NfdkpYOXdkNWlMVFpWcnd0OHdZUzJEb0RZOXJ0X1hTX0prWQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-676735fca8f3",
@@ -530,6 +530,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50cHhHWVU5WENaU0ljdXRqdkFMMk1pY3dHNXR3TkYzYXRNTjdzby0ydDNoQnNmNVVuWlp4aFNNWlVLY3g2WWZZdXFOTklKZTB3T1dydV92MENqcklDbmc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-67234774ae58",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 16:48:36 GMT",
+      "ts": 1794588516000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区库车市发生5.0级地震 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9veEdEN280OU9tbTc5cDJsSkh5MXFja3lqTVRWQ0FLenVKa2tYU0EwZjMyTUNNS2JRZTczREZQOG1Jek1IOGZNYno5d3hGVlNQRGZyd3RiZWdBcGhyOTRETWlLSzN4c29PeWdCc3JGSDVGUQ?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://xj.cnr.cn"
     },
     {
       "id": "FL-e02bf0814fba",
@@ -616,14 +628,14 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-c6128be2bca2",
+      "id": "FL-d48b1f96cc90",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 12:47:35 GMT",
-      "ts": 1794574055000,
+      "dateISO": "Fri, 13 Nov 2026 10:07:57 GMT",
+      "ts": 1794564477000,
       "scope": "dom",
       "type": "geo",
-      "title": "五省联动！2026年中南协作区地震应急协作联动演练在湖南衡阳举行 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWG9aU3FWdjFLRXRmaE1WbWxsWjk1cVpPOXptd2JLdzZXTUhZN1cyYVZmRmpXVVRBODRKbE5PZWJCNkNSWUUyZFd2NDJESmwyUlNLYUwyaXl5MmloYzBtVjZBWHEwYzZTQzFJanAxSmVhdjlTZTZqX1ExOGp1cGY0MS1Mb05DM2dD?oc=5",
+      "title": "威宁发生4.5级地震，暂未发现人员伤亡和重大财产损失 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3NZU1VvVVl6X3cyX2g0cEhIcFlLNHBDVk12Z1hsYVZmenRobkJtaGNKS1Rqc2l4VnJNaDlSX3FVOHBEc3JIYWo5ZG9lRHZTRjEweEx2cTc2NzdtS1BGOUZ3aVozRDFvMHF5dVVqRWw4VkoyMEdBLXlhcmZKUEVBcHN0WEdhZnRS?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -664,6 +676,18 @@
       "siteUrl": "https://gz.cnr.cn"
     },
     {
+      "id": "FL-f4a76aa36a5d",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 07:05:01 GMT",
+      "ts": 1794553501000,
+      "scope": "intl",
+      "type": "other",
+      "title": "纽约3层楼建筑倒塌酿8死10多伤 市长承诺彻查 - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRzBVMUNuT1ZYb1JfSVVLZGFxbWtNNmg5T09XWXNIYjhvdFZJazdIMjVDMkhoYWRlZHd0QVR1NGJtcEJYQnNQa3RmSGZQc3BFWDNVb3FIVzVveXdZbGtvZ2lLUmQwdGl3aVlHdl9ibHlITXdtalVGSjZKY3loWGgxck0tTnVVd1VJNEZCVUJnRWFkSWRaRXNKYXAxWnp1VEpid2JnX2RWRDJEUW1uYXlXT2dMWkFtNlFNMlA1am5feU5SMHdyaG9nZ2p2NFJEbllhVkF3eHU3YnMyUkJqa2tPX0Q3V3JGNWU5aWxBcGt0UG44UUw3RFhla1lxMG4zUHpVU3dVbjVPSVpFdHp0Snk5VlBjTGlTbDBCdkx4andaVG5UMVZGVjIzR3kwSVQ3NEg0VDNjZEc2OGQ?oc=5",
+      "site": "SWI swissinfo.ch",
+      "siteUrl": "https://www.swissinfo.ch"
+    },
+    {
       "id": "FL-1c3359b7cf24",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 04:25:01 GMT",
@@ -674,18 +698,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSeGdJTnA3TmZUM1F6UHFPVWdxakpIUG9aMWQ1REJZakd6dFlNOXVJVE1VclBpdksyZXNsVll1WkxzZ0I0MmJ6a1daTlc?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
-    },
-    {
-      "id": "FL-34c7bc79a97f",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 03:07:10 GMT",
-      "ts": 1794539230000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚附近海域发生5.8级地震 震源深度20千米 - 央视网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OVXZJRkkteElaREhrUnozNWYxV1h3SFFkWVpwQ0RMRklaQ2lvcXotZ3pLcUdYRDFQUWhBM3d3a1VtS09RRW5xTHhIal84blZ2ZFlCdXQ0ZFlmUlBXYlVOcThReFYzWWZuR1Q2N2NjWE5tWWN2cEp6TQ?oc=5",
-      "site": "央视网",
-      "siteUrl": "https://news.cctv.com"
     },
     {
       "id": "FL-47d945aca8b8",
@@ -710,18 +722,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNzE4b1Rpc1ZfT0dEVDRON1hKMXI5Z3RzSjRUeWxZU1BRalg3OGFEdk5UaU1WMU1XYzFwazQtTTZBMXZuRmYwSDlhdkY0VDk2SzVRQmwtRXdiZ3h5UnRhbXh2QU5rd2VP?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-252d5f93df9e",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 00:28:00 GMT",
-      "ts": 1794529680000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "巴布亚新几内亚附近海域附近发生6.1级左右地震 - 中安在线",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XYkxlVjF4cl9aWjQxd2EtQmxoN2VlNEpkMjBzNFlBT1hYa3ZmZXpMQjdyTUxpbU5CTHg4X3E2bzhXaGF1MXB5czVVaVJmZGZlaGFtaEszWGRXZmFJSXNwcWwzRW8wZUcxWUFCQk93?oc=5",
-      "site": "中安在线",
-      "siteUrl": "http://news.anhuinews.com"
     }
   ]
 }
