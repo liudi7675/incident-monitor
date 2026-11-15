@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-15T02:25:25.264Z",
+  "updated": "2026-11-15T09:45:11.235Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-316c26f1924f",
-      "date": "2026-11-11",
-      "dateISO": "Wed, 11 Nov 2026 09:02:21 GMT",
-      "ts": 1794387741000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "官方回应扬州江都地震成因：属于地壳应力正常释放 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkakRMNkZxZjRQVWhFbjJ2dzdpNzFwc3lHQU1oWHprZGRZZ3ltQnktTjA5dDRUT2lIdXg3S0JXNkFEZnd2R0lDckRVRDgtbnBSX2p6LVFRczFVdGd1Rm1wVTRXUDlWN09v?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://js.cnr.cn"
-    },
     {
       "id": "FL-ec27c03d5934",
       "date": "2026-11-12",
@@ -231,6 +219,78 @@
       "siteUrl": "https://app.xinhuanet.com"
     },
     {
+      "id": "FL-5f9fcf32ede2",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 05:22:59 GMT",
+      "ts": 1794720179000,
+      "scope": "dom",
+      "type": "weather",
+      "title": "新古毛夺命山洪第7天 两次水位暴涨增难度 最后失踪者仍未搜获 - 国内 - 即时国内 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSXBiZzhCM3RFQ1lndW5VUFBldnYweWowSjVNSGhwZ1puZUh2anpDaTJ1cERCc0I1QW5NSVl2YXZYWTUyRnhXenZSYzYtVTRyVjh4RTRNTHBGaE1xZWVod2owUEZDUQ?oc=5",
+      "site": "Sin Chew Daily",
+      "siteUrl": "https://www.sinchew.com.my"
+    },
+    {
+      "id": "FL-974ba27df7e3",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 04:39:42 GMT",
+      "ts": 1794717582000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "贵州威宁4.5级地震 电网稳定运行震后保供电工作持续开展 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0M2TnJQUnVlZnZtNnQwdk5ObjBMcEhPR2F6Y015eUd3T0IxSDdQVHR0ems5Wm44MS1PeFZ2RmlEbGw3UlVRWE1MNzA3Q2V5dEpKQmF1MHJlZm9nSkI1S1NmcmtpSDh1ZWtDTTdWRmJNS2FyVEdjY3p6ZnFmNnIzUE1rVlVIaG1FYWxlaw?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c0e0c9c85083",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 03:32:24 GMT",
+      "ts": 1794713544000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆昌吉州昌吉市发生3.0级地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmd2VDRLRnJ6UVdWZDVBUlM5Q3I2Q3B6a0NPS2laVV9NMHBxN1lFV2ctY3lRWUZWZjFLdENRbHd1MTJCVXpCWF9WbTBla1NwNFRRa2pEZWNJSU0wZ0VnWFBUOVlQZWlmNVE1VTFqdTlNeXd3SGVxR21BWDRBak11S0hDc2U1R0Vi?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-5af777891013",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 03:09:52 GMT",
+      "ts": 1794712192000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "黄乐被新加坡永久禁入！不起诉但遭警告 英伟达迎地震 - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NWlc4N1NSeksyLWNtUU9yUkJzQjZGVmR3alNSdkpDOVBvN01vSGNMTlhrMFRpWUU1aGNJSlRMSHZIdmZtamNwQXpxSHBFMXRUSUFoa183aGtCQW00Um5QajdQQ3pTTkd5?oc=5",
+      "site": "文学城",
+      "siteUrl": "https://www.wenxuecity.com"
+    },
+    {
+      "id": "FL-d1e39ef77f3f",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 02:20:48 GMT",
+      "ts": 1794709248000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "网传“连霍高速果子沟高速公路泥石流”？回应来了 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVpsYmM0dXA4Qm9EUWc4aEtoNDg4d2dzX21oX19KemVkRW9wQ00yY09QYW5rMW9xdE1EeVFhZm1XRy1GNlR6THVITGFJbDA5dUlBVThuVkM1Rzk3ZndOUlY2YjJWTXVUNHVSMm1FRXVYMnVWZnhzQnpXeVVwRXBDZ1hEazFkUkg5dU51cQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b3cc32af0414",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "ts": 1794708000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "网传“连霍高速果子沟高速公路泥石流”？回应来了_全球_新闻 - 华人头条",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OQ0x6SUZFSzdaeENUemk5TjM3dFA3bDRBOXo0RnM4NDZDSzZvZHVYMjFrQVF6dUN2N284d1I3MHNkdmdRQ3c5TFByR2pWdVJvLTlnNElwVXRFeXpfQXc?oc=5",
+      "site": "华人头条",
+      "siteUrl": "https://www.52hrtt.com"
+    },
+    {
       "id": "FL-98c074296180",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 01:12:33 GMT",
@@ -280,46 +340,10 @@
       "siteUrl": "https://wap.cj.sina.cn"
     },
     {
-      "id": "FL-949f0c46285c",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 21:51:00 GMT",
-      "ts": 1794693060000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "危地马拉海域3.5 级地震，震源深度30 公里|欧洲地中海地震中心|危地马拉_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WaUNmWURTeV9DckNKWlJKak01ZDBCbnljY0VySHJtdXd1bGptSXU1eU1MR1Zhd1lmeFFYZVpvSjktNlB2WGppSWV1SmNNb2pnbTdrdWg4WURDOFdObjV0SWpncw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-49e7c0c08abe",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 21:30:00 GMT",
-      "ts": 1794691800000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼弗洛雷斯地区发生4.1 级地震|欧洲地中海地震中心|印度尼西亚_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kM1FFLXVZTjBVWGZHeGJNU0UtQVJLa0Z0RFlGQ25VeVA3RTFVRXU2X3Y5MkhNeHBuZE43NjkzMlhQRzRha05CUFVUZ2dRVnRwM016RmJIdnhUbk5zTmNnUVFXMA?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-d242b58a500b",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 16:25:00 GMT",
-      "ts": 1794673500000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "深夜 00:04 的 4.9 级地震，震中在菲律宾塔比纳|美国地质勘探局|地震_新浪新闻 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtRTdPc1huYWpqdmlpcHQtX1M1Um8tcEQwOXNOckhFdmRNTV9KUm8wYWxxRl9RcndKaHpFbzZfdVV6MDgxZXd2cVdIb0c0VDZTUm9tZ1pBTVpzZmZVZlc1WC1IQQ?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
       "id": "FL-8002e81f4e41",
       "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 13:08:18 GMT",
-      "ts": 1794661698000,
+      "dateISO": "Sat, 14 Nov 2026 19:08:18 GMT",
+      "ts": 1794683298000,
       "scope": "intl",
       "type": "geo",
       "title": "日本“副首都”来了，万一东京被地震抹平？ - 风闻",
@@ -376,30 +400,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-b623368b6afc",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 05:46:50 GMT",
-      "ts": 1794635210000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "对一起坍塌事故发生负有主要管理责任，北京北排建设公司被罚 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnVMeElXTjVrVVBBc2hEYlBkbVVGSS1qYkRvOXZNLUNpazQ3TVNzOEVCY3lHdThNek4xMDBTeDZna0hxVS1SajhKaUhxazl5MHFBdTh4Q195MUVDczJWMFhweWgwVlRsMktWQUxqcGN4OFo5Z2xLaG9WRUNmc2pSdXpTNF82NEJ2UGl1aQ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-e47efbaa731e",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 04:39:09 GMT",
-      "ts": 1794631149000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "沉积盆地二维地震加重因子的无量纲参数分析与统计表征（2D AGFs） - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DeE9aTHlOUGh5YzljWWVpYUYxZHhreDdQajIyd0M1WWsya01RVGhMSGNTREduODlqSDVJYVVkMm9mbW1BNE1iVlNzUVpIejBxUnEySjJfOTdhclVvM2lpdEZUY2hFWGdicGZVQ1VR?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-40e5a2d23b3c",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 04:30:55 GMT",
@@ -434,18 +434,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xVjVsTkpTVktWeExYNEJ3cU1zNmZueGxIV3hOQ1RpOFAzMmxiZ2JMajd0bEhMUlNSSnlYY3gzdUdaUTN2YmVrQWhpZFhiWjRuMVpjbDNYeEtOVHh5dlpNaWxlM25mQVJG?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-383e5e110cff",
-      "date": "2026-11-14",
-      "dateISO": "Sat, 14 Nov 2026 02:30:48 GMT",
-      "ts": 1794623448000,
-      "scope": "intl",
-      "type": "other",
-      "title": "柏林墙倒塌37周年调查显示：多数德国人认同倒塌，前东德既得利益者更失望 - 虎嗅",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4MkppZkFNNTBKZVd4Y1ltY0FyWXNuQ0dwMkhtSjBZMjJ4b3pCNXpKdEp6SWZ4bFpXWnItWm9LbVJETmg4SzY2NElBYzdxVlZNMXRYZA?oc=5",
-      "site": "虎嗅",
-      "siteUrl": "https://www.huxiu.com"
     },
     {
       "id": "FL-dd14070b7bd0",
@@ -532,6 +520,18 @@
       "siteUrl": "https://www.cls.cn"
     },
     {
+      "id": "FL-55bba8d515b4",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 16:30:47 GMT",
+      "ts": 1794587447000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "新疆阿克苏地区库车市附近发生5.3级左右地震 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWNOWl9FZHBtVmJEWkFlel9lZWZJRFBiMzdCRGo0SmVIQkxyaHNmSy1aQjdJYnlra2oxVnZoMW9zX0VCYXFwUmtyWGZhblNkZno5RTdJb2o1M3Joalp0SFpaZTRWakZYb0NqVWJJRDVzcjRMTDVjYU1jeEZYN1Rab2ZNcHl5X2ZzcDJPVQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-5469dccc4ae5",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 16:29:53 GMT",
@@ -590,6 +590,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83UVZUQURXSC1FZUJGZjE3MmN1ZE5ndUs3M2hvZ2cyM2VfZXZraWtSVnF0YW9oSzAwTHdWU0NkRGVLSnBxTWtDX1RwXzU1YlBwaEFMT2VSTUxId2lMdzMwRm1pSF95dw?oc=5",
       "site": "央广网",
       "siteUrl": "https://cq.cnr.cn"
+    },
+    {
+      "id": "FL-4232fd1e95de",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 10:45:51 GMT",
+      "ts": 1794566751000,
+      "scope": "intl",
+      "type": "other",
+      "title": "内罗毕一栋建筑倒塌致6人死亡 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40NV9nelVWaVZqX1NPcUtrQlJJeklyRlZiUjJoTTY1WDA2eW9rU3JWc0wyVmYyWG5CUnlDWTZVek1lakdJMERONWhUbE1BaHVtLVN0X3NzQ0FDUjZxbmc?oc=5",
+      "site": "京报网",
+      "siteUrl": "https://news.bjd.com.cn"
     },
     {
       "id": "FL-c07e90fbba02",
@@ -698,18 +710,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xNzE4b1Rpc1ZfT0dEVDRON1hKMXI5Z3RzSjRUeWxZU1BRalg3OGFEdk5UaU1WMU1XYzFwazQtTTZBMXZuRmYwSDlhdkY0VDk2SzVRQmwtRXdiZ3h5UnRhbXh2QU5rd2VP?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-c87395b7744c",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 01:18:36 GMT",
-      "ts": 1794532716000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "美联储恐连加三次息？华尔街担心：股市正低估一场海啸！ - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdFRsQ0pCZGxhb1hfbnJLay1DUGpoMlRNcjZwTUtyUUVoYjZ2TlQ5RFdKYTlsU0NSS21HTmpVNjM5RVAtQkJpLXgyemtybVJxY0hYaFlxSWRfS0RlLW56YQ?oc=5",
-      "site": "东方财富",
-      "siteUrl": "https://wap.eastmoney.com"
     },
     {
       "id": "FL-252d5f93df9e",
