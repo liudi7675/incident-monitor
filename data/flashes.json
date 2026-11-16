@@ -1,79 +1,7 @@
 {
-  "updated": "2026-11-15T21:29:21.799Z",
+  "updated": "2026-11-16T01:17:38.359Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-a847b6d6f182",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 23:15:59 GMT",
-      "ts": 1794525359000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州毕节市威宁县发生4.5级地震 震源深度10公里 - 华龙网",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xeVlhMHJDVHY4S1pZZVNybHZybFo2SXN5Yk0yYi11VmY3RG5tOUpxQkZuZHVDelU1SG1WOWNlX3RuOEd5NVM3T3RhbDNoMEc4anlGZE1tSW5aYXdYR1F1WUZ6YVlqck1RNGNr?oc=5",
-      "site": "华龙网",
-      "siteUrl": "https://www.cqnews.net"
-    },
-    {
-      "id": "FL-6b1a90eb97f1",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 22:28:00 GMT",
-      "ts": 1794522480000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州4.5级地震！多地震感明显 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JM05JOUlwQm1SMHAzZUtQN2xNLUZ6VUFnRmU4Nlk5TG5kSFVSRHZfZ1FjNGpwbjZnR3dxMTJHeTVLX0NxOVRmRjMtN2tJUlFFaFQ4WVE5TS0xdTJBaUoxWQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-4ba2f3cb5e1d",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 22:03:00 GMT",
-      "ts": 1794520980000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "突发 | 刚刚，贵州4.5级地震！ - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aU2FEYmpYbnQ2R2hId0FKVkFSaXROa1BTZDRJX3pFYVRBRkZ1bHNJNkdqTHZYTnZFLWltVGlWbUw1aTBLNm1WVm0wUVpULWIwYzFkUEl6MEFWZzVvQXZuYw?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-a6af46f6ac46",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 22:00:41 GMT",
-      "ts": 1794520841000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州毕节市威宁县发生4.5级地震 震源深度10公里 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12TTIwUU9sSUMtUDc3eVpROVdhRXI5WGI1UDNzbllKMVB5bTYzLUNOV29KcDZIdWVrVGtRNWxsN0FwcUVJdThlT1V1R1pjOVJJTHk4NmFIX09FX1U5bUxMTkcybVJFbzBl?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-fe8cba399e09",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 20:22:00 GMT",
-      "ts": 1794514920000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州威宁发生4.5级地震 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aSzNObUFXZnNxRkNMdllYcVNpcVJEc3JBUUVoTUlHVVpOcFB4b19pWXZWWjhycERQUWp2em9odU9GcnJCV0J6ZjA3YnMyWXZyQnBvS0ZBM3R2djRfczN2ZQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-023377035126",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 20:03:00 GMT",
-      "ts": 1794513780000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "贵州毕节市威宁县发生4.5级地震 - 新浪财经_金融信息服务商",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTNjRXRhbU9ZcE1GQm5ZajktbXRMNnNkT2pwazZpeTFrbVl2QzA2TUtocG4xMVZSa3paRG1aajFMS2g4d1lDZ0NxbFRwcW9BeWZxc01XTWlEOTg5YmE5YXBOemxaQVVOVHJ0eVRqakFyU2FSZ2JLT2tzQWlMVGt5dEcySllpVlN0RTMzTDFoc2dhbnV0eUtfVQ?oc=5",
-      "site": "新浪财经_金融信息服务商",
-      "siteUrl": "https://finance.sina.cn"
-    },
     {
       "id": "FL-d3d324c893cb",
       "date": "2026-11-12",
@@ -99,136 +27,16 @@
       "siteUrl": "https://www.rfa.org"
     },
     {
-      "id": "FL-2a6475bbb397",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 15:20:43 GMT",
-      "ts": 1794496843000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约楼房倒塌死亡人数升至8人 - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RbS04dFZVNmUyZHZST2ZULWRZQlFzN2FiaW9rU0tocS1nTnBoZ0RuNkJjcDVnME5IdzNxTmlFbU14dUgyYjAySzUwajQ3T2JkWmZkQTd0dXBBX2swWUhZdQ?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
-    },
-    {
-      "id": "FL-88315c9ffe16",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 14:52:00 GMT",
-      "ts": 1794495120000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约楼房倒塌事故已造成8死17伤 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTdoLVVxVHREb2NmTG5MUFlIazhNamZ6NlNHZC13QkFaeVl1bXYzclAxNUdtYTM0cFNBZ1pQUjdpVmNtRXQ0anBHRFFjS0g4RkFWSmFyOUZhbVh3V3ZQRVliYjdVQXZkeHRQdzFfWG9ObExHWElOSFpvbXpSa0dIQ095cHBxZw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-d79f635c1c2d",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 13:46:19 GMT",
-      "ts": 1794491179000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约一座三层建筑倒塌 已致8死17伤 - 央广网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEbUFQcDBtYkU2QXlHLWVWal9uMzBNblBRdEpJMzZ4bmx0TnBIanRNUGNpd1ZySUd2d2pvQ2h0MS0xNFp4Y1laaHMzNFVUSGh5SEctWUNtazA4QUMxWUhyaXVEcHlTVHll?oc=5",
-      "site": "央广网",
-      "siteUrl": "https://news.cnr.cn"
-    },
-    {
-      "id": "FL-7cbbc1b6bde2",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 12:42:31 GMT",
-      "ts": 1794487351000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约三层楼倒塌 至少8死17伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TWlFEckRPVFE2SHRvUUNIMmI5cjN4cVQ5UVZlWk55SzN6VUgwYUZVenpCOGQyM0J0bzhqVVpEQVFaZlJ4RkpKUXFwWlRrS3l6QXNjYlV0a1cwYm5qREotTUlsM0xaT3RKejJaWjB5SmZtQlpMYWppNTFJbkk4Wlk?oc=5",
-      "site": "新华网",
-      "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-d8253953a557",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 08:42:43 GMT",
-      "ts": 1794472963000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "美国纽约一建筑发生坍塌事故 现场遍地瓦砾 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2dXQxdS1fVk1hOVM3YkZ1UGF6bWRqTUg3MlRJOGFsTWZzemRrVE9Rc25mY2JEUlFfZ0xuT3FWS25nQmlyb2hFSEI0Y3lVZkdEZ2dMaXVlcFVyTGFqMUowcXltRlc4cmFhUUFkZU5BLW8?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-34e8be6a8b6f",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 07:05:05 GMT",
-      "ts": 1794467105000,
-      "scope": "intl",
-      "type": "other",
-      "title": "纽约建筑倒塌死伤攀升 增至2死至少17伤 - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQM1ByQXNtMnN0RmpQZXNGcFJUMFZuZ2pqWTFnQ0xjeHdGdVJPNWxVNkt4M0pmd2lsajBrV2k2UG5sV1VzRm8wV2xjUWlWMzlOMzZ0T01DR2lIbHVHS1ZOdS01eTZ0TnBER1dSYVdnOElONG02aDRyWU9ZcWdLQm9fcE1SMmhRTUNWYnJJakktUzRLcFZ4U3J4Ykc1OFJLNXRtODlQN28tWTZhSDR6OXh4WGwwS1hMeE9sUWhoZ09wX3ZTY25vckctM213WC1mY1JVT21WQUwyUTZpaF9xb01GWEM0Z0JQRVJuczc0R2pCdWFDTExMX0dHWEtlQWZQSmE2ZzZfM0JtekZqTklFT1FFbEhsTE0?oc=5",
-      "site": "SWI swissinfo.ch",
-      "siteUrl": "https://www.swissinfo.ch"
-    },
-    {
-      "id": "FL-4f3fa599bddb",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 05:56:33 GMT",
-      "ts": 1794462993000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约三层楼倒塌 至少2人死亡多人受伤 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODRQaHhVeHdiTDhkZS1wLWpFaHc4dUNQZTBMWXZxcFppUWRoQlQ3bFBKOXBGRTdVeGl6aElYaERERHpZVkFPQXlNakswVzQ5d3RzU1Fabll1YXpiQVZlcHR1N1BwZ1JDd2N5ek50aHQ0emRwSEFlWVRCOU12OHpTZlhCb1RIUQ?oc=5",
-      "site": "新华网",
-      "siteUrl": "http://www.xinhuanet.com"
-    },
-    {
-      "id": "FL-b8d47dcf59c9",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 05:06:28 GMT",
-      "ts": 1794459988000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约一楼房倒塌致至少2死17伤 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vcHRPNHVFOUItSHhqMjVqR0E2MkNId2EtUU1uVjhndDZJY010djNKWUFmdTR5LTVYelJQRnR3YlBYcjl6YVNhN0hBQkEtLWxwVGJaX1hFMkZjcW10NG5WX004OVFPTHJV?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-d1bda3e3d1c6",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 02:30:48 GMT",
-      "ts": 1794450648000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约三层楼倒塌 至少2人死亡多人受伤 - China Daily",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNV9MR2xvNERqSXhKQThjNWtuN0tydUluZzZwaEY2bTd2V2lBN3RfYUNLdWIzTjNfdHVsem5HYnFoRjFZa21WZ2lTaWoxYUJzM21tLUN6VU9qMVZZZm1ZSnZTa0hmZkxIYnhuSW5sR3JfZkdBMzI3U19jSzRURkY3bQ?oc=5",
-      "site": "China Daily",
-      "siteUrl": "https://world.chinadaily.com.cn"
-    },
-    {
-      "id": "FL-e7206420b27d",
-      "date": "2026-11-12",
-      "dateISO": "Thu, 12 Nov 2026 02:15:31 GMT",
-      "ts": 1794449731000,
-      "scope": "intl",
-      "type": "other",
-      "title": "美国纽约三层楼倒塌 至少2人死亡多人受伤 - 新华网客户端",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm42S3dfZVV2bml1TEpRTEZ3Qi1LS0xjRy1Ldmp4bEdxNGc5TkhOYlVqVzJPSG9rbEhnTFktNW9uV2lIUjlqanhMd09abk9wTXl3MHFGQkZqRWpBdTgtUjY2UkVsT1djQWp5cE9nZXkwNEhDOUFVMy00LWV4dHZVempRajh3em5wdkNsOTRPY0dzeW1GN0tYQndn?oc=5",
-      "site": "新华网客户端",
-      "siteUrl": "https://app.xinhuanet.com"
-    },
-    {
-      "id": "FL-3ceda1aaed7f",
+      "id": "FL-2a97f4e91119",
       "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 18:28:34 GMT",
-      "ts": 1794767314000,
+      "dateISO": "Sun, 15 Nov 2026 23:18:00 GMT",
+      "ts": 1794784680000,
       "scope": "intl",
       "type": "geo",
-      "title": "阿富汗兴都库什山区域发生5.1级地震 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qdVFlS0hETVhNVHQwQ3ZaM19qWWhCV2pwc2pPa1EwWkR4S1cwVmE3NGNzSy1KLTZoRnJGamVMSlJrcFVYWEdnYmJTTQ?oc=5",
+      "title": "智利阿塔卡马沙漠4.2 级地震|智利大学地球物理研究所|地震_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41Y21JMnZ2c3ZEUjljUXFqS0pXUWwwck9Sclg0djQyNm9mZ09jdjFGMmRWMWFySll4QjFiSkpMMUtmMUFaSGdrQmlLcUVxYTY1Ykl0THpUYXg4VjJJSFZzbmdEbw?oc=5",
       "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
+      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-6776ed5281cd",
@@ -245,8 +53,8 @@
     {
       "id": "FL-b2d1e9aad009",
       "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 17:34:15 GMT",
-      "ts": 1794764055000,
+      "dateISO": "Sun, 15 Nov 2026 17:34:10 GMT",
+      "ts": 1794764050000,
       "scope": "dom",
       "type": "geo",
       "title": "教宗在库斯科念三钟经，向地震之主献上系在腰间的布- 梵蒂冈新闻网 - Vatican News",
@@ -281,14 +89,38 @@
     {
       "id": "FL-4463b203932c",
       "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 11:29:16 GMT",
-      "ts": 1794742156000,
+      "dateISO": "Sun, 15 Nov 2026 11:29:14 GMT",
+      "ts": 1794742154000,
       "scope": "dom",
       "type": "geo",
       "title": "【视频】30分钟让智能SUV“地震”，星钽5X上市家庭需求120%满足！ - 汽车之家",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzYkgxNUZMRjhvY0JMa3E5VklEZDU0T3ZIWDlvZWVJUE9adEY5bU44dzlqZVhGU2tYOTRhVUd6V0EwWnR6aXotVHFjSGlJbnh5SWRrYU1WTXFpUEFzbmJCR3dLdGNfTld3RlA0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWR3ZPelhwN2pDSU1xdDNZVW9UcWRiVnJqeVRhVmJGbFpxT2JZOGg5bVFjcDVOMzdBZ3JLX2VESGhzeTdES3REanlzQUpMME5DREtoZ3F3alZmb00?oc=5",
       "site": "汽车之家",
       "siteUrl": "https://chejiahao.autohome.com.cn"
+    },
+    {
+      "id": "FL-b6a9f71fc515",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 10:18:02 GMT",
+      "ts": 1794737882000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "牡丹江一居民楼有阳台部分坍塌 ，多部门介入调查 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGJOR3gtOUxoc0pzU0Q5R1gxakhPLS1sZjdCdzlQV3NEZlY0b2hPTjUxejRvaXVzWlBqQ0xTbFVsbFllaXVkcm1oZ0VfZHpWRFpyOFpNZzVPV3lYa0VXZ0xlWm1iTzBnWHpNU0hwUEJlamR5Mm9RdVJpZUJYVF93cUFWYjlESFE4?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-196cc544b911",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 09:25:38 GMT",
+      "ts": 1794734738000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "官方辟谣连霍高速发生泥石流 旧闻翻炒勿信谣 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4QUF5SVAyZEdKa1lndV9hakdXeWk3dUYwQ3pWNWpxangyOF91cEV1T3NDNGtfc1BHUEEtRGdDWWo5OGRTbWh1ZlZtQmxKR0puRTVZQ0QwUF90YnRSOXBEbmEyUjVXXy1wMEdZcnFRem8?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://news.china.com"
     },
     {
       "id": "FL-7ca229c39a8c",
@@ -339,18 +171,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-53ec7c4747bc",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 03:06:00 GMT",
-      "ts": 1794711960000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？ - 早晨报",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LWE91RDdKVHZ3SWpFdGlBM2p0N3BPZ0I2Y1JuOWpHVDI2V01qc2llQWMzVC1ZYWxUNldfa0hBVWNHbE1IeUZsbFF4WEZ6aHBLMUNSX0V2LWh0SFRMZl9lUGRxcmp6UGV0b2c?oc=5",
-      "site": "早晨报",
-      "siteUrl": "https://www.zaochenbao.com"
-    },
-    {
       "id": "FL-d1e39ef77f3f",
       "date": "2026-11-15",
       "dateISO": "Sun, 15 Nov 2026 02:20:48 GMT",
@@ -361,6 +181,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcVpsYmM0dXA4Qm9EUWc4aEtoNDg4d2dzX21oX19KemVkRW9wQ00yY09QYW5rMW9xdE1EeVFhZm1XRy1GNlR6THVITGFJbDA5dUlBVThuVkM1Rzk3ZndOUlY2YjJWTXVUNHVSMm1FRXVYMnVWZnhzQnpXeVVwRXBDZ1hEazFkUkg5dU51cQ?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-b3cc32af0414",
+      "date": "2026-11-15",
+      "dateISO": "Sun, 15 Nov 2026 02:00:00 GMT",
+      "ts": 1794708000000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "网传“连霍高速果子沟高速公路泥石流”？回应来了_全球_新闻 - 华人头条",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OQ0x6SUZFSzdaeENUemk5TjM3dFA3bDRBOXo0RnM4NDZDSzZvZHVYMjFrQVF6dUN2N284d1I3MHNkdmdRQ3c5TFByR2pWdVJvLTlnNElwVXRFeXpfQXc?oc=5",
+      "site": "华人头条",
+      "siteUrl": "https://www.52hrtt.com"
     },
     {
       "id": "FL-98c074296180",
@@ -398,6 +230,18 @@
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
       "related": 7
+    },
+    {
+      "id": "FL-52e8f2aba4e5",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 20:32:00 GMT",
+      "ts": 1794688320000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "上学路上遭遇山体滑坡，路过司机把4名学生从泥泞之中“拔”了出来 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SWTdseWkxU25wT2V4OVE1R0lhbFl1N19idGlxS0V4VFEtd3RfQTlHT1RFNkMwZy1RRE0xVGNWVXFzcmpDNUUxTlpldWREUUZNWU1iNTVn?oc=5",
+      "site": "腾讯新闻",
+      "siteUrl": "https://news.qq.com"
     },
     {
       "id": "FL-f885ebc86638",
@@ -472,6 +316,18 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
+      "id": "FL-810414ecdd41",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 03:47:00 GMT",
+      "ts": 1794628020000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "应对三峡库区危岩崩塌水上联合演练举行 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUpwLUZjUkMtQXc5aHJ6V3F0eEl5U09qZE45bGM1VnVOUndrZTBsczBFN2FUTGFkZ1dSR2R3ZkNYc3Nvel9lZFh3V21ReW9DTmh3YXZteWdaYV8telRNQjlCSHU1X01kZDc4Z01PUDhWY1JOcENyajAtUWJQUlRXYk0zZkVuV0NyVGlpVA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-383e5e110cff",
       "date": "2026-11-14",
       "dateISO": "Sat, 14 Nov 2026 02:30:48 GMT",
@@ -482,6 +338,18 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4MkppZkFNNTBKZVd4Y1ltY0FyWXNuQ0dwMkhtSjBZMjJ4b3pCNXpKdEp6SWZ4bFpXWnItWm9LbVJETmg4SzY2NElBYzdxVlZNMXRYZA?oc=5",
       "site": "虎嗅",
       "siteUrl": "https://www.huxiu.com"
+    },
+    {
+      "id": "FL-2845f87c6ff3",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 02:19:00 GMT",
+      "ts": 1794622740000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "泰娱大地震：运动手表新功能，让姐夫和嫂子再也藏不住了|WHOOP|泰百|泰腐_新浪新闻 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZkhyejFMZG4wOVA0TFdhSEdqMTNsS3VjNk14dXVXWS00UThCWlRPLVNXTFVheThyMFVoeXJUYjlsZS1BbFpnVWktWWRqUktrRzF2b0FtR0VFa0Z2bEs1QTRTTQ?oc=5",
+      "site": "新浪网",
+      "siteUrl": "https://www.sina.cn"
     },
     {
       "id": "FL-dd14070b7bd0",
@@ -508,6 +376,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-19bbe0b6c94a",
+      "date": "2026-11-14",
+      "dateISO": "Sat, 14 Nov 2026 01:25:10 GMT",
+      "ts": 1794619510000,
+      "scope": "dom",
+      "type": "other",
+      "title": "渗透率67.5%创新高背后：燃油车“塌方”、出口托底，车市正在换挡 - 爱咖号",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4za1RkOUZud0FuSXMzVGQ3SVozeE5jU3VjeHpwUWpPR1huYUtXa1BXWnhkNTljOTVXV2gtU2lMdVJvTkNkemhjYk9QRFlwSnpPcld1d0s2RmM?oc=5",
+      "site": "爱咖号",
+      "siteUrl": "https://aikahao.xcar.com.cn"
+    },
+    {
       "id": "FL-676735fca8f3",
       "date": "2026-07-11",
       "dateISO": "Sat, 11 Jul 2026 07:00:00 GMT",
@@ -518,6 +398,30 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb09jY09WOHlCWU5PWkhlMy1EZmFiMVIxcms2UGtCQlBfbTBJd3A0THlOOHprR2lTNTFyT003UDYyUmJtdkR5NVpjTEdIMzNWLUMtYWZtUWx1cWxndVZOdjZjOXdOc0Z2ejNxR2p5ZHg1WExkaGNXaVFJb0Q5dWx4bG1YNUZiTGFudms4?oc=5",
       "site": "苏州市人民政府",
       "siteUrl": "http://www.suzhou.gov.cn"
+    },
+    {
+      "id": "FL-cfa7e578b509",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 00:13:45 GMT",
+      "ts": 1794788025000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "地震与降雨复合灾害下桥台斜坡稳定性耦合分析及格宾垫加固效能验证 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ydkc0dmsxODg2ZlVEdlZTODJmSHZ0ZGxtaTV6dUx0OE13azEwQTBhLUk4LVFZeElIWVlWUlBsbTJCM3h4Tk1jcnhIcHB1eWZMUXo0eVJPUzkzbnRjcTRnaWpSdUwxX0lNN2NaX093?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-6f5e60a6a466",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 00:03:21 GMT",
+      "ts": 1794787401000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "浅层地震折射法在埃及苏伊士湾艾因苏赫纳地区岩土工程表征与地基承载力评价中的应用 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00SHNsSUNyVjdLTEFQdnM3aFJXSF84bUNiVTgtZ1pkX2NRajZ2RkcyeGFqYUVIUGtmMkhmeS1iMzFvUktOcC1nOW9HeFpyc0ZKSVhGQUJETXI2dVl1TDVqQUlzRUJETnJJaGcwaU9R?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
     },
     {
       "id": "FL-4ea2436af6f6",
@@ -532,6 +436,18 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
+      "id": "FL-bde41bb8aa71",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 17:14:40 GMT",
+      "ts": 1794590080000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "肯尼亚首都一在建楼房坍塌致6人死亡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZV9zSWhXQmJlc0lOZ09uLWUxajU2T1Z1enpsOHgtOFhYNVhyaW1tLWZhSWFlX1hBMUE5aXpCNFZTbjZsUFg1NHNVVDhZMmlRNXdtdXg2UURBWnRubWJZRk5yc0dXcGxpZUxvMmNxOVkzRjZPeTduaEJBc0NhV1h4QWxuejR3UGRNSG1fOA?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-67234774ae58",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 16:48:36 GMT",
@@ -542,18 +458,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9veEdEN280OU9tbTc5cDJsSkh5MXFja3lqTVRWQ0FLenVKa2tYU0EwZjMyTUNNS2JRZTczREZQOG1Jek1IOGZNYno5d3hGVlNQRGZyd3RiZWdBcGhyOTRETWlLSzN4c29PeWdCc3JGSDVGUQ?oc=5",
       "site": "央广网",
       "siteUrl": "https://xj.cnr.cn"
-    },
-    {
-      "id": "FL-e02bf0814fba",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 16:48:00 GMT",
-      "ts": 1794588480000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "新疆阿克苏地区库车市发生5.0级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDNHbXBrT0llRjhTWHptbDJEWW9sNjBzRS1lRFVoVHJEczc5RHBrWmIzTURHa3hQRzdnODlWQkR2YzZfdlJDRGZEUGxMTjJ4UFg1R2VuMmZaQWtEdTBGY2FsRmJ1OERTSXNtTlplTHNvdW1zS2VRcWNDdm55QkNBUUljM3JNcnJO?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
     },
     {
       "id": "FL-6c546c6f698a",
@@ -604,6 +508,30 @@
       "siteUrl": "https://news.ifeng.com"
     },
     {
+      "id": "FL-313d9a830ffc",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 16:21:53 GMT",
+      "ts": 1794586913000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "中国地震台网自动测定：11月14日00时17分在新疆阿克苏地区库车市附近（北纬42.19度 - 汇通网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sU2RkLXJmSER3U3RkYnVwWXNzRS02LWJ1N3h5TEI5aURXOWZOMWdnbGMwTHluM2VNNmhxbTd4LVFmdWhQMXJYNWR3TjI3UzBrMFZhcUtkSHlVQzdSbDY5VmdsSllrYm8?oc=5",
+      "site": "汇通网",
+      "siteUrl": "https://www.fx678.com"
+    },
+    {
+      "id": "FL-d29c70621a79",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 16:00:00 GMT",
+      "ts": 1794585600000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "无人机、无人船、AI智能体齐上阵！三峡库区举行最大规模危岩崩塌水上应急演练 - 长江网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWOGhVZ3g2cmRobjI5QkxCWks4N2Y1X01LWFBaOUE0OWNlbldMLUNuM2tPSzNJNWpvX3Ntb0JZQjNtcVYyTzE1S085ZExuZEdiY1VPMDJ2MU96cnZiZjNGUlhOZkFCQQ?oc=5",
+      "site": "长江网",
+      "siteUrl": "http://news.cjn.cn"
+    },
+    {
       "id": "FL-dc93e17a42c9",
       "date": "2026-11-13",
       "dateISO": "Fri, 13 Nov 2026 15:47:47 GMT",
@@ -628,14 +556,98 @@
       "siteUrl": "https://www.news.cn"
     },
     {
-      "id": "FL-d48b1f96cc90",
+      "id": "FL-1791ba4b185e",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 10:07:57 GMT",
-      "ts": 1794564477000,
+      "dateISO": "Fri, 13 Nov 2026 12:39:10 GMT",
+      "ts": 1794573550000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "三峡库区危岩崩塌水上联合演练在云阳举行 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83UVZUQURXSC1FZUJGZjE3MmN1ZE5ndUs3M2hvZ2cyM2VfZXZraWtSVnF0YW9oSzAwTHdWU0NkRGVLSnBxTWtDX1RwXzU1YlBwaEFMT2VSTUxId2lMdzMwRm1pSF95dw?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://cq.cnr.cn"
+    },
+    {
+      "id": "FL-cb7620362cbd",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 11:20:43 GMT",
+      "ts": 1794568843000,
       "scope": "dom",
       "type": "geo",
-      "title": "威宁发生4.5级地震，暂未发现人员伤亡和重大财产损失 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3NZU1VvVVl6X3cyX2g0cEhIcFlLNHBDVk12Z1hsYVZmenRobkJtaGNKS1Rqc2l4VnJNaDlSX3FVOHBEc3JIYWo5ZG9lRHZTRjEweEx2cTc2NzdtS1BGOUZ3aVozRDFvMHF5dVVqRWw4VkoyMEdBLXlhcmZKUEVBcHN0WEdhZnRS?oc=5",
+      "title": "山西大同踩空区塌陷，并引发地震？官方回应 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHZhT1Q3UHMyaEVFVDBnbWppWVZRQTBwdFVYZTJ3dVBQQ3F5bXVDaW9kODhQT2UzZklSVDU4QVBEM0pQWVVCR29KUlJkT1Y3dzJ6SU1NRXl6VWdyR3JjN2Nyd0I5TUdIUXlJWDBXWGhoOG9rZlhOajNmYUlhYWdlTlNuRUwyVS0x?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-7b00d99db3e1",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 10:39:49 GMT",
+      "ts": 1794566389000,
+      "scope": "intl",
+      "type": "other",
+      "title": "路边大型广告牌突然倒塌 印度男女骑车被砸中 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYThsdzNCUi04RzB2RWgzemtCR3F5dFRDUHJMTUtlRjdIN2ppb2dhQmp6cHQ0eWJoY2h4Rk5mNDQ3Rzg1alN1OHdYSUMwSWtyclJhOUpMa2JxRDdNdWx6UkZER3RHbVFLZEltU2R4SW5CTmR3WkZsanR0eU81RXpSMkdUTVJFclBZY2tVZUxHNnBqekhpYkNsamhtMVBCY3Jx?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-3cb5e696c4db",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 10:14:21 GMT",
+      "ts": 1794564861000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "2026年应对三峡库区危岩崩塌水上联合演练举行 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXFTc1hRbUlwaXZsQ1VBYXRJakNSWHBqcUFqaUtVeERhLWpSaDNLSmtfWElmYVhjQlZ3WFdxV2FZYWNtdEpjN19MLTh3ZHNWLUZmU0lHeVVTcE9nQ21IYW9WZjhKdlRzOXpHSHhnaV9BOU1YS1hPWnU2RDd2R3ZKaE9ycTZyNFJC?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-c07e90fbba02",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 10:11:15 GMT",
+      "ts": 1794564675000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "2026年应对三峡库区危岩崩塌水上联合演练举行 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KTUFYbnBVeF9Qc2M1UHdiWkxWZnhXLUQwTXI1MXA4MjU2WE1OcTFWRHJHSEtHZGU4OXZ4SzBtbmNYUVZoQkRuLURkUEdObGJVdG1FRWkzU2c5OVhuMG82eUNDQXlVNzMx?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "https://www.chinanews.com.cn"
+    },
+    {
+      "id": "FL-c800baeadee7",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 09:52:22 GMT",
+      "ts": 1794563542000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DTGVrWDQyZXpMa3drck5yWkJxUHNIZWxyQXpGVTZ5SUlvSHJJSVZyZzZiMjFod0NCMmFqV2lGRWh6V2p4Q0ZrRXA1S2N5bUgzYWdZbGtkV0t3TE41UG8yNWltaVFrekXSAWxBVV95cUxPcVBraC1INmloNVVvWjN1Nm44LVdzNzgxem5ZV2NHZ2lqXzROeFlXQ1ZobkdwalpRZnZuLXA2VnRCY25YbVR5N2pkWlNkNGM4Vi1uWllWb1JGN0dlaElxMzB6akpwMnI1Z2dDX0Q?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-79d181b0f987",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 09:51:10 GMT",
+      "ts": 1794563470000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "2026年应对三峡库区危岩崩塌水上联合演练在重庆云阳举行 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEJKaVE2eV9Na2l6MHJKS1M5RnNOaldaV1g3OTRKajZ6dGlULVU2SUpzSjVBcVhYeHg4UlpyUHNvc244UEhKcnBRWng3cU1CdWVoWGNzTDFPSFZ4bjl6bGViWEVSWlh0VFkzblVwNTRLT1JSWWRnOEswZXVFOS0yNm9BMUlzejRfbmZBZg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-13ca67fa57ec",
+      "date": "2026-11-13",
+      "dateISO": "Fri, 13 Nov 2026 09:37:00 GMT",
+      "ts": 1794562620000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "2026年应对三峡库区危岩崩塌水上联合演练今日举行 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWndRcktCYV8zZXVGVDhsOVQtbGQyWjZTVXdLbWJEYmRxSElXUlZqRUIxclNkZk1KQVNjbHBjTDJuUkJuN3JIc1ltQUFKTGlzR0s3Y1k0N19HMFVxQk5JZThpbmU4MmdpZ1NhV2FVZldvUFdqM2NZZ040UlJPT0w0SnppeUdseFAw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -652,16 +664,16 @@
       "siteUrl": "https://feng.ifeng.com"
     },
     {
-      "id": "FL-9516ec3c9965",
+      "id": "FL-b7c6b7b68d51",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 07:51:32 GMT",
-      "ts": 1794556292000,
-      "scope": "intl",
+      "dateISO": "Fri, 13 Nov 2026 07:57:02 GMT",
+      "ts": 1794556622000,
+      "scope": "dom",
       "type": "collapse",
-      "title": "第1现场｜纽约住宅楼坍塌致8死17伤，曾被指“裂缝明显” - ThePaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00MG5tZG85R09PWE11RHV6S0dFV09WTGZBWjZ2NlRxeFlORkhoMy0wODNJZlRtaC1pcXB1MS0tOWNZbW4tMEFab1RETnFNTFRqaXNkWjVIb3FtcEJ1NmFPcg?oc=5",
-      "site": "ThePaper.cn",
-      "siteUrl": "https://www.thepaper.cn"
+      "title": "2026年应对三峡库区危岩崩塌水上联合演练在重庆举行 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVl9IZ0FYT1dBcFEzX1FVX29lYjYxcFF1Z3pPMDVWSVpwUTVrTzdmNUd2R3JOTkFZS0M1VG5Fd3AtYUl3MVRpakdCdjRQSnJ0UUhDRWFEYmE5U2tua0N4MkJkeXBhTlVqcGx1ZW5wbFF5Vm9FOTZjUmE1anFGSFpCQlFJc29WUQ?oc=5",
+      "site": "新华网",
+      "siteUrl": "http://www.xinhuanet.com"
     },
     {
       "id": "FL-aaef54f8e61d",
@@ -676,28 +688,16 @@
       "siteUrl": "https://gz.cnr.cn"
     },
     {
-      "id": "FL-f4a76aa36a5d",
+      "id": "FL-f96689759810",
       "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 07:05:01 GMT",
-      "ts": 1794553501000,
-      "scope": "intl",
-      "type": "other",
-      "title": "纽约3层楼建筑倒塌酿8死10多伤 市长承诺彻查 - SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRzBVMUNuT1ZYb1JfSVVLZGFxbWtNNmg5T09XWXNIYjhvdFZJazdIMjVDMkhoYWRlZHd0QVR1NGJtcEJYQnNQa3RmSGZQc3BFWDNVb3FIVzVveXdZbGtvZ2lLUmQwdGl3aVlHdl9ibHlITXdtalVGSjZKY3loWGgxck0tTnVVd1VJNEZCVUJnRWFkSWRaRXNKYXAxWnp1VEpid2JnX2RWRDJEUW1uYXlXT2dMWkFtNlFNMlA1am5feU5SMHdyaG9nZ2p2NFJEbllhVkF3eHU3YnMyUkJqa2tPX0Q3V3JGNWU5aWxBcGt0UG44UUw3RFhla1lxMG4zUHpVU3dVbjVPSVpFdHp0Snk5VlBjTGlTbDBCdkx4andaVG5UMVZGVjIzR3kwSVQ3NEg0VDNjZEc2OGQ?oc=5",
-      "site": "SWI swissinfo.ch",
-      "siteUrl": "https://www.swissinfo.ch"
-    },
-    {
-      "id": "FL-1c3359b7cf24",
-      "date": "2026-11-13",
-      "dateISO": "Fri, 13 Nov 2026 04:25:01 GMT",
-      "ts": 1794543901000,
-      "scope": "intl",
+      "dateISO": "Fri, 13 Nov 2026 05:31:57 GMT",
+      "ts": 1794547917000,
+      "scope": "dom",
       "type": "collapse",
-      "title": "纽约建筑坍塌瞬间屋内监控画面曝光 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSeGdJTnA3TmZUM1F6UHFPVWdxakpIUG9aMWQ1REJZakd6dFlNOXVJVE1VclBpdksyZXNsVll1WkxzZ0I0MmJ6a1daTlc?oc=5",
-      "site": "凤凰网",
-      "siteUrl": "https://news.ifeng.com"
+      "title": "视频丨深水救助、航道抢通……直击三峡库区最大规模危岩崩塌水上联合演练 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aUlpJLWQ0R3ppRWZpdmxzN3ZyQXl4TTFwTS1OSFhQWElTQUFNV0RoREtxT29kN296bWVkeXg3bExRWDZESURWZEFiSlhUc0lESWhleU1DWDFPSjB1Rk53blN6am1OejlreDIw?oc=5",
+      "site": "华龙网",
+      "siteUrl": "https://www.cqnews.net"
     },
     {
       "id": "FL-47d945aca8b8",
