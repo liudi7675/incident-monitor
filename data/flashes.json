@@ -1,19 +1,7 @@
 {
-  "updated": "2026-11-19T08:26:15.602Z",
+  "updated": "2026-11-19T17:32:45.653Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
-    {
-      "id": "FL-7dcdd0457edb",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 23:14:00 GMT",
-      "ts": 1795043640000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "日本熊本县发生5.7级地震 无海啸威胁 - 8world",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1V4OUlhdmhVV2N6QVZwNnhFSFI3WHVuZTR4UmEzZUR0MDFQd3hrS19rcU5qekJWeDZvTjFDSkFwNVlTdEs1QTEzZ242aHYzYjZWSlFGVXA0eFFmVXUza21uWFkwakdMclJIX0VEYVZIRHAtblpfZEJTeGUwN1JhWXlXSy1jVGl6WDRGc3ZaUnYzS1BoY2tJQjBB?oc=5",
-      "site": "8world",
-      "siteUrl": "https://www.8world.com"
-    },
     {
       "id": "FL-2cc2b376c846",
       "date": "2026-11-18",
@@ -39,30 +27,6 @@
       "siteUrl": "https://www.jiemian.com"
     },
     {
-      "id": "FL-3c45f447edd0",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 18:24:00 GMT",
-      "ts": 1795026240000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "【】世界在崩塌，我们在相爱 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ic2FKN3E4anNjUDl5aHBmM3ZaV2tycGY1NUtzeHF4Y1kwc1NGNm10N2p5NzAxUlMzSVVId190VmR3Tm9zMUJxMHRxWXZJcWZrOVYzTklTd1ZkSFlSWmtkNEZFcw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
-      "id": "FL-66fdfb5d9449",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 16:16:00 GMT",
-      "ts": 1795018560000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "德国地球科学研究中心|地震|马里亚纳群岛_新浪新闻 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Td3VHNmpaMWcyU0dTMUNkM19XQmRWN3lyS09fTkxZRFdaMWhpV2JVTXRMZUpNd2pGakhmYnRuRXZhMzk2VTItYTdMSlh0NE53RHRPWFhHVjNseXBXV2RJRkhEdw?oc=5",
-      "site": "手机新浪网",
-      "siteUrl": "https://www.sina.cn"
-    },
-    {
       "id": "FL-533c6949df9f",
       "date": "2026-11-18",
       "dateISO": "Wed, 18 Nov 2026 13:45:50 GMT",
@@ -73,30 +37,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nODVZU0NXZ211bHdTRG0tTUliUUFPaTBiSzFkb0oxZ2dMWDh6QkI1UHllc3R0SjRoZjM5OEl0V3JYRklXMS1semlWTnM5dW5sVzFCRVlLVVZFNG9IeG10djlyRVRvMDdm?oc=5",
       "site": "中国新闻网",
       "siteUrl": "https://www.chinanews.com.cn"
-    },
-    {
-      "id": "FL-b6bc88bdd945",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 13:14:21 GMT",
-      "ts": 1795007661000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "图读行业｜黄仁勋出轨风波后，A股供应链“大地震” - https://www.caiwennews.com/",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FWVY2NFRzUk1MZW5Ud3AwRlJUTnotQ1ZIRXVHamRkM1JLVFoxQlJRQXNOZWJuMWtBZXppcVFxaWNHX29keVZNdXBSblJqWlJILXF3OUlVYTFDZFRH?oc=5",
-      "site": "https://www.caiwennews.com/",
-      "siteUrl": "https://www.caiwennews.com"
-    },
-    {
-      "id": "FL-ce0fb809bb7d",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 12:47:00 GMT",
-      "ts": 1795006020000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "秦汉通航助力“应急使命・2026”陕西省重大地震灾害救援演练 - 中国民航网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRGkzMXk5Y3ZmOWczRHJRY0IybVNxYkdFSjlvZE5tUWR0SVRZWE15WWhPR2EyV3hSaHdSR3RqcUxRc2puZExLSFZYZnNQandyb05kNHJfcUxvUXdIUV9LZHYyWGwtSGNqRDJidw?oc=5",
-      "site": "中国民航网",
-      "siteUrl": "http://www.caacnews.com.cn"
     },
     {
       "id": "FL-6311cce6e3a8",
@@ -111,18 +51,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-75b29e8b6d69",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 11:09:53 GMT",
-      "ts": 1795000193000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震激励下轮胎衍生骨料（TDA）隔障对钢质隧道-砂-桩相互作用模型响应影响的振动台试验研究 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sTkxJUW5rQUNUZWJGQ1BjMUFacUwyd2ZVVk5Ucml4YkpCRWdRUHV0Wkk2WWs0U0QxNl9KNUh0cTFtN3ZWME9UcmhDOWlRYWI1dWV6ajh1eXp1VzRKbmZ2OEFyX19NeW9aOWJWSFp3?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
       "id": "FL-887392a50fad",
       "date": "2026-11-18",
       "dateISO": "Wed, 18 Nov 2026 10:36:18 GMT",
@@ -133,6 +61,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnN0RlBLa01KWEV1ekNQdURoR3RNOUxHYVhyenE3eHlNLWJ1TEtyWUYyYzVSLUFUWmVYNkhCTEh3Q3I3NFBTbTFsYlBsTEhjWDFPVGZ6TUJwOVZWb1poaFViOWd5amhHME9ka3c3XzE4ZlNJT1pXNW13QkF4cmo1WGxPWXBTcTJUUnJJYw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-9c58723c0a6b",
+      "date": "2026-11-18",
+      "dateISO": "Wed, 18 Nov 2026 09:33:00 GMT",
+      "ts": 1794994380000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "图集｜克里米亚大桥遭袭 公路桥路面拱门坍塌 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZcjhsUUFma1ZqRGFxTm9yWE0yQW1BSlhnV3NNaWhCUmlibmpqZGt2MUtvVXprNll5T3FOUVFhUDRrbmxvbDI0Q0tLaDYwWWZYdm16NENpZXprdVVKVGUxZQ?oc=5",
+      "site": "财新",
+      "siteUrl": "https://photos.caixin.com"
     },
     {
       "id": "FL-acd4e4e4aaf3",
@@ -147,18 +87,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-84787a5b957e",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 07:36:16 GMT",
-      "ts": 1794987376000,
-      "scope": "intl",
-      "type": "collapse",
-      "title": "突发！今日曼德勒发生一起拆除作业坍塌事故致1死4伤 - 缅甸金凤凰报",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaU9tRDFMMmctM2hJX2VXbVdSVkY2T1ctYVRyR3ZUYXd1Q2ZraWlURndqdFpvTHl5U1lVTlNvc004SThUdGZ0eEh2RFN1eExBTWFsSlNXeElXZGFyOGl3QktqRml1b3FpMlpIRXh6RW1hUlNmdnJ5VS0zdllaczlMM2k5eHo?oc=5",
-      "site": "缅甸金凤凰报",
-      "siteUrl": "http://www.mmgpmedia.com"
-    },
-    {
       "id": "FL-cf3beec9abc5",
       "date": "2026-11-18",
       "dateISO": "Wed, 18 Nov 2026 06:44:14 GMT",
@@ -169,6 +97,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5oam1CRDNqXy1JYnFhcG9ITW1jWTZwclhHVHY5aC1hanJxcWw1blEwQ2hBQ0NSYWFEZHl3UDhBdDM4UEhISW5vTUtWVmV1WGlJOFhlVGc5RFgzVGNBeHc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-7be5e4e8324a",
+      "date": "2026-11-18",
+      "dateISO": "Wed, 18 Nov 2026 06:35:02 GMT",
+      "ts": 1794983702000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "纽西兰海啸警讯解除 当局疑海底山崩引发 - SWI swissinfo.ch",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQaExHeUtGYmhaM245RTVXNnZGQkxNQWI4SmJLUFVqMkJuMmlvNXY0c0VEQUhFWGpsdXZMUkw0ZVJfLWMwbi00NTR1U1RwSV84b0hTTDV3Y0FxejJIOEU1dkdydEJzX2lBSkJ5SEY1M2lyQ0VtWTJRMnlpcDRidU5qLVZaNnF5UWNrZEZCMVlGOHQ4UmVBLThRRkVLd1hKM3NVdnpuRVB2cjNWV05ncFR1clNLaGZsbm9jMkNlRnJvVjlwTmxPSDJOVEVpMVNUWVpfbDJvUWdabW9RRWlEenZlU25uWDR4WWhOeXM0M1gtdWZmaE5tMXlPdmZ0WVAzQUN3N3dkVTF0eFdyODN3ZjlQRXU3Z1REYVdKV2FpSDVPcVkxU0lIS3dDcElYdS1wbXY4Wk1J?oc=5",
+      "site": "SWI swissinfo.ch",
+      "siteUrl": "https://www.swissinfo.ch"
     },
     {
       "id": "FL-53401ddd30be",
@@ -193,18 +133,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hbHIxZ19oOWNrYXZpS3RPUXg2UnpQcWNYTkFBSTlNV0w0OGFnWmp0R1dfNXBlRVI4WkRUNFQ5ZWR5MDl5UGtkTDRKeFFqV2RLYU85UUhEMVI4RGdqQjdnQWt1UHY1VFJKY1R5dXAxTTlOdw?oc=5",
       "site": "京报网",
       "siteUrl": "https://xinwen.bjd.com.cn"
-    },
-    {
-      "id": "FL-c582c73f78be",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 05:00:00 GMT",
-      "ts": 1794978000000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "泸州道路施工发生局部坍塌，一工人被泥土掩埋 消防：已救出送医 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUEY5V0ZmMFp4UkI2SHNCVmtrT29ZaGN6UnF6dkc0S0pOVGc3OXJDQ3VTcmJVZDE4SXh3Nlp5djE5aG1TaXZIUFQyMTVobXFWYVZPMTRfSGFHMEJQYlk1dXpET3c?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-9dee7f40e16a",
@@ -399,6 +327,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-c582c73f78be",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "ts": 1794902400000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "泸州道路施工发生局部坍塌，一工人被泥土掩埋 消防：已救出送医 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuUEY5V0ZmMFp4UkI2SHNCVmtrT29ZaGN6UnF6dkc0S0pOVGc3OXJDQ3VTcmJVZDE4SXh3Nlp5djE5aG1TaXZIUFQyMTVobXFWYVZPMTRfSGFHMEJQYlk1dXpET3c?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
       "id": "FL-e78fd199389f",
       "date": "2026-11-17",
       "dateISO": "Tue, 17 Nov 2026 07:52:32 GMT",
@@ -409,6 +349,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTJWMWNqRkJqTnpXMGc0MkJSTm1uNzJGaVBDcGV6M0JRX2lHNTZWNmd0RENYb3hkYkpPR25ocDN5OGVEMmVvcTkxUE4wT1lyM25JTDJrWXFkYlZWcTJRU1E4bm9hTVQ0bHVzZEl6WTNFZFJkT2U4VUVsZGJiYlpWdFlCY01zN1hSTnlZNw?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-91e74414d2e9",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 06:38:21 GMT",
+      "ts": 1794897501000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "谛听大模型、监测智能小站……这场对接会推动地震领域 AI 成果转化对接 - 国际科技创新中心",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiRV9KZHZzdUo5R0VLWkRCM2NpWmx3X2hHNW9XUGYzbmxnRVIxN3d4VWhaRHAyRzczanNZemloZGxvdVpENmZ6NWdRTzJPV21SVEJnZkRLTHNkUkVVRU0zc2FueWtRQ1J4MkZaRVlKOXY?oc=5",
+      "site": "国际科技创新中心",
+      "siteUrl": "https://www.ncsti.gov.cn"
     },
     {
       "id": "FL-b835f79eb0c2",
@@ -483,6 +435,66 @@
       "siteUrl": "https://news.un.org"
     },
     {
+      "id": "FL-e757885a79a6",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 14:28:29 GMT",
+      "ts": 1795098509000,
+      "scope": "intl",
+      "type": "fire",
+      "title": "印度大桥突然坍塌 两辆重型罗厘受困起火 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Oc0ZINnVhbzlQWnI2R0hFUDBleWZxcEVHbzFCU1dwOGtQVUJzRVFhbmVTR2FnMnR2eVFfOHVMUHN1MUp2amJwcmFLek5ScDdpak81QjVib3VSNDlhazNXTmFGbDdFWV9SUWc?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-0b34ea6b8535",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 12:47:00 GMT",
+      "ts": 1795092420000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "夏洛山：刻赤大橋 俄戰爭目標崩塌的第一張骨牌 - 大紀元",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQ0RzWjBKTW1iXzNmMzUtaWpHTEFWV1Q2cENwT2Q2eDJqZXNNSGRLc21IWEVacEdFTW4zWjlreDF5RU1ORE91a2FoUGstdVJtNU4tcnI1ek51di1QRkplcThn0gFnQVVfeXFMTU11b0M0M2drdVJfZFZfLWd0d0FaZmhuUEFyd1JhM0tEQmZ5R0hIbi04VXgtMUpxd0FiRmNBVU43eUxjMUxTX0o0d0RuNWVOVDY0d0h3cEhXLWZSY0NkZldRR2tISUFwNA?oc=5",
+      "site": "大紀元",
+      "siteUrl": "https://www.epochtimes.com"
+    },
+    {
+      "id": "FL-e52b09f7e420",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 12:15:52 GMT",
+      "ts": 1795090552000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "安卓地震预警在意大利上线，你该如何设置 - Meteora Web",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZBaFlpZldWYnpuX0F4SEptQWRKV2l6YVp3LUwteVU3bG5jSXB5VGpjeE9Bc3NqaW5fbEZxS3BqcWhULVhOVVUyaHZiOWc0WFFhR01zeHlSdE1ySzNYcXRZMEg3aUY3UlVSQTNxNWt4bzIwT0FXSHp1c1lpWlZNUGtUOHl4WmZVbVRjR0NIdnlEaUh6TE5XVXplSFpRZGxwM1E?oc=5",
+      "site": "Meteora Web",
+      "siteUrl": "https://meteoraweb.com"
+    },
+    {
+      "id": "FL-f2aea7cb4b27",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 10:08:44 GMT",
+      "ts": 1795082924000,
+      "scope": "intl",
+      "type": "other",
+      "title": "泰国国家审计署大楼倒塌案 中企主管判监三年 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NZ3RSRHlaVGlOYTkwcGxfVnJRZU1FMjdSZHp5eGh1MkpOZkQ1OE4zSjJaRWg1WGd1eEgwclpyaU1yakZVQm40RHkzbl9VVm9DOEstd19rRy1kMldwbm00amVORDZuNDNz?oc=5",
+      "site": "联合早报",
+      "siteUrl": "https://www.zaobao.com.sg"
+    },
+    {
+      "id": "FL-4158f56c8096",
+      "date": "2026-11-19",
+      "dateISO": "Thu, 19 Nov 2026 07:17:04 GMT",
+      "ts": 1795072624000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“十五五”期间 努力把地震预警发出时间由震后10秒缩短至5到8秒 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQi1OQ2V1Z3hrdzhQMU1aSEZJTkxUME1iS3lmMGFyX0E0UXk3R3VfdDZkTUkwNU1rX3RpRmtVdUoxU0xBdE9ITzUtMWhTemNSX3k3T2RISnRYWlhPZEdJ?oc=5",
+      "site": "华商网",
+      "siteUrl": "https://news.hsw.cn"
+    },
+    {
       "id": "FL-24fac1d7ac89",
       "date": "2026-11-19",
       "dateISO": "Thu, 19 Nov 2026 02:17:00 GMT",
@@ -517,18 +529,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00aFRXZGZXclNHUjZ0SWQ1a3VTV05lSV9QTEVySGJjYTNsdk02cmU2TzhLdW1BcExOemVQZ2liWUlmN0ZwdjVDTXBVb1FDU1JGZGdiR19UTVlzMng4Q3F4cA?oc=5",
       "site": "英为财情 Investing.com",
       "siteUrl": "https://cn.investing.com"
-    },
-    {
-      "id": "FL-4bb9797223af",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 00:55:32 GMT",
-      "ts": 1795049732000,
-      "scope": "dom",
-      "type": "collapse",
-      "title": "克里米亚大桥拱桥坍塌 乌军精准打击引发连锁危机 - 中华军事",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sc2tDWGZ1WVYyckhFOFJ4M1BpOWxPdEhrWDVWXzE2Z0hOeHBmQldSN1VySGpDUngwRXJNTEEzeHN1NW1GcTh3UjhvaWJwN1c0d3czUHhIV0xGQ1N1UU5Rd0hfVG14Z05jTEE3YmVRUW4?oc=5",
-      "site": "中华军事",
-      "siteUrl": "https://military.china.com"
     },
     {
       "id": "FL-b44d52c4074f",
