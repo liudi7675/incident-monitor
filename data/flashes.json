@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:54:36.529Z",
+  "updated": "2026-11-20T14:57:50.492Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
@@ -15,18 +15,6 @@
       "siteUrl": "https://china.kyodonews.net"
     },
     {
-      "id": "FL-4a41f53ae0d5",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 20:54:00 GMT",
-      "ts": 1795035240000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "四川宜宾市珙县发生3.0级地震，震源深度11千米 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pa3JBcXUyMW9JaDZwRWk0dFFIYmE5bmhvVG5jbFIwNUxfSTM1NkNOR2N5RDFVMk5pa1BNVkU5ZUtsdlQ0X3IyaWl0QWxXU3RLVzY1dDdEX1k?oc=5",
-      "site": "Jiemian.com",
-      "siteUrl": "https://www.jiemian.com"
-    },
-    {
       "id": "FL-533c6949df9f",
       "date": "2026-11-18",
       "dateISO": "Wed, 18 Nov 2026 13:45:50 GMT",
@@ -39,16 +27,16 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-6311cce6e3a8",
+      "id": "FL-ce0fb809bb7d",
       "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 12:12:09 GMT",
-      "ts": 1795003929000,
+      "dateISO": "Wed, 18 Nov 2026 12:47:00 GMT",
+      "ts": 1795006020000,
       "scope": "dom",
       "type": "geo",
-      "title": "应急科普 | 在新疆如何设置微信地震预警服务 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUgyM01yVGxDNWQ1NmJBV2xSOExZbF9SRXZnWndPV2RvVlNQUHNnLWtlMzRwZ2dPN2xvRDR0ZUFYaGd6Z0hHWW1YNUdPRXhHeU9yQjd5Rk5weVFlSm92aTB5bmRDc2xiWlRVS1M1T2c5YS1jempmNFlTRHJWZVBSc3lNYmZHRHA4Y3N6cA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "秦汉通航助力“应急使命・2026”陕西省重大地震灾害救援演练 - 中国民航网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkRGkzMXk5Y3ZmOWczRHJRY0IybVNxYkdFSjlvZE5tUWR0SVRZWE15WWhPR2EyV3hSaHdSR3RqcUxRc2puZExLSFZYZnNQandyb05kNHJfcUxvUXdIUV9LZHYyWGwtSGNqRDJidw?oc=5",
+      "site": "中国民航网",
+      "siteUrl": "http://www.caacnews.com.cn"
     },
     {
       "id": "FL-887392a50fad",
@@ -75,18 +63,6 @@
       "siteUrl": "https://photos.caixin.com"
     },
     {
-      "id": "FL-acd4e4e4aaf3",
-      "date": "2026-11-18",
-      "dateISO": "Wed, 18 Nov 2026 08:43:29 GMT",
-      "ts": 1794991409000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "罗马尼亚发生5.2级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjExcER0S0tzb0FlSzZNWFV2Z2JVMjFEZDdBR3UtMnZDeW1CN3lBY2lZalN1dUdLSlZBY1lnczRLR3ktVnV3Z0Fuc0JHclZsVUpETzB1a1hTN0M0YXliTVlua1AxNmk0aEhvRTkzOEhYV1ptR19MallZWHVBU0hCaGY4NTJLZnBs?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-84787a5b957e",
       "date": "2026-11-18",
       "dateISO": "Wed, 18 Nov 2026 07:36:16 GMT",
@@ -97,6 +73,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaU9tRDFMMmctM2hJX2VXbVdSVkY2T1ctYVRyR3ZUYXd1Q2ZraWlURndqdFpvTHl5U1lVTlNvc004SThUdGZ0eEh2RFN1eExBTWFsSlNXeElXZGFyOGl3QktqRml1b3FpMlpIRXh6RW1hUlNmdnJ5VS0zdllaczlMM2k5eHo?oc=5",
       "site": "缅甸金凤凰报",
       "siteUrl": "http://www.mmgpmedia.com"
+    },
+    {
+      "id": "FL-0593e31d6031",
+      "date": "2026-11-18",
+      "dateISO": "Wed, 18 Nov 2026 07:28:00 GMT",
+      "ts": 1794986880000,
+      "scope": "dom",
+      "type": "other",
+      "title": "乌军袭击克里米亚大桥，拱门倒塌坠海交通中断 - 星岛环球网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Xd2NUTWVEVHc2ODU3YklJbjBmcElXUUphMGlDNWJHeDl1TUxOTDVMcjFKU1lzUHVvLUpvNnhudjlFZWEweEZmZ3VsdjRSZnpRbGN2RlNmeWZLZzdJN212dW5UQV8?oc=5",
+      "site": "星岛环球网",
+      "siteUrl": "https://m.stnn.cc"
     },
     {
       "id": "FL-f5c8c8d65e20",
@@ -267,78 +255,6 @@
       "siteUrl": "https://sd.ifeng.com"
     },
     {
-      "id": "FL-4c127e775b45",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 09:32:00 GMT",
-      "ts": 1794907920000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "覆盖超5000万人！4641台套终端居全国前列，山东地震预警服务实现“扩面增效” - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb19nbV9qTmhoQWJBVGp3ZHVsQlZuRENjNGdvUHRveHV1bUstNDF4eDZpUDU0NFB1OXp6S0tfMHVlU1BTWFdEeTZIVWxpbE8zQjNrU21BSU1CUHNfbmVXd2Z4azVxc29uSVJkeVJBT0NnemZjMjVpUzh1NEw3djBhTHpFT1ZrODB1Ym5kdA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-bf910ae52d8d",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 09:22:00 GMT",
-      "ts": 1794907320000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "打通防震减灾“最后一公里”，山东将地震群测群防融入基层网格化管理 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSnRpWEV6SjlocndrTy1qVEhaX2pOanNxRDB5aUx3Wkp6TUZMOXBDbTZyWThGSjNucE1GQmhoOGVrNjBMZjVHa0dNWUNFQnJZSjFZQ2pQQVpwRzNZX2ZzeXZGNnlfZnBhd0ZjYmFRNWZrdE1MTzZFbzBwZk03bUNrWDhaeWZkdkZBOVprdw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-14e92f3b4be0",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 09:22:00 GMT",
-      "ts": 1794907320000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "群众上报，部门24小时内核查|山东立法规范地震宏观异常观测 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcm5DdDBNRTN3dzZjcDZ0RWlVQjhqbGRuTjdBSEYzVGJJZ1ptZGU3QkJkSDh4VHFmaTNiR2o5c1VMNHZSZGVxZ0N3cjFEWGxtV0xaZVpuWWswTjEycTNRdnhYMDBVOTZjd1BVMjVjS1dISVJrR2lxTm1kanVReld3U2U5SkJNYS1PUU10RA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-09a3092df8e8",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 09:22:00 GMT",
-      "ts": 1794907320000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "地震来了怎么躲？山东支出基层应急“三实招”与公众避险“三字诀” - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0t6RXBXR3BOUlhhaDBIUjJLVVN1V05WN0tFSVk5X0ZCVDhVUnJXcGc2TDFwTURCRzdUME93Z1l3Nk1sRng0NEJ6TGVxVU94R0ZzeUhfLUUxU0xCQ0s5dkkzckpuWVRXeWtQUS1Fbk1pRVdmWWZIdm9GTnNCSkdkOHNyS1dHbmVxakl3dA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-e78fd199389f",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 07:52:32 GMT",
-      "ts": 1794901952000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "收入创下新高，利润却遭遇滑坡，全球肉类巨头正经历怎样的行业重构？ - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTJWMWNqRkJqTnpXMGc0MkJSTm1uNzJGaVBDcGV6M0JRX2lHNTZWNmd0RENYb3hkYkpPR25ocDN5OGVEMmVvcTkxUE4wT1lyM25JTDJrWXFkYlZWcTJRU1E4bm9hTVQ0bHVzZEl6WTNFZFJkT2U4VUVsZGJiYlpWdFlCY01zN1hSTnlZNw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-07f89b9b813a",
-      "date": "2026-11-17",
-      "dateISO": "Tue, 17 Nov 2026 06:39:05 GMT",
-      "ts": 1794897545000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼卡伊群岛发生6.6级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHpfYmNBSllSOWNtaWZUZS1BSEVLYkFDS1FhVWtpOTF6UEp4bExObVc0emQteFZsM2k1R0tYekIzNlBTc3VQZEhDeDNWajZ1RXNHel9TaWJqbE5XWXVSMkJtWnY0TXB5R3o4UndzQWNvaXByOE1DcmJrXzl1OE03eXR4RFFwMEVJ?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-b835f79eb0c2",
       "date": "2026-11-17",
       "dateISO": "Tue, 17 Nov 2026 06:28:45 GMT",
@@ -349,6 +265,42 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PajBDTlp5VWY0eTZKa2YzV2dUT3ZzOGhqQjF2RDhPX0dwS2ZHZWRhQUJOYnowZFc0SE5PUHhINW1pb0E5Rkt1eGpUUEc?oc=5",
       "site": "凤凰网",
       "siteUrl": "https://news.ifeng.com"
+    },
+    {
+      "id": "FL-dd794643680d",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 04:02:17 GMT",
+      "ts": 1794888137000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "克拉玛依市消防救援支队开展地震救援实战演练 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUE9BVnl0SWpMdnJNMDA0em1XNTBKbFM4WlJCNG1LS1N5aEtSN3VlbGtOWXljcktaVG5mYUlFZWl6UHRXWFlPR0RJYzdBcWN0cjhjdXJxeWdIZWN3V0VnUUQ5OENtVEZxU1ZHeVpZOFpXdC01cU90Y0RQRDlvWTNfb1NXQQ?oc=5",
+      "site": "中国新闻网",
+      "siteUrl": "http://www.xj.chinanews.com.cn"
+    },
+    {
+      "id": "FL-38e6088c5c6c",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 03:12:00 GMT",
+      "ts": 1794885120000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "肥东警方查处一起涉地震网络谣言案件_中安在线_中安在线客户端 - 安徽新闻联播",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aUzVJamNjeHpQOC05SVVoTGNQRV85SWtJNTluMEthVHJTc1VfZFBENS04SEVtTlBtTGppVnhBQWFiRXRESzB2WTdxZDhEcjdlT2x2bG93Zk9JYWhaZ1F6UUxzQXJZQW8?oc=5",
+      "site": "安徽新闻联播",
+      "siteUrl": "http://ah.anhuinews.com"
+    },
+    {
+      "id": "FL-a506bc7af746",
+      "date": "2026-11-17",
+      "dateISO": "Tue, 17 Nov 2026 00:49:00 GMT",
+      "ts": 1794876540000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "“应急使命·2026”陕西省重大地震灾害救援演练举行 - 中华人民共和国应急管理部",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pZ0F5cXNfX055dDY1QzZsYlgtTjRjbThyTU5wb3ZNay1KX0xiOUJ6c3VHRDhJUG90OHpERzRPZW9ySXBrczBIRy1JVHBBWTdRa1U2c2hOMHhPcTZoQTZRSmNNMnE2VkdBVDJCZA?oc=5",
+      "site": "中华人民共和国应急管理部",
+      "siteUrl": "https://www.mem.gov.cn"
     },
     {
       "id": "FL-0b6ad378c800",
@@ -399,18 +351,6 @@
       "siteUrl": "https://www.8world.com"
     },
     {
-      "id": "FL-e52b09f7e420",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 12:15:52 GMT",
-      "ts": 1795090552000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "安卓地震预警在意大利上线，你该如何设置 - Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDZBaFlpZldWYnpuX0F4SEptQWRKV2l6YVp3LUwteVU3bG5jSXB5VGpjeE9Bc3NqaW5fbEZxS3BqcWhULVhOVVUyaHZiOWc0WFFhR01zeHlSdE1ySzNYcXRZMEg3aUY3UlVSQTNxNWt4bzIwT0FXSHp1c1lpWlZNUGtUOHl4WmZVbVRjR0NIdnlEaUh6TE5XVXplSFpRZGxwM1E?oc=5",
-      "site": "Meteora Web",
-      "siteUrl": "https://meteoraweb.com"
-    },
-    {
       "id": "FL-f2aea7cb4b27",
       "date": "2026-11-19",
       "dateISO": "Thu, 19 Nov 2026 10:08:44 GMT",
@@ -423,13 +363,13 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-4158f56c8096",
+      "id": "FL-503d4d2012a8",
       "date": "2026-11-19",
       "dateISO": "Thu, 19 Nov 2026 07:17:04 GMT",
       "ts": 1795072624000,
       "scope": "dom",
       "type": "geo",
-      "title": "“十五五”期间 努力把地震预警发出时间由震后10秒缩短至5到8秒 - 华商网",
+      "title": "陕西：“十五五”期间努力把地震预警发出时间缩至5到8秒 - 华商网",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsVnltalAtY1F0WlRQcHVsc1ZadlF1eVB3LXNBQVpHZTFCTzNoUHZvQkFnMDdrTlhuUEN6M2o2VkJma1BQMmdtZWptS01mQVJ4Nko4Q3RYMFE2MzR4VElB?oc=5",
       "site": "华商网",
       "siteUrl": "https://news.hsw.cn"
@@ -471,41 +411,17 @@
       "siteUrl": "https://cn.investing.com"
     },
     {
-      "id": "FL-b44d52c4074f",
-      "date": "2026-11-19",
-      "dateISO": "Thu, 19 Nov 2026 00:19:00 GMT",
-      "ts": 1795047540000,
-      "scope": "intl",
-      "type": "other",
-      "title": "鲍韶山| 论“仁勋府的倒塌”：美国AI繁荣恐将与经济现实迎头相撞 - 观察者网",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRFdZeU9mQ3NLSnljTmMxb1EzZDR5VkpHcGtTbmlTWDA2Z3FOY1NTR3dKbjd1ZUpYT2EwRDZmTFVSaVVtOEdTdTdhcmxjNU5HcnBMS3FsZWFzeU9aVGV6bU9DdmpfVW9QTXc?oc=5",
-      "site": "观察者网",
-      "siteUrl": "https://www.guancha.cn"
-    },
-    {
-      "id": "FL-b2d1e9aad009",
-      "date": "2026-11-15",
-      "dateISO": "Sun, 15 Nov 2026 17:34:10 GMT",
-      "ts": 1794764050000,
+      "id": "FL-EV-18d9b0620c3d",
+      "date": "2026-09-10",
+      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "ts": 1789023600000,
       "scope": "dom",
-      "type": "geo",
-      "title": "教宗在库斯科念三钟经，向地震之主献上系在腰间的布- 梵蒂冈新闻网 - Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMnJidXo0Yjlobm9QQVM5ZU9rcnQ2YVA5OXNxU0Mwd25jNVMxckM5Y3NabGJmYzBOUUZLcFlVOEwtcGhRTWtHZlk2eDgzb2c1V01UR0xuNjNuUEM2MzZqVi1lSEd3WmUydzluRm5ZT3I2cVFRNlE5M1pBWFFYcXZiNjhwZzRhUkpoa3l4OHZvU0o2bVE4bU9yVzhUQzlUTTZyREItYTA1WHNMbkR0?oc=5",
-      "site": "Vatican News",
-      "siteUrl": "https://www.vaticannews.va"
-    },
-    {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-09-06",
-      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "ts": 1788678000000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "西藏吉隆泥石流灾害已致43人遇难 519人失联 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
+      "type": "fire",
+      "title": "青岛货轮火灾致25人遇难 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11aXI2LU1JRFpFcDB0Ym1FTm5rNGoyUktCam1GN19vQWxBZWd3M2NFMTlNZWVkT3BqRklJR2didFhQVXJ3TW00SExJV1JrcG9tU0tlWmFselZhRHNBUHc2b2tJTFJVY2diclhaYVllZzIzYkVQczJR?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 9
+      "related": 3
     },
     {
       "id": "FL-dc2bdca836d0",
@@ -556,18 +472,6 @@
       "siteUrl": "https://www.zaobao.com.sg"
     },
     {
-      "id": "FL-df851c7193f9",
-      "date": "2026-11-16",
-      "dateISO": "Mon, 16 Nov 2026 21:23:00 GMT",
-      "ts": 1794864180000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "印尼马鲁古省海域发生7.1级地震 暂无海啸风险 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OZE5MdFJZV09qZ0tzeFVMcGVMOWV5SjZlTjl4NWhuSGJtMUZCRG1DNlZCRnE4OFZIUEtNc0hSZkp6MThDZElyd004aw?oc=5",
-      "site": "新浪网",
-      "siteUrl": "https://wap.cj.sina.cn"
-    },
-    {
       "id": "FL-91e020b58488",
       "date": "2026-11-16",
       "dateISO": "Mon, 16 Nov 2026 13:10:32 GMT",
@@ -604,6 +508,18 @@
       "siteUrl": "https://cbgc.scol.com.cn"
     },
     {
+      "id": "FL-867fa17fcc5e",
+      "date": "2026-11-16",
+      "dateISO": "Mon, 16 Nov 2026 05:07:04 GMT",
+      "ts": 1794805624000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本本州岛发生5.4级地震 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NQXRPb2NWblQ2SnNLLVZZOXVGQnAxSXhqWS05Ry1TQ01yczZZUmtyelBWQ214UVc1dE42TGtRYlAxbzlNQldjd3ZQTXpQdVd4OWJGMDVSUmRFVWN1b1FNUkNnanNsZXBt?oc=5",
+      "site": "央广网",
+      "siteUrl": "https://news.cnr.cn"
+    },
+    {
       "id": "FL-e26303670963",
       "date": "2026-11-16",
       "dateISO": "Mon, 16 Nov 2026 05:05:45 GMT",
@@ -616,16 +532,101 @@
       "siteUrl": "https://news.cctv.cn"
     },
     {
-      "id": "FL-f1fea666b7d7",
+      "id": "FL-4790b25c42fa",
       "date": "2026-11-16",
-      "dateISO": "Mon, 16 Nov 2026 02:34:31 GMT",
-      "ts": 1794796471000,
+      "dateISO": "Mon, 16 Nov 2026 04:57:00 GMT",
+      "ts": 1794805020000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "日本本州岛发生5.4级地震 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1idVdOOFJIaDdsZ0tndE14RFppaHNVd0VKT0RKWGJMQ3I4dElWb3hVUm9Zd29XeEgwNkFZNU1ERnJCZ3ZaeXpybm1iU0stNnVvYVA5dQ?oc=5",
+      "site": "第一财经",
+      "siteUrl": "https://www.yicai.com"
+    },
+    {
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-07",
+      "dateISO": "Mon, 07 Sep 2026 07:00:00 GMT",
+      "ts": 1788764400000,
       "scope": "dom",
       "type": "geo",
-      "title": "新疆库车市发生5.0级地震 - 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORklCaWQwandXZkNubHhlR2pHYjZDTFV2eDBEQ1J4cUU4ZnhXTzZRWDF2eW1SSDJxT3ZXLWtpNjJCODYzU0R3N3A4a1dJSVNlNm54NlY0M2xOLWZ5cnIzMFE2dldTU2VVdVdHWkVCQ0xDY3AyMkFyTEgwOTdKUjZEdGJwWXVndw?oc=5",
-      "site": "中国新闻网",
-      "siteUrl": "http://www.xj.chinanews.com.cn"
+      "title": "吉隆县泥石流灾害应急救援指挥部举行中外媒体见面会 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi1IZmJMTUdVZFAwTFp1OHJqQWRmWmNxdl9Wb2ZjZ1NfQ0RpM2FyQ1FkQmwxSU8yZEJBX1l6WmhKZXQ1YVFNMURfTE9jRTBEdnQxX2lqMkNycUJ6bE1fTG5rUmlLc2d3d0VWMzQzMmJ6ZkgwLXNUbW1QNUJqVGFMYg?oc=5",
+      "site": "人民日报",
+      "siteUrl": "https://paper.people.com.cn",
+      "related": 23
+    },
+    {
+      "id": "FL-e4811d785f09",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 11:24:03 GMT",
+      "ts": 1795173843000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "“奥鲁奇·雷斯”号开始在巴基斯坦印度河与莫克兰盆地开展三维地震勘探 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS2d1SDl2bWJEU250RTlfZ01SRThwdEc1OXQxTk9TYTNMSUJTdHotMmdXMEtKR1Fuczg4MHpLZTAyWU8ycURYRk5PTlQzc2RmRVN1czZ6ZGpKZnFXOVE3RGk1VzFGYU8xQ09tNTlueWptdklrQ1pEeW5zTmo2NldYbmpnZ0dXaTdQZ1NlVTRCZF9BWjhWMWdPMVdRMW1PeHQtMHFKdkxsNXQtTGVER1pVNU9McVExZTQ?oc=5",
+      "site": "IndexBox",
+      "siteUrl": "https://www.indexbox.io"
+    },
+    {
+      "id": "FL-86818893db40",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 11:04:00 GMT",
+      "ts": 1795172640000,
+      "scope": "dom",
+      "type": "collapse",
+      "title": "AI交易行情崩塌台股创下35年来最差单周表现- 最新消息 - cnBeta.COM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85WlR0Um1hd3MwN0dGcnlkbFRIY0IzRlFWSUtNbFFCdm9RRGNrY1Y1SFUxVFlZLTNtNlJZVHE2UTNBOXF4UURvenVzSGxJanBGSC1KbzVVTjlvRDFnTkF4Ug?oc=5",
+      "site": "cnBeta.COM",
+      "siteUrl": "https://www.cnbeta.com.tw"
+    },
+    {
+      "id": "FL-cb5d9e21e21c",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 08:14:40 GMT",
+      "ts": 1795162480000,
+      "scope": "intl",
+      "type": "other",
+      "title": "泰国审计署大楼倒塌案 中企主管判监3年 - e南洋",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uV25oclpZU3JJZXZzY0cteDYtWlJraWZaeW5fLVdlNWF1NGFYcFZNNU1pWVZYcHNSeXRxNEl2TFBvNGRXZHdFaGppLU5JT1pDcUNyZWpEamhSM1ZjNDMzWXZ2cWNoVkgxTTJN?oc=5",
+      "site": "e南洋",
+      "siteUrl": "https://www.enanyang.my"
+    },
+    {
+      "id": "FL-4ca5da9505fd",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 07:52:00 GMT",
+      "ts": 1795161120000,
+      "scope": "dom",
+      "type": "fire",
+      "title": "浙江一塑料厂发生火灾 ，厂房出现坍塌变形，滚滚黑烟不断升起，当地消防：救援工作仍在进行中 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmowQXdFU1V2MllGRzFHRUs2ZWFuVFNRQ3J0dlBVcGN1cFd4YWJ0djd3NmR0ZGZVaE5iWVl5OXRDSHdIUFg2VVNrV1ZsOGVQelZqdU1DcjcwN3d4NEVXZV9nTkRQSmlfeGpqWDZxZjA4NEt3Sjc2U1V0TjlyNThzcGZBa0FwNXNIWEhIQQ?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
+      "id": "FL-7b16981c4007",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 07:38:31 GMT",
+      "ts": 1795160311000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "美国加州发生5.1级地震 - 8world",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmlWNnpsQnZyS21KdW03TGZ2ZXF6emVIVkVwZ1NhSGNSNk1fZzUwQ2RHTDVXUEEzRmNrSmc5MV9PSE1RNnU3RGdKeTNoWjRYTVVDaWlKdHU5RVg5ZUV5QXBGZThjSEVYc2NyTDBxRmJLS1ZrWi01MlRLdEx2Y0EyUDIzY01KaFR0S2x5cE1YY2Q1dmhEQ1hxdWxWR1Q3UUhVdEo2WGRfU3VLb2xNc0pwTw?oc=5",
+      "site": "8world",
+      "siteUrl": "https://www.8world.com"
+    },
+    {
+      "id": "FL-dee248e3aa2e",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 07:23:57 GMT",
+      "ts": 1795159437000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "华为手机怎么开启地震预警？华为地震预警设置步骤 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0RFlVOWtiZUtONEFVUXpIUkJIVTlXREhMcnkxbV9GZEVIelNqb2VhU2NhVlRZemtkRUlrUlNGQWFWcHBYb21oVEdUYVF6V040LW0xVU5wRmFuQm8yRFA3VExPVVQ?oc=5",
+      "site": "中华网",
+      "siteUrl": "https://tech.china.com"
     },
     {
       "id": "FL-9adbd49518e5",
@@ -652,16 +653,52 @@
       "siteUrl": "https://international.caixin.com"
     },
     {
-      "id": "FL-e2fc2c49dafb",
+      "id": "FL-01a5e259e4ed",
       "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 01:48:00 GMT",
-      "ts": 1795139280000,
-      "scope": "dom",
+      "dateISO": "Fri, 20 Nov 2026 04:59:33 GMT",
+      "ts": 1795150773000,
+      "scope": "intl",
       "type": "other",
-      "title": "布碌崙大樓倒塌案 多名工人及住戶控告開發商疏忽 - 大紀元",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ3UxQXNPdjA0ZUxWYlhDMXo5MS1mRTBLeEd3WWcta3JHLTlvc3dKQXdWMTFvWkJZRUk5U3VuaXo2bzVWR3FLQ2IzU3NtQnN5V3hkV09mNVJZOS03MkVuODV30gFnQVVfeXFMUHdZNlI2UTF5TzVFVzFfYlVlY0c2RmI3TkdMSGwtcjgxRlJIc043aWk3MHl5a2VYN1FKc3NIV2NMdzJrRTZKUkNMNGZtSzViUl9MY2hONFZ4S2dSaXpYQ28wUURVeWRkSQ?oc=5",
-      "site": "大紀元",
-      "siteUrl": "https://www.epochtimes.com"
+      "title": "行车记录仪拍下惊魂瞬间！美国一大楼倒塌，大楼从中裂开化为废墟，事前预警被无视 - 腾讯新闻",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByMmkwWEk3a1JlMUU0ZXY0UjdvLVlkVzYzM0tZdkp5SmFZclhTRFpVbFA5Vnlld1JwQ1RWSUxadkItV25OZjktdlVQbFd5bGV1V3J3cXBR?oc=5",
+      "site": "腾讯新闻",
+      "siteUrl": "https://news.qq.com"
+    },
+    {
+      "id": "FL-07b76bb33ec2",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 03:27:50 GMT",
+      "ts": 1795145270000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "海洋氯化物暴露空间差异对地聚物混凝土桩基码头地震易损性的影响 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rREFPTHo5cXlVZUFsRnBIWmpybnlEZVE1ckZ2c3lYWjFzbTVETE5RVWpGSHNuWVA0YXlYdEstMGhpZ2hkdjBlLWdkeWg2cVRYU25yMWRXcFZaREpkOGZtRWQ3YXJXYXJuRHdyS2V3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-aefa059d65ae",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 03:27:50 GMT",
+      "ts": 1795145270000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "土体—建筑群动力相互作用机制及其对密集建筑群地震需求的影响 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSDJxc3FTeWQ1Z0tLTE1wRVZ2SU8wOWkwVG1wTGxaWkd2Ujk0N3JIeUktMDdpNGpsV0htZ3pZYVFmcUFCVWxFS2llYWpPQ21FcFNHbnZveWdUTHRERXB0bm5kN1N4Y3lMRTF3VTB3?oc=5",
+      "site": "生物通",
+      "siteUrl": "https://www.ebiotrade.com"
+    },
+    {
+      "id": "FL-ba98e8b1a97e",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 02:52:00 GMT",
+      "ts": 1795143120000,
+      "scope": "intl",
+      "type": "collapse",
+      "title": "纽约楼房7秒坍塌致8人遇难 7秒钟！纽约一楼房突然坍塌，路过公交车拍 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UQk90bS1nT3ZrS3J5S09hNDY4VUk0TDF3alZnT2xhR0Q3cVN6VmF1NFV3cG04c0pmbHNHM2l4N1Q1VlhRcWdjRk1uME8?oc=5",
+      "site": "凤凰网",
+      "siteUrl": "https://news.ifeng.com"
     },
     {
       "id": "FL-88e6d3ea3778",
@@ -676,18 +713,6 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
-      "id": "FL-681504c4f979",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 00:55:00 GMT",
-      "ts": 1795136100000,
-      "scope": "dom",
-      "type": "fire",
-      "title": "浙江台州一塑料厂发生火灾 ，厂房出现坍塌变形，滚滚黑烟不断升起 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHMwS0tjR2FhdUlRNUJDaVZ4WVBQb25TLTVUbnZuWWZvTEpzUEJEcFZzUGNYeVlfRVpTZjFINDY3THpjdGM0QzZzcTVpcXBpUWZMWFJ6OFNFSVdDTElkX0VETUJubjFiZURXUHlMV21Pc05HekJ1bU1EYzJJd3JmYURNSjdIUVBt?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-8014d753df2f",
       "date": "2026-11-20",
       "dateISO": "Fri, 20 Nov 2026 00:47:47 GMT",
@@ -696,30 +721,6 @@
       "type": "geo",
       "title": "弱断层带非弹性变形驱动多尺度地震：损伤-愈合共同演化的动态地震周期模拟 - 生物通",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HWFd0cE5vR2R0SC1zRnVhOVJDODdYSHNXOEt1MXV0cVM5ajJtQzM0UWZZZDlmMjNHMi04QmJ0ZXlEdGJGY3U5Y2VBeFotajdLa3p1a0QxNHdwYnNoSk53OGtMQU9MYmt1Z240TTdR?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-07b76bb33ec2",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 00:19:57 GMT",
-      "ts": 1795133997000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "海洋氯化物暴露空间差异对地聚物混凝土桩基码头地震易损性的影响 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rREFPTHo5cXlVZUFsRnBIWmpybnlEZVE1ckZ2c3lYWjFzbTVETE5RVWpGSHNuWVA0YXlYdEstMGhpZ2hkdjBlLWdkeWg2cVRYU25yMWRXcFZaREpkOGZtRWQ3YXJXYXJuRHdyS2V3?oc=5",
-      "site": "生物通",
-      "siteUrl": "https://www.ebiotrade.com"
-    },
-    {
-      "id": "FL-aefa059d65ae",
-      "date": "2026-11-20",
-      "dateISO": "Fri, 20 Nov 2026 00:13:50 GMT",
-      "ts": 1795133630000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "土体—建筑群动力相互作用机制及其对密集建筑群地震需求的影响 - 生物通",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSDJxc3FTeWQ1Z0tLTE1wRVZ2SU8wOWkwVG1wTGxaWkd2Ujk0N3JIeUktMDdpNGpsV0htZ3pZYVFmcUFCVWxFS2llYWpPQ21FcFNHbnZveWdUTHRERXB0bm5kN1N4Y3lMRTF3VTB3?oc=5",
       "site": "生物通",
       "siteUrl": "https://www.ebiotrade.com"
     }
