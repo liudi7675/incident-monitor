@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-21T18:44:49.360Z",
+  "updated": "2026-11-21T23:42:55.392Z",
   "note": "由 GitHub Actions 自动生成，请勿手工修改；修改请编辑仓库内 index.html 的 INCIDENTS 核心事件库。",
   "items": [
     {
-      "id": "FL-EV-18d9b0620c3d",
-      "date": "2026-09-10",
-      "dateISO": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "ts": 1789023600000,
+      "id": "FL-EV-f283a898090a",
+      "date": "2026-09-06",
+      "dateISO": "Sun, 06 Sep 2026 07:00:00 GMT",
+      "ts": 1788678000000,
       "scope": "dom",
-      "type": "fire",
-      "title": "青岛货轮火灾致25人遇难 - 新华网",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11aXI2LU1JRFpFcDB0Ym1FTm5rNGoyUktCam1GN19vQWxBZWd3M2NFMTlNZWVkT3BqRklJR2didFhQVXJ3TW00SExJV1JrcG9tU0tlWmFselZhRHNBUHc2b2tJTFJVY2diclhaYVllZzIzYkVQczJR?oc=5",
+      "type": "geo",
+      "title": "西藏吉隆泥石流灾害已致43人遇难 519人失联 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XN003bFBVNjVHZTJrZ2VVN2JMaFVWMUlLbTBzQjZSQUhCWi1kTFhlcVlxc3ZCS2hVWFNkY2RyNV9lZVEtUnhPSDRQc2M4dndBS0prOHdnUEF4ejd5cXpnbUtZSTZUWmlyNGJrcUh6bzF6MVE0ODF3?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn",
-      "related": 3
+      "related": 8
     },
     {
       "id": "FL-05a307c6093e",
@@ -28,6 +28,18 @@
       "siteUrl": "https://m.sohu.com"
     },
     {
+      "id": "FL-f52d6cc184dc",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 14:56:42 GMT",
+      "ts": 1795273002000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海德令哈地震现场画面 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdxX2RMVFdLSFdCMUQ3TnQtRXo0Rkh6cFFFMnRydmJCcFNEWEx1aW1xUGljTm1TanJhWkhjWXB1YUtTMXl6TGFpMURCZTZsQ19yQmpJbnJON2Rzb1BVOTdXMm1nX0liZzJaZEU1cURJLXVrX1VJeUxsQUlaMzlyQnpmNmpWWmRITEQ2Zg?oc=5",
+      "site": "Sohu",
+      "siteUrl": "https://m.sohu.com"
+    },
+    {
       "id": "FL-9e17c5d3a1fd",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 14:51:46 GMT",
@@ -38,18 +50,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YMmlQaE9BM3N3b2gxTWFjWVd4UFJNeksyTzJRZFNLNDd2YUFha0xWQUlPUHZ6WmpQU24ycGhBeXFHTU8xbjZDamVaakVUNWdxTWhjSWJEMVFGQk5YNHc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
-      "id": "FL-21403ad302e5",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 14:51:23 GMT",
-      "ts": 1795272683000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海德令哈地震现场画面 - 极目新闻",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZFJ1LXAxZlZxdjJKRF9oaDdweUpaSmQweTEzaUhaR3IyRkVILU1wWUVYYkQxRTFZTFh5c21hOUg0VWdfTVphRzRNbzVOdWx1c1QtUWNTVWh6WW8?oc=5",
-      "site": "极目新闻",
-      "siteUrl": "https://www.ctdsb.net"
     },
     {
       "id": "FL-e3d8ecee8e69",
@@ -100,18 +100,6 @@
       "siteUrl": "https://tv.cctv.com"
     },
     {
-      "id": "FL-ca14703297b0",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 14:19:51 GMT",
-      "ts": 1795270791000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "受地震影响，途经青藏铁路西格段部分列车晚点运行 - 京报网",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84WXhxVUIyRGlOMjNndXhqOE0wVHlrenhxNENOY1dLcXRNU1o5T2hFOEJ6RVdicU9aVF9YUUtwMWZrU09Pa0F4V0RuUlhJU3lJa2taY2hYQWo4aEhlQmc?oc=5",
-      "site": "京报网",
-      "siteUrl": "https://news.bjd.com.cn"
-    },
-    {
       "id": "FL-4474d1266023",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 14:13:16 GMT",
@@ -120,18 +108,6 @@
       "type": "geo",
       "title": "青海德令哈发生5.6级地震，暂无人员伤亡和房屋倒塌情况 - Sohu",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVGloN2hXRGlCWHVIUkNrR1oxcS1aOG5XQkE0RlZUZGo0X0h1MFZFcEEydmVJSUxmSTFfazI0Vy1LYXlSSDZSdW9zVXBjSFR5VEZaSTFKM3pVa19oalA0blBwRUZBdjFyV21MdGE1Nm1lV1FmNEF5akJDR2RFekdENzljS3lwdHdfMnJQcA?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
-      "id": "FL-3e36be27eaa4",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 14:06:23 GMT",
-      "ts": 1795269983000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海德令哈市发生5.6级地震，官方通报：初步排查未发现人员伤亡和房屋倒塌事件，目前一切正常，后续排查正在进行中 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVEhfQVdYUFRreXNOVGFwRXk1RnZyUVFFRFA5eWlZYWtKQ3NUSGpNOW5qdHhqdnJjZjF6MzhsUUlFOGlYQi1vZVA2UGhjbVZiNDNSRnJ2Z2tIVzdPLTBBTWJkd0xyNmN4QlR6QUtSMlptTGlCX09Jc1JHRXJjeHVLZXhVaXpMWG92ei1QTg?oc=5",
       "site": "Sohu",
       "siteUrl": "https://m.sohu.com"
     },
@@ -244,18 +220,6 @@
       "siteUrl": "https://www.cnr.cn"
     },
     {
-      "id": "FL-655b655062f5",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 13:28:05 GMT",
-      "ts": 1795267685000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海德令哈5.6级地震，亲历者：椅子晃动持续约20秒，茶卡盐湖有明显震感，官方通报暂无人员伤亡 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTkdmT2FYN293blNEZThJMUpuQ2luN0M2aFIzTzFWRzlhRWIzb0JUdjRtY0RzV1FhY3ZGb055bmZFdXJtTG81ME8xek5XMmdLaFE4WVd4Rkd5ZkRIU3E4bmtHb201MXVBSUlUSV9OMGJsVDFUUmdRU2tzSVo3cDZxOF9fWjk1cExDOGVDMw?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-1786b1f05e37",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 13:21:05 GMT",
@@ -290,6 +254,18 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41U2JRcVNoTnBPdWJibEw4b0xFMWJIMnA4X0s5QVdueWN3X2ZnODBTSFo1R1lSVGRHSUtmaGtVMHIxbFVFY1h1YXdPclEwcGV5TnFOZ3U4YWxtWEFqMWc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-c93ff6c337c1",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 12:46:00 GMT",
+      "ts": 1795265160000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海海西州德令哈市发生5.6级地震青海省消防救援总队集结响应 - 海报新闻",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tMjBVYXBsLWkzTEs3b19kVWczSkU3dXAtTEFUbHo5bXN0dXl2ZHQwWGg2WW1JTEloSkFiYlh5ZV9MVnNJZjFuRU9PYk4yODA?oc=5",
+      "site": "海报新闻",
+      "siteUrl": "https://hb.dzwww.com"
     },
     {
       "id": "FL-a92672d4dfc6",
@@ -436,18 +412,6 @@
       "siteUrl": "https://xinwen.bjd.com.cn"
     },
     {
-      "id": "FL-8cefcb4622f1",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 11:24:57 GMT",
-      "ts": 1795260297000,
-      "scope": "dom",
-      "type": "geo",
-      "title": "青海海西州德令哈市发生5.6级地震 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXZfTFhiRG5ERlc3MDhnS2tSNm92ekYwYlBpdnBsQ0wwVGlYRWx0NklxUlZXRWZiNG91TngwRVo4RUpEMGxUWjIxZ3psWlVMMmNLY05nZDRyd21WZVZMYWhKWWVpR0NPa0VKdi1jTHh3cWxidm1ZTk56VkY3YWJVTDNZZ0Fqbi1P?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
-    },
-    {
       "id": "FL-27e24883c4c4",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 11:24:00 GMT",
@@ -494,6 +458,30 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xd3dqT3R2ZU90T25tbWpxVWE5Y0ZDTG4tQlpsbVNlTEU5aEhNMGlrQTd0YkI1RFN2V3hwTGFEMjVIWndxaXJkUVpRQldPSWxsMmJfZGlmYTdEUlNnbGc?oc=5",
       "site": "京报网",
       "siteUrl": "https://news.bjd.com.cn"
+    },
+    {
+      "id": "FL-9a9dd21a130b",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 11:12:00 GMT",
+      "ts": 1795259520000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海海西州德令哈市发生5.6级地震 中国地震局启动四级应急响应 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1VFdPbXg2TzNObnBTZGxOM0d6Nkx4WjA2MkxKdDNXRlhGVEZubktsZEZHUWFhMVE3Vi1pc3QtRkNaUTM5NTZETnBiM29odkJtd25IMnA2a2hkWVpsOURHX0NBb2g?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
+    },
+    {
+      "id": "FL-99bf65f806af",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 11:12:00 GMT",
+      "ts": 1795259520000,
+      "scope": "dom",
+      "type": "geo",
+      "title": "青海海西州5.6級地震 - TDM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdG9YRWNNak80SXJ4cXNJRVNoeVV1S0J6RWFsN0dhZTAxeTZ4OTZ4WHNqYmxXV2lKczg1aUxrRGRfWm1ZcHpESjZiTVI0T1FvMWo0OENveElHNV9MNXdTbFFfR1VDN0pGMEVkYXFRYkhJN21RY25EMEdlWElHTzlWY0JpZw?oc=5",
+      "site": "TDM",
+      "siteUrl": "https://www.tdm.com.mo"
     },
     {
       "id": "FL-507fc59dd183",
@@ -628,16 +616,16 @@
       "siteUrl": "https://news.bjd.com.cn"
     },
     {
-      "id": "FL-52847ca0ca18",
+      "id": "FL-8d8311801ca5",
       "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 07:07:01 GMT",
-      "ts": 1795244821000,
-      "scope": "intl",
+      "dateISO": "Sat, 21 Nov 2026 07:00:00 GMT",
+      "ts": 1795244400000,
+      "scope": "dom",
       "type": "geo",
-      "title": "秘鲁发生地震 首都利马震感强烈 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdi1nVzdzR05Odm4tblZOc1Bib2FLSUNENmNxNnNGeTFuc2pLcXdDQ3JMZ0I5b05xRnlOV2VmNmczN3pEeEZ0MWZTLTV5OGJvMTFBc3lMQ3F3M0VPczhPa1ZQTWJiTlROYkRwcUN1bURYWTZlck1pNnFzeGp1VVk0aDA0ZTlaZTFy?oc=5",
-      "site": "Sohu",
-      "siteUrl": "https://m.sohu.com"
+      "title": "青海德令哈5.6级地震监控画面：顾客跑出餐厅，店主称人站不住 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iLWZCUHVTOGpPbWVRNi1ibFhWOG1fZWtaU0p3US1MS3J4dXNXN3dWcHdXUW9xckZVeUdSb0IxSUtQTUYwemYxLTVrdTR2UzZFbkVBX0ljeTRJckFMYnVuWEVseDQ?oc=5",
+      "site": "新京报",
+      "siteUrl": "https://www.bjnews.com.cn"
     },
     {
       "id": "FL-cfe5ed8243b8",
@@ -676,6 +664,18 @@
       "siteUrl": "https://www.thepaper.cn"
     },
     {
+      "id": "FL-e9bc75d2336b",
+      "date": "2026-11-21",
+      "dateISO": "Sat, 21 Nov 2026 01:02:00 GMT",
+      "ts": 1795222920000,
+      "scope": "intl",
+      "type": "geo",
+      "title": "秘鲁发生地震 首都利马震感强烈 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SU3gtVHpLbm8xSWV6UDJKbER4QVZ4ZFJWMVRROU5MVHNHMDRzeFJvRy1QcUxZM2NWVW51ZTRhT0t5RUpSWTQ1c3oxaHFiSmM?oc=5",
+      "site": "新蓝网",
+      "siteUrl": "https://www.cztv.com"
+    },
+    {
       "id": "FL-a13f0bacbddb",
       "date": "2026-11-21",
       "dateISO": "Sat, 21 Nov 2026 00:50:07 GMT",
@@ -686,18 +686,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GYXI3ZE1FaXB2SDh0QTNtaXlhS1lXS1VGZmxxTkxhZGlCR040bFZOMXZRZUVrdVBUeGhJWEVLLXNVcW9aN05tZHU4eThMOHRXNWYxWUQyaW4zaWo3N0ZsWDE2T213bEpWZW9TVHQzd25weEk3bFJuMFE2WUZoU0U?oc=5",
       "site": "新华网",
       "siteUrl": "https://www.news.cn"
-    },
-    {
-      "id": "FL-a47160c778cb",
-      "date": "2026-11-21",
-      "dateISO": "Sat, 21 Nov 2026 00:46:00 GMT",
-      "ts": 1795221960000,
-      "scope": "intl",
-      "type": "geo",
-      "title": "秘鲁发生6.7级地震，首都利马等地震感强烈-中国吉林网 - 第一新闻",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByN2F6Z3FsX2hUZWgzQmYzeXU2cnczUXk5ci03WG5oMXFWTHBoVFpyZ2dIejdFZUxQQ2N4eE9oOHdadFJuQmFvR3BJcy13R1QyUlFZR2ZPNWI5UlhX?oc=5",
-      "site": "第一新闻",
-      "siteUrl": "https://news.cnjiwang.com"
     },
     {
       "id": "FL-e16afc9e63a9",
@@ -712,17 +700,28 @@
       "siteUrl": "https://www.chinanews.com.cn"
     },
     {
-      "id": "FL-EV-f283a898090a",
-      "date": "2026-11-06",
-      "dateISO": "Fri, 06 Nov 2026 10:35:03 GMT",
-      "ts": 1793961303000,
+      "id": "FL-7b862a9e13a6",
+      "date": "2026-10-10",
+      "dateISO": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "ts": 1791615600000,
       "scope": "dom",
       "type": "geo",
-      "title": "西藏吉隆举行泥石流灾害遇难者哀悼活动 全体人员脱帽肃立 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTTNtX0lZMXBVS0NIUWlCbm1XUGY3RFpQOGpEYUFMU3hTZ0cyUFlXNmM3Z05QSGZVVlJCZlgxM3BXNHV5N2dVY2k3ZUMtX0djVVBCTWEwdlNnRzNGMERqamtB?oc=5",
-      "site": "新京报",
-      "siteUrl": "https://m.bjnews.com.cn",
-      "related": 22
+      "title": "“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GM0N2dGs3a1VvTVZaRkROUnppUmxZdF9kRTYydXQtU01Mc1BrU1pWeU9fN1BGYWZZdEF6N3hCNVRlcXdNTmhKQUdNLUtNNVJYRWl3UDhhUlQ1QXpibHdwSkc3UXBtY3PSAWxBVV95cUxPd1dhQXF4QnV0MWhCYlJHQTJBejI5YlpkNjFTSUJLc1ZNX24zTzhuWkIzMDlaMElESGdxU2VEMDY5NjVPdXVNTlVxSjlpZlRKY1gtNUpCTkczMGQ3SVF5eFRIRnl6bDdOVjU5Uk0?oc=5",
+      "site": "BBC",
+      "siteUrl": "https://www.bbc.com"
+    },
+    {
+      "id": "FL-40c2815b562d",
+      "date": "2026-11-20",
+      "dateISO": "Fri, 20 Nov 2026 05:01:00 GMT",
+      "ts": 1795150860000,
+      "scope": "intl",
+      "type": "other",
+      "title": "泰国审计署大楼倒塌案再有进展 中铁经理被判入狱三年 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13VGl4MUE5RlZYZTA3aVJvQ21IZ0l0VXAwYWZYYkpoWWY2elFlMEUtLXpfMGEyNmxQZnFIOFJrRFNka2RZZHVkS0NGOTZxbjMxWlp0ZTQxWmFva0VQRUJFSHVqOWd4WHJuWFE?oc=5",
+      "site": "财新",
+      "siteUrl": "https://international.caixin.com"
     }
   ]
 }
